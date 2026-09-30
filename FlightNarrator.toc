@@ -1,14 +1,9 @@
-## Interface: 11507
-## Interface-Classic: 11507
-## Interface-BCC: 20505
-## Interface-Wrath: 30403
-## Interface-Cata: 40402
-## Interface-Mists: 50500
+## Interface: 11509
 ## Title: Flight Narrator
-## Notes: Speaks a short line when you board a flight path as a passenger.
+## Notes: Reads a short line out loud while you travel. Current build is the narrator (Text to Speech) test: /fn
 ## Author: xavbl
-## Version: 1.0.0
+## Version: 0.2.0
+## DefaultState: enabled
 ## SavedVariables: FlightNarratorDB
-## OptionalDeps: Blizzard_TextToSpeech
 
 FlightNarrator.lua
