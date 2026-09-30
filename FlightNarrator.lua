@@ -1,5 +1,3 @@
-local ADDON_NAME = "FlightNarrator"
-
 local TAXI_BOARD_WINDOW_SECONDS = 1
 local DEFAULT_FLIGHT_TEXT = "You are now in flight. Enjoy the view."
 local CHAT_COMMAND = "flightnarrator"
@@ -51,15 +49,12 @@ hooksecurefunc("TakeTaxiNode", function()
 end)
 
 local eventFrame = CreateFrame("Frame")
-eventFrame:RegisterEvent("ADDON_LOADED")
+eventFrame:RegisterEvent("PLAYER_LOGIN")
 eventFrame:RegisterEvent("PLAYER_CONTROL_LOST")
 eventFrame:RegisterEvent("PLAYER_CONTROL_GAINED")
 
-eventFrame:SetScript("OnEvent", function(_, event, arg1)
-	if event == "ADDON_LOADED" then
-		if arg1 ~= ADDON_NAME then
-			return
-		end
+eventFrame:SetScript("OnEvent", function(_, event)
+	if event == "PLAYER_LOGIN" then
 		if type(FlightNarratorDB) ~= "table" then
 			FlightNarratorDB = {}
 		end
