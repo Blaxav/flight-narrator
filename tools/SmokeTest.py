@@ -232,14 +232,19 @@ check("falls back to the client's own speech",
 check("says so in chat",
       any("speaking with the client's own helper" in l for l in lines), str(lines))
 
-print("\nA locale with no clip folder (deDE)")
+print("\nA client in another language (deDE): the library language is the fallback")
 other = build(clips_exist=True, locale="deDE")
 lines, recorded = run(other, "")
 show(lines)
-check("probes the deDE folder first",
+check("probes the client's own folder first",
       any("voice\\deDE\\test" in (c["path"] or "") for c in recorded), str(recorded))
-check("then speaks with the client's voice",
-      any(c["call"] == "helper" for c in recorded), str(recorded))
+check("falls through to the language the library is written in",
+      any("voice\\frFR\\test.mp3" in (c["path"] or "") for c in recorded), str(recorded))
+check("does not synthesise when the fallback clip exists",
+      not any(c["call"] == "helper" for c in recorded), str(recorded))
+lines, recorded = run(other, "diag")
+check("diag reports both folders, in the order it will read them",
+      any("voice\\deDE\\ or voice\\frFR\\" in l for l in lines), str(lines))
 
 print("\n%d passed, %d failed" % (len(PASS), len(FAIL)))
 for label in FAIL:

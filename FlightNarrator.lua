@@ -429,17 +429,42 @@ local CLIP_EXTENSIONS = { "ogg", "mp3" }
 local CLIP_CHANNEL = "Dialog"
 local clipState = {}
 
-local function GetClipFolder()
+-- The language the shipped library is written in. The client's own locale is
+-- tried first, so a French client hears the French clips; a client in any other
+-- language falls through to this rather than to silence, because the narration
+-- language is a decision of the addon rather than of the player's client.
+-- Render another language into its own folder and point this at it to move.
+local NARRATION_LANGUAGE = "frFR"
+
+local function GetClipFolders()
+	local folders = {}
 	local locale = GetLocale and GetLocale() or nil
 	if type(locale) == "string" and locale ~= "" then
-		return locale
+		folders[#folders + 1] = locale
 	end
-	return "en"
+	if NARRATION_LANGUAGE ~= "" and NARRATION_LANGUAGE ~= locale then
+		folders[#folders + 1] = NARRATION_LANGUAGE
+	end
+	return folders
+end
+
+local function DescribeClipFolders()
+	local folders = {}
+	for _, folder in ipairs(GetClipFolders()) do
+		folders[#folders + 1] = "voice\\" .. folder .. "\\"
+	end
+	return table.concat(folders, " or ")
+end
+
+-- "Interface\AddOns\FlightNarrator\voice\frFR\test.mp3" -> "voice\frFR\test.mp3"
+local function ShortClipPath(path)
+	return (path:gsub("^Interface\\AddOns\\FlightNarrator\\", ""))
 end
 
 -- Looking for a clip and playing it are the same call: PlaySoundFile reports
--- whether it will play, so the first extension that exists is also the one that
--- sounds. The answer is cached, so each key is looked for once per session.
+-- whether it will play, so the first folder and extension that exist are also
+-- the ones that sound. The answer is cached, so each key is looked for once per
+-- session. Returns the path it played, or false when there is no clip at all.
 local function PlayShippedClip(key)
 	if type(key) ~= "string" or key == "" then
 		return false
@@ -451,15 +476,17 @@ local function PlayShippedClip(key)
 	end
 	if type(cached) == "string" then
 		pcall(PlaySoundFile, cached, CLIP_CHANNEL)
-		return true
+		return cached
 	end
 
-	for _, extension in ipairs(CLIP_EXTENSIONS) do
-		local candidate = CLIP_ROOT .. GetClipFolder() .. "\\" .. key .. "." .. extension
-		local ok, willPlay = pcall(PlaySoundFile, candidate, CLIP_CHANNEL)
-		if ok and willPlay then
-			clipState[key] = candidate
-			return true
+	for _, folder in ipairs(GetClipFolders()) do
+		for _, extension in ipairs(CLIP_EXTENSIONS) do
+			local candidate = CLIP_ROOT .. folder .. "\\" .. key .. "." .. extension
+			local ok, willPlay = pcall(PlaySoundFile, candidate, CLIP_CHANNEL)
+			if ok and willPlay then
+				clipState[key] = candidate
+				return candidate
+			end
 		end
 	end
 
@@ -470,8 +497,9 @@ end
 -- The narrator's single entry point: the shipped clip when there is one, the
 -- client's own Text to Speech when there is not.
 local function Narrate(key, text)
-	if PlayShippedClip(key) then
-		Print("playing the shipped clip voice\\" .. GetClipFolder() .. "\\" .. key .. " (no Text to Speech involved).")
+	local played = PlayShippedClip(key)
+	if played then
+		Print("playing the shipped clip " .. ShortClipPath(played) .. " (no Text to Speech involved).")
 		return true
 	end
 	return Speak(text or key)
@@ -481,14 +509,15 @@ local function PlayClipCommand(key)
 	key = strtrim(key or "")
 	if key == "" then
 		Print("usage: /fn clip <key>, for example /fn clip test")
-		Print("  clips live in this addon's voice\\" .. GetClipFolder() .. "\\ folder, as <key>.ogg or <key>.mp3")
+		Print("  clips live in " .. DescribeClipFolders() .. ", as <key>.ogg or <key>.mp3")
 		return
 	end
-	if PlayShippedClip(key) then
-		Print("playing the shipped clip voice\\" .. GetClipFolder() .. "\\" .. key .. ".")
+	local played = PlayShippedClip(key)
+	if played then
+		Print("playing the shipped clip " .. ShortClipPath(played) .. ".")
 		return
 	end
-	Print("there is no clip called " .. key .. " in voice\\" .. GetClipFolder() .. "\\.")
+	Print("there is no clip called " .. key .. " in " .. DescribeClipFolders() .. ".")
 	Print("  render one with tools\\Render-VoiceClips.ps1, then /reload: the client only sees files that existed when it loaded.")
 end
 
@@ -596,7 +625,7 @@ local function PrintDiagnostics()
 		.. " (used by the client for system messages: " .. DescribeFlag(GetAlternateSystemVoiceFlag()) .. ")")
 	Print("  rate " .. tostring(GetSpeechRate()) .. ", volume " .. tostring(GetSpeechVolume()))
 	Print("  /fn voices lists every voice this client can use")
-	Print("  locale: " .. tostring(GetLocale and GetLocale() or "unknown") .. " (shipped clips are read from voice\\" .. GetClipFolder() .. "\\)")
+	Print("  locale: " .. tostring(GetLocale and GetLocale() or "unknown") .. ", clips are read from " .. DescribeClipFolders())
 
 	local voices = GetInstalledVoices()
 	if voices then
