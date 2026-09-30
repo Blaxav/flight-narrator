@@ -530,30 +530,60 @@ local function PlayClipCommand(key)
 	Print("  render one with tools\\Render-VoiceClips.ps1, then /reload: the client only sees files that existed when it loaded.")
 end
 
--- Flight detection. Two signals, each covering what the other cannot:
+-- Flight detection. The one question worth asking is "is the player on a flight
+-- path?", and the client's own answer to it is UnitOnTaxi, which era's interface
+-- uses the same way (VehicleLeaveButton, PaperDollFrame, UIParent). Asking for
+-- the state instead of waiting for an event is not a preference: era has no
+-- event that a taxi lifts off on. PLAYER_CONTROL_LOST looks like one and is not
+-- - the era interface never registers it, only the later flavours do - so a
+-- flight that waited for it would never be announced. That is how 0.3.2 failed
+-- in game, having registered the event successfully and then waited forever.
 --
---   * TakeTaxiNode is the click on the flight master's map, and the only one of
---     the two that can name where the player is going. It is hooked, so the
---     vanilla call is left alone and another addon hooking it still sees it.
---     The click on its own is not the trigger: a taxi that is refused costs no
---     flight, and announcing one would be a lie.
---   * PLAYER_CONTROL_LOST is the trigger, and UnitOnTaxi is what separates a
---     flight from a cinematic or a summon, which also take control away and
---     must stay silent.
+-- So every moment that could mean a flight is starting opens a short watch, and
+-- the watch keeps asking the taxi state until it has an answer:
 --
--- PLAYER_CONTROL_GAINED is where the flight ends, which re-arms the narrator. A
--- multi-leg route stops between legs without ever handing control back, so it is
--- announced once, at the start, which is what a commentary wants.
+--   * TakeTaxiNode, hooked with hooksecurefunc so the vanilla call is left
+--     alone, is the click on the flight master's map and the only one of these
+--     that can name where the player is going. A click is a question, not an
+--     answer - a taxi that is refused costs no flight - so it opens a watch
+--     rather than announcing on the spot.
+--   * TAXIMAP_CLOSED is the map closing as the taxi is taken. UNIT_FLAGS is
+--     there because the taxi state is a unit flag on some clients, and
+--     PLAYER_ENTERING_WORLD for the loading screen a long flight crosses (which
+--     is also how a /reload mid-flight is noticed). PLAYER_CONTROL_LOST is
+--     watched too, for the sake of a client that does fire it, and is never
+--     required.
+--   * The watch polls for TAKEOFF_WATCH_SECONDS, every TAKEOFF_POLL_SECONDS: a
+--     flight turns the flag on within a tick or two of the click, and a refused
+--     taxi leaves the player off the taxi and announces nothing.
+--
+-- The state also separates a flight from a cinematic, a summon or a fear, all of
+-- which take control away and must stay silent. Being off the taxi is where the
+-- flight ends (PLAYER_CONTROL_GAINED asks the same question), and a route that
+-- spans several legs is announced once, at the start, because the taxi never
+-- lets go between legs.
 --
 -- Destination lines are the library's next job. Until they exist every flight
 -- speaks the one demo key there is, and chat says where the flight is going, so
 -- that the detection can be seen working before the writing catches up.
 local FLIGHT_DEMO_KEY = "elwynn"
+local TAKEOFF_WATCH_SECONDS = 20
+local TAKEOFF_POLL_SECONDS = 0.5
 
 local flightAnnounced = false
 local taxiDestination
 local taxiHookInstalled = false
-local watchingControlLost = false
+local watchUntil = 0
+local tracing = false
+
+-- Events that can mean a flight is starting, and the event that ends one, with
+-- the client's answer to the registration kept alongside. PLAYER_CONTROL_LOST is
+-- in the list for the sake of any client that fires it, and a client that
+-- refuses the registration says so in /fn diag instead of the absence being
+-- silent, which is what 0.3.2 got wrong.
+local FLIGHT_START_EVENTS = { "TAXIMAP_CLOSED", "UNIT_FLAGS", "PLAYER_ENTERING_WORLD", "PLAYER_CONTROL_LOST" }
+local FLIGHT_END_EVENT = "PLAYER_CONTROL_GAINED"
+local flightSignals = {}
 
 -- A line for the client's Text to Speech to read when the key has no clip: the
 -- fallback, not the narration. Written in the library's language, like every
@@ -593,27 +623,128 @@ local function NameTaxiNode(slot)
 	return nil
 end
 
+-- Whether the player is on a flight path right now. The call is vanilla, so it
+-- is asked without ceremony; a client that does not answer (none known) falls
+-- back to "a taxi was just clicked", which is the best evidence there is then.
+local function OnFlightNow()
+	if UnitOnTaxi then
+		local ok, onTaxi = pcall(UnitOnTaxi, "player")
+		if ok then
+			return onTaxi and true or false
+		end
+	end
+	return taxiDestination ~= nil
+end
+
+-- /fn trace prints the flight watch as it happens, which is how a flight that
+-- does not announce itself gets diagnosed in game.
+local function Trace(what)
+	if not tracing then
+		return
+	end
+	Print("  [watch] " .. what .. ": " .. (OnFlightNow() and "on a taxi" or "off the taxi")
+		.. ", destination " .. (taxiDestination or "none")
+		.. ", announced " .. (flightAnnounced and "yes" or "no"))
+end
+
+local function HasPolling()
+	return type(C_Timer) == "table" and type(C_Timer.After) == "function"
+end
+
+-- The single point that decides whether a flight is happening, and the only
+-- caller of AnnounceFlight for a real flight. Returns true when the player is on
+-- a taxi, whether or not this flight was announced before.
+local function CheckFlight(why)
+	if OnFlightNow() then
+		if not flightAnnounced then
+			Trace(why .. " found the player on a taxi")
+			AnnounceFlight(taxiDestination)
+		end
+		return true
+	end
+	if flightAnnounced then
+		-- Off the taxi: the flight that was announced is over, and the next one
+		-- is announced when it starts.
+		Trace(why .. " found the flight over")
+		flightAnnounced = false
+		taxiDestination = nil
+	end
+	return false
+end
+
+-- Keeps asking while the watch is open. A poll that finds the player still on
+-- the ground costs nothing: only a flight that ended clears the destination.
+local function WatchForTakeoff(why)
+	if CheckFlight(why) then
+		return true
+	end
+	if flightAnnounced or GetTime() >= watchUntil then
+		if why == "poll" then
+			-- The watch is over. A destination that never turned into a flight
+			-- goes with it: a later taxi that this addon did not see clicked must
+			-- not be announced under a name that belongs to another one.
+			Trace("the watch closed with no flight")
+			taxiDestination = nil
+		end
+		return false
+	end
+	if not HasPolling() then
+		-- No timers on this client: the next signal brings the next look, and a
+		-- click with no signal behind it announces directly.
+		return false
+	end
+	return pcall(C_Timer.After, TAKEOFF_POLL_SECONDS, function()
+		WatchForTakeoff("poll")
+	end)
+end
+
+-- A moment that may mean a flight is starting. None of these is trusted on its
+-- own: each one opens the watch, and the taxi state is what answers - in either
+-- direction, because a signal that finds the player back on the ground is how a
+-- flight that ended is noticed on a client that fires nothing at the end of one.
+local function NoteFlightSignal(why)
+	Trace(why .. " arrived")
+	watchUntil = GetTime() + TAKEOFF_WATCH_SECONDS
+	WatchForTakeoff(why)
+end
+
+local function AnyFlightSignalWatched()
+	for _, answered in pairs(flightSignals) do
+		if answered then
+			return true
+		end
+	end
+	return false
+end
+
+-- The click on the flight master's map: the only signal that can name where the
+-- player is going, and a question rather than an answer, because a taxi can be
+-- refused.
+local function OnTaxiClicked(slot)
+	flightAnnounced = false
+	taxiDestination = NameTaxiNode(slot)
+	Trace("the taxi map was clicked")
+	watchUntil = GetTime() + TAKEOFF_WATCH_SECONDS
+	if not HasPolling() and not AnyFlightSignalWatched() then
+		-- Nothing on this client can answer later, so the click is all there is
+		-- to go on.
+		AnnounceFlight(taxiDestination)
+		return
+	end
+	WatchForTakeoff("taxi click")
+end
+
 -- Hooked rather than replaced: hooksecurefunc leaves TakeTaxiNode itself alone.
 -- The pcall is not decoration. A client can refuse a hook, and without it the
 -- error would escape from the login handler and the flag would claim a hook that
--- is not there. What is lost when the hook is refused is the destination's name,
--- never the announcement: that comes from PLAYER_CONTROL_LOST, which needs no
--- hook at all.
+-- is not there. What is lost when the hook is refused is the click and the
+-- destination's name, never the announcement: the taxi state is asked for
+-- anyway, and the other signals open the same watch.
 local function InstallTaxiHook()
 	if taxiHookInstalled or not hooksecurefunc or type(TakeTaxiNode) ~= "function" then
 		return false
 	end
-	taxiHookInstalled = pcall(hooksecurefunc, "TakeTaxiNode", function(slot)
-		-- A click always starts a new flight, so whatever the previous one left
-		-- behind stops applying here.
-		flightAnnounced = false
-		taxiDestination = NameTaxiNode(slot)
-		-- PLAYER_CONTROL_LOST is what normally announces the flight. On a client
-		-- with no such event there is nothing else to go on, so the click does.
-		if not watchingControlLost then
-			AnnounceFlight(taxiDestination)
-		end
-	end) and true or false
+	taxiHookInstalled = pcall(hooksecurefunc, "TakeTaxiNode", OnTaxiClicked) and true or false
 	return taxiHookInstalled
 end
 
@@ -669,36 +800,36 @@ WatchEvent("PLAYER_LOGIN")
 WatchEvent("VOICE_CHAT_TTS_PLAYBACK_STARTED")
 WatchEvent("VOICE_CHAT_TTS_PLAYBACK_FINISHED")
 WatchEvent("VOICE_CHAT_TTS_PLAYBACK_FAILED")
-WatchEvent("PLAYER_CONTROL_GAINED")
-watchingControlLost = WatchEvent("PLAYER_CONTROL_LOST")
+for _, signal in ipairs(FLIGHT_START_EVENTS) do
+	flightSignals[signal] = WatchEvent(signal)
+end
+flightSignals[FLIGHT_END_EVENT] = WatchEvent(FLIGHT_END_EVENT)
 
 eventFrame:SetScript("OnEvent", function(_, event, ...)
 	if event == "PLAYER_LOGIN" then
 		InstallTaxiHook()
-		Print("loaded (classic narrator). /fn to hear it, /fn flight for the flight trigger, /fn voices to pick a voice, /fn diag for details.")
+		Print("loaded (classic narrator). /fn to hear it, /fn flight for the flight trigger, /fn trace to watch for the next one, /fn voices to pick a voice, /fn diag for details.")
 		Print("flights are narrated from now on: /fn flight tries the trigger without leaving the ground.")
 		return
 	end
 
-	if event == "PLAYER_CONTROL_LOST" then
-		-- A flight keeps the player on a taxi; a cinematic, a summon or a
-		-- scripted sequence does not, and those stay silent.
-		local onFlight
-		if UnitOnTaxi then
-			onFlight = UnitOnTaxi("player") and true or false
-		else
-			onFlight = taxiDestination ~= nil
-		end
-		if onFlight then
-			AnnounceFlight(taxiDestination)
+	if flightSignals[event] and event ~= FLIGHT_END_EVENT then
+		-- A flight may be starting: the taxi map closing as the taxi is taken, a
+		-- unit flag, the loading screen a long flight crosses, or a loss of
+		-- control on a client that announces one. The taxi state is what
+		-- answers; UNIT_FLAGS is filtered to the player because it fires for
+		-- every unit.
+		local unit = ...
+		if event ~= "UNIT_FLAGS" or unit == "player" then
+			NoteFlightSignal(event)
 		end
 		return
 	end
 
-	if event == "PLAYER_CONTROL_GAINED" then
-		-- The flight is over: forget it, so that the next one is announced.
-		taxiDestination = nil
-		flightAnnounced = false
+	if event == FLIGHT_END_EVENT then
+		-- Control is back. Off the taxi, the flight is over and the next one can
+		-- be announced; a flight that is still going is not touched.
+		CheckFlight(event)
 		return
 	end
 
@@ -748,6 +879,19 @@ local function DescribeRateRange()
 	return "its own range"
 end
 
+-- The flight events this client answered, for /fn diag. A refused registration is
+-- worth showing rather than hiding: 0.3.2 rested the whole trigger on
+-- PLAYER_CONTROL_LOST, and a client that never fires it is exactly how a flight
+-- went unannounced.
+local function DescribeFlightSignals()
+	local parts = {}
+	for _, name in ipairs(FLIGHT_START_EVENTS) do
+		parts[#parts + 1] = name .. " " .. FormatFlag(flightSignals[name])
+	end
+	parts[#parts + 1] = FLIGHT_END_EVENT .. " " .. FormatFlag(flightSignals[FLIGHT_END_EVENT])
+	return table.concat(parts, ", ")
+end
+
 local function PrintDiagnostics()
 	local version, build, _, interfaceVersion = GetBuildInfo()
 	local cvarValue = GetCVar and GetCVar("textToSpeech")
@@ -774,8 +918,15 @@ local function PrintDiagnostics()
 	Print("  rate " .. tostring(GetSpeechRate()) .. " of " .. DescribeRateRange() .. ", volume " .. tostring(GetSpeechVolume()))
 	Print("  ^ the character's own Text to Speech settings, read and never written:")
 	Print("    /tts rate <n> is the client's own way to slow the fallback voice; shipped clips carry their own pace")
-	Print("  flight detection: " .. FormatFlag(watchingControlLost) .. " (PLAYER_CONTROL_LOST + UnitOnTaxi), taxi hook "
-		.. FormatFlag(taxiHookInstalled))
+	Print("  flight detection: the taxi state itself (UnitOnTaxi " .. FormatFlag(UnitOnTaxi) .. "), asked on the taxi click")
+	Print("    (TakeTaxiNode hooked: " .. FormatFlag(taxiHookInstalled) .. ") and on any of these events:")
+	Print("    " .. DescribeFlightSignals())
+	Print("    a watch then asks the taxi state every " .. tostring(TAKEOFF_POLL_SECONDS) .. "s for "
+		.. tostring(TAKEOFF_WATCH_SECONDS) .. "s, because no event says that a taxi lifted off")
+	Print("  taxi hook " .. FormatFlag(taxiHookInstalled) .. " (TakeTaxiNode is a function here: "
+		.. FormatFlag(type(TakeTaxiNode) == "function") .. ")")
+	Print("  on a flight right now: " .. FormatFlag(OnFlightNow()))
+	Print("  /fn trace " .. (tracing and "is on: it prints the flight watch as it happens" or "prints the flight watch as a flight happens"))
 	Print("  every flight speaks the demo key '" .. FLIGHT_DEMO_KEY .. "' until the library names destinations")
 	Print("  /fn voices lists every voice this client can use")
 	Print("  locale: " .. tostring(GetLocale and GetLocale() or "unknown") .. ", clips are read from " .. DescribeClipFolders())
@@ -810,6 +961,13 @@ SlashCmdList.FLIGHTNARRATOR = function(message)
 
 	if command == "diag" then
 		PrintDiagnostics()
+		return
+	end
+
+	if command == "trace" then
+		tracing = not tracing
+		Print("flight trace " .. (tracing and "on" or "off")
+			.. (tracing and ": take a flight and every [watch] line says what the client did." or "."))
 		return
 	end
 

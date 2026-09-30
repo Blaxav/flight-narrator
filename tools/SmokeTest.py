@@ -24,8 +24,31 @@ DEFAULT_CHAT_FRAME = { AddMessage = function(self, m) table.insert(CHAT, m) end 
 
 function GetBuildInfo() return "1.15.9", "61234", "2026-01-01", 11509 end
 function GetCVar(name) return "1" end
-function GetTime() return 100 end
 function GetLocale() return LOCALE end
+
+-- The test's clock, and the timers the addon's takeoff watch polls with:
+-- advance() in Python moves NOW and runs whatever came due, which is how a
+-- flight that takes a moment to start is exercised.
+NOW = 100
+function GetTime() return NOW end
+TIMERS = {}
+C_Timer = {}
+function C_Timer.After(seconds, fn) table.insert(TIMERS, { due = NOW + seconds, fn = fn }) end
+function RunDueTimers()
+  local ran = 0
+  local i = 1
+  while i <= #TIMERS do
+    local timer = TIMERS[i]
+    if timer.due <= NOW then
+      table.remove(TIMERS, i)
+      ran = ran + 1
+      timer.fn()
+    else
+      i = i + 1
+    end
+  end
+  return ran
+end
 
 -- Flight detection: the taxi APIs and the taxi state. ON_TAXI is what the test
 -- moves around; UnitOnTaxi is what separates a flight from a cinematic.
@@ -168,7 +191,7 @@ def chat(runtime):
 
 
 def reset(runtime):
-    runtime.execute("CHAT = {}\nCALLS = {}")
+    runtime.execute("CHAT = {}\nCALLS = {}\nNOW = 100\nTIMERS = {}")
 
 
 def run(runtime, command):
@@ -181,6 +204,30 @@ def fire(runtime, event, *args):
     reset(runtime)
     runtime.globals().FireEvent(event, *args)
     return chat(runtime), read(runtime, "CALLS")
+
+
+def advance(runtime, seconds, step=0.5):
+    """Move the mock clock on, running the addon's poll callbacks as they come
+    due: half a second is one poll of the takeoff watch, so a flight that takes
+    a moment to start is a second or two of this."""
+    globals_ = runtime.globals()
+    moved = 0.0
+    while moved < seconds - 1e-9:
+        globals_.NOW = float(globals_.NOW) + step
+        moved += step
+        globals_.RunDueTimers()
+
+
+def pending_timers(runtime):
+    return int(runtime.execute("return #TIMERS"))
+
+
+def stand_on_the_ground(runtime):
+    """End whatever flight the addon thinks is happening: back on the ground,
+    with a signal that asks the taxi state. Scenarios that each start a flight
+    begin with this, the way a player lands before flying again."""
+    runtime.globals().ON_TAXI = False
+    runtime.globals().FireEvent("TAXIMAP_CLOSED")
 
 
 def show(lines):
@@ -320,44 +367,109 @@ show(lines)
 check("names the destination in chat",
       any("a flight begins, to Stormwind City." in l for l in lines), str(lines))
 
-print("\nA real taxi: TakeTaxiNode(1), then PLAYER_CONTROL_LOST   (on a taxi)")
+print("\nA real taxi on era: the click, then the taxi state a moment later")
+print("  (0.3.2 waited for PLAYER_CONTROL_LOST here, which era never fires)")
 reset(lua)
-lua.globals().ON_TAXI = True
+lua.globals().ON_TAXI = False
 lua.globals().TakeTaxiNode(1)
-lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
+show(chat(lua))
+check("does not announce on the click alone, with the player still on the ground",
+      not any("a flight begins" in l for l in chat(lua)), str(chat(lua)))
+lua.globals().ON_TAXI = True
+advance(lua, 1.0)
+lines, recorded = chat(lua), read(lua, "CALLS")
 show(lines)
-check("announces the flight the click named",
+check("announces the flight the click named, once the taxi state arrives",
       any("a flight begins, to Stormwind City." in l for l in lines), str(lines))
 check("plays the clip once",
       len([c for c in recorded if (c["path"] or "").endswith("elwynn.mp3")]) == 1, str(recorded))
 
-print("\nPLAYER_CONTROL_LOST again   (the same flight)")
-lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
-show(lines)
+print("\nThe same flight, a few seconds later   (the watch stops asking)")
+before = len(chat(lua))
+advance(lua, 2.0)
+lines = chat(lua)[before:]
 check("stays quiet inside the same flight",
       not any("a flight begins" in l for l in lines), str(lines))
 
-print("\nPLAYER_CONTROL_LOST with no taxi under you   (a cinematic)")
-fire(lua, "PLAYER_CONTROL_GAINED")
+print("\nLanding, on a client that fires nothing at the end of a flight")
+lua.globals().ON_TAXI = False
+lines, recorded = fire(lua, "TAXIMAP_CLOSED")
+show(lines)
+check("says nothing about the flight that is over",
+      not any("a flight begins" in l for l in lines), str(lines))
+
+print("\nA taxi that is refused: the click, and no flight")
+reset(lua)
+lua.globals().ON_TAXI = False
+lua.globals().TakeTaxiNode(2)
+advance(lua, 25.0)
+lines = chat(lua)
+show(lines)
+check("never announces", not any("a flight begins" in l for l in lines), str(lines))
+check("stops asking once the watch is over", pending_timers(lua) == 0, str(pending_timers(lua)))
+
+print("\nThe taxi map closing, with no click seen   (a client without the hook)")
+reset(lua)
+stand_on_the_ground(lua)
+lua.globals().ON_TAXI = True
+lines, recorded = fire(lua, "TAXIMAP_CLOSED")
+show(lines)
+check("announces the flight anyway",
+      any("a flight begins." in l for l in lines), str(lines))
+
+print("\nUNIT_FLAGS for the player is a signal; for anyone else it is not")
+reset(lua)
+stand_on_the_ground(lua)
+lua.globals().ON_TAXI = True
+lines, recorded = fire(lua, "UNIT_FLAGS", "party1")
+show(lines)
+check("ignores another unit's flags",
+      not any("a flight begins" in l for l in lines), str(lines))
+lines, recorded = fire(lua, "UNIT_FLAGS", "player")
+show(lines)
+check("announces on the player's flags",
+      any("a flight begins." in l for l in lines), str(lines))
+
+print("\nA /reload in mid-air   (PLAYER_ENTERING_WORLD on a taxi)")
+reset(lua)
+stand_on_the_ground(lua)
+lua.globals().ON_TAXI = True
+lines, recorded = fire(lua, "PLAYER_ENTERING_WORLD")
+show(lines)
+check("notices the flight it is already in",
+      any("a flight begins." in l for l in lines), str(lines))
+
+print("\nA cinematic: control lost, nobody on a taxi")
+reset(lua)
 lua.globals().ON_TAXI = False
 lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
 show(lines)
 check("stays quiet when it is not a flight",
       not any("a flight begins" in l for l in lines), str(lines))
+advance(lua, 25.0)
+check("keeps quiet for as long as the watch lasts",
+      not any("a flight begins" in l for l in chat(lua)), str(chat(lua)))
+check("and then stops asking", pending_timers(lua) == 0, str(pending_timers(lua)))
 
-print("\nPLAYER_CONTROL_LOST with no taxi click   (a scripted taxi)")
+print("\nA client that does fire PLAYER_CONTROL_LOST for a taxi")
+reset(lua)
 lua.globals().ON_TAXI = True
 lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
 show(lines)
-check("announces it without a destination",
-      any("a flight begins." in l for l in lines), str(lines))
+check("announces the flight", any("a flight begins." in l for l in lines), str(lines))
 
-print("\nAfter landing, the next flight is announced again")
-fire(lua, "PLAYER_CONTROL_GAINED")
-lua.globals().ON_TAXI = True
-lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
+print("\n/fn trace   (what a flight looks like when it does not announce itself)")
+lines, recorded = run(lua, "trace")
 show(lines)
-check("announces again", any("a flight begins." in l for l in lines), str(lines))
+check("says the watch is on", any("flight trace on" in l for l in lines), str(lines))
+lua.globals().ON_TAXI = False
+lua.globals().TakeTaxiNode(1)
+lines = chat(lua)
+show(lines)
+check("prints the click and the taxi state it found",
+      any("[watch]" in l and "off the taxi" in l for l in lines), str(lines))
+check("and the destination the click named",
+      any("Stormwind City" in l for l in lines), str(lines))
 
 print("\nA client that refuses the taxi hook")
 refusing = build(clips_exist=True, locale="frFR", hook_refused=True)
@@ -368,12 +480,12 @@ show(lines)
 check("still logs in and says so", any("loaded (classic narrator)" in l for l in lines), str(lines))
 lines, recorded = run(refusing, "diag")
 check("admits the hook is not installed", any("taxi hook no" in l for l in lines), str(lines))
-refusing.globals().ON_TAXI = True
 reset(refusing)
-refusing.globals().FireEvent("PLAYER_CONTROL_LOST")
+refusing.globals().ON_TAXI = True
+refusing.globals().FireEvent("TAXIMAP_CLOSED")
 lines = chat(refusing)
 show(lines)
-check("announces the flight anyway, from the event",
+check("announces the flight anyway, from the taxi state",
       any("a flight begins" in l for l in lines), str(lines))
 
 print("\n%d passed, %d failed" % (len(PASS), len(FAIL)))

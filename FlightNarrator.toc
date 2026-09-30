@@ -2,7 +2,7 @@
 ## Title: Flight Narrator
 ## Notes: Reads a short line out loud while you fly. Flight narration with a shipped voice: /fn, /fn flight
 ## Author: xavbl
-## Version: 0.3.2
+## Version: 0.3.3
 ## DefaultState: enabled
 ## SavedVariables: FlightNarratorDB
 

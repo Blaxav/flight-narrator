@@ -42,6 +42,7 @@ If you hear nothing, run **`/fn diag`** and follow [Troubleshooting](#troublesho
 | `/fn voice <number>` | Switches the narrator to that voice and speaks a sample — see [Choosing a voice](#choosing-a-voice). |
 | `/fn clip <key>` | Plays a narration clip shipped with the addon, if one has been rendered. |
 | `/fn flight [destination]` | Pulls the flight trigger by hand — the same call a real flight makes, so you can hear the flight line without flying. |
+| `/fn trace` | Turns the flight watch on or off: every signal and every taxi-state check is printed, which is how a flight that does not announce itself is diagnosed. |
 | `/fn diag` | Prints a full diagnosis — see [Troubleshooting](#troubleshooting-i-dont-hear-anything) for how to read it. |
 
 `/flyn` and `/flightnarrator` are the same command.
@@ -102,10 +103,10 @@ The addon prints every outcome and retries once by itself, so each row below has
 | A clip plays but the narrator sounds rushed | The pace of a shipped clip is whatever it was rendered at | Re-render slower, for example `tools\Render-VoiceClips.ps1 -Voice fr-FR-HenriNeural -Rate -25% -LinesFile tools\lines.fr.txt -Force`, then `/reload`. |
 | The voice you hear is the *client's*, not the shipped one (`speaking with …` instead of `playing the shipped clip …`) | There is no clip for that key, or the client did not see the folder | That fallback is by design. If you expected a clip, check the folder `/fn diag` prints, and remember the client only sees files that existed when it loaded. |
 | The fallback voice is too fast (you see `speaking with …`) | Text to Speech speed is the character's own setting, and this addon never writes it | `/tts rate -20`, or the slider in **Options → Accessibility → Text to Speech**. `/fn diag` prints the current rate and its range. |
-| No `a flight begins` line when you take a flight | The trigger needs the client's `PLAYER_CONTROL_LOST` event and `UnitOnTaxi`, and the addon has to be loaded before the flight starts | `/fn diag` reports `flight detection:` and `taxi hook:`. `/fn flight` proves the rest of the path: if that speaks, detection is the only thing missing. |
+| No `a flight begins` line when you take a flight | The trigger is the taxi state itself (`UnitOnTaxi`), asked on the taxi click and after every signal that could mean a flight is starting, and the addon has to be loaded before the flight starts | Run `/fn trace`, then take the flight: the `[watch]` lines say which signals arrived and what the taxi state was at each one. `/fn diag` reports the `taxi hook` and `on a flight right now`. `/fn flight` proves the rest of the path: if that speaks, detection is the only thing missing. |
 | `a flight begins.` with no destination, on a client that names its taxi nodes | `TaxiNodeName` did not answer for that slot | Harmless: the line is spoken either way. Worth a `/fn diag` note in a bug report. |
 
-`/fn diag` is the tool for all of this. It prints the client build and interface number, which speech APIs the client actually has, the `textToSpeech` setting (with a hint about per-character settings when it reads as off), the voice in each slot, the rate and volume it will use, how many voices the client reports (`/fn voices` lists them), and the events it is watching, whether flight detection is armed (and whether the taxi hook is installed), and the rate in the client's own scale.
+`/fn diag` is the tool for all of this. It prints the client build and interface number, which speech APIs the client actually has, the `textToSpeech` setting (with a hint about per-character settings when it reads as off), the voice in each slot, the rate and volume it will use, how many voices the client reports (`/fn voices` lists them), the events it is watching, what the flight detection is built on — the taxi state, the taxi hook, every signal and whether this client answered it, and whether the player is on a flight right now — and the rate in the client's own scale.
 
 ## The idea
 
@@ -119,11 +120,11 @@ The narration should match **where you are going**, not just that you are flying
 
 ## Current status
 
-The vision above is the destination; this repository is at the second waypoint. **Version 0.3.2 narrates flights: a voice of its own, and speech that starts when a flight does.** The writing it reads is still a demo of two lines.
+The vision above is the destination; this repository is at the second waypoint. **Version 0.3.3 narrates flights: a voice of its own, and speech that starts when a flight does.** The writing it reads is still a demo of two lines.
 
 What it does today:
 
-- **Speaks on its own when a flight starts**, once per flight: the taxi click names the destination, and losing control while on a taxi is the trigger — see [Flight detection](#flight-detection). `/fn flight` pulls the same trigger by hand.
+- **Speaks on its own when a flight starts**, once per flight: the taxi click names the destination, and the client's own taxi state is the trigger — see [Flight detection](#flight-detection). `/fn flight` pulls the same trigger by hand, and `/fn trace` shows the watch working.
 - **Has its own voice.** The narration is rendered with `fr-FR-HenriNeural` into `voice/frFR/` and played with `PlaySoundFile`, so it sounds the same on every machine, needs nothing installed, and works on any client language. `/fn clip <key>` plays one directly.
 - Speaks out loud through the game's own Text to Speech when a line has no clip, or on demand: `/fn` says a fixed test sentence, `/fn <text>` says whatever you type.
 - Speaks through the client's **own** speech helper, `TextToSpeech_Speak`, which is the path its Play Sample button takes; a real voice table, the character's rate and a non-zero volume are handed over, which is what an earlier build got wrong. The raw `SpeakText` calls are kept as fallbacks, in the client's own order, for a client where that helper is not loaded.
@@ -142,23 +143,26 @@ In short: the narrator works, it is observable, and it now speaks by itself at t
 
 ## Flight detection
 
-A flight is announced once, when it starts, and the trigger is deliberately narrow:
+A flight is announced once, when it starts. Classic Era has no event that says "a taxi lifted off", so the trigger asks the client the one question that has a real answer — `UnitOnTaxi("player")` — and keeps asking it for a short while after anything that could mean a flight is starting.
 
 | Signal | What it contributes |
 | --- | --- |
-| `TakeTaxiNode`, hooked rather than replaced | Names the destination. It is the click on the flight master's map, and the slot it is called with is the same index the client's own taxi buttons use, so `TaxiNodeName(slot)` answers with "Stormwind City". |
-| `PLAYER_CONTROL_LOST`, with `UnitOnTaxi("player")` | Starts the narration. Only a taxi keeps the player on a taxi; a cinematic, a summon or a scripted sequence also take control away, and those stay silent. |
-| `PLAYER_CONTROL_GAINED` | Ends the flight and re-arms the narrator for the next one. |
+| `TakeTaxiNode`, hooked rather than replaced | Names the destination. It is the click on the flight master's map, and the slot it is called with is the same index the client's own taxi buttons use, so `TaxiNodeName(slot)` answers with "Stormwind City". A click opens the watch below: it is a question, not an answer. |
+| `UnitOnTaxi("player")` | The answer. Era's own interface asks it the same way (`VehicleLeaveButton`, `PaperDollFrame`, `UIParent`), and it is what separates a flight from a cinematic, a summon or a fear — those take control away too, and stay silent. |
+| `TAXIMAP_CLOSED`, `UNIT_FLAGS`, `PLAYER_ENTERING_WORLD`, `PLAYER_CONTROL_LOST`, `PLAYER_CONTROL_GAINED` | Each one opens the same watch and asks the same question: the map closing as the taxi is taken, a unit flag, the loading screen a long flight crosses (which is also how a `/reload` in mid-air is noticed), and the loss-of-control pair on clients that fire it. |
+| The watch | For 20 seconds after a click or a signal, the taxi state is asked every 0.5 seconds. A flight turns it on within a tick or two of the click; a refused taxi never does, and a destination that never became a flight is dropped when the watch runs out. |
 
-**Why not announce on the click alone?** Because a taxi the client refuses — no money, no route — costs no flight, and a narrator that announces flights you never took is worse than one that stays quiet for a second.
+**Why not wait for `PLAYER_CONTROL_LOST`?** Because that was the 0.3.2 trigger, and on Classic Era it is never fired for a taxi: era's interface does not register it at all (the later flavours do), while the registration still succeeds, since this client is a modern engine wearing a Classic skin. The addon armed a wait for an event that never came and no flight was ever announced. A registration is not a promise — which is why `/fn diag` prints what each signal answered.
 
-**Why not `TAXIMAP_OPENED`?** Because opening the map is not flying: it is a window, closed again with Escape.
+**Why not announce on the click alone?** Because a taxi the client refuses — no money, no route — costs no flight, and a narrator that announces flights you never took is worse than one that stays quiet for a second. The watch is what makes the click safe to trust.
+
+**Why `TAXIMAP_CLOSED` and not `TAXIMAP_OPENED`?** Because opening the map is not flying: it is a window, closed again with Escape. The *closing* is the moment the taxi is taken, which is why that one is a signal and the other is not.
 
 **Why once, at the start, and not mid-flight?** Because a multi-leg route stops between legs without ever handing control back, so the flight really is one continuous thing, and one line per flight is what the commentary wants for now. The zone-by-zone version is on the [Roadmap](#roadmap).
 
-That is all the state the addon keeps: the destination of the taxi that was clicked, and whether the flight it is in has already been announced. Neither survives a session, and neither is written to `FlightNarratorDB`.
+That is all the state the addon keeps: the destination of the taxi that was clicked, whether the flight it is in has already been announced, and when the watch runs out. None of it survives a session, and none of it is written to `FlightNarratorDB`.
 
-**Trying it without flying:** `/fn flight` makes the same call the event makes, and `/fn flight <destination>` makes it with a name. `/fn diag` reports whether the taxi hook is installed and whether the client has `PLAYER_CONTROL_LOST` at all.
+**Trying it without flying:** `/fn flight` makes the same call the event makes, and `/fn flight <destination>` makes it with a name. When a flight does not announce itself, **`/fn trace`** prints the watch as it happens: which signal arrived, what the taxi state said, and what the addon did about it.
 
 ## How it works
 
@@ -231,7 +235,7 @@ Everything that speaks in this game goes through the same call, so the overlap w
 | Another addon already narrates zone changes, flight paths or chat | Run one narrator, not two. Silence the other from its own settings — this addon has no switch that reaches it. |
 | The client itself reads every chat line | That is the Accessibility chat toggles, not an addon. Narrow them to the channels or chat types you actually want spoken. |
 | Two lines start at once and one is cut off | Speech is handled by the client, not the caller. The modern `SpeakText` form takes an `overlap` flag, and the client's own helper takes two (`neverQueue` and `allowOverlappedSpeech`); this addon passes `neverQueue = true` so a flight line is spoken when it happens instead of queueing behind chat, and leaves overlap alone. `C_VoiceChat.StopSpeakingText()` is how a caller cancels speech; another addon may call it and truncate this addon's line, and this build does not call it back. |
-| The narrator speaks during a flight and you wanted quiet | Flight detection is on in 0.3.2 and there is no switch for it yet | `/fn` and `/fn flight` are the manual paths; the real one fires when a taxi starts. Note that silencing the client's Text to Speech leaves the shipped clips audible, because they are not speech. A settings switch is on the [Roadmap](#roadmap). |
+| The narrator speaks during a flight and you wanted quiet | Flight detection is on in 0.3.3 and there is no switch for it yet | `/fn` and `/fn flight` are the manual paths; the real one fires when a taxi starts. Note that silencing the client's Text to Speech leaves the shipped clips audible, because they are not speech. A settings switch is on the [Roadmap](#roadmap). |
 
 One more consequence of the shared call: the `VOICE_CHAT_TTS_PLAYBACK_*` events are client-wide, so `STARTED` fires for speech this addon never requested — the client reading chat, another addon, or Speak for Me. The addon therefore never claims those events as its own: it reports only on the call it just made, inside a short window, and ignores everything else.
 
@@ -239,7 +243,7 @@ One more consequence of the shared call: the `VOICE_CHAT_TTS_PLAYBACK_*` events 
 
 Roughly in the order it makes sense to build:
 
-1. ~~**Bring back flight detection.**~~ Done in 0.3.2: `TakeTaxiNode` names the destination, `PLAYER_CONTROL_LOST` plus `UnitOnTaxi` is the trigger — see [Flight detection](#flight-detection).
+1. ~~**Bring back flight detection.**~~ Done in 0.3.2, fixed in 0.3.3: `TakeTaxiNode` names the destination, and the taxi state (`UnitOnTaxi`), asked on every signal that could mean a flight is starting, is the trigger — see [Flight detection](#flight-detection).
 2. **Zone-aware narration.** Turn the destination the taxi hook already resolves into a library key, so a flight to Stormwind speaks for Elwynn instead of the demo line.
 3. **A lore library.** Ship community-written texts keyed by zone and destination, in the spirit of the Tour de France commentator: a couple of sentences per place, read once as you leave or arrive.
 4. **Mid-flight updates.** Longer flights cross borders. Announce again when the character enters a new zone mid-flight, instead of going silent for three minutes.
