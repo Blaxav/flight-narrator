@@ -2,7 +2,7 @@
 
 A small **World of Warcraft Classic** addon that **reads a line out loud while you fly**.
 
-The long-term goal is a commentary track for flight paths — the Tour de France idea, in Azeroth. What is in this repository right now is the **narrator test build**: the talking has to work before anything else matters, so the flight detection has deliberately been taken out and the speech call has been rebuilt from scratch. See [Current status](#current-status).
+The long-term goal is a commentary track for flight paths — the Tour de France idea, in Azeroth. What is in this repository right now is the **narrator, rebuilt from scratch and working**: the speech call is the client's own, the voice is a shipped neural-voice library, and it speaks by itself when a flight starts. The writing it reads is still a demo of two lines. See [Current status](#current-status).
 
 ## Quick start (WoW Classic)
 
@@ -16,7 +16,7 @@ Four steps. Everything else in this file is background.
 
    `_classic_era_` is the Classic Era folder; each other flavour (Anniversary/BCC, Titan Reforged, Cata, Mists) installs into its own `_classic_*` folder — see [Compatibility](#compatibility).
 
-2. **Turn Text to Speech on.** Go to **Options → Accessibility → Text to Speech** and enable voice output. That master switch is the `textToSpeech` CVar — account-wide, and off by default — which makes it the number one reason a narrator stays silent.
+2. **Turn Text to Speech on, if you want the client's voice too.** The shipped narration is an ordinary sound file and plays without it; the client's speech is what `/fn <text>`, `/fn voices` and any line with no clip use. Go to **Options → Accessibility → Text to Speech** and enable voice output. That master switch is the `textToSpeech` CVar — account-wide, and off by default — which makes it the number one reason a narrator stays silent.
 
    > **Important:** the switch is account-wide, but the settings behind it are not. Classic keeps voice, rate, volume and the chat-type toggles **per character** (`TTSUseCharacterSettings`, default on), so an alt can stay silent with speech enabled — volume 0, or a voice that is not installed. `/fn diag` prints what the client reports for the character you are actually on.
 
@@ -25,9 +25,10 @@ Four steps. Everything else in this file is background.
 4. **Run `/fn`.** You should hear the test sentence, and see this in chat:
 
    ```
-   Flight Narrator: speaking with the client's own helper: TextToSpeech_Speak(text, voice) -> Flight Narrator test. If you can hear this, the narrator works.
-   Flight Narrator: the client started reading it aloud.
+   Flight Narrator: playing the shipped clip voice\frFR\test.mp3 (no Text to Speech involved).
    ```
+
+   Then run **`/fn flight`**: that is the call a real flight makes, so you hear a flight line without leaving the ground.
 
 If you hear nothing, run **`/fn diag`** and follow [Troubleshooting](#troubleshooting-i-dont-hear-anything). The addon never fails quietly: when speech is impossible it prints the text in chat instead, so a problem always looks like something.
 
@@ -40,13 +41,14 @@ If you hear nothing, run **`/fn diag`** and follow [Troubleshooting](#troublesho
 | `/fn voices` | Lists every voice the client can speak with, marking the one the narrator uses. |
 | `/fn voice <number>` | Switches the narrator to that voice and speaks a sample — see [Choosing a voice](#choosing-a-voice). |
 | `/fn clip <key>` | Plays a narration clip shipped with the addon, if one has been rendered. |
+| `/fn flight [destination]` | Pulls the flight trigger by hand — the same call a real flight makes, so you can hear the flight line without flying. |
 | `/fn diag` | Prints a full diagnosis — see [Troubleshooting](#troubleshooting-i-dont-hear-anything) for how to read it. |
 
 `/flyn` and `/flightnarrator` are the same command.
 
 Every command reports back in chat, prefixed with `Flight Narrator:`. A successful call prints which call was used (the client's own helper first, then the modern `SpeakText`, then the legacy one), and then either `the client started reading it aloud.` or the reason it did not.
 
-Nothing is saved in this build: the manifest still declares `FlightNarratorDB`, but no code writes to it yet, so every command is self-contained and stateless. One exception, and it is deliberate: `/fn voice <number>` writes the voice slot you name, through the client's own voice API — see [Choosing a voice](#choosing-a-voice). Everything else in your client settings is only ever read — see [Other addons and the client's own Text to Speech](#other-addons-and-the-clients-own-text-to-speech).
+Nothing is saved in this build: the manifest still declares `FlightNarratorDB`, but no code writes to it yet, so every command is self-contained and stateless. One exception, and it is deliberate: `/fn voice <number>` writes the voice slot you name, through the client's own voice API — see [Choosing a voice](#choosing-a-voice). Everything else in your client settings is only ever read — see [Other addons and the client's own Text to Speech](#other-addons-and-the-clients-own-text-to-speech). Flight detection keeps no state between sessions either: it holds the destination of the taxi that was clicked and one flag for *this flight has been announced*, and both are gone on landing.
 
 ## Choosing a voice
 
@@ -75,6 +77,8 @@ PlaySoundFile("Interface\\AddOns\\FlightNarrator\\voice\\frFR\\elwynn.mp3", "Dia
 
 `PlaySoundFile` plays `.ogg` and `.mp3` files from an addon's own folder (the file has to exist before you log in or reload). Shipping sound is allowed and normal: the big voice addons, `VoiceOver` and `DialogueUI` among them, are built exactly this way. `tools/Render-VoiceClips.ps1` renders the lines in `tools/lines.txt` with a neural voice into `voice/<locale>/`, one clip per line key, and the narrator plays a clip when one exists and falls back to the game's Text to Speech when it does not. Which voice says the words stops being the same question as what the words are. The shipped library is rendered with **`fr-FR-HenriNeural`** into `voice/frFR/`, and the folder read at play time is the client's own locale first, then `NARRATION_LANGUAGE` in `FlightNarrator.lua` — set to `frFR`, the language the library is written in. A French client therefore hears French, a client set to any other language still hears the narration instead of silence, and that one line plus a rendered folder moves the whole library to another language.
 
+The clips are rendered a little slower than the voice's own pace: `-Rate`, **-15%** by default, because narration that plays over a flight has to leave room for the flight. That pace is baked into the audio, so it is a property of the voice — change `-Rate` and re-render with `-Force`, and the same line comes back at a different speed. The client's own voice, which speaks only for a key with no clip, keeps its own rate setting: the addon reads `GetSpeechRate` and never writes it, so the client's own **`/tts rate <n>`** is what changes that one, and `/fn diag` prints the value and the scale it belongs to.
+
 The trade-offs, plainly:
 
 - **Only rendered lines are spoken in that voice.** Free text (`/fn <text>`) still goes through the client's own voice. For this addon that is a small limit: flight narration is a fixed library of lines, which is the next thing to write anyway.
@@ -95,8 +99,13 @@ The addon prints every outcome and retries once by itself, so each row below has
 | `this client has no speech API` | `C_VoiceChat.SpeakText` does not exist on this build | Wrong client family, or an interface number that does not match your flavour — see [Compatibility](#compatibility). |
 | `the client started reading it aloud.` but you hear nothing | The client believes it spoke | Check game and system volume and the output device: the client plays Text to Speech through its own audio. There is also a receipt: the client writes every utterance it generates to `Speech\VoiceSpeak_Utterance_<voice>_<volume>_<rate>_*.wav` in its own folder, so a file whose name says volume `0` containing nothing but zero samples is how the argument-order bug behind version 0.3.0 was found in the first place. |
 | `speaking with modern:` where you expected the helper | `TextToSpeech_Speak` was not loaded, so the addon used the fallback form, and the client accepted it | The narrator works. Nothing to fix. |
+| A clip plays but the narrator sounds rushed | The pace of a shipped clip is whatever it was rendered at | Re-render slower, for example `tools\Render-VoiceClips.ps1 -Voice fr-FR-HenriNeural -Rate -25% -LinesFile tools\lines.fr.txt -Force`, then `/reload`. |
+| The voice you hear is the *client's*, not the shipped one (`speaking with …` instead of `playing the shipped clip …`) | There is no clip for that key, or the client did not see the folder | That fallback is by design. If you expected a clip, check the folder `/fn diag` prints, and remember the client only sees files that existed when it loaded. |
+| The fallback voice is too fast (you see `speaking with …`) | Text to Speech speed is the character's own setting, and this addon never writes it | `/tts rate -20`, or the slider in **Options → Accessibility → Text to Speech**. `/fn diag` prints the current rate and its range. |
+| No `a flight begins` line when you take a flight | The trigger needs the client's `PLAYER_CONTROL_LOST` event and `UnitOnTaxi`, and the addon has to be loaded before the flight starts | `/fn diag` reports `flight detection:` and `taxi hook:`. `/fn flight` proves the rest of the path: if that speaks, detection is the only thing missing. |
+| `a flight begins.` with no destination, on a client that names its taxi nodes | `TaxiNodeName` did not answer for that slot | Harmless: the line is spoken either way. Worth a `/fn diag` note in a bug report. |
 
-`/fn diag` is the tool for all of this. It prints the client build and interface number, which speech APIs the client actually has, the `textToSpeech` setting (with a hint about per-character settings when it reads as off), the voice in each slot, the rate and volume it will use, how many voices the client reports (`/fn voices` lists them), and the events it is watching.
+`/fn diag` is the tool for all of this. It prints the client build and interface number, which speech APIs the client actually has, the `textToSpeech` setting (with a hint about per-character settings when it reads as off), the voice in each slot, the rate and volume it will use, how many voices the client reports (`/fn voices` lists them), and the events it is watching, whether flight detection is armed (and whether the taxi hook is installed), and the rate in the client's own scale.
 
 ## The idea
 
@@ -110,11 +119,13 @@ The narration should match **where you are going**, not just that you are flying
 
 ## Current status
 
-The vision above is the destination; this repository is still at the first waypoint. **Version 0.3.0 is a narrator test build: flight detection has deliberately been removed so that the talking part can be proven on its own first.**
+The vision above is the destination; this repository is at the second waypoint. **Version 0.3.2 narrates flights: a voice of its own, and speech that starts when a flight does.** The writing it reads is still a demo of two lines.
 
 What it does today:
 
-- Speaks out loud through the game's own Text to Speech, on demand: `/fn` says a fixed test sentence, `/fn <text>` says whatever you type.
+- **Speaks on its own when a flight starts**, once per flight: the taxi click names the destination, and losing control while on a taxi is the trigger — see [Flight detection](#flight-detection). `/fn flight` pulls the same trigger by hand.
+- **Has its own voice.** The narration is rendered with `fr-FR-HenriNeural` into `voice/frFR/` and played with `PlaySoundFile`, so it sounds the same on every machine, needs nothing installed, and works on any client language. `/fn clip <key>` plays one directly.
+- Speaks out loud through the game's own Text to Speech when a line has no clip, or on demand: `/fn` says a fixed test sentence, `/fn <text>` says whatever you type.
 - Speaks through the client's **own** speech helper, `TextToSpeech_Speak`, which is the path its Play Sample button takes; a real voice table, the character's rate and a non-zero volume are handed over, which is what an earlier build got wrong. The raw `SpeakText` calls are kept as fallbacks, in the client's own order, for a client where that helper is not loaded.
 - Reports what the client actually did: whether playback started, and if it failed, with which status code, retrying with the next call form before giving up.
 - Prints the text in chat whenever it cannot speak, so a silent client is always visible, never mysterious.
@@ -123,11 +134,31 @@ What it does today:
 
 What it does **not** do yet:
 
-- It no longer detects flight paths. That logic is parked (see [Roadmap](#roadmap)) and recoverable from git history.
-- It has no lore database, and does not know which zone you are flying into.
-- It does not queue several announcements during a long flight.
+- It does not know zones yet: every flight speaks the one destination line there is, keyed `elwynn`, whatever the taxi click reported. Chat says which destination it detected, so the gap is visible rather than silent.
+- It has no lore database: `tools/lines.fr.txt` carries two lines, one of them the test sentence.
+- It does not queue announcements during a long flight, and does not speak for the zones it crosses on the way.
 
-In short: this is the *narrator* part of the addon, isolated and observable. The interesting work — actually writing the lore, keyed to zones and destinations — is what comes next.
+In short: the narrator works, it is observable, and it now speaks by itself at the right moment. The interesting work — actually writing the lore, keyed to zones and destinations — is what comes next.
+
+## Flight detection
+
+A flight is announced once, when it starts, and the trigger is deliberately narrow:
+
+| Signal | What it contributes |
+| --- | --- |
+| `TakeTaxiNode`, hooked rather than replaced | Names the destination. It is the click on the flight master's map, and the slot it is called with is the same index the client's own taxi buttons use, so `TaxiNodeName(slot)` answers with "Stormwind City". |
+| `PLAYER_CONTROL_LOST`, with `UnitOnTaxi("player")` | Starts the narration. Only a taxi keeps the player on a taxi; a cinematic, a summon or a scripted sequence also take control away, and those stay silent. |
+| `PLAYER_CONTROL_GAINED` | Ends the flight and re-arms the narrator for the next one. |
+
+**Why not announce on the click alone?** Because a taxi the client refuses — no money, no route — costs no flight, and a narrator that announces flights you never took is worse than one that stays quiet for a second.
+
+**Why not `TAXIMAP_OPENED`?** Because opening the map is not flying: it is a window, closed again with Escape.
+
+**Why once, at the start, and not mid-flight?** Because a multi-leg route stops between legs without ever handing control back, so the flight really is one continuous thing, and one line per flight is what the commentary wants for now. The zone-by-zone version is on the [Roadmap](#roadmap).
+
+That is all the state the addon keeps: the destination of the taxi that was clicked, and whether the flight it is in has already been announced. Neither survives a session, and neither is written to `FlightNarratorDB`.
+
+**Trying it without flying:** `/fn flight` makes the same call the event makes, and `/fn flight <destination>` makes it with a name. `/fn diag` reports whether the taxi hook is installed and whether the client has `PLAYER_CONTROL_LOST` at all.
 
 ## How it works
 
@@ -200,7 +231,7 @@ Everything that speaks in this game goes through the same call, so the overlap w
 | Another addon already narrates zone changes, flight paths or chat | Run one narrator, not two. Silence the other from its own settings — this addon has no switch that reaches it. |
 | The client itself reads every chat line | That is the Accessibility chat toggles, not an addon. Narrow them to the channels or chat types you actually want spoken. |
 | Two lines start at once and one is cut off | Speech is handled by the client, not the caller. The modern `SpeakText` form takes an `overlap` flag, and the client's own helper takes two (`neverQueue` and `allowOverlappedSpeech`); this addon passes `neverQueue = true` so a flight line is spoken when it happens instead of queueing behind chat, and leaves overlap alone. `C_VoiceChat.StopSpeakingText()` is how a caller cancels speech; another addon may call it and truncate this addon's line, and this build does not call it back. |
-| You only hear the narrator when you ask | That is this build by design: it speaks on `/fn` only, so it cannot surprise you mid-flight. Automatic speech returns with flight detection in the [Roadmap](#roadmap). |
+| The narrator speaks during a flight and you wanted quiet | Flight detection is on in 0.3.2 and there is no switch for it yet | `/fn` and `/fn flight` are the manual paths; the real one fires when a taxi starts. Note that silencing the client's Text to Speech leaves the shipped clips audible, because they are not speech. A settings switch is on the [Roadmap](#roadmap). |
 
 One more consequence of the shared call: the `VOICE_CHAT_TTS_PLAYBACK_*` events are client-wide, so `STARTED` fires for speech this addon never requested — the client reading chat, another addon, or Speak for Me. The addon therefore never claims those events as its own: it reports only on the call it just made, inside a short window, and ignores everything else.
 
@@ -208,8 +239,8 @@ One more consequence of the shared call: the `VOICE_CHAT_TTS_PLAYBACK_*` events 
 
 Roughly in the order it makes sense to build:
 
-1. **Bring back flight detection.** Re-attach the speech call to the `TakeTaxiNode` / `PLAYER_CONTROL_LOST` hooks, so the narrator speaks when a flight starts instead of on demand.
-2. **Zone-aware narration.** Determine where the flight is headed when the taxi node is taken, and look up a lore text for the region you are flying into.
+1. ~~**Bring back flight detection.**~~ Done in 0.3.2: `TakeTaxiNode` names the destination, `PLAYER_CONTROL_LOST` plus `UnitOnTaxi` is the trigger — see [Flight detection](#flight-detection).
+2. **Zone-aware narration.** Turn the destination the taxi hook already resolves into a library key, so a flight to Stormwind speaks for Elwynn instead of the demo line.
 3. **A lore library.** Ship community-written texts keyed by zone and destination, in the spirit of the Tour de France commentator: a couple of sentences per place, read once as you leave or arrive.
 4. **Mid-flight updates.** Longer flights cross borders. Announce again when the character enters a new zone mid-flight, instead of going silent for three minutes.
 5. **Variation.** Several lines per zone, so a route you fly every day does not become a catchphrase.
@@ -223,7 +254,12 @@ Contributions to the lore library — especially short, evocative, accurate writ
 
 ```
 FlightNarrator.toc   Addon manifest: metadata, supported client versions, saved variables.
-FlightNarrator.lua   The whole addon: the speech call, TTS diagnostics, slash commands.
+FlightNarrator.lua   The whole addon: the speech call, flight detection, TTS diagnostics, slash commands.
+voice/frFR/          The shipped narration clips, one per line key (generated, and ignored by git).
+tools/lines.fr.txt   The narration lines, key|text, in French: the library itself.
+tools/lines.txt      The same keys in English, for rendering an English library.
+tools/Render-VoiceClips.ps1   Renders the lines into clips with edge-tts.
+tools/SmokeTest.py   Loads the addon into embedded Lua and drives the commands and the flight events.
 ```
 
 ## Development notes
@@ -231,8 +267,8 @@ FlightNarrator.lua   The whole addon: the speech call, TTS diagnostics, slash co
 - **Language and style:** plain Lua, no frameworks. Locals for internal state, `DEFAULT_CHAT_FRAME:AddMessage` for user-facing output, `|cff33ff99Flight Narrator:|r` as the chat prefix.
 - **No build step, no dependencies.** Edit the `.lua` and `/reload` in game.
 - **Testing:** drop the folder in `World of Warcraft\_classic_era_\Interface\AddOns\`, enable it in the AddOns list, tick **Options → Accessibility → Text to Speech**, log in, and run `/fn`. Follow up with `/fn diag` if you hear nothing.
-- **Tooling, all optional:** `tools/Render-VoiceClips.ps1` renders narration clips (needs Python and `edge-tts`); `tools/SmokeTest.py` loads the addon into an embedded Lua runtime with mocked WoW APIs and drives every slash command (needs Python and `lupa`). The second one is worth the dependency: it catches the class of mistake that otherwise only appears in game, such as calling a function that is not in scope yet.
-- **What "working" looks like:** chat shows `speaking with the client's own helper: TextToSpeech_Speak(text, voice) ->` and then `the client started reading it aloud.` — and you hear the sentence. Anything else (a status code, or the text printed back) is the diagnosis, not a mystery.
+- **Tooling, all optional:** `tools/Render-VoiceClips.ps1` renders narration clips (needs Python and `edge-tts`); `tools/SmokeTest.py` loads the addon into an embedded Lua runtime with mocked WoW APIs and drives every slash command and every flight event (needs Python and `lupa`). The second one is worth the dependency: it catches the class of mistake that otherwise only appears in game, such as calling a function that is not in scope yet.
+- **What "working" looks like:** chat shows `playing the shipped clip voice\frFR\elwynn.mp3 (no Text to Speech involved).` and you hear it. For a key with no clip it shows `speaking with the client's own helper: TextToSpeech_Speak(text, voice) ->` and then `the client started reading it aloud.` — and you hear the sentence. Anything else (a status code, or the text printed back) is the diagnosis, not a mystery.
 
 ## License
 

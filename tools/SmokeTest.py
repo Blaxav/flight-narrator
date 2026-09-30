@@ -27,12 +27,47 @@ function GetCVar(name) return "1" end
 function GetTime() return 100 end
 function GetLocale() return LOCALE end
 
+-- Flight detection: the taxi APIs and the taxi state. ON_TAXI is what the test
+-- moves around; UnitOnTaxi is what separates a flight from a cinematic.
+ON_TAXI = false
+function UnitOnTaxi(unit) return ON_TAXI end
+
+TAXI_NODES = { "Stormwind City", "Ironforge", "Menethil Harbor" }
+function TaxiNodeName(slot) return TAXI_NODES[slot] end
+function TakeTaxiNode(slot) end
+
+-- hooksecurefunc, without passing the return values through: the one hooked call
+-- in the test returns nothing. A client is allowed to refuse a hook, which is
+-- how the addon's error handling is exercised: HOOK_REFUSED plays that client.
+function hooksecurefunc(name, fn)
+  if HOOK_REFUSED then error("Hook is not permitted") end
+  local original = _G[name]
+  if type(original) ~= "function" then return end
+  _G[name] = function(...)
+    original(...)
+    fn(...)
+  end
+end
+
+FRAMES = {}
+
 function CreateFrame(kind)
-  return {
+  local frame = {
     registered = {},
     RegisterEvent = function(self, event) table.insert(self.registered, event); return true end,
-    SetScript = function(self, script, fn) self.script = fn; return true end,
+    SetScript = function(self, script, fn) self.script = fn; self[script] = fn; return true end,
   }
+  table.insert(FRAMES, frame)
+  return frame
+end
+
+-- The client fires an event on the frame that registered it. The test drives the
+-- same path, which is also the only way to reach the addon's local event frame
+-- from out here.
+function FireEvent(event, ...)
+  for _, frame in ipairs(FRAMES) do
+    if frame.OnEvent then frame.OnEvent(frame, event, ...) end
+  end
 end
 
 Enum = {
@@ -112,10 +147,11 @@ def check(label, condition, detail=""):
     print(("  PASS  " if condition else "  FAIL  ") + label + ("" if condition else "   <- " + detail))
 
 
-def build(clips_exist=True, locale="frFR"):
+def build(clips_exist=True, locale="frFR", hook_refused=False):
     runtime = LuaRuntime(unpack_returned_tuples=True)
-    runtime.execute("LOCALE = %r\nCLIPS_EXIST = %s\nCLIP_FS_ROOT = %r\n"
-                    % (locale, "true" if clips_exist else "false", CLIP_FS_ROOT))
+    runtime.execute("LOCALE = %r\nCLIPS_EXIST = %s\nCLIP_FS_ROOT = %r\nHOOK_REFUSED = %s\n"
+                    % (locale, "true" if clips_exist else "false", CLIP_FS_ROOT,
+                       "true" if hook_refused else "false"))
     runtime.execute(MOCK)
     with open(LUA_FILE, encoding="utf-8") as handle:
         runtime.execute(handle.read())
@@ -131,9 +167,19 @@ def chat(runtime):
     return [str(line) for line in read(runtime, "CHAT")]
 
 
-def run(runtime, command):
+def reset(runtime):
     runtime.execute("CHAT = {}\nCALLS = {}")
+
+
+def run(runtime, command):
+    reset(runtime)
     runtime.globals().SlashCmdList["FLIGHTNARRATOR"](command)
+    return chat(runtime), read(runtime, "CALLS")
+
+
+def fire(runtime, event, *args):
+    reset(runtime)
+    runtime.globals().FireEvent(event, *args)
     return chat(runtime), read(runtime, "CALLS")
 
 
@@ -222,6 +268,12 @@ check("reports the voice in the standard slot",
       any("narrator voice (standard slot): Microsoft Hortense" in l for l in lines), str(lines))
 check("reports the locale clips are read from",
       any("locale: frFR" in l and "voice\\frFR\\" in l for l in lines), str(lines))
+check("reports the rate as the character's own, read and never written",
+      any("rate 0" in l for l in lines), str(lines))
+check("points at the client's own /tts rate for the fallback voice",
+      any("/tts rate" in l for l in lines), str(lines))
+check("reports that it watches the flight events",
+      any("PLAYER_CONTROL_LOST" in l and "PLAYER_CONTROL_GAINED" in l for l in lines), str(lines))
 
 print("\nA client with no clips rendered at all")
 bare = build(clips_exist=False, locale="frFR")
@@ -245,6 +297,84 @@ check("does not synthesise when the fallback clip exists",
 lines, recorded = run(other, "diag")
 check("diag reports both folders, in the order it will read them",
       any("voice\\deDE\\ or voice\\frFR\\" in l for l in lines), str(lines))
+
+print("\nPLAYER_LOGIN   (where the taxi hook is installed)")
+lines, recorded = fire(lua, "PLAYER_LOGIN")
+show(lines)
+check("says flights are narrated from now on",
+      any("flights are narrated from now on" in l for l in lines), str(lines))
+check("points at /fn flight, the only help text this addon has",
+      any("/fn flight" in l for l in lines), str(lines))
+
+print("\n/fn flight   (the trigger, without the taxi)")
+lines, recorded = run(lua, "flight")
+show(lines)
+check("announces a flight", any("a flight begins." in l for l in lines), str(lines))
+check("plays the elwynn clip once, after probing for an ogg",
+      len([c for c in recorded if (c["path"] or "").endswith("elwynn.mp3")]) == 1, str(recorded))
+check("does not also synthesise", not any(c["call"] == "helper" for c in recorded), str(recorded))
+
+print("\n/fn flight Stormwind City   (a named destination)")
+lines, recorded = run(lua, "flight Stormwind City")
+show(lines)
+check("names the destination in chat",
+      any("a flight begins, to Stormwind City." in l for l in lines), str(lines))
+
+print("\nA real taxi: TakeTaxiNode(1), then PLAYER_CONTROL_LOST   (on a taxi)")
+reset(lua)
+lua.globals().ON_TAXI = True
+lua.globals().TakeTaxiNode(1)
+lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
+show(lines)
+check("announces the flight the click named",
+      any("a flight begins, to Stormwind City." in l for l in lines), str(lines))
+check("plays the clip once",
+      len([c for c in recorded if (c["path"] or "").endswith("elwynn.mp3")]) == 1, str(recorded))
+
+print("\nPLAYER_CONTROL_LOST again   (the same flight)")
+lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
+show(lines)
+check("stays quiet inside the same flight",
+      not any("a flight begins" in l for l in lines), str(lines))
+
+print("\nPLAYER_CONTROL_LOST with no taxi under you   (a cinematic)")
+fire(lua, "PLAYER_CONTROL_GAINED")
+lua.globals().ON_TAXI = False
+lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
+show(lines)
+check("stays quiet when it is not a flight",
+      not any("a flight begins" in l for l in lines), str(lines))
+
+print("\nPLAYER_CONTROL_LOST with no taxi click   (a scripted taxi)")
+lua.globals().ON_TAXI = True
+lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
+show(lines)
+check("announces it without a destination",
+      any("a flight begins." in l for l in lines), str(lines))
+
+print("\nAfter landing, the next flight is announced again")
+fire(lua, "PLAYER_CONTROL_GAINED")
+lua.globals().ON_TAXI = True
+lines, recorded = fire(lua, "PLAYER_CONTROL_LOST")
+show(lines)
+check("announces again", any("a flight begins." in l for l in lines), str(lines))
+
+print("\nA client that refuses the taxi hook")
+refusing = build(clips_exist=True, locale="frFR", hook_refused=True)
+reset(refusing)
+refusing.globals().FireEvent("PLAYER_LOGIN")
+lines = chat(refusing)
+show(lines)
+check("still logs in and says so", any("loaded (classic narrator)" in l for l in lines), str(lines))
+lines, recorded = run(refusing, "diag")
+check("admits the hook is not installed", any("taxi hook no" in l for l in lines), str(lines))
+refusing.globals().ON_TAXI = True
+reset(refusing)
+refusing.globals().FireEvent("PLAYER_CONTROL_LOST")
+lines = chat(refusing)
+show(lines)
+check("announces the flight anyway, from the event",
+      any("a flight begins" in l for l in lines), str(lines))
 
 print("\n%d passed, %d failed" % (len(PASS), len(FAIL)))
 for label in FAIL:

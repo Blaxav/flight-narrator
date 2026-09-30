@@ -28,8 +28,17 @@
 -- C_TTSSettings.SetVoiceOption, the same call the client's own voice dropdown
 -- makes, so the two can never disagree about which voice is selected.
 --
--- Flight detection is deliberately not in this build: the goal right now is to
--- prove that the narrator can speak at all. Use /fn to test it.
+-- Flight detection is back, and deliberately narrow: a flight is announced when
+-- it starts, from the taxi click (which names the destination) and from losing
+-- control while on a taxi (which catches flights that start any other way). See
+-- the flight block further down. The library has no destination lines yet, so
+-- every flight speaks the one demo line there is.
+--
+-- The pace is a property of the voice, and the voice is the shipped clip, so it
+-- is set when the clips are rendered (tools\Render-VoiceClips.ps1 -Rate, -15% by
+-- default) rather than at play time. The client's own Text to Speech, which
+-- speaks only for keys with no clip, has its own rate setting that this addon
+-- reads and never writes.
 
 local TEST_TEXT = "Flight Narrator test. If you can hear this, the narrator works."
 
@@ -521,6 +530,110 @@ local function PlayClipCommand(key)
 	Print("  render one with tools\\Render-VoiceClips.ps1, then /reload: the client only sees files that existed when it loaded.")
 end
 
+-- Flight detection. Two signals, each covering what the other cannot:
+--
+--   * TakeTaxiNode is the click on the flight master's map, and the only one of
+--     the two that can name where the player is going. It is hooked, so the
+--     vanilla call is left alone and another addon hooking it still sees it.
+--     The click on its own is not the trigger: a taxi that is refused costs no
+--     flight, and announcing one would be a lie.
+--   * PLAYER_CONTROL_LOST is the trigger, and UnitOnTaxi is what separates a
+--     flight from a cinematic or a summon, which also take control away and
+--     must stay silent.
+--
+-- PLAYER_CONTROL_GAINED is where the flight ends, which re-arms the narrator. A
+-- multi-leg route stops between legs without ever handing control back, so it is
+-- announced once, at the start, which is what a commentary wants.
+--
+-- Destination lines are the library's next job. Until they exist every flight
+-- speaks the one demo key there is, and chat says where the flight is going, so
+-- that the detection can be seen working before the writing catches up.
+local FLIGHT_DEMO_KEY = "elwynn"
+
+local flightAnnounced = false
+local taxiDestination
+local taxiHookInstalled = false
+local watchingControlLost = false
+
+-- A line for the client's Text to Speech to read when the key has no clip: the
+-- fallback, not the narration. Written in the library's language, like every
+-- other line in it.
+local function FlightLine(destination)
+	if destination then
+		return "Le voyage commence, destination " .. destination .. "."
+	end
+	return "Le voyage commence."
+end
+
+local function AnnounceFlight(destination)
+	if flightAnnounced then
+		return false
+	end
+	flightAnnounced = true
+	if destination then
+		Print("a flight begins, to " .. destination .. ".")
+	else
+		Print("a flight begins.")
+	end
+	Narrate(FLIGHT_DEMO_KEY, FlightLine(destination))
+	return true
+end
+
+-- "Stormwind City" for the slot TakeTaxiNode was called with, which is the same
+-- index the client's own taxi buttons use. A client without TaxiNodeName still
+-- gets its flights announced, just without a name.
+local function NameTaxiNode(slot)
+	if type(slot) ~= "number" or not TaxiNodeName then
+		return nil
+	end
+	local ok, name = pcall(TaxiNodeName, slot)
+	if ok and type(name) == "string" and name ~= "" then
+		return name
+	end
+	return nil
+end
+
+-- Hooked rather than replaced: hooksecurefunc leaves TakeTaxiNode itself alone.
+-- The pcall is not decoration. A client can refuse a hook, and without it the
+-- error would escape from the login handler and the flag would claim a hook that
+-- is not there. What is lost when the hook is refused is the destination's name,
+-- never the announcement: that comes from PLAYER_CONTROL_LOST, which needs no
+-- hook at all.
+local function InstallTaxiHook()
+	if taxiHookInstalled or not hooksecurefunc or type(TakeTaxiNode) ~= "function" then
+		return false
+	end
+	taxiHookInstalled = pcall(hooksecurefunc, "TakeTaxiNode", function(slot)
+		-- A click always starts a new flight, so whatever the previous one left
+		-- behind stops applying here.
+		flightAnnounced = false
+		taxiDestination = NameTaxiNode(slot)
+		-- PLAYER_CONTROL_LOST is what normally announces the flight. On a client
+		-- with no such event there is nothing else to go on, so the click does.
+		if not watchingControlLost then
+			AnnounceFlight(taxiDestination)
+		end
+	end) and true or false
+	return taxiHookInstalled
+end
+
+-- A flight cannot be staged on demand in game, so this is the trigger without
+-- the taxi: the same call the event makes, so what it prints is what a real
+-- flight prints.
+local function PretendFlight(destination)
+	destination = strtrim(destination or "")
+	if destination == "" then
+		destination = nil
+	end
+	local named = ""
+	if destination then
+		named = " to " .. destination
+	end
+	Print("pretending a flight starts" .. named .. ":")
+	flightAnnounced = false
+	AnnounceFlight(destination)
+end
+
 local watchedEvents = {}
 local watchedCount = 0
 
@@ -556,10 +669,36 @@ WatchEvent("PLAYER_LOGIN")
 WatchEvent("VOICE_CHAT_TTS_PLAYBACK_STARTED")
 WatchEvent("VOICE_CHAT_TTS_PLAYBACK_FINISHED")
 WatchEvent("VOICE_CHAT_TTS_PLAYBACK_FAILED")
+WatchEvent("PLAYER_CONTROL_GAINED")
+watchingControlLost = WatchEvent("PLAYER_CONTROL_LOST")
 
 eventFrame:SetScript("OnEvent", function(_, event, ...)
 	if event == "PLAYER_LOGIN" then
-		Print("loaded (classic narrator test). /fn to hear it, /fn voices to pick a voice, /fn diag for details.")
+		InstallTaxiHook()
+		Print("loaded (classic narrator). /fn to hear it, /fn flight for the flight trigger, /fn voices to pick a voice, /fn diag for details.")
+		Print("flights are narrated from now on: /fn flight tries the trigger without leaving the ground.")
+		return
+	end
+
+	if event == "PLAYER_CONTROL_LOST" then
+		-- A flight keeps the player on a taxi; a cinematic, a summon or a
+		-- scripted sequence does not, and those stay silent.
+		local onFlight
+		if UnitOnTaxi then
+			onFlight = UnitOnTaxi("player") and true or false
+		else
+			onFlight = taxiDestination ~= nil
+		end
+		if onFlight then
+			AnnounceFlight(taxiDestination)
+		end
+		return
+	end
+
+	if event == "PLAYER_CONTROL_GAINED" then
+		-- The flight is over: forget it, so that the next one is announced.
+		taxiDestination = nil
+		flightAnnounced = false
 		return
 	end
 
@@ -600,6 +739,15 @@ local function FormatFlag(value)
 	return "no"
 end
 
+-- The client's own rate range (TEXTTOSPEECH_RATE_MIN/MAX, 0 being its normal
+-- speed), when it exports one: the scale the fallback voice answers to.
+local function DescribeRateRange()
+	if type(TEXTTOSPEECH_RATE_MIN) == "number" and type(TEXTTOSPEECH_RATE_MAX) == "number" then
+		return tostring(TEXTTOSPEECH_RATE_MIN) .. " to " .. tostring(TEXTTOSPEECH_RATE_MAX)
+	end
+	return "its own range"
+end
+
 local function PrintDiagnostics()
 	local version, build, _, interfaceVersion = GetBuildInfo()
 	local cvarValue = GetCVar and GetCVar("textToSpeech")
@@ -623,7 +771,12 @@ local function PrintDiagnostics()
 	Print("  narrator voice (standard slot): " .. DescribeVoice(VOICE_SLOT_STANDARD))
 	Print("  alternate slot: " .. DescribeVoice(VOICE_SLOT_ALTERNATE)
 		.. " (used by the client for system messages: " .. DescribeFlag(GetAlternateSystemVoiceFlag()) .. ")")
-	Print("  rate " .. tostring(GetSpeechRate()) .. ", volume " .. tostring(GetSpeechVolume()))
+	Print("  rate " .. tostring(GetSpeechRate()) .. " of " .. DescribeRateRange() .. ", volume " .. tostring(GetSpeechVolume()))
+	Print("  ^ the character's own Text to Speech settings, read and never written:")
+	Print("    /tts rate <n> is the client's own way to slow the fallback voice; shipped clips carry their own pace")
+	Print("  flight detection: " .. FormatFlag(watchingControlLost) .. " (PLAYER_CONTROL_LOST + UnitOnTaxi), taxi hook "
+		.. FormatFlag(taxiHookInstalled))
+	Print("  every flight speaks the demo key '" .. FLIGHT_DEMO_KEY .. "' until the library names destinations")
 	Print("  /fn voices lists every voice this client can use")
 	Print("  locale: " .. tostring(GetLocale and GetLocale() or "unknown") .. ", clips are read from " .. DescribeClipFolders())
 
@@ -667,6 +820,11 @@ SlashCmdList.FLIGHTNARRATOR = function(message)
 
 	if command == "clip" or command:sub(1, 5) == "clip " then
 		PlayClipCommand(strtrim(message:sub(5)))
+		return
+	end
+
+	if command == "flight" or command:sub(1, 7) == "flight " then
+		PretendFlight(message:sub(8))
 		return
 	end
 
