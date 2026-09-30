@@ -1,0 +1,14 @@
+## Interface: 11507
+## Interface-Classic: 11507
+## Interface-BCC: 20505
+## Interface-Wrath: 30403
+## Interface-Cata: 40402
+## Interface-Mists: 50500
+## Title: Flight Narrator
+## Notes: Speaks a short line when you board a flight path as a passenger.
+## Author: xavbl
+## Version: 1.0.0
+## SavedVariables: FlightNarratorDB
+## OptionalDeps: Blizzard_TextToSpeech
+
+FlightNarrator.lua
