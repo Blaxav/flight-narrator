@@ -2,7 +2,7 @@
 ## Title: Flight Narrator
 ## Notes: Reads a short line out loud while you travel. Current build is the narrator (Text to Speech) test: /fn
 ## Author: xavbl
-## Version: 0.2.0
+## Version: 0.3.0
 ## DefaultState: enabled
 ## SavedVariables: FlightNarratorDB
 

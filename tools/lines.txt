@@ -1,0 +1,19 @@
+# Narration lines, one line per line of speech: key|text
+#
+# The key becomes the file name: voice/<locale>/<key>.mp3 (or .ogg)
+# Lines starting with # and blank lines are ignored. Keys must be unique.
+#
+# One file per language - lines.txt, lines.fr.txt, lines.de.txt - each rendered
+# with a voice that speaks that language, into that language's folder:
+#
+#   powershell -ExecutionPolicy Bypass -File tools\Render-VoiceClips.ps1 -Voice en-US-AriaNeural
+#   powershell -ExecutionPolicy Bypass -File tools\Render-VoiceClips.ps1 -Voice fr-FR-DeniseNeural -LinesFile tools\lines.fr.txt
+#
+# Voice names: python -m edge_tts --list-voices
+# The addon picks the folder from the client's own locale (GetLocale), so a
+# French client plays voice/frFR/ and an English one voice/enUS/.
+#
+# Keys in use by the addon itself: "test" is what /fn speaks.
+
+test|Flight Narrator test. If you can hear this, the narrator works.
+elwynn|You are leaving Stormwind behind now, heading north toward Elwynn Forest, the old heartland of the Alliance, where the Defias Brotherhood once cut a bloody path through the king's own woods.

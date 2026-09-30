@@ -1,0 +1,13 @@
+# Narration lines in French: key|text
+#
+# Same keys as lines.txt, so a key means the same line in every language. The
+# addon reads the folder that matches the client's own locale (GetLocale), so a
+# French client plays voice/frFR/ and an English one voice/enUS/.
+#
+#   powershell -ExecutionPolicy Bypass -File tools\Render-VoiceClips.ps1 -Voice fr-FR-DeniseNeural -LinesFile tools\lines.fr.txt
+#   powershell -ExecutionPolicy Bypass -File tools\Render-VoiceClips.ps1 -Voice fr-FR-HenriNeural -LinesFile tools\lines.fr.txt
+#
+# Keys in use by the addon itself: "test" is what /fn speaks.
+
+test|Test du Narrateur de vol. Si vous entendez cette phrase, le narrateur fonctionne.
+elwynn|Vous quittez Hurlevent derrière vous, cap au nord vers la forêt d'Elwynn, le vieux coeur de l'Alliance, là où la Confrérie Defias a jadis tracé un chemin sanglant dans les bois du roi.
