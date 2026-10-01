@@ -357,8 +357,8 @@ print("\n/fn flight   (the trigger, without the taxi)")
 lines, recorded = run(lua, "flight")
 show(lines)
 check("announces a flight", any("a flight begins." in l for l in lines), str(lines))
-check("plays the elwynn clip once, after probing for an ogg",
-      len([c for c in recorded if (c["path"] or "").endswith("elwynn.mp3")]) == 1, str(recorded))
+check("plays the ratchet clip once, after probing for an ogg",
+      len([c for c in recorded if (c["path"] or "").endswith("ratchet.mp3")]) == 1, str(recorded))
 check("does not also synthesise", not any(c["call"] == "helper" for c in recorded), str(recorded))
 
 print("\n/fn flight Stormwind City   (a named destination)")
@@ -382,7 +382,7 @@ show(lines)
 check("announces the flight the click named, once the taxi state arrives",
       any("a flight begins, to Stormwind City." in l for l in lines), str(lines))
 check("plays the clip once",
-      len([c for c in recorded if (c["path"] or "").endswith("elwynn.mp3")]) == 1, str(recorded))
+      len([c for c in recorded if (c["path"] or "").endswith("ratchet.mp3")]) == 1, str(recorded))
 
 print("\nThe same flight, a few seconds later   (the watch stops asking)")
 before = len(chat(lua))

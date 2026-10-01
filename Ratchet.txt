@@ -1,0 +1,9 @@
+Ratchet
+=======
+
+Voici Ratchet, le port des gobelins, planté sur la côte est des Tarides. Ici, ni la Horde ni l'Alliance ne dicte sa loi : c'est le Cartel Gentepression qui règne, et la seule langue qui compte, c'est l'or. Ratchet est l'œuvre d'un seul gobelin : Gazlowe, l'ingénieur de génie qui a aidé Rexxar à poser les fondations d'Orgrimmar pendant la Troisième Guerre. Il a compris avant tout le monde qu'un port neutre au cœur de Kalimdor vaut plus qu'une armée. On y décharge, on y vend, on y espionne, et tout le monde paie. Les navires relient Ratchet à la Baie-du-Butin, à l'autre bout du monde. Il fut un temps où ce n'était qu'une crique de contrebandiers, un repaire où les pirates cachaient leurs cargaisons à la barbe des deux factions. Aujourd'hui, c'est une ville qui ne dort jamais, gardée par les matons gobelins du Cartel. Les marchands de la Horde et de l'Alliance s'y croisent sans s'égorger, parce qu'ici l'argent est plus fort que la guerre. La devise de Ratchet tient en une phrase : tout se vend, tout s'achète, et personne ne pose de questions.
+
+---
+
+Durée estimée : ~1 min 30 en narration.
+Clé (lore library) : ratchet

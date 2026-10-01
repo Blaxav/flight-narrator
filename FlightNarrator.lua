@@ -564,9 +564,10 @@ end
 -- lets go between legs.
 --
 -- Destination lines are the library's next job. Until they exist every flight
--- speaks the one demo key there is, and chat says where the flight is going, so
--- that the detection can be seen working before the writing catches up.
-local FLIGHT_DEMO_KEY = "elwynn"
+-- speaks the one shipped line there is (Ratchet), and chat says where the
+-- flight is going, so the detection can be seen working before the writing
+-- catches up.
+local FLIGHT_DEMO_KEY = "ratchet"
 local TAKEOFF_WATCH_SECONDS = 20
 local TAKEOFF_POLL_SECONDS = 0.5
 

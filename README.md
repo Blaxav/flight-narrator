@@ -73,7 +73,7 @@ These go through `C_TTSSettings.SetVoiceOption`, the call the client's own voice
 If the voice should be part of the addon — natural, identical on every machine, and independent of the client's language — pre-render the narration and ship the clips:
 
 ```lua
-PlaySoundFile("Interface\\AddOns\\FlightNarrator\\voice\\frFR\\elwynn.mp3", "Dialog")
+PlaySoundFile("Interface\\AddOns\\FlightNarrator\\voice\\frFR\\ratchet.mp3", "Dialog")
 ```
 
 `PlaySoundFile` plays `.ogg` and `.mp3` files from an addon's own folder (the file has to exist before you log in or reload). Shipping sound is allowed and normal: the big voice addons, `VoiceOver` and `DialogueUI` among them, are built exactly this way. `tools/Render-VoiceClips.ps1` renders the lines in `tools/lines.txt` with a neural voice into `voice/<locale>/`, one clip per line key, and the narrator plays a clip when one exists and falls back to the game's Text to Speech when it does not. Which voice says the words stops being the same question as what the words are. The shipped library is rendered with **`fr-FR-HenriNeural`** into `voice/frFR/`, and the folder read at play time is the client's own locale first, then `NARRATION_LANGUAGE` in `FlightNarrator.lua` — set to `frFR`, the language the library is written in. A French client therefore hears French, a client set to any other language still hears the narration instead of silence, and that one line plus a rendered folder moves the whole library to another language.
@@ -135,7 +135,7 @@ What it does today:
 
 What it does **not** do yet:
 
-- It does not know zones yet: every flight speaks the one destination line there is, keyed `elwynn`, whatever the taxi click reported. Chat says which destination it detected, so the gap is visible rather than silent.
+- It does not know zones yet: every flight speaks the one destination line there is, keyed `ratchet`, whatever the taxi click reported. Chat says which destination it detected, so the gap is visible rather than silent.
 - It has no lore database: `tools/lines.fr.txt` carries two lines, one of them the test sentence.
 - It does not queue announcements during a long flight, and does not speak for the zones it crosses on the way.
 
@@ -263,8 +263,48 @@ voice/frFR/          The shipped narration clips, one per line key (generated, a
 tools/lines.fr.txt   The narration lines, key|text, in French: the library itself.
 tools/lines.txt      The same keys in English, for rendering an English library.
 tools/Render-VoiceClips.ps1   Renders the lines into clips with edge-tts.
+tools/text_to_mp3.py   Turns one piece of text into one MP3 clip (edge-tts, OpenAI, or ElevenLabs).
 tools/SmokeTest.py   Loads the addon into embedded Lua and drives the commands and the flight events.
 ```
+
+## Generating narration audio (tools/text_to_mp3.py)
+
+`tools/text_to_mp3.py` turns one piece of text into one MP3 narration clip, in a
+deep, slow storyteller voice. It is the single-text companion to
+`tools/Render-VoiceClips.ps1`, and can use three engines with `--backend`:
+
+| Backend | Needs | Default voice (deep male) | Notes |
+| --- | --- | --- | --- |
+| `elevenlabs` | `ELEVENLABS_API_KEY` | `Antoni` (or any voice ID) | Most natural French intonation; a `[Lentement]` tag works on `eleven_v4`. |
+| `openai` | `OPENAI_API_KEY` | `onyx` | Steer intonation with a natural-language `--instructions` prompt. |
+| `edge` | none (free) | `fr-FR-HenriNeural` | Works out of the box; lower quality. |
+
+API keys are read from a `.env` file at the repo root (git-ignored) or from the
+environment. `--backend auto` (the default) uses ElevenLabs/OpenAI when a key is
+present and falls back to `edge`, so the tool always works:
+
+    OPENAI_API_KEY=sk-...
+    ELEVENLABS_API_KEY=sk-...
+
+    python -m pip install edge-tts          # only needed for the edge backend
+
+    # Free, no key:
+    python tools\text_to_mp3.py "Test du narrateur." -o voice\frFR\test.mp3
+
+    # OpenAI, deep storyteller voice:
+    python tools\text_to_mp3.py --backend openai --voice onyx --text-file narration.txt -o voice\frFR\ratchet.mp3
+
+    # ElevenLabs, "Martin Dupont" voice, reading slowly (tag in the text):
+    python tools\text_to_mp3.py --backend elevenlabs --voice a5n9pJUnAhX4fn7lx3uo --model eleven_v4 --text-file narration.txt -o voice\frFR\ratchet.mp3
+
+The text is read from the argument, `--text-file <path>`, or stdin, and is read
+whole, so for a draft file like `Ratchet.txt` (which also holds a title and
+metadata) pass just the narration paragraph. To make ElevenLabs read slowly,
+prefix the text with a square-bracket tag on the v3/v4 models, for example
+`[Lentement]` or `[Lentement, voix grave et posee de narrateur]`. List your
+ElevenLabs voices and their IDs with `GET https://api.elevenlabs.io/v1/voices`
+(header `xi-api-key: <key>`); a library voice like "Martin Dupont" needs a paid
+plan to be used through the API.
 
 ## Development notes
 
@@ -272,7 +312,7 @@ tools/SmokeTest.py   Loads the addon into embedded Lua and drives the commands a
 - **No build step, no dependencies.** Edit the `.lua` and `/reload` in game.
 - **Testing:** drop the folder in `World of Warcraft\_classic_era_\Interface\AddOns\`, enable it in the AddOns list, tick **Options → Accessibility → Text to Speech**, log in, and run `/fn`. Follow up with `/fn diag` if you hear nothing.
 - **Tooling, all optional:** `tools/Render-VoiceClips.ps1` renders narration clips (needs Python and `edge-tts`); `tools/SmokeTest.py` loads the addon into an embedded Lua runtime with mocked WoW APIs and drives every slash command and every flight event (needs Python and `lupa`). The second one is worth the dependency: it catches the class of mistake that otherwise only appears in game, such as calling a function that is not in scope yet.
-- **What "working" looks like:** chat shows `playing the shipped clip voice\frFR\elwynn.mp3 (no Text to Speech involved).` and you hear it. For a key with no clip it shows `speaking with the client's own helper: TextToSpeech_Speak(text, voice) ->` and then `the client started reading it aloud.` — and you hear the sentence. Anything else (a status code, or the text printed back) is the diagnosis, not a mystery.
+- **What "working" looks like:** chat shows `playing the shipped clip voice\frFR\ratchet.mp3 (no Text to Speech involved).` and you hear it. For a key with no clip it shows `speaking with the client's own helper: TextToSpeech_Speak(text, voice) ->` and then `the client started reading it aloud.` — and you hear the sentence. Anything else (a status code, or the text printed back) is the diagnosis, not a mystery.
 
 ## License
 
