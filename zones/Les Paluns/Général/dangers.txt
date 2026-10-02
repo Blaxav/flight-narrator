@@ -1,0 +1,9 @@
+Les dangers des marais
+======================
+
+Les Paluns sont un piège pour les imprudents. Les murlocs y tendent des embuscades dans les roseaux, les gnolls y pillent les voyageurs égarés, et les crocilisques y glissent sous l'eau sans un bruit. La boue avale les chariots, la brume cache les dangers, et les maladies rôdent dans les eaux stagnantes. Même les routes les plus sûres exigent une escorte et une vigilance de tous les instants. Les habitants ont appris à lire les signes : une eau trop calme, un chant de murloc, une piste fraîche. Les Paluns ne pardonnent pas l'erreur, et chaque traversée y est une épreuve. Et les plus prudents n'y avancent qu'en groupe, le regard sans cesse aux aguets.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : dangers

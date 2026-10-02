@@ -1,0 +1,9 @@
+Les menaces qui rôdent
+======================
+
+Autour de la Croisée, la plaine n'est jamais vraiment calme. Les centaures harcèlent les convois qui s'écartent de la route, les harpies fondent depuis les mesas du nord, et les sangliers Tranchebauge fouillent les broussailles en quête d'une proie facile. Chaque escorte est une promesse de sang, et les grunts le savent : la route est une frontière qu'il faut défendre mètre par mètre. Les tambours de guerre résonnent parfois au loin, annonçant un raid ou un retour de patrouille. Pourtant, la Croisée tient, parce que la Horde y concentre ses forces et que chacun y veille sur son voisin. Ici, la peur n'est pas une faiblesse : c'est ce qui garde les yeux ouverts et les lames prêtes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : menaces

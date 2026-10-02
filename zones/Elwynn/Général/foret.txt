@@ -1,0 +1,9 @@
+La forêt d'Elwynn
+=================
+
+La forêt d'Elwynn est le cœur vert du royaume de Hurlevent, une étendue de bois clairs, de clairières et de rivières où la lumière tombe doucement entre les feuilles. Les sentiers y sont bien tracés, les fermes y prospèrent, et l'on y respire un air de paix qui semble venu d'un autre âge. Pourtant, cette tranquillité est trompeuse : les gnolls rôdent, les bandits se cachent, et les vieilles menaces n'ont pas disparu. Elwynn reste malgré tout la terre des hommes, celle que l'on défend bec et ongles. C'est ici que les jeunes recrues font leurs premières armes, et que bien des héros ont grandi. La forêt d'Elwynn est une promesse de prospérité, pour peu qu'on sache la protéger.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : foret

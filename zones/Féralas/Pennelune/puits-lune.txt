@@ -1,0 +1,9 @@
+Le puits de lune
+================
+
+Au centre de Pennelune brille un puits de lune, source d'eau enchantée que les elfes de la nuit vénèrent depuis des millénaires. Ses eaux apaisent les blessures, purifient ce qui a été corrompu et rappellent la lumière d'Elune, la déesse de la Lune. Les prêtresses s'y recueillent à la tombée du jour, et l'on dit que la déesse y pose parfois son regard. Pour les Sentinelles, ce puits est plus qu'un symbole : c'est le cœur battant de la forteresse, la raison pour laquelle on se bat et on veille. Tant que ses eaux brillent, l'espoir demeure sur l'île. Pennelune n'est pas seulement défendue par des arcs et des lances, mais par une foi aussi ancienne que la Lune elle-même.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : puits-lune

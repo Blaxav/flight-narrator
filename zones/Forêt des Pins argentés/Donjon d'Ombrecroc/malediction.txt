@@ -1,0 +1,9 @@
+Le cœur de la malédiction
+=========================
+
+Le donjon d'Ombrecroc est le cœur de la malédiction des worgens. C'est là que les incantations d'Arugal ont résonné, là que les premières créatures ont vu le jour, là que la meute se rassemble à la lune pleine. Tant que la forteresse tiendra, la forêt des Pins argentés ne connaîtra pas le repos. Les hurlements qui s'en échappent rappellent à chaque village que la bête n'est jamais loin. Certains rêvent de la raser, d'autres de la purifier, mais nul n'y parvient. Ombrecroc est une plaie ouverte sur la région, la preuve qu'une seule folie peut empoisonner toute une terre, et que les murs les plus solides ne protègent pas des monstres qu'on y invente. Et chaque porte refermée y devient un piège de plus.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : malediction

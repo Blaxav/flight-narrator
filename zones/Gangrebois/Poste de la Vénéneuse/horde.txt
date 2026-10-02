@@ -1,0 +1,9 @@
+L'intérêt de la Horde
+=====================
+
+Pourquoi la Horde maintient-elle un poste dans un enfer comme Gangrebois ? Parce que la corruption n'est pas seulement une menace, c'est aussi un avertissement. Les chefs de la Horde veulent comprendre ce mal qui a failli emporter le monde, et s'assurer qu'il ne s'étende pas aux terres voisines. Le Poste de la Vénéneuse sert de poste d'observation, de relais et de base pour frapper les démons. On y échange aussi des ressources rares, cueillies dans les zones corrompues. Mais surtout, ce poste rappelle que la Horde ne laisse pas un territoire à l'abandon, même quand ce territoire est maudit. La vigilance y est une arme. Le silence des bois n'y est jamais un répit, seulement une ruse.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : horde

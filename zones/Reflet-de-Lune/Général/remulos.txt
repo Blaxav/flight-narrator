@@ -1,0 +1,9 @@
+Rémulos, le gardien du bosquet
+==============================
+
+Rémulos est le gardien de Reflet-de-Lune, un des enfants de Cénarius, ces êtres mi-cerfs mi-elfes qui veillent sur les forêts. Il se tient au bord du lac, imposant et serein, et accueille les voyageurs qui viennent chercher conseil. Sa sagesse est immense, car il se souvient de temps où les mortels n'étaient pas encore. Les druides le respectent comme un maître, et les bêtes s'approchent de lui sans crainte. Rémulos est l'âme de la vallée, la preuve que la nature a ses seigneurs, patients et bienveillants, et qu'ils veillent encore sur les vivants.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : remulos

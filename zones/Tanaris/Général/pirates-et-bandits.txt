@@ -1,0 +1,9 @@
+Pirates et bandits des sables
+=============================
+
+Tanaris n'est pas seulement un désert : c'est un repaire. Sur ses côtes sud, des pirates gobelins et des flibustiers de tout poil cachent leurs navires dans les criques, et leurs campements jalonnent le rivage comme des plaies. À l'intérieur des terres, des bandits du désert tendent leurs embuscades aux caravanes, dépouillant les voyageurs avant de disparaître dans les dunes, sans laisser plus de trace qu'un nuage de sable. Ces hors-la-loi connaissent les pistes mieux que les marchands, et ils frappent vite, sans pitié ni remords. La route de Gadgetzan est jalonnée de carcasses de chariots et d'histoires de convois perdus. Le désert ne juge personne : il offre aux voleurs autant qu'aux négociants, et chacun y joue sa vie sur le sable.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : pirates-et-bandits

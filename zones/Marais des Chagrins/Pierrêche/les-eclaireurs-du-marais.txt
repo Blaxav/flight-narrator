@@ -1,0 +1,9 @@
+Les éclaireurs du marais
+========================
+
+Depuis Pierrêche partent chaque jour des éclaireurs chargés de cartographier le marais et de surveiller les routes. Ils connaissent les sentiers à demi noyés, les racines qui affleurent et les criques où dorment les crocilisques. Leurs rapports remontent au chef du poste : déplacements des murlocs, apparitions de dragons verts, mouvements suspects près du Temple englouti. Certains poussent jusqu'aux Terres foudroyées, d'où ils reviennent le visage gris de poussière démoniaque. Ces éclaireurs se déplacent en silence, le carquois à l'épaule, la dague enduite de venin. On les reconnaît à leurs bottes de cuir souple et à leur façon de toujours marcher sur les pierres plutôt que dans l'eau. Grâce à eux, la Horde garde une longueur d'avance sur les dangers du sud.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-eclaireurs-du-marais

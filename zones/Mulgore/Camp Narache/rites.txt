@@ -1,0 +1,9 @@
+Les rites de passage
+====================
+
+Les rites de passage commencent à Camp Narache. Chaque jeune tauren doit prouver sa valeur par la chasse, la course et l'écoute des esprits avant de quitter le plateau. On lui confie des épreuves simples mais sacrées : rapporter la dépouille d'un grand oiseau coureur, lire les traces d'un loup, allumer un feu sans aide. Les anciens observent sans juger, car la terre révèle seule ceux qui sont prêts. Ces rites ne sont pas des concours, mais des reconnaissances : ils disent à l'enfant qu'il a sa place parmi les siens. Les rites de Camp Narache sont la première marche d'un long chemin, la preuve que devenir tauren ne se décrète pas, mais se mérite.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : rites

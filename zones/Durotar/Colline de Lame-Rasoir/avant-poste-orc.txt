@@ -1,0 +1,9 @@
+L'avant-poste orc
+=================
+
+Colline de Lame-Rasoir est le premier grand avant-poste que la Horde bâtit en Durotar, une bourgade orque dressée sur une colline rouge, au milieu des terres arides. Ses murs de bois et ses tours de guet se découpent sur le ciel brûlant, et l'on y entend le fracas des forges et les cris des jeunes recrues. C'est un lieu de travail et d'entraînement, où les orcs ont posé leurs fondations après l'exode. Les voyageurs y trouvent des maîtres d'armes, des artisans et des quêtes qui forgent les nouveaux venus. Colline de Lame-Rasoir n'a pas la majesté d'Orgrimmar, mais elle en est le prolongement, la première sentinelle de la Horde face aux étendues sauvages de Durotar, et la première école de ses guerriers.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : avant-poste-orc

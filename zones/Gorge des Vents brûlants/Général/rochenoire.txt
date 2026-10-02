@@ -1,0 +1,9 @@
+L'ombre du Pic Rochenoire
+=========================
+
+Au sud de la gorge des Vents brûlants se dresse le Pic Rochenoire, la montagne noire qui abrite les profondeurs les plus dangereuses du monde. C'est là que Ragnaros a établi sa cour, et là que les clans nains, les orcs et les dragons noirs se livrent des guerres souterraines. La gorge n'est que l'antichambre de ce géant : tout ce qui s'y passe prépare ou subit les événements du Pic. Les routes qui y mènent sont empruntées par des armées, des espions et des aventuriers. La gorge des Vents brûlants vit à l'ombre du Pic Rochenoire, comme une braise posée au pied d'un volcan plus terrible encore. Et nul ne s'en approche sans sentir peser sur lui un regard de braise.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : rochenoire

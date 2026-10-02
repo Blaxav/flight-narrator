@@ -1,0 +1,9 @@
+Un seuil entre deux mondes
+==========================
+
+Le Village de Rut'theran est un lieu de passage, où la mer et l'Arbre-monde se rencontrent et se répondent. Les voyageurs y arrivent par les flots ou par les airs, et repartent vers les cimes ou les rivages, selon les appels qui les guident. C'est un carrefour suspendu entre deux mondes : celui des hommes, des navires et des ports, et celui des elfes, des feuillages et des temples. Les gardes y veillent jour et nuit, car tout ce qui entre à Teldrassil passe par ce seuil, ami comme ennemi. Pourtant, la paix y règne, douce et maritime, bercée par le ressac et le cri des mouettes. Rut'theran rappelle que les elfes de la nuit, si haut perchés, n'ont jamais oublié la mer qui borde leur île. Ici, chaque départ est un adieu, chaque arrivée un retour.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : seuil

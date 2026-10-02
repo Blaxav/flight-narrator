@@ -1,0 +1,9 @@
+L'avant-poste tauren
+====================
+
+Camp Taurajo se dresse au sud des Tarides, à la croisée des pistes qui mènent à Mulgore, aux Mille Pointes et au cœur de la plaine. C'est un avant-poste tauren, fait de tentes de cuir et de bois, posé sur la savane comme un village de chasseurs. Ici, la Horde trouve un refuge, de l'eau et des feux de camp avant d'affronter les longues routes. Les Taurens y ont dressé leurs autels et leurs guetteurs, et l'on y entend la langue lente des anciens. Le camp n'a ni hautes murailles ni tours de pierre : sa force est ailleurs, dans la patience de ceux qui y veillent. Camp Taurajo est la dernière halte sûre avant les terres arides, et pour beaucoup de voyageurs, la première respiration au sortir de Mulgore.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : avant-poste

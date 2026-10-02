@@ -1,0 +1,9 @@
+L'émeute des détenus
+====================
+
+Une émeute a éclaté dans la Prison de Hurlevent, et nul ne l'a encore étouffée. Les détenus ont brisé leurs chaînes, submergé les gardes et pris possession des couloirs, transformant les cellules en bastions. Des bandits, des tueurs et des fous y rôdent désormais en liberté, et l'on craint qu'ils ne finissent par forcer les portes vers la ville. La milice a fermé les accès, mais la menace gronde sous les pavés. On raconte que des meneurs organisent la révolte, et que la Confrérie des Défias y a sa part. L'émeute de la Prison est une plaie ouverte au ventre de la capitale, et il faudra descendre dans l'ombre pour la refermer et en arracher les racines.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : emeute

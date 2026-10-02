@@ -1,0 +1,9 @@
+La vie dans les steppes
+=======================
+
+Vivre à la Veille de Morgan, c'est accepter une existence rude, entre la chaleur du jour et les dangers de la nuit. On y rationne l'eau, on y répare sans cesse les murs, et l'on y dort l'arme à portée de main. Les soldats s'y relaient, épuisés par un climat qui use les corps et les volontés. Pourtant, une certaine fierté y règne, celle des garnisons de frontière qui tiennent parce qu'il le faut. La Veille de Morgan est un îlot d'ordre dans un océan de cendres, un endroit où l'on apprend que la bravoure n'est pas toujours une bataille, mais souvent une longue attente sous un ciel de feu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-vie-dans-les-steppes

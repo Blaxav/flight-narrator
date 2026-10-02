@@ -1,0 +1,9 @@
+Le souvenir d'une cité
+======================
+
+Ameth'Aran fut autrefois une cité vivante, un relais entre les forêts et la mer, où les elfes commerçaient, priaient et veillaient sur la côte. Ses artisans travaillaient le bois et la nacre, ses prêtresses honoraient Elune, et ses tours guidaient les navires. Puis vint la nuit où tout s'éteignit, et la cité entra dans la légende. On en parle comme d'un avertissement, mais on ne sait plus contre quoi. L'histoire d'Ameth'Aran est un souvenir brisé, la preuve que la mémoire des elfes, pourtant longue, a parfois des trous que le temps n'a pas comblés.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : histoire

@@ -1,0 +1,9 @@
+Les sangliers Tranchebauge
+==========================
+
+Les sangliers Tranchebauge sont des hommes-porcs à l'échine hérissée de lames, aussi féroces que leurs cousins des forêts. Ils creusent leurs tanières dans les épines du sud des Tarides, et leur société s'ordonne autour des Souilles de Tranchebauge, une citadelle de ronces et de boue. Ces créatures ne négocient pas : elles pillent, dévorent et se replient dans leurs terriers. Leurs soies tranchantes leur servent d'armure, et leurs groins déterrent aussi bien les racines que les cadavres. Ils haïssent les Taurens, qui leur disputent les points d'eau, et s'en prennent à tout ce qui marche sur deux jambes. On dit que leurs chamans parlent aux esprits de la fange et qu'aucun pacte ne tient avec eux. Dans les Tarides, un buisson qui remue annonce souvent plus qu'un simple sanglier.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sangliers-tranchebauge

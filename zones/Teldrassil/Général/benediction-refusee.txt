@@ -1,0 +1,9 @@
+La bénédiction refusée
+======================
+
+Contrairement à Nordrassil, Teldrassil ne fut jamais béni par les Aspects, ces grands dragons gardiens d'Azeroth. Les elfes de la nuit l'apprirent avec amertume : leur nouvel Arbre-monde, si vaste soit-il, demeurait imparfait, et l'immortalité ne leur fut pas rendue. Des ombres s'y glissèrent, des corruptions s'y enracinèrent, et la magie qui le fit croître ne suffit pas à le purifier. Certains y virent le signe qu'aucun peuple ne peut refaire ce que le destin a défait, ni arracher au ciel une bénédiction refusée. D'autres, Fandral en tête, refusèrent ce verdict et s'enfermèrent dans l'orgueil. Teldrassil reste ainsi un Arbre-monde inachevé, une promesse suspendue entre le ciel et l'abîme. Sa beauté n'en est pas moins réelle, mais elle porte en elle une blessure discrète, une fêlure qui ne se referme pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : benediction-refusee

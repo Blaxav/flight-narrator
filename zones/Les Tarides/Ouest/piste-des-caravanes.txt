@@ -1,0 +1,9 @@
+La piste des caravanes
+======================
+
+Une piste discrète file à travers l'ouest des Tarides, reliant la Croisée aux Serres-Rocheuses. Moins large que la Route de l'Or, elle est empruntée par les caravanes qui montent chercher le bois et les minerais, et par les courriers pressés. Elle se faufile entre les mesas, longe des ravins et traverse des étendues où nul ne s'attarde. Les conducteurs y gardent le silence, l'oreille tendue vers le moindre galop, car les centaures connaissent chaque détour mieux qu'eux. Cette piste est une artère secondaire, mais vitale : sans elle, les montagnes seraient coupées de la plaine. Dans l'ouest, suivre la piste des caravanes, c'est marcher sur un fil tendu au-dessus des crocs, des ravins et des ombres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : piste-des-caravanes

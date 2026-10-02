@@ -1,0 +1,9 @@
+La cité des greniers
+====================
+
+Au centre des Maleterres de l'ouest, Andorhal dresse ses silos crevés et ses moulins immobiles comme les vertèbres d'un géant abattu. Jadis plaque tournante du commerce des grains, la ville alimentait des provinces entières de Lordaeron. Aujourd'hui, ses tours à grains s'effritent sous le lierre noir, ses rues sont labourées par les charrois abandonnés et ses entrepôts abritent des nids de morts-vivants. Un brouillard bas colle aux murs, charriant une odeur de farine moisie et de putréfaction. Les deux factions s'y disputent des positions, car Andorhal commande les routes et les ponts de la région. Mais ni la Horde ni l'Alliance n'ose y dormir, et les sentinelles montent la garde l'arme à la main, l'œil fixé sur les ombres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-cite-des-greniers

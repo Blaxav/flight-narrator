@@ -1,0 +1,9 @@
+Le nom de Tirisfal
+==================
+
+Le nom de Tirisfal remonte à des temps très anciens, à l'ordre secret des mages qui protégeait Azeroth dans l'ombre. Ce conseil, le Conseil de Tirisfal, créa le Gardien, un champion chargé de défendre le monde contre la Légion ardente et ses démons, sans que nul ne le sache. C'est de cette lignée que vint Médivh, le dernier Gardien, dont la trahison ouvrit la voie aux orcs et à la Première Guerre. La région porte donc un nom chargé de pouvoir et de mystère, celui d'une confrérie disparue mais non oubliée. Les Clairières de Tirisfal en gardent la trace, comme un écho dans la brume qui ne se dissipe jamais. Ici, l'histoire des mages et des démons se mêle à celle de la terre, et le nom lui-même est un avertissement.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-nom-de-tirisfal

@@ -1,0 +1,9 @@
+La Confrérie du thorium
+=======================
+
+La Confrérie du thorium est une guilde de nains qui a choisi la liberté. Beaucoup de ses membres sont d'anciens Sombrefer, qui ont refusé de plier le genou devant Ragnaros. Ils se sont installés dans la gorge des Vents brûlants, sur les terres mêmes de leurs anciens maîtres, pour y bâtir autre chose : une communauté de forgerons et de mineurs libres. Leur connaissance des profondeurs est immense, et ils la mettent au service de ceux qui combattent le feu. Mais leur trahison leur vaut une haine tenace des Sombrefer. La Confrérie vit donc armée, prête à défendre son rêve de liberté au milieu des braises. Leur liberté a le goût âcre de la fumée, mais ils la préfèrent à la servitude.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : confrerie

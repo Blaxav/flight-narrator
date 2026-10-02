@@ -1,0 +1,9 @@
+Le manoir de Ravenholdt
+=======================
+
+Perdu dans les replis des montagnes d'Alterac se cache le manoir de Ravenholdt, un domaine discret que peu de voyageurs trouvent sans guide. On murmure que s'y réunit une guilde d'assassins et de voleurs d'élite, ceux que la lumière n'éclaire jamais et que les rois paient en secret. Derrière ses murs de pierre, on enseigne l'art de la lame, du poison et de l'ombre, et l'on recrute parmi les plus habiles. Les habitants de la région n'en parlent qu'à voix basse, car il vaut mieux ignorer ce qui s'y trame. Ravenholdt est le secret de la montagne, la preuve que certaines puissances préfèrent l'ombre, et qu'un manoir sans blason peut abriter la plus redoutable des confréries.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : manoir-ravenholdt

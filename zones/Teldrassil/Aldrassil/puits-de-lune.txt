@@ -1,0 +1,9 @@
+Le puits de lune
+================
+
+Au cœur d'Aldrassil scintille un puits de lune, cette source sacrée où les elfes de la nuit puisent l'eau enchantée de Teldrassil. Sa lueur argentée apaise les blessures, éclaire les nuits et nourrit la magie des druides et des prêtresses. On s'y recueille en silence, on y prie Elune, et l'on y puise de quoi soigner, bénir et protéger. Les puits de lune sont les veines de l'Arbre-monde, des points où la puissance de la nature affleure à la surface du monde. Les habitants les gardent avec une ferveur tranquille, car ils savent que sans eux, le village dépérirait comme une branche privée de sève. Aldrassil s'ordonne autour de cette clarté, comme une famille se rassemble autour d'un foyer. C'est là que bat, paisiblement, le cœur du village.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : puits-de-lune

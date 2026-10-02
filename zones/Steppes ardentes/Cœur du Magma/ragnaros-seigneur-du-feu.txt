@@ -1,0 +1,9 @@
+Ragnaros, Seigneur du feu
+=========================
+
+Ragnaros est un Seigneur élémentaire, une force ancienne née du feu primitif du monde, et le maître absolu du Cœur du Magma. Les nains Sombrefer l'invoquèrent il y a près de trois siècles, espérant en faire une arme, mais ils ne firent qu'éveiller un tyran. Ragnaros ne connaît ni pitié ni alliance : il brûle, et c'est tout. Il rêve de réduire Azeroth en cendres et d'en faire un brasier éternel. Son nom est murmuré comme une prière par ses adorateurs et comme une malédiction par ses ennemis. Le Seigneur du feu n'est pas un roi : c'est un cataclysme qui a appris à penser, et qui attend son heure sous la montagne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ragnaros-seigneur-du-feu

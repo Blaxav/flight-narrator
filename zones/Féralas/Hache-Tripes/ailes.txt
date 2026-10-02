@@ -1,0 +1,9 @@
+Les trois ailes de la cité
+==========================
+
+Hache-Tripes se divise en trois ailes, chacune gardée par une horreur différente. À l'est, la végétation a repris ses droits : les racines percent les dalles et des créatures rampantes grouillent dans l'ombre. À l'ouest, les fantômes des bien-nés errent entre les bibliothèques effondrées et les fontaines taries, prisonniers de leurs souvenirs. Au nord, les ogres Gordok ont établi leur cour brutale, où le roi trône au milieu des coffres et des gardes. Chaque aile est un piège, chaque salle un tombeau, et les passages qui les relient réservent leurs propres malédictions. Ceux qui s'y aventurent doivent savoir lire les signes, sinon ils rejoignent les ombres qui peuplent les couloirs. La cité ne pardonne pas l'imprudence.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ailes

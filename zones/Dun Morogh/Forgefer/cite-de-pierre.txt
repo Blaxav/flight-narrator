@@ -1,0 +1,9 @@
+La cité de pierre
+=================
+
+Forgefer n'a pas été bâtie : elle a été creusée, taillée à même la montagne, dans le granit des pics de Dun Morogh. Ses avenues immenses s'ouvrent sous la roche, éclairées par le rougeoiement des forges et la lueur des brasiers. On y entre par des portes monumentales, et l'on descend dans un labyrinthe de salles, de quartiers et de galeries où résonne sans cesse le marteau des forgerons. La cité est un chef-d'œuvre d'ingénierie naine, chaude malgré la neige qui l'entoure, solide comme la montagne qui l'abrite. Forgefer est plus qu'une capitale : c'est le cœur battant de Khaz Modan, un refuge de pierre et de feu où le peuple des nains a fait de la roche son royaume et de la forge sa fierté.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cite-de-pierre

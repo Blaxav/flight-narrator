@@ -1,0 +1,9 @@
+La terre grise de Désolace
+==========================
+
+Depuis les airs, Désolace apparaît comme une immense plaine grise, ravinée de canyons et semée d'os blanchis, où la végétation semble avoir renoncé depuis des siècles. Le soleil y frappe une terre craquelée, et les rares arbres se dressent comme des squelettes au bord des pistes. Pourtant, cette désolation n'a rien d'un désert : c'est une région écrasée entre les montagnes et la mer, traversée par des chemins poussiéreux que se disputent les centaures. Les kodos y errent en troupeaux, et les charognards tournoient dans un ciel sans nuages. On raconte que la terre elle-même y est malade, rongée par une magie ancienne. Désolace porte bien son nom, mais derrière cette grisaille se cachent des secrets que peu de voyageurs reviennent raconter.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : terre-grise

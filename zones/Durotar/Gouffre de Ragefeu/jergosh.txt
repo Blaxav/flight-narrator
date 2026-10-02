@@ -1,0 +1,9 @@
+Jergosh l'Invocateur
+====================
+
+Jergosh l'Invocateur est l'un des meneurs de la Lame Ardente dans le Gouffre de Ragefeu. Magicien puissant et cruel, il consacre ses nuits à appeler des démons et à percer les secrets du feu. On raconte qu'il fut autrefois un chaman, avant de se détourner des esprits pour embrasser des forces plus sombres. Sa voix résonne dans les galeries, et ses serviteurs lui obéissent au doigt et à l'œil. Jergosh est la preuve que la corruption ne vient pas toujours de l'extérieur : elle naît aussi dans le cœur de ceux qui cèdent à la tentation du pouvoir. Le vaincre, c'est priver la secte d'un de ses piliers et rappeler que la magie, sans sagesse, mène au gouffre et au néant.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : jergosh

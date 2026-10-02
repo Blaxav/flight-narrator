@@ -1,0 +1,9 @@
+Le sanctuaire noyé
+==================
+
+Le Temple englouti d'Atal'Hakkar s'enfonce dans la vase du Marais des Chagrins comme un reptile endormi. Ses murs de pierre moussue, ornés de serpents et de masques trolls, émergent à peine des eaux sombres, et ses escaliers descendent vers des salles que la lumière n'a jamais touchées. L'humidité y suinte de chaque fissure, et l'air y sent la pourriture végétale et l'encens ancien. Les explorateurs y progressent sur des passerelles branlantes, entre des bassins d'eau noire et des idoles aux yeux de jade. Le temple fut bâti pour célébrer Hakkar l'Écorcheur d'âmes, et tout son plan converge vers le sanctuaire central où le dieu sanguinaire attend son retour. C'est un monument à la folie d'un culte, englouti pour ne pas être oublié.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-sanctuaire-noye

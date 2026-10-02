@@ -1,0 +1,9 @@
+Les cavernes sacrées
+====================
+
+Maraudon est un labyrinthe de cavernes creusé au cœur des collines de Désolace, là où la roche est rose et les sources sont tièdes. Ce n'est pas une simple grotte : c'est un temple naturel, un sanctuaire que la terre elle-même semble avoir façonné au fil des siècles. Des cascades y coulent sur la pierre, et une lumière étrange y filtre à travers les failles. C'est ici que naquit la race des centaures, et c'est ici que repose leur père, le gardien Zaetar. Mais le sanctuaire s'est corrompu : la magie qui l'habitait s'est retournée contre la nature, et les créatures qui le gardaient sont devenues folles. Maraudon est à la fois un berceau et un tombeau, un lieu où la beauté et la corruption ne font plus qu'un.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cavernes

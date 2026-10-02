@@ -1,0 +1,9 @@
+Amnennar le Porte-Froid
+=======================
+
+Au cœur des Souilles de Tranchebauge plane Amnennar le Porte-Froid, une liche dont le souffle gèle la pierre. C'est lui, racontent les récits, qui a détourné les quilboars des Downs vers la nécromancie, leur soufflant les secrets des morts en échange de leur allégeance. Son corps n'est plus qu'un souvenir, enveloppé de frimas et de maléfices, et sa voix résonne dans les crânes de ceux qui l'approchent. Il commande aux squelettes et aux esprits comme un maître à ses élèves, et sa phylactère, cachée quelque part dans les profondeurs, le garde lié au monde. Abattre Amnennar est un exploit que peu revendiquent, car sa magie de glace fige les membres et brise les volontés. Mais tant qu'il subsiste, les Downs resteront un royaume de givre et de mort.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : amnennar-le-porte-froid

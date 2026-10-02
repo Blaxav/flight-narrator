@@ -1,0 +1,9 @@
+Les worgens
+===========
+
+Les worgens sont les créatures qui hantent le Bois de la Pénombre, des hommes-loups dont la morsure transmet la malédiction. On les voit rôder entre les arbres, la nuit, leurs yeux brillant dans l'obscurité. Leur origine est mystérieuse : certains les disent nés d'une malédiction ancienne, d'autres les rattachent au mage Arugal et à ses expériences. Ce qui est sûr, c'est que leur nombre ne cesse de croître, et que nul ne sort indemne d'une rencontre avec eux. Les veilleurs de la Garde de la Nuit les traquent sans relâche, mais pour chaque worgen abattu, un autre semble surgir. Les worgens sont la peur incarnée du bois, la preuve que la frontière entre l'homme et la bête peut se franchir, et qu'elle ne se refranchit pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : worgens

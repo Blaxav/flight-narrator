@@ -1,0 +1,9 @@
+Les oasis de la vie
+===================
+
+Au centre des Tarides, les oasis percent la savane comme des émeraudes, et leurs eaux ne sont pas ordinaires. Elles montent des profondeurs des Cavernes des lamentations, chargées d'une énergie de vie qui fait pousser les plantes et grandir les bêtes. Les voyageurs s'y arrêtent pour boire, mais la prudence est de mise : ce qui prospère dans ces mares prospère parfois trop vite, et les prédateurs le savent. On raconte que ces sources sont l'héritage des rêves d'un druide, un espoir de reverdir la terre qui s'est retourné contre lui. Les oasis sont ainsi le cœur double des Tarides, à la fois promesse de fraîcheur et piège tendu. Chaque point d'eau y est une frontière, et chaque gorgée peut y être la dernière.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : oasis

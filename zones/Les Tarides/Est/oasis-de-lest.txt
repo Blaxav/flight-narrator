@@ -1,0 +1,9 @@
+Les oasis de l'est
+==================
+
+L'est des Tarides n'est pas qu'une mer d'herbes sèches : il est piqué d'oasis où la vie se concentre. Autour de ces mares, les palmes s'élèvent, les bêtes viennent boire, et l'air se charge d'une fraîcheur presque irréelle. Ces eaux remontent des profondeurs et portent une énergie qui fait prospérer plantes et créatures, mais aussi les plus dangereuses d'entre elles. Les voyageurs s'y reposent un instant, l'arme à portée de main, car les prédateurs y ont leurs habitudes. Chaque oasis est un petit royaume, disputé par les fauves, les sangliers et les chasseurs. Dans l'est des Tarides, l'eau est une monnaie, et l'on ne s'y abreuve que sous bonne garde, et l'arme toujours à la ceinture.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : oasis-de-lest

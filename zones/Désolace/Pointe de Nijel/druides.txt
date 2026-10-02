@@ -1,0 +1,9 @@
+Les druides de la pointe
+========================
+
+Quelques druides elfes de la nuit séjournent à la Pointe de Nijel, attirés par le mal qui ronge Désolace. Ils étudient la terre malade, prélèvent des échantillons et tentent de comprendre d'où vient la corruption. Leur présence apaise les voyageurs, car leurs remèdes guérissent les fièvres et leurs sorts font repousser quelques herbes dans la poussière. Mais ils ne cachent pas leur inquiétude : la maladie de cette terre est profonde, et leurs pouvoirs ne suffisent pas à l'arrêter. Certains rêvent de purifier Maraudon, d'autres préparent des rituels plus anciens encore. Les druides de la pointe sont la conscience vivante de Désolace, le rappel que même une terre grise peut, si l'on ne l'abandonne pas, espérer reverdir un jour.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : druides

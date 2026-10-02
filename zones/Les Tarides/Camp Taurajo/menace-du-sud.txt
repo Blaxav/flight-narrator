@@ -1,0 +1,9 @@
+La menace du sud
+================
+
+Aux abords de Camp Taurajo, la savane se fait plus dure et les dangers plus pressants. Au sud-est s'étendent les Souilles de Tranchebauge, repaire des sangliers à l'échine de lames, qui remontent la nuit pour razzier les convois. Plus loin, la terre se brise en canyons vertigineux : les Mille Pointes, où les routes se resserrent et où les embuscades deviennent mortelles. Les guetteurs du camp veillent donc sans relâche, l'œil fixé sur l'horizon, et chaque caravane qui part est escortée comme un trésor. Camp Taurajo n'est pas un simple village : c'est un verrou posé sur le sud, la sentinelle qui tient la porte entre Mulgore et les terres hostiles. Si le camp tombe, la route du sud s'éteint avec lui.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : menace-du-sud

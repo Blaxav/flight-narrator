@@ -1,0 +1,9 @@
+Le carrefour des Tarides
+========================
+
+La Croisée est le point où les routes des Tarides se rencontrent et où la Horde a planté son drapeau. Ici se croisent la Route de l'Or, la piste qui monte vers Orgrimmar et celle qui descend vers Mulgore, et ce simple croisement est devenu un avant-poste vital. Ce n'est pas une ville, mais un camp de bois et de peaux, hérissé de tours de guet et battu par la poussière. Pourtant, tout ce que la Horde possède passe par là : les vivres, les armes, les troupes et les nouvelles. Les grunts y montent la garde, les tambours y rythment les patrouilles, et les voyageurs y trouvent un feu et un conseil. La Croisée est le cœur battant des Tarides, le carrefour où la survie se joue à chaque convoi.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : carrefour

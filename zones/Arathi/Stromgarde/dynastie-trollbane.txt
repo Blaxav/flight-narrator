@@ -1,0 +1,9 @@
+La dynastie Trollbane
+=====================
+
+La dynastie des Trollbane a régné sur Stromgarde pendant des générations, tirant son nom des guerres contre les trolls qu'elle mena sans relâche. Ces rois guerriers ont fait de la cité un rempart, et leur lignée était réputée pour sa bravoure et sa dureté. Le dernier grand souverain, Thoras Trollbane, fut l'un des fondateurs de l'Alliance et un héros de la Deuxième Guerre. Sa hache, si l'on en croit les chansons, tranchait les trolls comme on fauche le blé. Mais les rois passent, et la lignée s'est éteinte dans le sang et la trahison. Les Trollbane ont bâti une cité qu'ils croyaient éternelle, et pourtant il n'en reste que des ruines. La gloire d'une dynastie ne survit pas toujours à ses héritiers.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : dynastie-trollbane

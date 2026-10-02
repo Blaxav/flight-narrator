@@ -1,0 +1,9 @@
+Le nom de Grom Hurlenfer
+========================
+
+Le camp de Grom'gol porte le nom de Grom Hurlenfer, le chef du clan Chanteguerre, l'un des héros les plus redoutés et les plus aimés de la Horde. C'est lui qui, le premier, but le sang de Mannoroth et livra les orcs à la soif démoniaque, puis qui racheta cette faute en abattant le démon et en libérant son peuple. Grom mourut en héros, et Thrall fit graver son nom dans la mémoire de la Horde. Ce camp, planté au cœur d'une jungle hostile, est un hommage à sa fureur et à son courage. Ici, on se souvient que la liberté des orcs a coûté cher, et que les plus grands guerriers sont ceux qui tombent debout.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-nom-de-grom-hurlenfer

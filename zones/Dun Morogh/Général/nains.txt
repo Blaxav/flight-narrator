@@ -1,0 +1,9 @@
+Le peuple des nains
+===================
+
+Les nains de Dun Morogh sont un peuple de forgerons, de mineurs et de guerriers, dont l'histoire plonge dans les profondeurs des titans. Têtus, loyaux et braves, ils ont fait de la montagne leur alliée et de la forge leur religion. Leur barbe est leur fierté, leur bière est leur remède, et leur parole vaut serment. Ils descendent des peuples de Khaz Modan, et gardent jalousement les traditions de leurs ancêtres. La guerre les a endurcis, la perte de Gnomeregan les a marqués, mais ils n'ont rien perdu de leur entêtement. Un nain ne recule pas, ne trahit pas, n'abandonne pas. Dun Morogh est leur domaine, et quiconque s'y aventure découvre vite que sous la neige bat un cœur de fer.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : nains

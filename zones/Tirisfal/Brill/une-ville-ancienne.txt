@@ -1,0 +1,9 @@
+Une ville ancienne
+==================
+
+Avant la chute de Lordaeron, Brill était une bourgade humaine, vivante et prospère, au carrefour des routes du royaume. On y trouvait des fermes, des moulins et des marchés, et le bruit des charrettes y résonnait du matin au soir, dans une odeur de foin et de pain. Puis vint le Fléau, et la peste, et la mort, qui fauchèrent les habitants et vidèrent les rues en quelques semaines. La bourgade fut ravagée, ses toits effondrés, ses foyers éteints. Les Réprouvés la relevèrent ensuite, en firent un bastion, mais les pierres se souviennent de ce qu'elles ont vu. Certains murs portent encore les marques de l'ancien monde, et l'on devine, sous la suie, la trace des foyers d'autrefois. Brill est une mémoire, une ville qui a changé de maîtres sans changer de pierres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : une-ville-ancienne

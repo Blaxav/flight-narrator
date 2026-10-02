@@ -1,0 +1,9 @@
+L'ombre de Lordaeron
+====================
+
+La forêt des Pins argentés porte encore l'ombre de Lordaeron, le royaume humain qui fut jadis le cœur du monde. Avant la Troisième Guerre, ces collines étaient des terres de fermes et de villages, où les cloches des temples rythmaient les saisons. Le Fléau a tout emporté : les familles ont fui, les moissons ont pourri sur pied, et les cimetières se sont ouverts. Aujourd'hui, les ruines des hameaux se dressent parmi les pins, et les routes désertes ne mènent plus qu'à des souvenirs. La forêt est devenue un mémorial à ciel ouvert, le témoignage de ce que la peste et la guerre font aux royaumes des hommes. Lordaeron n'est plus, mais son ombre demeure, accrochée aux branches.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : lordaeron

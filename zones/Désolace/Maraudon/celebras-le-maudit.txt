@@ -1,0 +1,9 @@
+Celebras le Maudit
+==================
+
+Celebras fut autrefois un gardien de la nature, un protecteur des lieux sacrés, chargé de veiller sur le sanctuaire de Maraudon. Mais la corruption qui suinte des profondeurs a fini par l'atteindre, et il erre désormais dans les cavernes, l'esprit dévoré par un mal qu'il ne comprend plus. Il n'est ni tout à fait mort ni tout à fait vivant, et sa voix appelle à l'aide ceux qu'il attaque pourtant. On raconte qu'il cherche encore à purifier Maraudon, sans se rendre compte qu'il est devenu lui-même une partie de la souillure. Celebras est l'exemple de ce que la terre corrompue fait aux plus fidèles de ses serviteurs : elle ne les tue pas, elle les change. Ce qui fut un protecteur est devenu un gardien de la ruine.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : celebras-le-maudit

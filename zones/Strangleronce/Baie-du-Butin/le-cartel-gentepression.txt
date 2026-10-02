@@ -1,0 +1,9 @@
+Le Cartel Gentepression
+=======================
+
+La Baie-du-Butin appartient au Cartel Gentepression, le grand réseau gobelin dont les comptoirs couvrent Azeroth. Le Cartel n'a qu'une loi, l'or, et qu'une méthode, le profit. Ses matons patrouillent les quais, ses agents collectent leur part sur chaque affaire, et sa neutralité est affichée comme une promesse : ici, Horde et Alliance peuvent commercer sans s'égorger. Le Cartel ne prend parti pour personne, sauf pour lui-même. Cette neutralité intéressée a fait de la Baie-du-Butin un havre où les ennemis se croisent en serrant leur bourse. Le Cartel Gentepression règne sans couronne, et la seule révolution qu'il redoute, c'est une grève des pièces d'or.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-cartel-gentepression

@@ -1,0 +1,9 @@
+La Ligue des Explorateurs
+=========================
+
+Dans la Salle des Explorateurs de Forgefer, la Ligue des Explorateurs rassemble les esprits les plus curieux du royaume. Archéologues, cartographes et chasseurs de reliques y préparent des expéditions vers les ruines du monde, à la recherche des secrets des anciens. C'est ici que naquirent de grandes découvertes sur les titans et les civilisations disparues, et que se forgent les légendes des explorateurs nains. La Ligue ne recule devant rien : tombeaux, temples, jungles ou déserts, rien n'arrête ceux qu'elle envoie sur les pistes du passé. La Salle des Explorateurs est un carrefour d'aventures, où chaque carte étalée promet un trésor. À Forgefer, on forge des armes, mais on cherche aussi à comprendre le monde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ligue-explorateurs

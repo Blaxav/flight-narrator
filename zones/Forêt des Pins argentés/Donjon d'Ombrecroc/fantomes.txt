@@ -1,0 +1,9 @@
+Les fantômes de la forteresse
+=============================
+
+Ombrecroc n'appartient pas qu'aux worgens : des fantômes errent dans ses salles. Ce sont les ombres des anciens seigneurs et de leurs serviteurs, morts sans sépulture quand la malédiction s'est abattue sur la forteresse. Ils hantent les escaliers, les chapelles et les chambres froides, incapables de quitter les lieux qu'ils ont aimés ou perdus. Certains supplient, d'autres attaquent, tous sont prisonniers d'un passé qui ne veut pas s'effacer. Leurs voix se mêlent aux hurlements des bêtes dans un chœur sinistre. Ces fantômes sont la mémoire d'Ombrecroc, la preuve que les murs gardent les échos des drames, et que les morts ne partent pas toujours quand la vie les abandonne. Ils attendent qu'on entende leur histoire, mais nul ne s'arrête pour l'écouter.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fantomes

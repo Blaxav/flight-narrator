@@ -1,0 +1,9 @@
+Hakkar, l'Écorcheur d'âmes
+==========================
+
+Au plus sombre de l'histoire Gurubashi se dresse le nom d'Hakkar, l'Écorcheur d'âmes, un dieu assoiffé de sang que les trolls appelèrent jadis dans leur désespoir. Hakkar exigeait des sacrifices, et sa faim ne connaissait ni fin ni pitié. Les prêtres qui le servirent crurent gagner sa faveur, mais ils ne firent que nourrir un monstre insatiable. Révoltés, les Gurubashi finirent par bannir le dieu, et la cité de Zul'Gurub se ferma sur son souvenir. Pourtant, Hakkar n'a jamais vraiment disparu : son culte renaît dans l'ombre, et des fidèles fanatiques rêvent de le rappeler. Strangleronce entière frémit à l'idée que l'Écorcheur d'âmes revienne achever ce que la jungle a commencé.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : hakkar-l-ecorcheur-d-ames

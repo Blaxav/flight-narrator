@@ -1,0 +1,9 @@
+Onyxia, fille d'Aile-de-mort
+============================
+
+Onyxia est la fille d'Aile-de-mort, l'Aspect noir qui jadis trahit son propre vol et faillit embraser le monde. Elle a hérité de sa puissance, de sa ruse et de son mépris des mortels. Comme son père, elle ne voit dans les royaumes des vivants que des pièces à renverser, des trônes à pourrir, des peuples à asservir. Sa caverne du Marécage d'Âprefange n'est qu'un refuge, un nid où elle couve sa progéniture entre deux manœuvres. Les anciens disent que les dragons noirs ne connaissent ni la pitié ni la hâte : ils tissent leurs toiles sur des décennies, et frappent quand tout semble déjà perdu. Onyxia est de cette race patiente. Chaque œuf qu'elle dépose est une promesse de cendres pour les siècles à venir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : onyxia-fille-d-aile-de-mort

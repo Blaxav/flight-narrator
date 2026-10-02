@@ -1,0 +1,9 @@
+Mograine et Blanchemèche
+========================
+
+Dans la Cathédrale du monastère règnent deux figures redoutées : le commandant Renault Mograine et l'inquisitrice Sally Blanchemèche. Lui commande les troupes d'une voix d'airain, elle prêche, interroge et condamne avec une ferveur glacée, convaincue de lire dans les âmes. Ensemble, ils dirigent la Croisade dans sa guerre sans fin contre les Réprouvés, et leur cathédrale est un tribunal où l'on entre rarement innocent, et d'où l'on ne sort pas toujours. Leurs sermons promettent le salut, mais leurs brasiers ne connaissent que la cendre. Pourtant, leur zèle cache des ombres plus anciennes, car la Croisade est rongée de l'intérieur par des forces qu'elle ne voit pas. Mograine et Blanchemèche sont les visages de cette foi aveugle, des chefs qui mènent leur peuple vers un abîme qu'ils prennent pour un autel.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mograine-et-blanchemeche

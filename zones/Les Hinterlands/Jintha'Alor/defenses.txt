@@ -1,0 +1,9 @@
+Une forteresse imprenable
+=========================
+
+Jintha'Alor est une forteresse née de la montagne. Ses remparts suivent les courbes de la falaise, ses tours dominent les sentiers, et ses défenseurs connaissent chaque pierre. Les assaillants doivent gravir des pentes abruptes sous une pluie de lances et de maléfices, puis se perdre dans un dédale de plateformes. Les Vilebranche ont repoussé bien des armées, et leur cité n'est jamais tombée. Même les nains Marteau-Hardi, malgré leurs griffons, ne s'y risquent qu'avec prudence. Jintha'Alor est le symbole de l'obstination troll : une cité qui semble faire partie de la montagne elle-même, et qui refuse de se rendre au monde. Les envahisseurs y laissent leurs os blanchir au pied des murailles, et leurs bannières pourrir sous la pluie.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : defenses

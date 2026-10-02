@@ -1,0 +1,9 @@
+La Guerre des Trois Marteaux
+============================
+
+Avant d'être un désert de feu, les Steppes ardentes furent le théâtre d'une guerre entre nains. Il y a près de trois siècles, les clans Barbe-de-Bronze, Marteau-hardi et Sombrefer se disputèrent la couronne de Forgefer, l'épée à la main et la rancune au cœur. Les Sombrefer, vaincus et humiliés, se retirèrent dans les profondeurs et appelèrent à l'aide une puissance qu'ils ne pouvaient contrôler : le Seigneur du feu Ragnaros. Son réveil déchira la montagne, embrasa la région et réduisit les Sombrefer en servitude. La Guerre des Trois Marteaux ne fit donc pas de vainqueur, seulement des maîtres et des esclaves. C'est cette querelle de nains qui a forgé, dans la roche et le feu, le visage des Steppes ardentes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : guerre-des-trois-marteaux

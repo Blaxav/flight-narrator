@@ -1,0 +1,9 @@
+Le Moulin-de-Tarren
+===================
+
+Le Moulin-de-Tarren fut autrefois un paisible village de meuniers, niché au bord de la rivière, où la roue du moulin tournait au fil de l'eau. Aujourd'hui, c'est un bastion des Réprouvés, dont les ombres ont remplacé les paysans. Les maisons tiennent encore debout, mais leurs occupants ont changé, et la roue du moulin ne tourne plus que par à-coups, comme un cœur fatigué. Les morts-vivants y ont installé leurs casernes, leurs ateliers et leurs autels, et le village respire désormais une odeur de terre humide et de décomposition. Le Moulin-de-Tarren est le symbole d'une Lordaeron qui ne veut pas mourir tout à fait, même si ce qui l'habite n'est plus tout à fait vivant. Il ne reste de l'ancien temps que la rivière, qui coule sans juger.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : moulin

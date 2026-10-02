@@ -1,0 +1,9 @@
+L'ancien repaire de pirates
+===========================
+
+Avant de devenir un port prospère, Ratchet n'était qu'une crique de contrebandiers, un repaire où les pirates cachaient leurs cargaisons à la barbe des deux factions. Les flibustiers y échangeaient leurs prises sous la lune, et nul ne posait de questions sur l'origine des caisses. Cette réputation colle encore aux quais : on y murmure que certaines marchandises ne figurent sur aucun registre, et que certaines cales ne s'ouvrent qu'à marée basse. Les gobelins ont bâti leur fortune sur ces eaux troubles, en gardant le goût du secret et du profit rapide. Ratchet est ainsi née du vice avant de se faire vertu. Mais dans ce port, la frontière entre le commerce et la contrebande reste une affaire de papier.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : contrebande

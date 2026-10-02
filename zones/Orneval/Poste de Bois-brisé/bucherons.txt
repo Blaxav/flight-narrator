@@ -1,0 +1,9 @@
+Les bûcherons de la Horde
+=========================
+
+Les bûcherons du poste de Bois-brisé abattent les arbres d'Orneval pour nourrir les chantiers et les feux de la Horde. Leurs haches s'enfoncent dans des troncs vieux de mille ans, et chaque chute fait trembler le sous-bois. Ce travail est dangereux : les elfes frappent depuis les cimes, et certains arbres semblent se défendre. Pourtant, le bois coule vers les camps comme une sève de guerre. Les bûcherons de Bois-brisé sont les instruments d'une conquête, la preuve que la guerre moderne se gagne aussi avec des haches, et que la forêt paie de sa chair le prix des batailles.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bucherons

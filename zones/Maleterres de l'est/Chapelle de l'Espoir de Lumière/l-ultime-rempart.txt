@@ -1,0 +1,9 @@
+L'ultime rempart
+================
+
+À l'est, par-delà les champs pourris, se dressent les murailles noircies de Stratholme ; plus haut encore, quand les nuages s'écartent, on devine la silhouette d'os et d'acier de Naxxramas flottant dans le ciel malade. La Chapelle de l'Espoir de Lumière tient ainsi le dernier verrou de la région, un îlot de raison au bord d'un océan de corruption. Les éclaireurs y rapportent des nouvelles terribles : des nécropoles qui se déplacent, des troupes du Culte des damnés qui psalmodient dans les ruines. Pourtant, la chapelle n'a jamais été prise. Sa position, au sommet d'une colline dégagée, et la ferveur de ses défenseurs en font un bastion que le Fléau contourne plutôt que d'assiéger. Chaque flamme allumée sur ses autels est un défi jeté au Roi-liche.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ultime-rempart

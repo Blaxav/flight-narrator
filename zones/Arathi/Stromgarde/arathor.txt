@@ -1,0 +1,9 @@
+Le berceau d'Arathor
+====================
+
+Stromgarde fut la capitale d'Arathor, le premier royaume des hommes, fondé par Thoradin après la guerre des Trolls. Bâtie sur un éperon rocheux dominant les hautes terres, la cité était imprenable, et ses murailles ont vu défiler les armées de toute une civilisation. C'est d'ici que partirent les colons qui fondèrent Lordaeron, Hurlevent et tant d'autres royaumes. Pendant des siècles, Stromgarde fut un phare de puissance et de fierté, le cœur battant de l'humanité naissante. Aujourd'hui, les tours sont éventrées et les salles vides, mais la silhouette de la cité domine toujours l'horizon. Stromgarde n'est plus une capitale, mais son ombre plane encore sur Arathi, comme un reproche adressé à ceux qui l'ont laissée tomber.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : arathor

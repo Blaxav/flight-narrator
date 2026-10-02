@@ -1,0 +1,9 @@
+Le Syndicat
+===========
+
+Le Syndicat est une bande de nobles déchus, née de la chute du royaume d'Alterac pendant la Deuxième Guerre. Traîtres à l'Alliance, les Alteraci ont perdu leurs terres et leurs titres, et leurs descendants se sont organisés en une confrérie de brigands. Depuis leurs repaires des montagnes, ils détroussent les caravanes, rançonnent les fermiers et complotent pour restaurer leur ancienne puissance. À Arathi, ils ont établi des relais et des caches, et l'on raconte qu'ils s'entendent parfois avec les ogres et les trolls quand l'or est au bout. Le Syndicat n'est pas une simple bande de voleurs : c'est une noblesse sans couronne, plus dangereuse par sa ruse que par ses épées. Ici, un blason ne protège plus, il condamne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : syndicat

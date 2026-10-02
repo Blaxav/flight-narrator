@@ -1,0 +1,9 @@
+La Confrérie des Défias
+=======================
+
+La Confrérie des Défias est une organisation de bandits et d'artisans révoltés, née de la colère des maçons qui bâtirent Hurlevent sans jamais recevoir leur dû. Trahis par la noblesse, ils se sont tournés vers le crime, et leur réseau s'étend désormais dans tout Elwynn. Ils détroussent les voyageurs, rançonnent les fermiers et complotent dans l'ombre, portant leur masque rouge comme un défi. Leur haine est froide, leur organisation redoutable, et leurs chefs se terrent dans des repaires que la milice ne trouve pas toujours. Les Défias sont la mauvaise conscience du royaume, le fruit amer d'une injustice jamais réparée. Tant que leurs revendications resteront ignorées, ils resteront une plaie au flanc d'Elwynn.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : defias

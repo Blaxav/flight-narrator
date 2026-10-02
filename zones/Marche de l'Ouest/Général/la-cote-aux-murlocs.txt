@@ -1,0 +1,9 @@
+La côte aux murlocs
+===================
+
+À l'ouest, la Marche de l'Ouest finit en falaises de craie qui plongent dans la Grande Mer. Les plages, battues par les vagues, sont envahies par des murlocs aux cris stridents, qui surgissent des rochers pour assaillir les pêcheurs et les fermes côtières. Ils pillent les casiers, brûlent les barques et entraînent leurs victimes dans les grottes marines. Les marins racontent que leurs huttes d'algues et de bois flotté tapissent les criques, et que leurs fétiches ornent les épaves. La pêche, jadis florissante, se meurt : on ne sort plus en mer sans escorte, et les phares désertés ne guident plus que les tempêtes. Pourtant, certains aventuriers s'aventurent sur ces rivages, attirés par les trésors engloutis et les perles que les murlocs entassent dans leurs mares.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-cote-aux-murlocs

@@ -1,0 +1,9 @@
+L'ombre des dragons noirs
+=========================
+
+Une ombre plus ancienne encore plane sur les Steppes ardentes : celle du Vol noir. Nefarian, fils aîné d'Aile de mort, a établi son repaire dans le Pic Rochenoire, loin des regards, pour y poursuivre l'œuvre de son père. Il y croise les lignées, déforme les drakes et tente de forger le dragon parfait. Ses serviteurs, draconides et dragons noirs, patrouillent les cieux enfumés et fondent sur les imprudents. Les dragons noirs ne sont pas seulement des bêtes : ce sont des seigneurs déchus qui rêvent de reprendre le monde. Dans les Steppes ardentes, leur ombre passe sur la lave comme un présage, et les voyageurs apprennent vite à lever les yeux avant de regarder le sol.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ombre-des-dragons-noirs

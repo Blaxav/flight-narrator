@@ -1,0 +1,9 @@
+La côte sombre
+==============
+
+Vous planez au-dessus de Sombrivage, une côte sombre et sauvage de Kalimdor, où les falaises noires plongent dans une mer grise. La brume y roule entre les pins tordus, les vagues y frappent sans relâche, et le ciel y reste bas, comme un couvercle de nuages. C'est une terre de sel, de vent et d'ombres, belle d'une beauté rude, où la lumière ne s'attarde guère. Les elfes de la nuit y veillent depuis des millénaires, mais même eux s'y sentent petits. La côte de Sombrivage est la lisière du continent, la preuve que la mer et la terre, ici, se livrent un combat éternel.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cote

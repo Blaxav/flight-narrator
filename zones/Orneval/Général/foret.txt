@@ -1,0 +1,9 @@
+La forêt d'Orneval
+==================
+
+Vous planez au-dessus d'Orneval, une forêt immense et ancienne dont les frondaisons forment une mer d'un vert profond, percée de clairières et de rivières. C'est un bois de haute futaie, où les troncs s'élèvent comme des colonnes et où la lumière tombe en rayons poussiéreux. Le sous-bois y est dense, peuplé de bêtes furtives, et l'air y sent la résine et l'humus. Orneval est l'un des plus vieux sanctuaires des elfes de la nuit, un lieu où la nature a gardé ses droits. La forêt d'Orneval est un monde à part, la preuve que certaines terres ont une mémoire, et qu'elles la défendent par leurs ombres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : foret

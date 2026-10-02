@@ -1,0 +1,9 @@
+Le trésor des bien-nés
+======================
+
+On raconte qu'Hache-Tripes renferme encore les trésors des bien-nés : grimoires interdits, joyaux enchantés, armes forgées à la lumière de la Lune. C'est pour cela que les aventuriers bravent les ogres, les fantômes et le démon qui ronge les sous-sols. Mais la cité ne donne rien sans contrepartie. Ceux qui en ressortent parlent de voix, de miroirs qui ne reflètent pas les vivants, et d'une soif de magie qui ne les quitte plus. Les trésors d'Eldre'Thalas sont maudits, comme tout ce qui touche aux bien-nés déchus. Pourtant, la promesse d'un artefact ancien suffit à faire oublier la prudence. Hache-Tripes n'a pas fini de réclamer son tribut, et chaque expédition lui paie son dû. Car ici, chaque richesse a un prix que l'on ne lit pas dans l'or.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : tresor

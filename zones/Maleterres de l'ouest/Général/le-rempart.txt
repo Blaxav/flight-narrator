@@ -1,0 +1,9 @@
+Le Rempart
+==========
+
+À l'extrême nord des Maleterres de l'ouest se dresse le Rempart, une muraille dressée par les Réprouvés pour contenir le Fléau. Cette frontière sinistre sépare les terres ravagées de la peste des Clairières de Tirisfal, où la reine banshee Sylvanas Coursevent règne sur Fossoyeuse. Les gardes morts-vivants y montent la garde, non par compassion, mais par nécessité : laisser passer les goules serait condamner leur propre royaume. Les voyageurs y sont fouillés, interrogés, parfois refoulés. L'atmosphère y est étrange, car les sentinelles elles-mêmes sont des morts qui combattent des morts. Le Rempart symbolise la frontière entre la corruption et ce qu'il reste d'ordre, une ligne ténue où s'alignent des hallebardes et des torches, prêtes à repousser l'ombre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-rempart

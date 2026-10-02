@@ -1,0 +1,9 @@
+Les devilsaurs
+==============
+
+Les devilsaurs sont les rois du cratère d'Un'Goro, des dinosaures carnivores hauts comme des tours, dont le rugissement fait trembler la jungle. Ils chassent en solitaires, écrasant la végétation sur leur passage, et rien ne leur résiste. Leur peau est si épaisse qu'elle repousse les lames, et leur mâchoire broie les os comme du bois sec. Les chasseurs les traquent pour leur cuir précieux, mais peu en reviennent, et chaque trophée se paie au prix du sang. On raconte que le devilsaur tyran, le plus grand d'entre eux, règne sur le cratère comme un souverain. Les devilsaurs sont la preuve que la nature, quand elle est laissée à elle-même, peut enfanter des créatures dignes des légendes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : devilsaurs

@@ -1,0 +1,9 @@
+Le Sceau d'ascension
+====================
+
+Le Bas du Pic Rochenoire garde un secret précieux : le moyen d'atteindre le sommet. Pour franchir les portes de la haute forteresse, il faut forger un sceau d'ascension, un artefact que seuls les ennemis des lieux peuvent assembler pièce par pièce. Sa quête oblige à explorer les salles basses, à affronter les chefs orcs et à recueillir des fragments dispersés dans les recoins les plus dangereux. Ce rituel transforme le Bas du Pic en une épreuve initiatique : nul ne monte sans avoir prouvé sa valeur en bas. Le Sceau d'ascension rappelle que dans la montagne, chaque élévation se mérite, et que les sommets ne s'offrent qu'à ceux qui ont survécu aux profondeurs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-sceau-d-ascension

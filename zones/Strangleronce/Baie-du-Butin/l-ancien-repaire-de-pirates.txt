@@ -1,0 +1,9 @@
+L'ancien repaire de pirates
+===========================
+
+Avant d'être un port marchand, la Baie-du-Butin fut un repaire de pirates, un trou de roche où les capitaines cachaient leurs cargaisons volées. Le nom de la ville en garde la trace : c'est là qu'on rapportait le butin, loin des flottes et des juges. Les flibustiers y régnaient sans partage, entre deux expéditions, et la loi s'y résumait à la force. Puis les gobelins comprirent qu'on gagnait plus à vendre qu'à piller, et la crique devint un marché. Mais les vieilles habitudes ne meurent pas : on y croise encore des forbans en quête de clients et des contrebandiers discrets. La Baie-du-Butin est née hors-la-loi, et elle ne l'a jamais tout à fait oublié.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ancien-repaire-de-pirates

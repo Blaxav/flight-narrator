@@ -1,0 +1,9 @@
+Les Îles de l'Écho
+==================
+
+Au large de Sen'jin s'étendent les Îles de l'Écho, vestiges de l'ancien refuge des trolls Sombrelance. Ces îlots, jadis paisibles, furent envahis par des nagas et des créatures des profondeurs, et les trolls durent les abandonner. Aujourd'hui, ils y retournent pour récupérer ce qui peut l'être et pour en chasser l'ennemi, signe que la reconquête a commencé. Les Îles de l'Écho sont un chapitre douloureux de l'histoire troll, mais aussi un motif d'espoir : chaque victoire y efface un peu la défaite. On raconte que les esprits des anciens y errent encore, attendant le retour des leurs. Sen'jin garde les yeux tournés vers ces îles, car c'est là que la tribu a failli mourir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : iles-echo

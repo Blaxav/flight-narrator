@@ -1,0 +1,9 @@
+L'arsenal des trahis
+====================
+
+Dans les entrepôts des Mortemines s'entassent des armes, des barils de poudre et des caisses marquées du sceau de Hurlevent. La Confrérie défias a détourné des cargaisons entières, rançonné des domaines et vidé des arsenaux, amassant de quoi soutenir une guerre d'usure. On y trouve des épées encore huilées, des boucliers fraîchement frappés et des plans d'ouvrages dessinés de la main de VanCleef. Des monceaux d'or et de joyaux, prélevés sur les riches, attendent dans des coffres que nul ne songe à dépenser. Cette richesse ne sert pas au confort des bandits, mais à la vengeance : payer des mercenaires, acheter des gobelins, armer un navire. Les Mortemines sont ainsi un trésor empoisonné, bâti sur une dette que personne, désormais, ne pourra rembourser.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-arsenal-des-trahis

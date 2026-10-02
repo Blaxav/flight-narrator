@@ -1,0 +1,9 @@
+La cité perdue des sables
+=========================
+
+Au nord-ouest de Tanaris, Zul'Farrak dresse ses pyramides écrasées de soleil, comme une cité troll surgie des sables et à demi dévorée par eux. Ses remparts de pierre ocre, ses escaliers géants et ses terrasses en gradins témoignent d'une grandeur passée qui n'a pas fini de hanter les lieux. Autrefois, cette cité fut le cœur d'un empire ; aujourd'hui, elle est un bastion isolé, cerné par le désert et gardé par des sentinelles farouches. Les trolls y vivent encore, repliés derrière leurs murs, et n'en sortent que pour capturer des voyageurs et mener des razzias. Zul'Farrak n'est pas une ruine : c'est une forteresse qui refuse de mourir, et dont les tambours résonnent encore au-dessus des dunes. Le sable n'a pas fini de les entendre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cite-perdue-des-sables

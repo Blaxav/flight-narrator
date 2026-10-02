@@ -1,0 +1,9 @@
+Le désert de Tanaris
+====================
+
+Vous survolez Tanaris, un immense désert de sable blond et de roche ocre qui s'étend à perte de vue, écrasé de soleil et battu par des vents chargés de poussière. Les dunes y roulent comme des vagues figées, et les salines brillent au loin comme des miroirs brisés. Nulle ombre, sinon celle des ruines et des falaises qui découpent l'horizon. Le jour, la chaleur y est une bête ; la nuit, le froid y mord à son tour, et la soif rôde entre les deux. Pourtant, la vie s'accroche : des scorpions, des hyènes et des nomades hantent ces étendues, patients et endurcis. Tanaris est un désert ancien, indifférent et sans pitié, qui avale les imprudents sans laisser de trace. Ici, le sable est un océan dont nul ne connaît tous les récifs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : desert-de-tanaris

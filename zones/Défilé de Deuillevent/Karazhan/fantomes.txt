@@ -1,0 +1,9 @@
+Les fantômes de la tour
+=======================
+
+Karazhan est peuplée de fantômes, spectres des serviteurs, des invités et des victimes de Médivh, condamnés à rejouer éternellement les scènes d'une époque révolue. On y entend des rires dans les salles de bal, des chants dans la bibliothèque, et l'écho de conversations interrompues. Certains fantômes sont inoffensifs, perdus dans leurs souvenirs ; d'autres sont hostiles, et attaquent quiconque trouble leur éternité. Ils sont la mémoire de la tour, les témoins d'une splendeur devenue cauchemar. Les fantômes de Karazhan rappellent que la magie de Médivh a piégé les âmes en même temps que les pierres, et que la tour n'a jamais vraiment cessé d'être habitée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fantomes

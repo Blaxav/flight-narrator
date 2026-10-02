@@ -1,0 +1,9 @@
+Cairne Sabot-Sanglant
+=====================
+
+Cairne Sabot-Sanglant est le Haut-Chief des taurens, le patriarche qui mena son peuple jusqu'aux plaines de Mulgore. Vieux, sage et d'une force que l'âge n'a pas entamée, il règne depuis les Pitons du Tonnerre avec la patience d'un chêne. C'est lui qui scella l'alliance avec Thrall et ouvrit aux orcs les portes de la confiance taurenne. On le consulte pour les grandes décisions, mais on l'écoute surtout pour sa parole, rare et pesée. Cairne n'est pas un roi de parade : c'est un gardien, un juge et un père. Cairne Sabot-Sanglant est l'âme des Pitons, la preuve que la vraie noblesse se mesure à la sagesse, non à la couronne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cairne

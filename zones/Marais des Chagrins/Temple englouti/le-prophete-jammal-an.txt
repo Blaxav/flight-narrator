@@ -1,0 +1,9 @@
+Le prophète Jammal'an
+=====================
+
+Au cœur du temple officie Jammal'an, prophète des Atal'ai et grand-prêtre d'Hakkar. Il porte les plumes sombres de sa charge et manie une magie ancienne qui mêle le sang, la serre et les sorts de l'ombre. Les trolls le vénèrent comme la voix de leur dieu, et ses paroles suffisent à jeter des guerriers dans des transes meurtrières. Il a bâti sa puissance sur des sacrifices sans nombre, promettant à ses fidèles que le sang versé hâtera le retour du grand Écorcheur. Autour de lui s'agitent des acolytes, des serpents sacrés et des esprits liés à sa volonté. Affronter Jammal'an, c'est affronter la foi elle-même, cette foi tordue qui transforme l'horreur en devoir. Beaucoup sont morts en croyant lui porter un coup décisif.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-prophete-jammal-an

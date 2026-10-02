@@ -1,0 +1,9 @@
+Chromaggus, la créature
+=======================
+
+Au plus profond du laboratoire, Nefarian a assemblé une créature qui n'aurait jamais dû exister : Chromaggus. Ce monstre à têtes multiples porte en lui la magie de plusieurs vols, et sa fureur change au gré de ses souffles. Il est le prototype des dragons chromatiques, le résultat de toutes les expériences du maître, et il garde l'accès à son créateur. Chromaggus n'est pas un gardien : c'est une démonstration, une preuve vivante que Nefarian peut tordre la nature. L'affronter, c'est se battre contre une idée devenue chair. Et quand il tombe, c'est la certitude du maître qui vacille, avec ses murs et ses œufs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : chromaggus-la-creature

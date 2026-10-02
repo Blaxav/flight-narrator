@@ -1,0 +1,9 @@
+Un refuge sur les hauteurs
+==========================
+
+La Pointe du Refuge est un camp de l'Alliance dressé sur un promontoire d'Arathi, battu par les vents. Son nom dit tout : c'est un asile pour ceux qui fuient la guerre, les réfugiés de Lordaeron et les fermiers chassés de leurs terres. Les soldats de Hurlevent y ont bâti des remparts de bois et des tours de guet, et y maintiennent un semblant d'ordre au milieu du chaos. On y trouve un forgeron, un apothicaire et des feux de camp où l'on partage les nouvelles. La vie y est précaire, mais la solidarité y est forte. La Pointe du Refuge est un îlot d'espoir dans une région livrée aux pillards, la preuve que l'Alliance n'abandonne pas les siens, même aux confins de ses terres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : refuge

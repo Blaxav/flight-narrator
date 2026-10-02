@@ -1,0 +1,9 @@
+Un refuge dans le désert
+========================
+
+Dans l'âpreté des Terres ingrates, Kargath est un refuge, et sa chaleur vaut tous les trésors. Les voyageurs y trouvent un feu, une auberge et des murs, avant de repartir vers les canyons et leurs dangers. Le soir, on y raconte des histoires de troggs, de trésors enfouis et de batailles anciennes, tandis que le vent secoue les palissades et que les guetteurs veillent. Les soldats y reprennent des forces, les marchands y comptent leurs vivres, et les blessés y pansent leurs plaies sous l'œil des guérisseurs. C'est un havre austère, sans douceur ni fioriture, mais un havre tout de même, comme seule la frontière sait en offrir. Kargath prouve que même au cœur des terres les plus rudes, la Horde sait dresser un toit pour les siens. Ici, la roche, un instant, semble moins hostile.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : refuge-dans-le-desert

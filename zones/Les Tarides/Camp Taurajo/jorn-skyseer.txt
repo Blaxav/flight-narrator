@@ -1,0 +1,9 @@
+Jorn Skyseer et les plumes
+==========================
+
+Au Camp Taurajo, un chasseur veille entre les tentes : Jorn Skyseer, dont le regard semble percer la poussière des Tarides. C'est lui qui connaît les pistes des bêtes rares, et c'est lui qui envoyait les plus braves chercher les plumes de Washte Pawne, le serpent des vents à la morsure brûlante. Il ne promettait ni gloire ni or, seulement l'honneur d'avoir survécu à une proie qui en a tué plus d'un. Autour de lui, les jeunes apprennent que le vrai chasseur ne triomphe pas par la force, mais par la patience et le respect. Jorn Skyseer incarne l'âme de Camp Taurajo : un savoir ancien, une prudence de bête et une volonté tranquille que la savane n'use jamais.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : jorn-skyseer

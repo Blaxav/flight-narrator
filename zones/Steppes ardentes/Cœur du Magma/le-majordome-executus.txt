@@ -1,0 +1,9 @@
+Le Majordome Executus
+=====================
+
+Ragnaros ne parle pas aux mortels : il a pour cela le Majordome Executus, son intendant de flammes et sa voix. Ce géant de feu administre le Cœur du Magma, ordonne les élémentaires et veille à ce que nul n'approche du trône de son maître. Les héros qui osent défier les seigneurs du feu finissent par l'affronter, car il est le dernier garde avant Ragnaros. On raconte que, vaincu, Executus préfère appeler son maître plutôt que de mourir seul. Sa chute est donc le signal : quand le majordome tombe, le Seigneur du feu se lève. Executus est la clé du Cœur, celui qui ouvre la porte du brasier final.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-majordome-executus

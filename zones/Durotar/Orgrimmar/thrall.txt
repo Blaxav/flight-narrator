@@ -1,0 +1,9 @@
+Thrall, le chef de guerre
+=========================
+
+Thrall est le chef de guerre de la Horde, l'orc qui libéra son peuple des camps et le mena jusqu'à Durotar. Élevé par des humains, il retrouva les siens et la voie du chamanisme, et il rassembla les clans sous une même bannière. Sa force est immense, mais c'est sa sagesse qui fait de lui un grand chef : il écoute, il réfléchit, et il ne frappe que lorsqu'il le faut. Thrall a bâti Orgrimmar et la nouvelle Horde sur l'honneur, refusant la soif de sang qui perdit ses ancêtres. On vient de tout le continent pour lui parler, et sa parole pèse comme le marteau d'Orgrim. Tant que Thrall tiendra les rênes, la Horde gardera son âme et sa direction.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : thrall

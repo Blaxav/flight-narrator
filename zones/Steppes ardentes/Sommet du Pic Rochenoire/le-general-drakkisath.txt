@@ -1,0 +1,9 @@
+Le Général Drakkisath
+=====================
+
+Derrière le trône de Rend se tient une ombre plus redoutable encore : le général Drakkisath, dragon noir au service de Nefarian. Il commande les forces draconiques du sommet et veille à ce que les orcs restent de fidèles alliés du Vol noir. Sa stature de dragon et son souffle brûlant en font le dernier rempart de la forteresse. Drakkisath n'est pas là par loyauté envers Rend, mais par calcul : le Pic est un pion dans le jeu des dragons noirs. Les héros qui atteignent le sommet doivent l'affronter avant de pouvoir en redescendre. Il est la preuve que le trône de Rend n'appartient qu'à moitié aux orcs, et que la montagne obéit à un maître plus ancien.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-general-drakkisath

@@ -1,0 +1,9 @@
+Le souvenir de la Première Guerre
+=================================
+
+Les Terres foudroyées sont nées de la Première Guerre, et leur rouge est celui du sang et du feu. C'est ici que Médivh, le Gardien possédé par Sargeras, ouvrit la Porte des Ténèbres avec l'aide de Gul'dan, et que la Horde orque déferla sur Azeroth comme une marée. Les forêts qui couvraient la région furent consumées, les villages rasés, et la terre elle-même fut tordue par la magie jusqu'à n'être plus qu'une plaie. Cette première invasion bouleversa le monde et mit fin à des siècles de paix que nul n'avait crus fragiles. Les Terres foudroyées en portent la mémoire dans chaque rocher calciné. Elles sont le lieu où tout a basculé, où le destin d'Azeroth a pris un tour sanglant. Depuis le ciel, elles ressemblent à un champ de bataille figé, une blessure que le temps n'a pas refermée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : souvenir-de-la-premiere-guerre

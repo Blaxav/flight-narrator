@@ -1,0 +1,9 @@
+Le peuple tauren
+================
+
+Les taurens sont un peuple ancien, né des plaines et voué au culte de la Terre-Mère. Longtemps nomades, ils furent chassés de leurs terres par les centaures, ces pillards à corps de cheval qui ne vivaient que de guerre. Leur salut vint d'une rencontre : celle de Cairne Sabot-Sanglant et de Thrall, qui scellèrent l'alliance entre les taurens et la Horde. Depuis, les taurens ont retrouvé une patrie à Mulgore, où ils chassent, cultivent et honorent leurs ancêtres. Leur force est immense, mais leur cœur est pacifique, et ils ne lèvent leurs totems que pour défendre ce qui leur est sacré. Le peuple tauren est la preuve qu'un géant peut être doux, et que la sagesse vaut mieux que la fureur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : peuple-tauren

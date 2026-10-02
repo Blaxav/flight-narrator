@@ -1,0 +1,9 @@
+La forteresse de l'Alliance
+===========================
+
+Le Fort de Nethergarde se dresse sur un promontoire rocheux, ses murailles grises tournées vers la Porte des Ténèbres comme un regard qui ne se détourne pas. Bâti par l'Alliance après la Deuxième Guerre, il est la sentinelle des Terres foudroyées, le premier rempart contre tout ce qui pourrait surgir de l'outre-monde. Ses tours surveillent l'horizon rouge, ses soldats montent la garde jour et nuit, et ses mages auscultent les failles de la terre à l'affût du moindre frémissement. Rien ne bouge dans la plaine sans qu'on l'y sache, rien ne traverse sans qu'on l'y signale. Le fort est austère, battu par les vents et chargé d'une mission sans fin : veiller, encore et toujours. Ici, l'Alliance n'a pas dressé un palais, mais une vigie. Nethergarde est la preuve que la paix se garde les yeux ouverts.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : forteresse-de-l-alliance

@@ -1,0 +1,9 @@
+La tribu Stonemaul
+==================
+
+Les ogres de la tribu Stonemaul sont l'âme de Mur-de-Fougères. Massifs, le cuir tanné par le sel et la boue, ils servent la Horde avec une loyauté bourrue, héritée d'une alliance scellée dans les épreuves. Leur force est légendaire : ils soulèvent des troncs que deux orcs ne bougeraient pas, et leurs coups de massue fendent les carapaces des crocilisques. Mais ils ne sont pas que des brutes ; ils connaissent les marais par cœur, les gués sûrs, les nids de murlocs, les sentiers que la brume efface. Leur chef veille sur le village d'un œil placide, tranchant les querelles d'un mot et distribuant les corvées d'un geste. Les ogres de Stonemaul ont trouvé dans la Horde une famille, et ils la défendent comme on défend un foyer.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-tribu-stonemaul

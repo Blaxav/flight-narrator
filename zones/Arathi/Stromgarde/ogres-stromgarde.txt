@@ -1,0 +1,9 @@
+Les ogres dans les ruines
+=========================
+
+Les ogres se sont installés dans les ruines de Stromgarde comme on hérite d'une maison vide. Ils dorment dans les salles des rois, allument leurs feux dans les anciennes casernes et entassent leur butin dans les caves. Leur présence est une insulte à l'histoire, mais aussi un danger bien réel : depuis la cité, ils lancent des raids sur les fermes et les routes d'Arathi. Les clans se disputent les quartiers de la ville, et l'on entend leurs cris résonner entre les murailles. Pourtant, nul n'a encore réussi à les en déloger. Les ogres de Stromgarde sont la preuve que la barbarie finit toujours par s'asseoir sur les trônes abandonnés. Ici, la cité des rois est devenue une tanière.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ogres-stromgarde

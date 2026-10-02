@@ -1,0 +1,9 @@
+Le Cercle cénarien
+==================
+
+Le Cercle cénarien est l'assemblée des druides qui veille sur l'équilibre du monde, et le Fort cénarien est son bras armé dans le désert. Ces sages, issus de toutes les races, ont choisi de combattre la corruption des dieux anciens là où elle est la plus vive. Ils y étudient les silithides, soignent la terre blessée et cherchent à refermer les portes d'Ahn'Qiraj. Leur autorité s'étend au-delà des factions, car leur cause dépasse les guerres des mortels. Le Cercle cénarien est la conscience de Silithus, la preuve que certains combats méritent l'union des anciens ennemis.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cercle-cenarien

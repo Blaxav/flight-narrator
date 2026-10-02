@@ -1,0 +1,9 @@
+Le Poste de la Vénéneuse
+========================
+
+Le Poste de la Vénéneuse est un avant-poste de la Horde, dressé sur les hauteurs de Gangrebois. Ses palissades et ses tentes se serrent contre le vent chargé de cendres, comme pour résister à la corruption qui monte de la forêt. Orcs, Taurens et trolls y tiennent garnison, unis par la même méfiance envers cette terre malade. Le poste est modeste, mais il verrouille l'accès aux routes du nord et surveille les vallées où rôdent les démons. La vie y est rude : l'eau doit être purifiée, les vivres comptés, les patrouilles renforcées. Le Poste de la Vénéneuse est une main de la Horde posée sur une plaie, décidée à ne pas lâcher prise. Et l'on y apprend vite à ne pas sous-estimer la forêt.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : poste

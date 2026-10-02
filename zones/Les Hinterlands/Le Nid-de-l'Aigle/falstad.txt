@@ -1,0 +1,9 @@
+Falstad Marteau-Hardi
+=====================
+
+Le Nid-de-l'Aigle est gouverné par le haut thane Falstad Marteau-Hardi, un vétéran des guerres et des cieux. On le dit aussi habile au marteau qu'en selle de griffon, et aussi têtu que la montagne elle-même. Sous son autorité, les Marteau-Hardi ont tenu bon face aux trolls Vilebranche et aux dangers des hauteurs. Falstad n'est pas un roi distant : il partage la vie des siens, tranche les querelles et mène les patrouilles. Sa parole vaut de l'or, et son courage force le respect même de ses ennemis. Il est le visage de la liberté des Hinterlands, un chef qui préfère le vent des cimes aux dorures des palais. Son autorité n'est pas d'apparat, mais de courage et d'exemple.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : falstad

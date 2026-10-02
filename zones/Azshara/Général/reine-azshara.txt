@@ -1,0 +1,9 @@
+La reine Azshara
+================
+
+Azshara, la région, porte le nom d'Azshara, la reine des elfes de la nuit, dont la beauté et l'orgueil furent légendaires il y a dix mille ans. Souveraine des bien-nés, elle croyait que rien ne pouvait lui résister, et c'est cet orgueil qui ouvrit la porte à la Légion ardente. Son mage favori et elle attirèrent les démons jusqu'au Puits d'éternité, dont la chute brisa le monde et noya la moitié du continent. La reine ne mourut pas : elle fut emportée dans les abysses avec ses fidèles, et devint la première des nagas. Depuis, son nom reste attaché à cette côte comme une cicatrice. Azshara rappelle qu'une reine trop sûre de sa gloire peut entraîner tout un peuple dans l'abîme, et qu'aucune couronne ne protège de l'orgueil.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : reine-azshara

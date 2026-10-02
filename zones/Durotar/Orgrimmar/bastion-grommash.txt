@@ -1,0 +1,9 @@
+Le Bastion de Grommash
+======================
+
+Au sommet d'Orgrimmar se dresse le Bastion de Grommash, la forteresse d'où Thrall gouverne la Horde. Ce nom honore Grom Hurlenfer, le guerrier qui paya de sa vie la libération des orcs du joug démoniaque. Le bastion est un lieu de commandement, de conseil et de justice, où se prennent les décisions qui engagent tout un peuple. Les gardes y montent une garde silencieuse, et les ambassadeurs y sont reçus avec solennité. On y sent le poids de l'histoire et de la responsabilité. Le Bastion de Grommash n'est pas seulement un palais : c'est un serment gravé dans la pierre, le rappel que la liberté de la Horde fut conquise au prix du sang de ses héros, et qu'elle doit le rester.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bastion-grommash

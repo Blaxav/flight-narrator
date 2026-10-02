@@ -1,0 +1,9 @@
+La forge des seigneurs
+======================
+
+Dans les flancs du Pic Rochenoire battent des marteaux qui ne s'arrêtent jamais. Les Sombrefer y fondent le métal des profondeurs, les orcs Rochenoire y trempent leurs armes, et les dragons noirs y arment leurs serviteurs. La montagne est une immense forge, alimentée par la lave et par la haine, où le fer grésille et où les enclumes tonnent sans répit. On y fabrique des lames, des armures et des machines de guerre destinées aux armées de l'ombre. Les esclaves y travaillent jusqu'à l'épuisement, et le fracas du fer couvre leurs plaintes. Le Pic Rochenoire ne dort pas : il produit. C'est de cette forge que sortent, depuis des décennies, les armes des ennemis de l'Alliance et de la Horde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-forge-des-seigneurs

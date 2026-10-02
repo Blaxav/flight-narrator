@@ -1,0 +1,9 @@
+Les centaures du canyon
+=======================
+
+Les fonds des Mille Pointes appartiennent aux centaures, ces créatures au buste d'humain et au corps de cheval, nées d'anciennes malédictions. Ils vivent en tribus rivales, les Kolkar, les Galak et d'autres encore, qui se disputent les points d'eau et les territoires de chasse. Leurs cavaliers, armés de lances et de fouets, fondent sur les caravanes avec des cris de guerre, rapides comme l'orage. Ils haïssent les taurens d'une haine ancienne, entretenue par des générations de razzias et de sang versé. Les voyageurs évitent leurs territoires, ou les traversent en force, le carquois plein. On dit que les centaures ne font pas de prisonniers, et que leurs totems de crânes marquent les limites de leurs domaines. Le canyon est leur royaume, et ils le défendent sabot par sabot.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-centaures-du-canyon

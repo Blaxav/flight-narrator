@@ -1,0 +1,9 @@
+Le port du loch
+===============
+
+Thelsamar possède un petit port, simple débarcadère de bois où les barques des pêcheurs se balancent au gré du loch. Chaque matin, les nains y remontent leurs filets chargés de poissons, et l'on y entend les appels des bateliers qui traversent le lac d'une rive à l'autre. Le loch n'est pas qu'un décor : c'est une voie d'eau, un chemin liquide qui relie les rives et permet de contourner les sentiers de montagne. Les pêcheurs y connaissent les brumes, les courants et les rochers immergés, et ils racontent que les profondeurs gardent encore les débris des guerres passées. Le port de Thelsamar est modeste, mais il est le pouls du lac, le lieu où la ville touche l'eau.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : port-du-loch

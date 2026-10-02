@@ -1,0 +1,9 @@
+L'expédition gobeline
+=====================
+
+L'expédition du Refuge des Marshal est une affaire de gobelins audacieux, partis cartographier et exploiter le cratère d'Un'Goro. Ils ont dressé des tentes, creusé des pièges et monté des expéditions vers la jungle, malgré les devilsaurs et les insectes géants. Chaque sortie est un pari, et beaucoup ne reviennent pas, mais le cratère est si riche que l'aventure vaut le risque. Les gobelins y cherchent des cristaux, des fossiles et des connaissances, et rapportent tout ce qui se vend. L'expédition des Marshal est la preuve que les gobelins sont des explorateurs dans l'âme, prêts à tout pour un filon, même au cœur d'un monde perdu. Ici, la science et l'appât du gain marchent main dans la main.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : expedition

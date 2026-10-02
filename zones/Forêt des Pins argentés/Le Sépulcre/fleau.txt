@@ -1,0 +1,9 @@
+Les vestiges du Fléau
+=====================
+
+Le Sépulcre se dresse face à un autre ennemi, plus ancien et plus tenace : le Fléau. Après la chute de Lordaeron, des créatures du roi-liche sont restées tapies dans la forêt, et leurs attaques rappellent que la guerre n'est pas finie. Les Réprouvés, qui furent jadis esclaves du Fléau avant de recouvrer leur libre arbitre, vouent à ces monstres une haine particulière. Ils savent mieux que personne ce que signifie être une marionnette. Au Sépulcre, chaque affrontement avec le Fléau est donc personnel, chargé d'une vengeance qui ne s'éteint pas. Les habitants veillent, car ils refusent de retomber sous le joug qu'ils ont brisé. Ils se souviennent du joug, et ce souvenir vaut toutes les armées.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fleau

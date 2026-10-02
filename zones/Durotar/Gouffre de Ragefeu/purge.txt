@@ -1,0 +1,9 @@
+La purge de la Horde
+====================
+
+La Horde n'ignore pas le mal qui couve sous sa capitale, et le Gouffre de Ragefeu est l'objet d'une purge permanente. Thrall y envoie ses plus fidèles guerriers, jeunes et vétérans, afin qu'aucun cultiste ne survive et qu'aucun démon ne s'y installe. Ces expéditions sont à la fois une mission et un rite : descendre dans le gouffre, c'est prouver sa loyauté et sa valeur. On en remonte marqué par la lave et la fumée, mais plus fort. La purge du Gouffre de Ragefeu rappelle que la nouvelle Horde a choisi l'honneur, et qu'elle est prête à nettoyer ses propres ténèbres. Tant que des cultistes s'y terreront, il y aura toujours un orc pour descendre les en déloger, un flambeau à la main.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : purge

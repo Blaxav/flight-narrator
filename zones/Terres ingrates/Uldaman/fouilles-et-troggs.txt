@@ -1,0 +1,9 @@
+Fouilles et troggs
+==================
+
+Les fouilles d'Uldaman sont un champ de bataille où l'archéologie ressemble à la guerre. Les nains de la Ligue des explorateurs y creusent depuis des années, mais les troggs, sortis des galeries, disputent chaque salle à coups de griffes et de massues. Les échafaudages s'effondrent, les lampes s'éteignent, et les équipes disparaissent parfois sans laisser de trace, avalées par les ténèbres. Pourtant, la fouille continue, car chaque artefact exhumé vaut le risque, et chaque indice rapproche les nains de leur origine. Les Sombrefer rôdent aussi dans les parages, attirés par les reliques et les minerais, prêts à voler ce que d'autres ont déterré. Uldaman est devenu un labyrinthe disputé, où le savoir se conquiert salle par salle. Le savoir y a un prix, et ce prix se paie en sang, en sueur et en pierre. Ici, creuser, c'est déjà se battre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fouilles-et-troggs

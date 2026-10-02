@@ -1,0 +1,9 @@
+Marin Noggenfogger
+==================
+
+Au sommet de Gadgetzan règne un gobelin plus malin que les autres : Marin Noggenfogger, le patron de la cité. C'est lui qui tient les comptes et les rues d'une main ferme, entre deux expéditions et deux pots-de-vin, et sa parole y vaut plus que celle d'un roi. On lui doit les fameux élixirs qui portent son nom, ces breuvages étranges capables de rapetisser un guerrier, de le changer en squelette ou de couper son souffle. Les aventuriers s'arrachent ces fioles, et le patron en rit jusqu'aux caisses. Noggenfogger n'est ni un soldat ni un sage : c'est un homme d'affaires qui a compris que le désert rapporte plus qu'une mine. Sous sa poigne, Gadgetzan est devenue un aimant à or, et il le sait : la richesse se protège mieux par la ruse que par l'épée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : marin-noggenfogger

@@ -1,0 +1,9 @@
+Les trésors du royaume
+======================
+
+On raconte que les ruines d'Alterac cachent encore les trésors du royaume : des coffres scellés, des bijoux de cour et des archives secrètes que la chute n'a pas engloutis. Les ogres les gardent sans même en connaître la valeur, et le Syndicat les cherche avec une avidité de créanciers. Les aventuriers qui s'y risquent en reviennent parfois riches, plus souvent blessés, et certains jamais. La neige recouvre les traces, les murs s'effondrent sans prévenir, et les gardiens ne pardonnent pas. Les trésors d'Alterac sont une promesse qui attire et qui tue, la preuve que les ruines savent garder leurs secrets, et qu'elles se paient toujours en sang.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : tresor

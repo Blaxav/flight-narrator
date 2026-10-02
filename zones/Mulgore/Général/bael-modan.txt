@@ -1,0 +1,9 @@
+Bael Modan, la fouille naine
+============================
+
+Au sud de Mulgore, les nains ont ouvert une fouille qu'ils nomment Bael Modan, un vaste chantier creusé dans la roche à la recherche de reliques anciennes. Leurs explosions font trembler la prairie, et leurs machines déchirent un sol que les taurens tiennent pour sacré. Les chamans s'inquiètent : la Terre-Mère est blessée, disent-ils, et les collines en grondent de colère. Les nains, eux, ne voient que des trésors à exhumer et des mystères à percer. Entre les deux peuples, la méfiance grandit, et l'on redoute que la fouille ne réveille quelque chose que nul ne saurait apaiser. Bael Modan est la faille dans la paix de Mulgore, la preuve que la curiosité des uns peut être le sacrilège des autres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bael-modan

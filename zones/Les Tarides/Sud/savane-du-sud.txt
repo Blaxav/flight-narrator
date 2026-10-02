@@ -1,0 +1,9 @@
+La savane du sud
+================
+
+Le sud des Tarides est plus sauvage encore que le reste de la plaine. Les herbes y jaunissent, les points d'eau s'y font rares, et le terrain se creuse de ravines qui annoncent les canyons des Mille Pointes. C'est une terre de transition, où la savane s'épuise lentement avant de se briser en précipices. Les bêtes y sont plus maigres et plus agressives, et les voyageurs n'y marchent jamais seuls. Les Taurens de Camp Taurajo y patrouillent, mais ils ne s'y attardent pas : le sud appartient à ceux qui savent survivre sans rien. On dit que le vent y change de voix, plus sec et plus menaçant. Le sud des Tarides est le dernier avertissement avant les terres hostiles.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : savane-du-sud

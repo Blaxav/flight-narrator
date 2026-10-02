@@ -1,0 +1,9 @@
+La nécromancie des quilboars
+============================
+
+Les quilboars des Downs ont commis le pire des sacrilèges : ils ont relevé leurs propres morts. Guidés par des chamans corrompus, ils ont ouvert les tertres des ancêtres et arraché les défunts à leur repos, les liant à des rites de nécromancie. Des squelettes de sangliers marchent désormais en rangs, des esprits tourmentés errent dans les galeries, et des gardes à demi décomposés montent la veille. Cette armée d'outre-tombe sert une cause que peu de quilboars osent nommer : la promesse d'une puissance capable de venger leur peuple et d'écraser leurs ennemis. Mais la mort, une fois invitée, ne repart jamais. Les Downs sont devenus un piège où les vivants servent les morts, et où chaque ancêtre relevé réclame un descendant à son tour.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-necromancie-des-quilboars

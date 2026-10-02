@@ -1,0 +1,9 @@
+Le peuple orc
+=============
+
+Les orcs de Durotar sont un peuple en reconstruction, marqué par les guerres et l'exil, mais déterminé à bâtir un avenir digne. Ils ont abandonné les camps d'internement et la soif de sang de jadis pour redécouvrir leurs anciennes valeurs : l'honneur, la force et la loyauté au clan. Leur vie est dure, mais libre, et chaque jour ils reprennent un peu de ce qui leur fut volé. Ils chassent, forgent, élèvent leurs enfants et honorent leurs ancêtres. Les anciens transmettent la mémoire, les jeunes apprennent le courage. Durotar est leur terre, et ils la défendent farouchement. Le peuple orc n'a pas oublié d'où il vient, et c'est ce souvenir qui le guide vers ce qu'il veut devenir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : orcs

@@ -1,0 +1,9 @@
+Les fermes abandonnées
+======================
+
+Les champs de Felstone et la ferme des Dalson racontent, mieux que les chroniques, la chute de la campagne. Les clôtures y sont brisées, les charrues rouillées au milieu des sillons, et les épouvantails pendent, tête basse, comme des condamnés. Dans les granges, des outils sont restés plantés dans la paille, abandonnés au milieu d'un geste. Les caves servent désormais de repaires aux goules, et les cuisines de nids aux rats voraces. Pourtant, des familles s'accrochent encore à ces terres maudites, refusant de quitter la maison des aïeux, barricadant les fenêtres et salant les seuils. Les aventuriers y reçoivent des missions déchirantes : retrouver un fils, brûler un silo, ou simplement rapporter une montre en héritage. La campagne meurt, mais lentement, maison après maison.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-fermes-abandonnees

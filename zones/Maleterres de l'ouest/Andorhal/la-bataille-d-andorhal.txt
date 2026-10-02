@@ -1,0 +1,9 @@
+La bataille d'Andorhal
+======================
+
+À la lisière de la ville, des campements se font face : bannières bleues et or de l'Alliance d'un côté, étendards écarlates de la Horde de l'autre. Les deux armées convoitent Andorhal pour ses routes, ses gués et ses silos, mais aucune ne parvient à s'y maintenir longtemps. Les escarmouches éclatent à l'aube, des charges de cavalerie soulèvent la poussière des rues, et les mages font pleuvoir le feu sur les places désertes. Parfois, le Fléau lui-même s'invite dans la mêlée, et les ennemis d'un instant combattent alors côte à côte contre les goules. La ville est devenue un échiquier sanglant où chaque ruine change de main au gré des renforts. Les anciens disent qu'Andorhal ne connaîtra plus jamais la paix, seulement des trêves.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-bataille-d-andorhal

@@ -1,0 +1,9 @@
+Le village de Sen'jin
+=====================
+
+Sur la côte de Durotar, non loin des falaises, se niche Sen'jin, le village des trolls Sombrelance. Les huttes de chaume et de bois s'y serrent autour de feux, et les pirogues y reposent sur le sable. C'est un lieu humble, bâti après l'exil, où la tribu a trouvé un refuge sur la terre ferme. On y vit de pêche, de chasse et d'artisanat, et l'on y accueille les jeunes orcs venus apprendre les rudiments de la survie. Sen'jin n'a rien d'une forteresse, mais il tient bon face à la mer et aux dangers de la côte. Ce village est le cœur de la communauté troll, le premier foyer que les Sombrelance se soient construit depuis la chute de leurs îles et de leur ancien monde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : village

@@ -1,0 +1,9 @@
+Le laboratoire de Nefarian
+==========================
+
+Au-delà des salles du sommet s'ouvre le Repaire de l'Aile noire, le laboratoire secret de Nefarian, fils d'Aile de mort. Là, dans des galeries hautes comme des cathédrales, le dragon noir poursuit l'œuvre de son père : croiser les lignées, forcer la nature et créer une armée de dragons parfaits. Des œufs s'y alignent par centaines, des sages draconiques y consignent leurs expériences, et l'air y sent la magie et le soufre. Nefarian n'est pas un simple seigneur : c'est un savant fou qui considère les races vivantes comme de la matière première. Le Repaire de l'Aile noire est son cabinet de curiosités, et chaque salle est une promesse de monstruosité.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-laboratoire-de-nefarian

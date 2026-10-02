@@ -1,0 +1,9 @@
+Les éclaireurs des marais
+=========================
+
+Depuis Mur-de-Fougères, des éclaireurs partent chaque jour dans le Marécage d'Âprefange, munis de cartes de peau et de fioles d'antidote. Ils longent les criques, contournent les nids de crocilisques et relèvent les traces laissées dans la vase. Leurs rapports remontent au commandement : mouvements de l'Alliance autour de Theramore, passages de dragons noirs, attaques de murlocs. Certains poussent jusqu'aux digues du nord, d'où l'on aperçoit les tours blanches de la cité humaine. Ils se déplacent en silence, le visage enduit de boue pour tromper l'odeur, et ne laissent derrière eux que des empreintes que la pluie efface vite. Grâce à eux, la Horde sait ce qui rampe dans la brume avant que la brume ne se referme.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-eclaireurs-des-marais

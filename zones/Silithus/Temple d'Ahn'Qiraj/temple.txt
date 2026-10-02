@@ -1,0 +1,9 @@
+Le temple de C'Thun
+===================
+
+Le Temple d'Ahn'Qiraj est le cœur du désert, une forteresse souterraine bâtie autour du sommeil de C'Thun. Ses couloirs s'enfoncent dans la terre comme des galeries de ruche, et l'on y sent la présence du dieu ancien dans chaque pierre. Les torches y meurent, les voix y résonnent bizarrement, et l'air y est lourd d'une poussière qui ne vient pas du sable. C'est un lieu où l'on ne va pas, où l'on descend. Le Temple d'Ahn'Qiraj est le trône du dieu, la preuve que les qiraji n'ont pas bâti une cité, mais un écrin pour leur maître.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : temple

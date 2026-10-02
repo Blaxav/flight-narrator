@@ -1,0 +1,9 @@
+Les réfugiés de Lordaeron
+=========================
+
+Les réfugiés qui s'entassent à la Pointe du Refuge viennent de partout : des villages d'Arathi ravagés, des routes de Lordaeron, des fermes brûlées par les ogres ou le Syndicat. Ils arrivent avec peu de choses, parfois une charrette, souvent rien que la peur dans les yeux. Le camp leur offre un toit et un repas, mais aussi une promesse : celle de pouvoir repartir, un jour, vers des terres plus sûres. Beaucoup racontent les mêmes histoires, des nuits d'incendie et des fuites dans les collines. Pourtant, ils reprennent courage, s'entraident, et certains s'engagent même dans la milice pour défendre leur refuge. Ces réfugiés sont la mémoire vivante de la guerre, et leur présence rappelle à chacun ce qu'il en coûte de perdre son foyer.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : refugies

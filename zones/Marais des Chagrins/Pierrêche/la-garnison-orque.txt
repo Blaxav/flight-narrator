@@ -1,0 +1,9 @@
+La garnison orque
+=================
+
+Les orcs de Pierrêche sont des soldats endurcis, rompus aux fièvres du marais et aux embuscades des murlocs. Beaucoup ont combattu lors des guerres passées, et leurs peaux portent les marques des lames et des sorts. Ils montent la garde sans relâche, car l'isolement du poste en fait une cible tentante pour les créatures du marais et les rôdeurs venus du sud. Les officiers y maintiennent une discipline de fer : inspections à l'aube, corvées de réparation, patrouilles en binôme. Pourtant, la camaraderie y est réelle, nouée autour des feux où l'on partage la viande fumée et les histoires de batailles. Les nouvelles recrues apprennent vite à respecter le silence du marais et à ne jamais s'éloigner seules. Ici, survivre est déjà une victoire, et la Horde n'oublie jamais ses avant-postes perdus.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-garnison-orque

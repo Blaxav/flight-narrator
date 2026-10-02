@@ -1,0 +1,9 @@
+L'exode de Lordaeron
+====================
+
+Theramore est née de l'exode le plus douloureux des royaumes de l'Est. Quand le Fléau submergea Lordaeron, des milliers de réfugiés prirent la mer sous la protection de Jaina Portvaillant, fuyant les villes mortes et les champs empoisonnés. La traversée fut longue, marquée par les tempêtes et le deuil, mais la flotte finit par toucher les côtes de Kalimdor. Là, sur une île battue par les vents, les survivants dressèrent leurs premières tentes, puis des palissades, puis des murailles. Chaque pierre de Theramore porte la mémoire d'un foyer perdu, d'un nom gravé, d'une promesse faite aux morts. La cité est un refuge, mais aussi un tombeau ouvert sur la mer : on y veille ceux qui ne reverront jamais Lordaeron.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-exode-de-lordaeron

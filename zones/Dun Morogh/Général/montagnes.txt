@@ -1,0 +1,9 @@
+Les montagnes de Khaz Modan
+===========================
+
+Dun Morogh est un royaume de neige et de granit, où les sommets percent un ciel pâle et où les vallées dorment sous un manteau blanc. Les forêts de pins s'accrochent aux pentes, et les lacs gelés reflètent la lumière des hauts pics. C'est une terre rude, belle et silencieuse, où le froid mord les voyageurs imprudents. Pourtant, les nains y ont bâti leurs cités et leurs routes, creusant la montagne pour en faire un foyer. L'air y est vif, le vent y chante entre les rochers, et les avalanches y grondent parfois. Dun Morogh est le berceau du peuple nain, la patrie de Khaz Modan, et chaque pierre de ces montagnes semble se souvenir des premiers forgerons qui y allumèrent leurs feux.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : montagnes

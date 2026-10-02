@@ -1,0 +1,9 @@
+La garde face à Theramore
+=========================
+
+Mur-de-Fougères existe d'abord pour une raison stratégique : tenir tête à Theramore. Le village est bâti sur un promontoire d'où l'on surveille les routes du marais, les criques d'abordage et les digues que l'Alliance emprunte. Des balistes, montées sur des plates-formes de bois, pointent vers le nord, et des patrouilles mixtes d'orcs et d'ogres arpentent les abords jour et nuit. La garnison ne dort que d'un œil, car les escarmouches avec les soldats de Jaina éclatent sans prévenir, rapides et sanglantes. Pourtant, personne à Mur-de-Fougères ne cherche la bataille ouverte : le marais suffit à user les armées. On y tient la position, patiemment, comme on tient une digue contre la mer. Et l'on attend que l'ennemi commette la première erreur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-garde-face-a-theramore

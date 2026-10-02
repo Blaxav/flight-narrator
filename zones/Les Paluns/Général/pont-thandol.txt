@@ -1,0 +1,9 @@
+Le pont Thandol
+===============
+
+Au nord des Paluns se dresse le pont Thandol, un ouvrage colossal qui enjambe un gouffre entre les marais et les hauteurs d'Arathi. Bâti par les nains, il est à la fois une merveille d'ingénierie et un champ de bataille. Les Sombrefer ont tenté plus d'une fois de le détruire ou de le prendre, car qui tient le pont tient la route entre le nord et le sud. Ses arches de pierre défient le vide, et ses défenseurs montent la garde nuit et jour. Le pont Thandol est le verrou des Paluns, la preuve que les nains savent bâtir des passages là où la nature n'offre que des abîmes. Il est le trait d'union entre la boue des Paluns et les vents d'Arathi.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : pont-thandol

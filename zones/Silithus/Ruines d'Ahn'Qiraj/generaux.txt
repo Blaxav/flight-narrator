@@ -1,0 +1,9 @@
+Les généraux qiraji
+===================
+
+Dans les Ruines d'Ahn'Qiraj commandent les généraux qiraji, des seigneurs insectoïdes d'une force et d'une cruauté sans égales. Chacun garde un quartier de la cité, entouré de sa garde, et tous répondent à des voix plus profondes. Leurs noms circulent comme des malédictions parmi les soldats du Fort cénarien. Les affronter, c'est s'enfoncer dans la gueule de la ruche. Les généraux qiraji sont la hiérarchie du fléau, la preuve que l'armée des insectes n'est pas une horde aveugle, mais un ordre ancien et discipliné.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : generaux

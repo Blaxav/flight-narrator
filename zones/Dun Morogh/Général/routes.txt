@@ -1,0 +1,9 @@
+Les routes sous la neige
+========================
+
+Les routes de Dun Morogh serpentent entre les rochers et les forêts, tracées par des générations de nains pour relier les vallées et les avant-postes. En hiver, elles se couvrent de neige et de glace, et les convois y avancent lentement, escortés contre les bêtes et les troggs. Les relais y offrent le gîte et le feu, et les voyageurs s'y racontent les nouvelles. Ces routes sont les artères du royaume : par elles circulent le minerai, les vivres et les renforts. Les nains les entretiennent avec soin, car une route coupée, c'est une vallée isolée. Marcher sur ces chemins, c'est mesurer la patience d'un peuple qui a apprivoisé la montagne, pas à pas, pierre après pierre, et tempête après tempête.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : routes

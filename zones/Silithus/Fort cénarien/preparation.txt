@@ -1,0 +1,9 @@
+La préparation de la guerre
+===========================
+
+Au Fort cénarien, tout se prépare pour une guerre sans merci. Les armuriers forgent, les alchimistes distillent, les chamans bénissent les armes, et les stratèges étudient les ruches sur des cartes de sable. Les volontaires y affluent, appelés par les tambours et les messages des druides, pour grossir les rangs. On y distribue les insignes, on y recueille les serments, on y compte les forces. La préparation de la guerre du Fort cénarien est une œuvre patiente, la preuve que l'on ne défie pas les qiraji sans des mois de labeur, et que la victoire se forge avant la bataille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : preparation

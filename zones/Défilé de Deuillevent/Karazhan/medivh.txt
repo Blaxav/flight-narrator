@@ -1,0 +1,9 @@
+Médivh
+======
+
+Médivh fut le dernier Gardien de Tirisfal, le plus puissant mage de son temps, et l'homme par qui le malheur est entré dans le monde. Corrompu dès sa naissance par l'esprit de Sargeras, il grandit partagé entre sa mission et la volonté du démon qui l'habitait. C'est lui qui, depuis sa tour de Karazhan, ouvrit la Porte des Ténèbres et laissa déferler les orcs sur Azeroth. Son histoire est celle d'une chute : un gardien destiné à protéger le monde, devenu l'instrument de sa destruction. Médivh est mort, mais son ombre plane toujours sur le défilé de Deuillevent. Il rappelle que le pouvoir le plus grand, s'il est corrompu, devient le danger le plus terrible.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : medivh

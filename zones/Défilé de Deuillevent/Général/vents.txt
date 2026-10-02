@@ -1,0 +1,9 @@
+Les vents morts
+===============
+
+Le défilé de Deuillevent est un couloir de roche nue, entre le Bois de la Pénombre et le marais des Chagrins, balayé en permanence par un vent qui siffle comme une plainte. C'est de ce vent qu'il tire son nom, un souffle froid qui ne cesse jamais et qui semble porter les voix des morts. Aucun arbre n'y pousse, aucun oiseau n'y chante, et l'on n'y entend que la roche qui s'effrite. Les voyageurs y pressent le pas, le col relevé, sans jamais s'y attarder. Le vent de Deuillevent est plus qu'un phénomène : c'est une présence, une respiration du lieu, qui rappelle à chacun que cette terre est morte depuis longtemps. Ici, même l'air est en deuil.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : vents

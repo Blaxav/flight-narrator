@@ -1,0 +1,9 @@
+L'ombre de C'Thun
+=================
+
+Sous les sables de Silithus dort C'Thun, un dieu ancien dont le nom seul glace le sang. Cette entité, née avant les Titans, étend ses murmures sur le désert et commande aux qiraji comme à des doigts. Il ne dort pas vraiment : il attend, rêve, et corrompt les esprits qui s'approchent. Les cultistes du Crépuscule et les insectes ne sont que ses serviteurs. On raconte qu'il fut emprisonné, mais qu'aucune prison n'est parfaite. L'ombre de C'Thun pèse sur Silithus, la preuve que les dieux anciens ne meurent pas, et que le sable qui les recouvre n'est qu'un linceul trop mince.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cthun

@@ -1,0 +1,9 @@
+Les nagas
+=========
+
+Les nagas hantent les eaux d'Azshara, et ils en sont les véritables maîtres. Ces créatures serpentines, mi-elfes mi-serpents, descendent des bien-nés qui suivirent la reine Azshara dans les abysses. Transformés par la puissance des Dieux très anciens, ils ont conservé l'arrogance de leur race et la soif de reconquérir le monde de la surface. On les voit surgir des criques pour attaquer les pêcheurs, garder des ruines englouties et rassembler des esclaves. Leur magie est ancienne et leur rancune, millénaire. Les nagas d'Azshara rappellent que ce que la mer a englouti n'a jamais vraiment disparu : cela attend, sous les vagues, que le moment soit venu de remonter à l'air libre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : nagas

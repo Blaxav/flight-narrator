@@ -1,0 +1,9 @@
+Les seigneurs et les bêtes du feu
+=================================
+
+Le Cœur du Magma est peuplé de créatures que la raison humaine peine à nommer. Des seigneurs du feu, géants de braise et de colère, y règnent sur des îlots de lave. Des chiens du magma, au mufle incandescent, y montent la garde. Des géants de lave, lents et massifs, y broient tout ce qui bouge. Chacun de ces lieutenants porte un nom — Lucifron, Baron Geddon, Golemagg l'Incinérateur — et chacun garde un passage vers le trône. Ils ne sont pas des soldats, mais des forces naturelles au service d'un maître. Traverser le Cœur du Magma, c'est affronter le feu sous toutes ses formes, jusqu'à ne plus distinguer la peur de la chaleur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-seigneurs-et-les-betes-du-feu

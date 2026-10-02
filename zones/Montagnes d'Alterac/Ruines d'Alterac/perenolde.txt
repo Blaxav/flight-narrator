@@ -1,0 +1,9 @@
+Le roi traître
+==============
+
+Aiden Perenolde fut le dernier roi d'Alterac, et son nom est devenu synonyme de trahison. Pendant la Deuxième Guerre, alors que l'Alliance luttait pour sa survie, il ouvrit en secret ses cols aux orcs de la Horde, espérant préserver son trône en servant l'ennemi. Sa félonie fut découverte, son royaume dissous, et lui-même disparut dans la honte, pourchassé par ceux qu'il avait trahis. Certains disent qu'il mourut misérable, d'autres qu'il complote encore dans l'ombre. Perenolde incarne la chute d'une lignée, la preuve que la peur peut pousser un roi à vendre les siens, et que la mémoire des peuples n'oublie jamais un tel parjure.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : perenolde

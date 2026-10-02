@@ -1,0 +1,9 @@
+Un passage maudit
+=================
+
+Le défilé de Deuillevent est un passage maudit, mais aussi un passage obligé. Il relie les royaumes de l'est au sud du continent, et malgré sa réputation, les caravanes et les messagers doivent le traverser. On y va en groupe, l'arme à la main, et l'on n'y dort jamais. La route serpente entre les falaises, longeant Karazhan, et chaque détour peut réserver une mauvaise rencontre. Pourtant, il faut bien passer : c'est le prix du voyage vers les terres du sud. Le défilé de Deuillevent est la preuve que les routes les plus sombres restent des routes, et que les hommes les empruntent quand même, parce qu'ils n'ont pas le choix. Ici, on avance vite, sans regarder derrière soi.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : passage

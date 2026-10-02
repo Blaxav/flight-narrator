@@ -1,0 +1,9 @@
+Williden Marshal
+================
+
+Williden Marshal est le gobelin explorateur qui a fondé le Refuge des Marshal, au bord du cratère d'Un'Goro. Curieux et obstiné, il a passé sa vie à étudier une jungle que nul n'avait cartographiée, bravant les devilsaurs et les mares de bitume. Son camp est devenu le point de ralliement des chercheurs et des aventuriers, attirés par sa renommée. Marshal n'est pas un savant en tour d'ivoire : il met la main à la pâte, répare les pièges et partage ses découvertes. On raconte qu'il connaît le cratère mieux que quiconque, et qu'il y a laissé plus d'un compagnon. Williden Marshal est la preuve que la curiosité gobeline peut bâtir des avant-postes là où personne d'autre n'oserait dormir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : marshal

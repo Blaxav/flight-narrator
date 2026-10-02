@@ -1,0 +1,9 @@
+Une cité au cœur des sables
+===========================
+
+Au cœur du désert de Tanaris, Gadgetzan dresse ses murailles de pierre blonde au milieu des dunes, comme un coffre posé sur le sable. La ville gobeline y prospère, bruyante et remuante, entre les étals, les forges et les entrepôts, et l'on y vend de tout, des armes aux potions, pourvu que l'or sonne. Les rues y sont étroites, les marchands criards et les gardes vigilants, car ici le commerce est une religion et la méfiance une vertu. Gadgetzan est née du négoce, et le négoce la fait vivre. Chaque caravane qui y entre confie sa fortune à ses coffres, et chaque voyageur y laisse quelques pièces en échange d'un peu d'ombre. Depuis le ciel, la cité paraît une oasis de pierre, mais c'est une oasis où l'on paie même le silence du désert.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : citerne-du-desert

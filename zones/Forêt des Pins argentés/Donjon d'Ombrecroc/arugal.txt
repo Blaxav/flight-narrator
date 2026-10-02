@@ -1,0 +1,9 @@
+L'archimage Arugal
+==================
+
+Le maître d'Ombrecroc est l'archimage Arugal, un mage du Kirin Tor qui a sombré dans la folie. Pendant la Troisième Guerre, il invoqua les worgens pour défendre Lordaeron contre le Fléau. Les créatures furent efficaces, mais incontrôlables, et elles se retournèrent contre les vivants. Arugal, rongé par le remords ou par l'orgueil, se retira dans la forteresse avec sa meute. Là, il poursuivit ses invocations, créant toujours plus de worgens et se proclamant leur maître. Mais un maître de bêtes sauvages n'est jamais en sécurité. Arugal est devenu le prisonnier de sa propre folie, un magicien qui a cru dompter la malédiction et qui en est devenu le serviteur. Et la forêt tout entière paie encore le prix de sa démesure.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : arugal

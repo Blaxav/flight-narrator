@@ -1,0 +1,9 @@
+Les Taurens des mesas
+=====================
+
+Sur les hauteurs des Mille Pointes, les taurens ont bâti leurs avant-postes, accrochés aux mesas comme des nids d'aigles. Ces nomades paisibles, hauts comme des arbres, parcourent les plateaux avec leurs kodos et leurs chasseurs. Ils connaissent chaque corniche, chaque source cachée, chaque sentier qui grimpe à flanc de falaise. Leur culture, tournée vers la nature et les ancêtres, s'exprime dans les totems dressés face au vent et dans les chants graves qui montent des campements à la tombée du soir. Les taurens des Mille Pointes vivent en équilibre avec ce pays rude, mais ils n'en sont pas les seuls maîtres : centaures et harpies leur disputent chaque pâturage. Leur patience est immense, mais leur colère, quand elle s'éveille, fait trembler les rochers.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-taurens-des-mesas

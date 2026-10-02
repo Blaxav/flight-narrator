@@ -1,0 +1,9 @@
+Le rempart de Mor'shan
+======================
+
+Au nord des Tarides, le rempart de Mor'shan barre la route comme une mâchoire de bois et de pierre. Ce bastion de la Horde veille sur la frontière qui mène vers les forêts d'Orneval, et aucun convoi ne passe sans être compté. Ses remparts grossiers suffisent à dissuader les pillards, et ses tours surveillent les collines où les harpies aiment se percher. Derrière ses murs, les grunts s'équipent avant de s'enfoncer vers le nord, et les blessés y trouvent un feu pour reprendre des forces. Mor'shan n'est pas une citadelle, mais un seuil : la dernière poignée de terre sèche avant l'ombre des grands arbres. Qui tient ce rempart tient la porte du nord, et la Horde le sait.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : rempart-morshan

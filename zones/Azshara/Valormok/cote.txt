@@ -1,0 +1,9 @@
+La côte orientale
+=================
+
+La côte orientale d'Azshara, où s'accroche Valormok, est un rivage de galets et de falaises que la brume enveloppe au matin. La mer y est d'un vert profond, et l'on dit qu'elle garde les ruines des palais de la reine Azshara. Les pêcheurs du camp y tendent leurs filets, mais ils savent que chaque sortie peut mal tourner : les nagas rôdent, et les eaux ne rendent pas toujours ceux qu'elles prennent. Pourtant, la côte est riche, et la Horde en tire de quoi subsister. C'est un rivage de contrastes, où la beauté du paysage masque la menace constante des profondeurs. La côte orientale d'Azshara est une frontière liquide, et Valormok en est le poste de garde avancé.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cote

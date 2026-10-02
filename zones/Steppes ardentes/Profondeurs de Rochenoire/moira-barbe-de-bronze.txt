@@ -1,0 +1,9 @@
+Moira Barbe-de-Bronze
+=====================
+
+Dans les profondeurs de Rochenoire se joue une histoire plus intime : celle de Moira Barbe-de-Bronze, fille du roi Magni de Forgefer. Enlevée par les Sombrefer, elle a fini par s'attacher à l'empereur Dagran Thaurissan, au point de rester auprès de lui de son plein gré, dit-on. Son père la croit prisonnière, mais Moira a trouvé chez les nains de l'ombre une place que Forgefer ne lui offrait pas. Les aventuriers qui descendent dans la cité reçoivent l'ordre de la ramener, et découvrent une vérité plus trouble. Moira incarne la frontière incertaine entre l'enlèvement et l'amour, entre les clans et les cœurs, et son choix pèsera lourd sur l'avenir des nains.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : moira-barbe-de-bronze

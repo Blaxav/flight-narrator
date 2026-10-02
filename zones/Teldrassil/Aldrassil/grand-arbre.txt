@@ -1,0 +1,9 @@
+Le grand arbre Aldrassil
+========================
+
+Au nord-ouest de Teldrassil se dresse Aldrassil, un arbre immense dont la ramure abrite le premier village des elfes de la nuit. Son tronc, large comme une tour, porte des maisons de bois vivant et des passerelles de lianes tressées, suspendues entre les branches comme des nids. La lumière filtre à travers les feuillages, verte et douce, et le chant des oiseaux y répond au murmure des sources qui courent sur l'écorce. Aldrassil est plus qu'un arbre : c'est un ancêtre, un foyer et un refuge, enraciné dans la terre de l'Arbre-monde et dans la mémoire d'un peuple. Les jeunes elfes y font leurs premiers pas, sous le regard bienveillant des anciens qui veillent. Ici, tout commence, comme la sève monte du sol vers les plus hautes branches. Aldrassil veille sur les siens, patient comme la forêt.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : grand-arbre

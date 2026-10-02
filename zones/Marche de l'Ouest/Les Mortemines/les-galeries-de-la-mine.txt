@@ -1,0 +1,9 @@
+Les galeries de la mine
+=======================
+
+Les premières galeries des Mortemines gardent l'empreinte des anciens mineurs : rails rouillés, wagonnets renversés, étais de bois qui craquent sous le poids de la falaise. La Confrérie y a installé ses alliés les moins fréquentables. Des ogres à la force brute montent la garde près des monte-charge, tandis que des gobelins ingénieurs bricolent des déchiqueteuses à vapeur et des pièges à poudre. Le fracas des machines couvre les pas des intrus, et les torches projettent des ombres dansantes sur les parois. On raconte que les mineurs ont percé trop profond, réveillant des choses que la Confrérie elle-même craint d'approcher. Chaque wagonnet renversé, chaque filon de pyrite scintillant peut cacher une embuscade. La mine ne pardonne ni la précipitation ni la peur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-galeries-de-la-mine

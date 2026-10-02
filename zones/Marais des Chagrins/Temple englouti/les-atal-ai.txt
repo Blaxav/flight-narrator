@@ -1,0 +1,9 @@
+Les Atal'ai
+===========
+
+Les trolls Atal'ai sont les derniers fidèles d'Hakkar, chassés de la jungle de Strangleronce par leurs frères gurubashis pour leurs rites impies. Ils s'enfoncèrent dans le Marais des Chagrins et y relevèrent leur temple, jurant de ramener leur dieu dans le monde. Vêtus de plumes et de masques, le corps couvert de scarifications, ils sacrifient encore des victimes sur les autels immergés, espérant nourrir la soif insatiable d'Hakkar. Leurs prophètes psalmodient des incantations qui font trembler la pierre, et leurs gardes brandissent des lames recourbées trempées de poison. Les Atal'ai ne doutent pas : pour eux, la fin du monde n'est pas une menace, mais une promesse. Les arrêter est une course contre le réveil d'un dieu qui se nourrit de sang et de peur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-atal-ai

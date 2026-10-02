@@ -1,0 +1,9 @@
+Les Sentinelles veillent
+========================
+
+Autour d'Aldrassil, les Sentinelles montent la garde, l'arc à l'épaule et l'œil aux aguets, aussi silencieuses que les ombres qu'elles traquent. Ces guerrières d'élite, vouées à Elune et à la défense de leur peuple, patrouillent sans relâche les lisières du village et les sentiers qui s'enfoncent sous les arbres. Elles connaissent chaque branche, chaque bruit et chaque piste, et rien de ce qui rôde n'échappe à leur vigilance. Leur présence rassure les habitants, mais rappelle aussi que Teldrassil n'est pas un paradis sans dangers : les bêtes sauvages rôdent, et des ombres corrompent parfois la forêt. Les Sentinelles sont le rempart entre le village et l'inconnu, la lame toujours prête à frapper. Elles ne dorment jamais, dit-on, et c'est peut-être ce qui sauve Aldrassil nuit après nuit. Leur dévouement est la plus ancienne des protections.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sentinelles

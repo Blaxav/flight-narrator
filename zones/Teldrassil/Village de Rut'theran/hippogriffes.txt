@@ -1,0 +1,9 @@
+Les hippogriffes du port
+========================
+
+Au Village de Rut'theran, les hippogriffes s'élancent des perchoirs pour gagner les cieux de Kalimdor. Ces créatures au corps de cerf et aux ailes de corbeau servent de montures aux elfes de la nuit, qui les dressent depuis des millénaires avec patience et fierté. Les maîtres des hippogriffes les nourrissent, les pansent et connaissent chacun de leurs cris, de leurs humeurs et de leurs peurs. Depuis le port, les voyageurs peuvent s'envoler vers Darnassus, Sombrivage ou les lointaines terres elfes, portés par des ailes fidèles. Le décollage est un instant de vertige, un saut entre la mer et le vent, entre les racines et les nuages. Les hippogriffes sont plus que des bêtes : ce sont des compagnons, dont les ailes portent tout un peuple. Rut'theran résonne de leurs appels à chaque aube.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : hippogriffes

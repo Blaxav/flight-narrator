@@ -1,0 +1,9 @@
+Une campagne pourrie
+====================
+
+Les Maleterres de l'ouest s'étendent comme un linceul froissé entre les montagnes et la mer. Vues du ciel, les terres agricoles de Lordaeron ne sont plus qu'un damier de champs noirs, de vergers morts et de haies déchiquetées. Les fermes aux toits effondrés ponctuent un paysage où plus rien ne pousse, sinon des champignons livides et des ronces grises. Des brumes jaunâtres stagnent dans les creux, et les rivières lentes charrient des débris d'épaves. Pourtant, sous cette désolation, on devine encore l'ordre ancien : les alignements de vignes, les moulins, les chemins creux. C'était le cœur nourricier du royaume, et il est devenu un cimetière à perte de vue. Chaque route y mène à un village mort, chaque sentier à une fosse ouverte.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : une-campagne-pourrie

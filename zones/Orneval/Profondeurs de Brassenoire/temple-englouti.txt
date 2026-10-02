@@ -1,0 +1,9 @@
+Le temple englouti
+==================
+
+Les Profondeurs de Brassenoire sont un temple englouti sous la côte d'Orneval, une ruine noyée que les eaux ont avalée et que les marées découvrent à peine. On y descend par des escaliers glissants, entre des murs couverts d'algues et des salles où l'eau clapote. C'était autrefois un sanctuaire dédié à la déesse Elune, mais il a sombré dans les profondeurs, et quelque chose d'ancien s'y est réveillé. Les torches n'y brûlent que d'une flamme pâle, et l'air y sent le sel et la pourriture. Le temple englouti de Brassenoire est une cathédrale noyée, la preuve que la mer avale les sanctuaires, et que ce qui coule n'est pas toujours mort.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : temple-englouti

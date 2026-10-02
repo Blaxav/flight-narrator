@@ -1,0 +1,9 @@
+Le village de la tribu
+======================
+
+Le Village des Sabot-Sanglant s'étend au cœur de Mulgore, le long d'une piste que les troupeaux empruntent depuis des générations. C'est un village vivant, peuplé de tanneurs, de chasseurs et de chamans, où les tentes s'ouvrent sur les feux et les abreuvoirs. Les enfants y courent entre les totems, les vieillards y racontent les saisons, et l'on y échange le cuir, la viande et les nouvelles. Rien n'y est pressé, tout y a sa place. Le Village des Sabot-Sanglant est le poumon de la tribu, la preuve que la civilisation taurenne se joue d'abord dans la vie quotidienne, autour d'un feu partagé et d'une parole donnée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : village-tribu

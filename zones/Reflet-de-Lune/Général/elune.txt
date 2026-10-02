@@ -1,0 +1,9 @@
+Le lac Elune'ara
+================
+
+Le lac Elune'ara s'étend au cœur de Reflet-de-Lune, miroir tranquille où la déesse Elune semble se pencher chaque nuit. Ses eaux sont calmes, presque irréelles, et l'on dit qu'elles ont des vertus de guérison. Les prêtresses et les pèlerins s'y recueillent, les druides y puisent l'eau de leurs rituels, et la lune s'y reflète avec une clarté de nacre. C'est un lieu de silence, où l'on chuchote comme dans un temple. Le lac Elune'ara est l'œil de la vallée, la preuve que la déesse a choisi Reflet-de-Lune pour y poser son regard, et que ses eaux gardent cette lumière.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : elune

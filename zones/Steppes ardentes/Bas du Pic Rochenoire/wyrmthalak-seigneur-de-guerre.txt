@@ -1,0 +1,9 @@
+Wyrmthalak, seigneur de guerre
+==============================
+
+Au fond du Bas du Pic règne le seigneur de guerre Wyrmthalak, un orc massif du clan Rochenoire, gardien des salles inférieures. Il commande les troupes qui défendent les accès du sommet et veille à ce que nul ne monte sans payer le prix. Wyrmthalak est un soldat, pas un rêveur : il croit en la force, en la lame et en la fidélité au clan. Sa présence fait du Bas du Pic une porte verrouillée que les intrus doivent briser à coups d'épée. Tant qu'il respire, les salles basses restent un obstacle que les aventuriers ne peuvent contourner. Sa hache est lourde, et sa légende s'écrit dans le sang des imprudents qui ont cru forcer le passage.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : wyrmthalak-seigneur-de-guerre

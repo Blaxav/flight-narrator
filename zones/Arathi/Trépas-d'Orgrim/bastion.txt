@@ -1,0 +1,9 @@
+Le bastion de la Horde
+======================
+
+Le Trépas-d'Orgrim est le bastion de la Horde dans les hautes terres d'Arathi, un camp fortifié posé face aux collines. Les grunts y montent la garde derrière des palissades de bois, et les bannières rouges claquent au vent. C'est un point d'appui stratégique, d'où la Horde surveille Stromgarde et tient la route vers les terres du sud. Le camp est simple, mais solide : des baraquements, une forge, et des sentinelles qui ne quittent jamais leur poste. On y sent la discipline d'une armée qui a appris à survivre sur des terres hostiles. Le Trépas-d'Orgrim n'est pas une ville, c'est une promesse tenue : la Horde ne recule pas, et elle plante son étendard là où ses ennemis ne l'attendent pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bastion

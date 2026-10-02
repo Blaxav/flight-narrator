@@ -1,0 +1,9 @@
+Hogger et les gnolls
+====================
+
+Parmi les gnolls d'Elwynn, un nom est plus craint que les autres : Hogger. Ce chef de bande, plus grand et plus féroce que ses semblables, s'est taillé une réputation de tueur dans les bois proches de la route. Les voyageurs l'évitent, les fermiers le maudissent, et la milice a lancé contre lui bien des expéditions, sans jamais réussir à l'abattre durablement. Hogger incarne la menace sauvage qui pèse sur la campagne, cette violence animale qui surgit des fourrés quand on s'y attend le moins. On raconte que sa tête est mise à prix, et que bien des jeunes aventuriers rêvent de la rapporter. Hogger est la preuve que même la plus douce des forêts a ses monstres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : hogger

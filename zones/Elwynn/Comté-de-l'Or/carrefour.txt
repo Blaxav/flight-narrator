@@ -1,0 +1,9 @@
+Le carrefour de Comté-de-l'Or
+=============================
+
+Comté-de-l'Or est un carrefour, là où les routes d'Elwynn se croisent avant de filer vers Hurlevent, les collines ou les bois profonds. Les chariots y passent en files, chargés de grains, de bois et de marchandises, et les cavaliers y font boire leurs montures. Cette position fait la prospérité du bourg, mais aussi sa fragilité : les routes attirent les bandits comme le miel attire les mouches. Les gardes y patrouillent donc sans relâche, et les villageois surveillent les étrangers d'un œil prudent. Comté-de-l'Or est une porte ouverte sur le royaume, et l'on sait ici qu'une porte ouverte doit être bien gardée, car chaque visiteur peut se révéler un ami comme un ennemi.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : carrefour

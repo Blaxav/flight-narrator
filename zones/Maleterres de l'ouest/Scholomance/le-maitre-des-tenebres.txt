@@ -1,0 +1,9 @@
+Le maître des ténèbres
+======================
+
+Au sommet de Scholomance règne le maître des ténèbres Gandling, un nécromancien dont la voix résonne dans chaque salle comme un écho de caveau. Il observe les intrus depuis les galeries, convoquant des portails, jetant des malédictions et téléportant ses élèves sur le champ de bataille. On raconte qu'il connaît chaque dalle de l'école, chaque passage secret, chaque piège, et qu'il s'amuse des assauts comme d'une leçon pratique. Les aventuriers qui l'ont affronté décrivent une silhouette drapée d'ombre, un bâton crânien et un rire sans chaleur. Vaincre Gandling exige de survivre à ses illusions, à ses invocations et à la foule de morts qu'il lève d'un geste. Tant qu'il respire, Scholomance restera une école ouverte, et ses diplômés, une menace pour les vivants.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-maitre-des-tenebres

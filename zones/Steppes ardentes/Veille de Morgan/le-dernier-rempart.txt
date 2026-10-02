@@ -1,0 +1,9 @@
+Le dernier rempart
+==================
+
+La Veille de Morgan est, pour l'Alliance, le dernier rempart avant la montagne. Au-delà de ses murs commencent les terres brûlées, les repaires des orcs et les ombres des dragons. Toute expédition vers le Pic y fait étape, y rassemble ses forces et y laisse ses blessés. Si le camp tombait, la route du nord serait ouverte et les Steppes ardentes n'auraient plus de sentinelle. C'est pourquoi on s'y bat avec acharnement, même pour un pouce de rocher. La Veille de Morgan tient, et tant qu'elle tient, l'Alliance garde un pied au seuil du feu, prête à frapper si la montagne s'éveille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-dernier-rempart

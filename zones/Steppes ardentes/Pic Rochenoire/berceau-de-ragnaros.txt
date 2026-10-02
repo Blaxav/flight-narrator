@@ -1,0 +1,9 @@
+Le berceau de Ragnaros
+======================
+
+Le Pic Rochenoire est d'abord le berceau de Ragnaros, le Seigneur du feu. C'est ici que les nains Sombrefer l'appelèrent, et c'est ici qu'il s'est éveillé dans un cataclysme de flammes qui a changé la région à jamais. Sa présence imprègne la montagne entière : la lave y coule plus haute, les élémentaires y naissent de la roche, et une chaleur vivante monte des entrailles comme un souffle. Les nains eux-mêmes ne sont plus que les serviteurs de cette fournaise. On raconte que Ragnaros sommeille au cœur du magma, dans le Cœur du Magma, attendant l'heure de consumer le monde. Le Pic est son trône, et chaque éruption rappelle que le maître n'a pas renoncé à régner.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : berceau-de-ragnaros

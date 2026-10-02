@@ -1,0 +1,9 @@
+Le nid sur la mesa
+==================
+
+Le Poste de Librevent est posé sur une mesa comme un nid d'oiseau géant, à l'abri des périls du canyon. On y accède par des ponts de corde qui se balancent au-dessus du vide, et par des sentiers étroits que les taurens connaissent par cœur. Les huttes de cuir et de bois s'y serrent autour d'un feu central, d'où montent les fumées des repas et des encens. Le vent y souffle sans cesse, gonflant les peaux tendues et faisant claquer les bannières. D'en haut, on embrasse les Mille Pointes d'un seul regard, jusqu'aux ronces de Tranchebauge au sud. C'est un lieu de veille, perché entre ciel et pierre, où la tribu Librevent observe les mouvements du monde sans jamais quitter des yeux son propre seuil.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-nid-sur-la-mesa

@@ -1,0 +1,9 @@
+La savane des Tarides
+=====================
+
+Vous planez au-dessus des Tarides, un océan d'herbes jaunes qui s'étire au cœur de Kalimdor, bordé de mesas rouges et de collines sèches. Jadis, cette terre n'était pas aride : une immense forêt, entretenue par les elfes de la nuit, la couvrait avant que la chute du Puits d'éternité ne brise le monde et ne la calcine. Il n'en reste qu'une savane immense, piquée de rares oasis dont les eaux portent encore une vie étrange. Le soleil y pèse, les vents y soulèvent la poussière, et les horizons y paraissent sans fin. Pourtant, cette plaine n'est pas vide : elle est le grand chemin de Kalimdor, le passage obligé entre Orgrimmar, Mulgore et les terres du sud. Les Tarides ne pardonnent rien, mais elles n'oublient personne, et chaque piste y raconte une histoire.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : savane

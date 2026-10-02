@@ -1,0 +1,9 @@
+Le sanctuaire des sacrifices
+============================
+
+Le Temple d'Ahn'Qiraj est un sanctuaire de sacrifices, où les qiraji offraient leurs proies à C'Thun et où le sang a imprégné la pierre. Des autels y portent encore des traces sombres, des salles y gardent l'écho de supplices, et l'on dit que le dieu se nourrissait des âmes autant que des corps. Les cultistes y venaient en procession, et nul n'en ressortait. Le sanctuaire des sacrifices est la vérité d'Ahn'Qiraj, la preuve que la dévotion qiraji se paie en vies, et que les murs du temple en ont bu plus qu'aucun champ de bataille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sacrifices

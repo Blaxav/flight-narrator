@@ -1,0 +1,9 @@
+Un poste sur la falaise
+=======================
+
+Perchée sur sa falaise, la Pointe de Talrendis domine la mer et offre une vue imprenable sur les ruines englouties d'Azshara. C'est un poste d'observation autant qu'un refuge, où les veilleurs se relaient jour et nuit. De là-haut, on distingue les silhouettes des nagas qui remontent des profondeurs et les voiles des rares navires qui osent longer la côte. Le vent y est vif, et les nuits y sont longues. Les sentinelles entretiennent un feu qui sert de repère aux voyageurs perdus, et de signal d'alarme si l'ennemi approche. Ce lieu isolé, battu par les éléments, est pourtant indispensable : il est les yeux de l'Alliance sur une région que personne d'autre ne surveille. Ici, on veille pour ceux qui ne le savent même pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : phare

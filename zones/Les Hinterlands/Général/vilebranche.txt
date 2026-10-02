@@ -1,0 +1,9 @@
+Les trolls Vilebranche
+======================
+
+Les trolls Vilebranche sont l'ombre des Hinterlands. Cette tribu forestière, descendante des anciens empires trolls, s'est retranchée dans la cité de Jintha'Alor, accrochée aux falaises. Ils y pratiquent des cultes anciens, voués à des loas sombres et exigeants, et sacrifient sans compter. Leur hostilité envers les nains et les étrangers est absolue, et leurs raids descendent des montagnes comme des nuées. Les Vilebranche ne sont pas des sauvages : ce sont les héritiers d'une civilisation puissante, qui refusent de disparaître. Leur magie vaudoue et leurs lances empoisonnées en font des adversaires redoutés. Tant que Jintha'Alor tiendra, les Hinterlands ne connaîtront pas la paix. Leur haine est vieille comme les montagnes, et tout aussi tenace que la pierre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : vilebranche

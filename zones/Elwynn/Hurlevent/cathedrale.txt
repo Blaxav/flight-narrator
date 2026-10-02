@@ -1,0 +1,9 @@
+La Cathédrale de la Lumière
+===========================
+
+Au cœur de Hurlevent s'élève la Cathédrale de la Lumière, un édifice majestueux consacré à la foi qui unit les peuples de l'Alliance. Ses vitraux, ses colonnes et ses autels inspirent le recueillement, et l'on y vient prier, demander la guérison ou suivre l'enseignement des prêtres. La cathédrale est le siège de l'archevêque et le foyer spirituel du royaume, où la Lumière est honorée comme une force vivante. Les paladins et les clercs y puisent la force de continuer, et les malades y trouvent le soulagement. Dans une cité d'intrigues et de guerre, la Cathédrale de la Lumière est un îlot de paix, un rappel que l'espoir, lui aussi, se bâtit pierre par pierre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cathedrale

@@ -1,0 +1,9 @@
+Les quatre ailes
+================
+
+Le Monastère Écarlate est divisé en quatre ailes, chacune vouée à un aspect de la croisade. La Bibliothèque garde les archives et les secrets, l'Armurerie forge et entrepose les armes, la Cathédrale abrite les grands prêtres et les cérémonies, et le Cimetière sert de terrain d'entraînement et de sépulture. Chacune a ses maîtres, ses gardes et ses horreurs, et toutes sont reliées par des couloirs où l'écho des chants se mêle aux gémissements des prisonniers. Les assaillants qui s'y aventurent doivent affronter, aile après aile, la folie organisée de la Croisade, sans jamais trouver de repos. Le monastère est un corps à quatre membres, et chaque membre frappe. Nul n'en ressort intact.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-quatre-ailes

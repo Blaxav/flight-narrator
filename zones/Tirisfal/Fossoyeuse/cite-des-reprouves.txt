@@ -1,0 +1,9 @@
+La cité des Réprouvés
+=====================
+
+Sous les ruines de l'ancienne capitale de Lordaeron s'étend Fossoyeuse, la cité souterraine des Réprouvés. Creusée dans les cryptes, les égouts et les salles de la ville morte, elle déploie ses canaux verdâtres, ses ponts et ses quartiers baignés d'une lumière pâle qui ne vient pas du soleil. Les Réprouvés y ont bâti leur royaume, à l'abri du jour et du regard des vivants, dans un dédale de pierre et de moisi. On y descend par des ascenseurs qui plongent dans la roche, et l'on y entend le goutte-à-goutte des eaux et le murmure des incantations. Fossoyeuse n'est pas une ville ordinaire : c'est un tombeau habité, une capitale née de la défaite et de la résurrection. Ici, les morts gouvernent, et ils n'oublient pas ce qu'on leur a fait.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cite-des-reprouves

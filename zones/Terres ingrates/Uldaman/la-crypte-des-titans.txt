@@ -1,0 +1,9 @@
+La crypte des Titans
+====================
+
+Uldaman s'ouvre dans les profondeurs des Terres ingrates, vaste complexe creusé par les Titans il y a des millénaires. Ses salles cyclopéennes, ses couloirs taillés au cordeau et ses portes de pierre témoignent d'une science aujourd'hui perdue, enfouie sous la roche. C'est une crypte, un sanctuaire et une forteresse, où dorment des gardiens de pierre et des machines qui n'ont jamais cessé d'attendre le retour de leurs maîtres. Les nains y ont ouvert des fouilles, persuadés que ce lieu raconte l'origine de leur peuple et de leur chair. Mais Uldaman ne se laisse pas explorer sans résistance : ses défenses se réveillent au premier intrus, et ses couloirs se referment sur les curieux. Cette nécropole des Titans est un tombeau de secrets, et chaque salle y pèse du poids d'un monde disparu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-crypte-des-titans

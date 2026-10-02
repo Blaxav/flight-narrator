@@ -1,0 +1,9 @@
+Le village des Vengebroches
+===========================
+
+Le village des Vengebroches est un hameau troll, posé sur la côte des Hinterlands, entre les falaises et la mer. Ses huttes de bois et de chaume s'accrochent au rivage, et ses pêcheurs lancent leurs filets dès l'aube. C'est un lieu modeste, battu par les embruns, où la vie s'organise autour du feu et des marées. Les Vengebroche y accueillent leurs alliés de la Horde et y préparent leurs expéditions vers les hauteurs. Le village n'a rien d'une forteresse, mais il a la ténacité de ceux qui n'ont nulle part où aller. Ici, la mer nourrit, mais c'est la haine des Vilebranche qui tient les cœurs en éveil. Ses feux, la nuit, guident les barques perdues vers le rivage.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : village

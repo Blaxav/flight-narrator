@@ -1,0 +1,9 @@
+Les Quatre Cavaliers
+====================
+
+Dans le quartier militaire de Naxxramas chevauchent les Quatre Cavaliers, chevaliers de la mort arrachés aux plus grands héros de jadis. Leur meneur, le haut-seigneur Mograine, fut autrefois un paladin vénéré, porteur d'une lame sacrée qui réduisait les morts-vivants en cendres. Trahi par l'un des siens, il tomba et fut relevé en serviteur du Fléau, sa vertu pervertie en une rage glacée. À ses côtés chevauchent dame Blaumeux, sire Zeliek et thane Korth'azz, chacun porteur d'une malédiction mortelle. Les récits des survivants disent qu'il faut les affronter ensemble, sans répit, dans une danse funèbre où chaque pas peut tuer. Vaincre les Quatre Cavaliers, c'est comprendre que le Fléau ne détruit pas seulement les corps : il vole les âmes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-quatre-cavaliers

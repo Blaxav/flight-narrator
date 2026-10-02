@@ -1,0 +1,9 @@
+La prison de Hurlevent
+======================
+
+Sous les rues de Hurlevent s'étend la Prison, un labyrinthe de cellules et de couloirs où le royaume enferme ses criminels les plus dangereux. Les murs y suintent, les torches y jettent des ombres, et l'on y entend résonner les chaînes et les cris. La Prison est un lieu que les honnêtes gens préfèrent ignorer, mais dont la rumeur remonte parfois jusqu'aux places de la ville. On y jette voleurs, traîtres et comploteurs, dans l'espoir qu'ils y restent. Pourtant, la prison n'est plus sûre : une révolte couve, et les gardes se font rares. La Prison de Hurlevent est devenue une poudrière, un endroit où la justice du royaume retient son souffle, et où l'ordre ne tient plus qu'à un fil.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : prison

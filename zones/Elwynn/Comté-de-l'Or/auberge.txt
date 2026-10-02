@@ -1,0 +1,9 @@
+L'Auberge de la Fierté du Lion
+==============================
+
+Au centre de Comté-de-l'Or se dresse l'Auberge de la Fierté du Lion, une bâtisse chaleureuse où se retrouvent fermiers, voyageurs et aventuriers. On y sert une bière fraîche, des ragoûts fumants et les dernières nouvelles de la région, autour d'un grand feu qui crépite. Les rires y couvrent parfois le bruit du dehors, et les chansons y montent tard dans la nuit. C'est là que se nouent les amitiés, que se racontent les exploits et que se préparent les départs. L'Auberge de la Fierté du Lion est plus qu'un simple relais : c'est le cœur battant du bourg, le lieu où l'on se sent chez soi. Après une longue route, il n'est pas de meilleur accueil que sa porte ouverte.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : auberge

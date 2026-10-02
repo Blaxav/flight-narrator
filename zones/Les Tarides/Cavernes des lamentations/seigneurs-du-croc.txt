@@ -1,0 +1,9 @@
+Les seigneurs du Croc
+=====================
+
+Au cœur des cavernes règnent les seigneurs du Croc, quatre maîtres corrompus dont les noms évoquent les serpents : Cobrahn, Anacondra, Serpentis et Pythas. Chacun commande à sa manière, l'un par le poison, l'autre par la force, tous par la terreur. Ils ont fait des grottes un nid de vipères, où chaque flaque cache une morsure et chaque ombre une écaille. Leur autorité ne se discute pas : ils sont les fils du cauchemar de Naralex, et ils protègent le sommeil de leur maître comme un trésor. On raconte que les abattre ne suffit pas à purifier les lieux, car le rêve maudit les recrée sans cesse. Les seigneurs du Croc sont la preuve que la corruption, une fois installée, s'organise comme une cour.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : seigneurs-du-croc

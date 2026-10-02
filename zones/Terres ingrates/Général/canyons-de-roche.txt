@@ -1,0 +1,9 @@
+Les canyons de roche
+====================
+
+Vous survolez les Terres ingrates, un pays de canyons ocre, de mesas arides et de ravins où le vent siffle sans fin, comme une plainte. La roche y est nue, éclatée par des siècles de soleil, et les ombres y dessinent des géométries dures et sèches. Nulle rivière, nul arbre : seulement la pierre, la poussière et des criques asséchées qui se souviennent d'avoir été des eaux. Ce paysage minéral semble mort, mais il grouille de présences hostiles, tapies dans les failles et les cavernes. Les Terres ingrates sont un désert de roche, un labyrinthe à ciel ouvert où l'on se perd vite et dont on ne sort pas toujours. Pourtant, sous cette croûte aride dorment des secrets très anciens, enfouis par des mains plus vieilles que les nains. Ici, la terre est avare, mais elle cache des trésors qui valent des royaumes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : canyons-de-roche

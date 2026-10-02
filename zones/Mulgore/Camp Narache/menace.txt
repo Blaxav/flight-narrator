@@ -1,0 +1,9 @@
+La menace des quilboars
+=======================
+
+Aux abords du plateau de Red Cloud rôdent les quilboars Bristleback, des créatures hargneuses à tête de sanglier qui disputent aux taurens les sources et les terres. Leurs campements de branchages et leurs piquets hérissés d'os marquent la frontière entre le foyer et le danger. Les jeunes apprennent à reconnaître leurs grognements et à éviter leurs pièges, car un quilboar blessé est plus féroce encore. Ces bêtes à la peau dure et aux défenses aiguisées attaquent les troupeaux et les voyageurs imprudents. La menace Bristleback est l'ombre portée sur l'enfance, la preuve que même les plus douces prairies ont leurs épines, et que grandir, c'est apprendre à les affronter.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : menace

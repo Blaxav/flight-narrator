@@ -1,0 +1,9 @@
+Une sentinelle de l'Alliance
+============================
+
+Thelsamar n'est pas qu'un village de pêcheurs : c'est une sentinelle de l'Alliance, plantée sur la route qui relie Dun Morogh aux Paluns. Quiconque veut franchir les montagnes doit passer par ses abords, et les nains veillent à ce que nul n'y entre sans être vu. Les caravanes y chargent le minerai et le bois, les courriers y changent de monture, et les renforts y font halte avant de gagner les cols. Sa position en fait un verrou, discret mais essentiel, dans la défense des terres naines. Si Thelsamar tombait, la route du nord serait coupée et Forgefer isolée. Voilà pourquoi cette bourgade paisible porte en elle toute la vigilance d'un royaume. Une vigilance de tous les instants.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sentinelle-de-lalliance

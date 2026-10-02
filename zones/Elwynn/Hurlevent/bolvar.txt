@@ -1,0 +1,9 @@
+Bolvar Fordragon, le régent
+===========================
+
+En l'absence du roi, c'est Bolvar Fordragon qui exerce la régence de Hurlevent. Ce paladin vétéran, droit et loyal, s'est vu confier la lourde tâche de gouverner un royaume en guerre. Il siège dans la salle du trône, reçoit les ambassadeurs et veille à la défense de la cité, sans jamais perdre de vue l'intérêt du peuple. Sa droiture inspire confiance, mais les ombres s'épaississent autour de lui, et certains murmurent que la cour n'est plus ce qu'elle était. Bolvar fait ce qu'il peut, avec l'honneur d'un soldat et la prudence d'un régent. Il est le pilier qui empêche Hurlevent de vaciller, le temps que le roi revienne, ou que la vérité éclate.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bolvar

@@ -1,0 +1,9 @@
+Les Cavernes du Temps
+=====================
+
+À l'est de Tanaris s'ouvrent les Cavernes du Temps, un seuil creusé dans la roche où le temps lui-même s'enroule comme un fil autour du monde. Les dragons de bronze les gardent, et l'on dit que Nozdormu, l'Aspect intemporel, y veille sur les destinées d'Azeroth et sur chaque époque comme sur un trésor. Ces cavernes ne sont pas un simple repaire : ce sont les portes d'un labyrinthe d'époques, où le passé et le futur se touchent sans jamais se confondre. Les voyageurs qui s'en approchent sentent l'air se figer, comme si les secondes elles-mêmes hésitaient à s'écouler. Les dragons n'ouvrent ces portes à personne, et leur silence pèse plus que mille menaces. Les Cavernes du Temps sont un mystère que même les sables de Tanaris ne sauraient ensevelir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cavernes-du-temps

@@ -1,0 +1,9 @@
+Les frostsabers
+===============
+
+Les frostsabers sont les grands félins blancs du Berceau-de-l'Hiver, dont la fourrure se confond avec la neige. Puissants et rapides, ils chassent en solitaires dans les sous-bois gelés, et leur feulement glace le sang des voyageurs. Les chasseurs des deux factions rêvent d'apprivoiser leurs petits, car une monture frostsaber est un signe de prestige et de maîtrise. Mais la tâche est périlleuse : les mères défendent leurs portées avec une férocité sans égale. On raconte que les frostsabers choisissent leur cavalier, et non l'inverse, et qu'ils ne se laissent monter que par ceux qui respectent l'hiver. Ces félins sont l'âme du Berceau-de-l'Hiver, la preuve que même le froid le plus dur abrite une vie farouche et fière.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : frostsabers

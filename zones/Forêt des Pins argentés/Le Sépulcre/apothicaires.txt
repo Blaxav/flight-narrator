@@ -1,0 +1,9 @@
+Les apothicaires
+================
+
+Au Sépulcre, les apothicaires occupent une place à part. Ces savants des Réprouvés étudient les poisons, les maladies et les secrets de la chair, dans des ateliers où flottent des odeurs âcres. Leurs remèdes soignent les vivants avec réticence, mais leurs poisons, eux, ne manquent jamais leur cible. On raconte qu'ils préparent des concoctions contre les worgens et qu'ils rêvent de comprendre la malédiction qui ronge la forêt. Leur savoir est redouté, car il flirte souvent avec l'interdit. Pourtant, sans eux, le Sépulcre ne tiendrait pas longtemps. Les apothicaires sont l'esprit de la ville : froid, méthodique, et toujours prêt à transformer la mort en outil. On murmure qu'ils cherchent à faire de la peste un allié plutôt qu'un fléau.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : apothicaires

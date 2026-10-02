@@ -1,0 +1,9 @@
+Le plateau d'Arathi
+===================
+
+Vous planez au-dessus des hautes terres d'Arathi, un plateau d'herbes rases et de collines rondes, balayé en permanence par un vent qui ne rencontre aucun obstacle. Les orages s'y forment vite et les ciels y sont immenses. C'est une terre de pâturages maigres et de fermes dispersées, traversée de routes qui relient les royaumes de l'est. Pourtant, derrière ce paysage austère se cache une histoire glorieuse : c'est ici que la première nation des hommes a vu le jour, au temps de Thoradin. Aujourd'hui, la région est morcelée entre la Horde, l'Alliance et les bandits, mais la terre, elle, n'a pas changé. Le vent souffle toujours, comme pour rappeler que les empires passent et que les hautes terres demeurent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : plateau

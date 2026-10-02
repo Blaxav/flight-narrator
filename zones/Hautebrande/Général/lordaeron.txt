@@ -1,0 +1,9 @@
+L'héritage de Lordaeron
+=======================
+
+Hautebrande faisait partie du royaume de Lordaeron, le plus puissant des royaumes humains. Ses fermes nourrissaient les cités, ses routes reliaient la capitale aux provinces, et ses villages prospéraient sous la protection du roi. La Troisième Guerre a tout brisé : le Fléau a déferlé, les villes sont tombées, et le trône s'est vidé. Aujourd'hui, Hautebrande est une terre d'exil, où les survivants tentent de reconstruire un semblant de vie. Les ruines des anciennes demeures rappellent la grandeur perdue, et les réfugiés s'entassent dans les bourgs encore debout. L'héritage de Lordaeron pèse sur ces collines, lourd comme un deuil que personne ne peut porter seul. Et chaque colline semble porter le souvenir d'un royaume que l'on n'ose pas oublier.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : lordaeron

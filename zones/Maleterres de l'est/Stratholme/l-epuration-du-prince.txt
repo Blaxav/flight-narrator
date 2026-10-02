@@ -1,0 +1,9 @@
+L'épuration du prince
+=====================
+
+C'est ici que le prince Arthas Menethil écrivit la page la plus noire de sa légende. Apprenant que le grain contaminé avait déjà condamné les habitants de Stratholme, il refusa d'attendre leur transformation et ordonna le massacre de la cité entière. Ses soldats hésitèrent, mais Arthas passa outre, brûlant maison après maison, pourchassant des civils terrifiés au nom d'une nécessaire épuration. Son mentor Uther refusa de le suivre, et Jaina Portvaillant s'éloigna, impuissante. Cette journée brisa le prince, le livrant corps et âme à sa vengeance contre Mal'Ganis, le seigneur de l'effroi qui se jouait de lui. Aujourd'hui encore, les murs de Stratholme semblent suinter ce choix funeste. On y entend, les nuits de brouillard, les échos d'une clameur que rien ne peut apaiser.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-epuration-du-prince

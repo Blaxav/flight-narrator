@@ -1,0 +1,9 @@
+La Crevasse de l'Ombre
+======================
+
+La Crevasse de l'Ombre est le quartier sombre d'Orgrimmar, une fissure profonde où se terrent les voleurs, les assassins et les marchands d'objets interdits. On y descend par des rampes étroites, et l'on y trouve des maîtres de la discrétion qui enseignent l'art de frapper sans être vu. L'air y est lourd, les regards y sont méfiants, et les affaires s'y règlent à voix basse. Pourtant, la Crevasse est aussi un organe vital de la cité : c'est là que la Horde prépare ses coups les plus discrets, loin des remparts et des cérémonies. Ceux qui s'y rendent savent qu'il faut y marcher avec prudence. Dans la Crevasse de l'Ombre, l'ombre n'est pas un défaut : c'est une arme et une protection.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : crevasse

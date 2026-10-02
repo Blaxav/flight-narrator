@@ -1,0 +1,9 @@
+Les orcs Rochenoire
+===================
+
+Les orcs Rochenoire descendent des montagnes pour menacer Rougecrête. Ces survivants de la Horde, restés en Azeroth après les grandes guerres, se sont retranchés dans les hauteurs et lancent des raids sur les routes et les fermes. Leur peau sombre et leur discipline brutale en font des adversaires redoutés, et les villages vivent dans la crainte de leurs tambours. Ils brûlent, pillent et disparaissent dans les cols. Les orcs Rochenoire sont la plaie de Rougecrête, la preuve que la guerre n'est jamais tout à fait finie, et que les montagnes gardent leurs ennemis tapis, prêts à redescendre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : orcs-rochenoire

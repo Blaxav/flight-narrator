@@ -1,0 +1,9 @@
+Le bastion de l'Alliance
+========================
+
+Pennelune est le bastion de l'Alliance en Féralas, le point d'appui des elfes de la nuit dans cette forêt disputée. Les hippogriffes y atterrissent, les navires y accostent, et les messagers y apportent les nouvelles du monde. De là, les aventuriers de l'Alliance s'enfoncent dans les bois pour affronter les ogres, les nagas et les ombres, avant de revenir panser leurs blessures. La forteresse offre ce que la forêt refuse : un abri, des soins, et un feu autour duquel se racontent les combats du jour. Mais elle n'est pas qu'un refuge pour les siens. Pennelune est une main tendue vers le cœur de Kalimdor, la preuve que l'Alliance n'a pas renoncé à ces terres anciennes, et qu'elle entend bien y faire respecter sa bannière.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : alliance

@@ -1,0 +1,9 @@
+La porte de Kalimdor
+====================
+
+C'est au Port de Menethil que commencent et s'achèvent les grandes traversées vers Kalimdor. Les navires de l'Alliance y appareillent pour Auberdine, sur les rivages des elfes de la nuit, ou pour Theramore, la cité des survivants de Lordaeron. Ces routes maritimes sont vitales : elles relient deux continents que la guerre a séparés, et transportent soldats, marchands et réfugiés. Chaque départ est un pari sur la mer, chaque arrivée une victoire. Le Port de Menethil est le point de rencontre de deux mondes, la porte par laquelle l'Alliance projette sa force et son espoir au-delà de l'océan. Les cargaisons y changent de navire, et les destinées y changent de continent, sans jamais savoir si elles reviendront.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : kalimdor

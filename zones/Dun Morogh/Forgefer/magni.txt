@@ -1,0 +1,9 @@
+Le roi Magni Barbe-de-Bronze
+============================
+
+Le roi Magni Barbe-de-Bronze règne sur Forgefer et sur le peuple des nains. Forgeron de génie, il a lui-même façonné des armes célèbres, et son marteau est redouté autant que respecté. Mais Magni n'est pas qu'un artisan : c'est un souverain dur et droit, marqué par les deuils de la Deuxième Guerre, et déterminé à défendre son peuple contre toutes les menaces. Il a vu les gnomes de Gnomeregan tomber, et il en porte la blessure. Depuis la salle du trône, il veille sur les alliances et prépare la guerre. On dit que sa barbe est d'airain et sa parole de granit : il ne promet rien qu'il ne puisse tenir. Tant que Magni régnera, Forgefer ne pliera pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : magni

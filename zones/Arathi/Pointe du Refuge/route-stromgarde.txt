@@ -1,0 +1,9 @@
+La route de Stromgarde
+======================
+
+De la Pointe du Refuge part une route qui serpente à travers les collines jusqu'aux ruines de Stromgarde. C'est un chemin périlleux, sans cesse menacé par les ogres, les trolls et les bandits. Les convois de ravitaillement y passent sous escorte, et les éclaireurs y montent la garde. La route est le cordon qui relie le refuge à la cité déchue, et par elle circulent les renforts et les nouvelles. On raconte que, jadis, c'était une grande voie pavée, empruntée par les armées d'Arathor. Aujourd'hui, il n'en reste qu'une piste de terre, mais son importance est restée intacte. Tenir la route, c'est tenir la région : sans elle, la Pointe du Refuge serait une île assiégée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : route-stromgarde

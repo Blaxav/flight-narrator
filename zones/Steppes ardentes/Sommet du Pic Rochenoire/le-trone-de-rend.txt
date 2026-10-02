@@ -1,0 +1,9 @@
+Le trône de Rend
+================
+
+Au sommet du Pic Rochenoire, au-dessus des galeries et des forges, s'élève la forteresse des orcs Rochenoire. C'est là que Rend Main-Noire a dressé son trône, face aux ciels de cendres, dans une salle vaste que gardent ses plus fidèles guerriers. La salle respire le pouvoir usurpé, et l'on y sent le poids d'une revendication qui ne s'est jamais éteinte. Rend se proclame chef de guerre de la vraie Horde, héritier de son père Main-Noire, et refuse l'autorité de Thrall. Le Sommet du Pic est sa cour, son camp retranché, et le symbole d'une Horde ancienne qui n'a pas accepté sa défaite. De là-haut, il contemple les terres brûlées comme un roi sans royaume.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-trone-de-rend

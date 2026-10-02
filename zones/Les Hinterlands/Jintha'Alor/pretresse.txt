@@ -1,0 +1,9 @@
+La grande prêtresse
+===================
+
+Au sommet de Jintha'Alor règne la grande prêtresse des Vilebranche, gardienne des rites et des loas. C'est elle qui interprète les présages, ordonne les sacrifices et bénit les guerriers avant les raids. Son autorité est absolue, car elle parle au nom des dieux sombres de la tribu. On la dit impitoyable, entourée de gardes d'élite et de sorciers vaudous. Les trolls la craignent autant qu'ils la vénèrent, et nul ne conteste ses décrets. La grande prêtresse est l'âme de Jintha'Alor, celle qui maintient la tribu unie dans sa haine des étrangers. Tant qu'elle vivra, les Vilebranche ne plieront jamais. On raconte que les loas eux-mêmes murmurent à son oreille, dans l'ombre des temples où ne brûlent que des feux verts.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : pretresse

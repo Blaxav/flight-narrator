@@ -1,0 +1,9 @@
+Sven Yorgen
+===========
+
+Sven Yorgen est un fermier du Bois de la Pénombre dont l'histoire résume la tragédie de la région. Sa famille, victime de la malédiction, a péri ou disparu, et Sven a consacré sa vie à chercher la vérité et la vengeance. On le croise sur les routes, obsédé par les morts qui hantent sa ferme et par les créatures qui rôdent. Il remue ciel et terre pour comprendre ce qui est arrivé, quitte à entraîner les aventuriers dans ses enquêtes. Sven est le visage des survivants du bois : brisé, tenace, incapable de partir. Son histoire rappelle que derrière chaque monstre et chaque mystère, il y a des vies détruites et des deuils qui ne se referment pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sven

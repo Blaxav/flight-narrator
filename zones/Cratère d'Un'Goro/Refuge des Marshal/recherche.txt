@@ -1,0 +1,9 @@
+La recherche scientifique
+=========================
+
+Au Refuge des Marshal, on ne chasse pas seulement pour survivre : on étudie. Les gobelins y collectionnent des cristaux, des ossements et des échantillons de la jungle, et y griffonnent des notes sur la faune et la flore du cratère. Ils cherchent à comprendre pourquoi cette vallée est restée figée dans un autre âge, et ce que les Titans y ont laissé. Certains rêvent de machines alimentées par les cristaux de puissance, d'autres de remèdes tirés des plantes géantes. La recherche y est brouillonne, dangereuse, mais sincère. Le Refuge des Marshal est la preuve que la connaissance, même chez les gobelins, peut être une aventure aussi périlleuse que la chasse. Ici, on apprend en risquant sa peau, et l'on note tout avant de fuir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : recherche

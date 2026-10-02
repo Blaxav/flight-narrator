@@ -1,0 +1,9 @@
+L'ombre sur Lordaeron
+=====================
+
+Naxxramas n'a pas toujours été une forteresse errante. Bâtie par les mains sans repos des morts et façonnée par les sortilèges de Kel'Thuzad, elle fut conçue comme un instrument de terreur : un temple mobile du Culte des damnés, un arsenal de fléaux et une prison pour les esprits les plus rebelles. Elle incarne la vision du Roi-liche, celle d'un monde où les vivants seraient un souvenir et les morts une armée sans fin. Sa seule présence au-dessus de Stratholme rappelle que la chute de Lordaeron ne fut qu'un commencement. Les prophètes de la Lumière affirment que tant que cette ombre planera, les Maleterres resteront incurables. Et les plus vieux soldats, en la regardant dériver, serrent les dents et se taisent, car ils savent ce que cachent ses nuages.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ombre-sur-lordaeron

@@ -1,0 +1,9 @@
+Les secrets de la cité
+======================
+
+On raconte que Jintha'Alor renferme des trésors et des reliques d'une valeur inestimable : idoles anciennes, armes enchantées et fétiches chargés de pouvoir. Les Vilebranche les gardent jalousement, car ils croient que leur force vient de ces objets sacrés. Les aventuriers qui s'y aventurent espèrent en rapporter quelque chose, mais la cité ne rend rien sans combat. Chaque salle est un piège, chaque autel un défi. Les secrets de Jintha'Alor sont aussi dangereux que ses gardiens, et beaucoup de ceux qui les ont cherchés ne sont jamais redescendus des falaises. La cité garde ses mystères comme un dragon garde son or. Car les Vilebranche ne cèdent rien, et surtout pas ce qui touche à leurs dieux.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : tresor

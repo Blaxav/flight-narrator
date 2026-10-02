@@ -1,0 +1,9 @@
+Les trolls Witherbark
+=====================
+
+Les trolls Witherbark sont une tribu forestière qui rôde dans les collines d'Arathi, descendue de ses forêts pour profiter du chaos. Autrefois alliés aux Amani, ils n'ont jamais pardonné aux hommes la guerre des Trolls, et ils harcèlent les fermes isolées comme les voyageurs. Leur magie vaudoue et leurs lances empoisonnées en font des adversaires redoutés, surtout la nuit. Ils se sont creusé des campements dans les fourrés et vouent un culte à leurs anciens dieux, qu'ils apaisent par des sacrifices. On dit qu'ils attendent le retour d'un grand chef qui relèvera leur peuple. En attendant, ils patientent, tapis dans l'ombre, et chaque fermier d'Arathi sait que les collines ne sont jamais sûres quand les Witherbark se mettent en chasse.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : trolls-witherbark

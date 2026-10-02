@@ -1,0 +1,9 @@
+L'Ombre d'Eranikus
+==================
+
+Le plus tragique des gardiens du temple est Eranikus, dragon vert dont l'ombre erre dans les salles basses. Envoyé jadis pour purger le sanctuaire d'Atal'Hakkar, il fut pris au piège par les maléfices des trolls, et son essence se corrompit lentement au contact du sang d'Hakkar. Son ombre, immense et désolée, hante désormais les eaux noires, tantôt suppliante, tantôt déchaînée. Les rares survivants racontent qu'elle parle, d'une voix qui se souvient du rêve d'Émeraude, avant de frapper avec la fureur d'un dieu déchu. Libérer Eranikus, ou du moins apaiser son ombre, est l'un des objectifs secrets des émissaires du vol vert. Mais nul ne sait si le dragon pourra jamais retrouver la clarté après tant d'années de souillure.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ombre-d-eranikus

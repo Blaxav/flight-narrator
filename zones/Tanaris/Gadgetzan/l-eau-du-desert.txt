@@ -1,0 +1,9 @@
+L'eau, denrée précieuse
+=======================
+
+Dans Gadgetzan, l'eau vaut plus que l'or, car le désert de Tanaris ne pardonne rien et la soif y tue plus vite que le sable. Les gobelins l'ont compris depuis longtemps : ils captent, stockent et revendent chaque goutte à prix fort, avec le sérieux de marchands de reliques. Les puits de la ville sont gardés, les fontaines surveillées, et les caravanes paient cher le droit de remplir leurs outres avant de repartir. Cette rareté a façonné la cité, où l'on mesure la richesse d'un marchand au volume de ses citernes autant qu'à l'épaisseur de sa bourse. Les gobelins ne gaspillent jamais, et ils ont transformé la sécheresse en commerce florissant. Gadgetzan rappelle ainsi une vérité du désert : l'eau est la seule monnaie que personne ne refuse, pas même le Cartel Gentepression.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-eau-du-desert

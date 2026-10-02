@@ -1,0 +1,9 @@
+La Route de l'Or
+================
+
+La Route de l'Or traverse l'est des Tarides comme une cicatrice claire dans la savane. Elle relie La Croisée au port de Ratchet, puis file vers le nord, et c'est par elle que circulent l'or, les vivres et les nouvelles de la Horde. Les caravanes y roulent dans un nuage de poussière, escortées de grunts et de mercenaires, car la route est une artère : tout ce qui y passe est convoité. Les lions et les lézards-tonnerre la longent sans s'y attarder, laissant le champ aux pillards et aux sangliers. Pourtant, elle reste la plus sûre des pistes, balisée de bornes et de guetteurs. Dans les Tarides, posséder la Route de l'Or, c'est posséder le commerce, et le commerce, ici, vaut une armée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : route-de-lor

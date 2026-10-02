@@ -1,0 +1,9 @@
+La garnison de la colline
+=========================
+
+Une garnison solide tient Colline de Lame-Rasoir. Les grunts y montent la garde, la hache à la ceinture, et les éclaireurs partent chaque matin patrouiller les routes. Leur mission est simple : protéger les fermes, escorter les caravanes et repousser les raids des quilboars et des harpies. La discipline y est rude, car Durotar ne pardonne aucune négligence. Les soldats s'entraînent sans relâche, et les anciens y enseignent aux jeunes l'art de la guerre. La garnison est le cœur battant de la colline : sans elle, l'avant-poste ne tiendrait pas une saison. Ici, servir la Horde n'est pas un mot, c'est un devoir quotidien, et chaque grunt sait que la terre qu'il défend a été payée cher.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : garnison

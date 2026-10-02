@@ -1,0 +1,9 @@
+Gahz'rilla, l'hydre sacrée
+==========================
+
+Au fond de Zul'Farrak sommeille une terreur que les trolls vénèrent comme un dieu : Gahz'rilla, une hydre géante à plusieurs têtes, née des eaux troubles et de la magie des anciens. On dit qu'il faut un maillet ancien, le Maillet de Zul'Farrak, et le son d'un gong pour l'éveiller de son bassin, là où elle attend depuis des siècles. Les trolls l'invoquent pour broyer leurs ennemis, et sa fureur ébranle les murailles et fend la pierre. Gahz'rilla n'est pas une bête ordinaire : c'est la colère du désert rendue vivante, une divinité affamée que seuls les plus fous osent affronter. Ceux qui descendent dans la cité entendent parfois son souffle monter des profondeurs, et comprennent trop tard qu'ils sont venus nourrir un dieu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gahz-rilla

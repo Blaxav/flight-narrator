@@ -1,0 +1,9 @@
+L'expédition de Valormok
+========================
+
+Valormok a été fondé par des éclaireurs de la Horde chargés d'explorer Azshara et d'en évaluer les ressources. L'expédition s'est installée sur la côte, malgré les nagas et les ruines hantées, pour établir un point d'appui durable. Les premières semaines furent rudes : la région est sauvage, l'eau rare, et les attaques nocturnes fréquentes. Mais les orcs et les trolls s'accrochèrent, défrichant, pêchant et montant des palissades. Peu à peu, le camp est devenu un relais pour les caravanes et les chasseurs. L'expédition de Valormok montre ce qu'est la Horde : un peuple qui ne recule pas devant l'inconnu, et qui transforme une côte hostile en tête de pont. Ici, on est venu en éclaireur, et l'on est resté en maître.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : expedition

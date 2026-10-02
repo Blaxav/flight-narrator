@@ -1,0 +1,9 @@
+La vue depuis la tour
+=====================
+
+Du sommet de la tour de la Colline des Sentinelles, le regard embrasse toute la Marche de l'Ouest : les champs de blé ondulant sous le vent, les fermes éparpillées, la route poussiéreuse qui file vers Hurlevent, et au loin la mer qui brille. Les guetteurs s'y relaient, scrutant l'horizon à la recherche de fumées suspectes ou de colonnes de bandits. À l'ouest, les falaises plongent vers les Mortemines, où la Confrérie défias a creusé son repaire ; à l'est, les bois abritent des rôdeurs. La tour est le phare de la région : une cloche y sonne l'alerte, et les fermiers savent qu'à son tintement il faut courir aux abris. C'est une vue superbe et terrible, car elle révèle à quel point la terre est vaste, et les défenseurs, peu nombreux.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-vue-depuis-la-tour

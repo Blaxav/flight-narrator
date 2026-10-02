@@ -1,0 +1,9 @@
+La menace des troggs
+====================
+
+Les troggs sont une plaie pour Dun Morogh. Ces créatures primitives, sorties des profondeurs, infestent les grottes et les vallées, tuant ce qu'elles trouvent et souillant ce qu'elles touchent. On dit qu'ils sont liés aux nains par un lointain passé, mais ils n'en ont gardé que la force et aucune sagesse. Ils attaquent par bandes, armés de massues de pierre, et s'en prennent aux fermes comme aux caravanes. Les gardes de Forgefer les traquent sans relâche, mais ils pullulent, remontant des galeries abandonnées. La menace des troggs rappelle que les profondeurs de la montagne ne sont pas toutes apprivoisées. Tant qu'il restera une grotte obscure, les troggs en sortiront, et les nains devront rester sur leurs gardes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : troggs

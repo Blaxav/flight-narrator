@@ -1,0 +1,9 @@
+Le port d'Austrivage
+====================
+
+Austrivage est un port de l'Alliance, posé sur la côte d'Hautebrande, les pieds dans l'écume et le regard tourné vers la mer. Ses quais accueillent les navires de pêche et les bâtiments de guerre, ses entrepôts sentent le sel et le poisson, et ses rues montent vers les collines en pente douce. C'est une ville modeste, mais vivante : on y décharge, on y répare, on y raconte les nouvelles du large. Pour l'Alliance, Austrivage est une porte maritime essentielle, un point d'appui entre Lordaeron et les terres du sud. La ville n'a pas la gloire des grandes capitales, mais elle a la ténacité des ports, cette obstination tranquille des gens de mer. Il bat au rythme des marées et des convois.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : port

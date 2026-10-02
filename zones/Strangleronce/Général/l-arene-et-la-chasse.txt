@@ -1,0 +1,9 @@
+L'arène et la chasse
+====================
+
+Au cœur de Strangleronce s'ouvre l'Arène de Gurubashi, un ancien cercle de pierre où les trolls célébraient leurs dieux par le combat. Aujourd'hui encore, des champions s'y affrontent pour la gloire ou pour l'or, sous les acclamations d'une foule invisible. Autour d'elle, la jungle grouille de proies et de prédateurs : raptors à la morsure rapide, tigres au pelage rayé, panthères tapies et gorilles massifs. Les chasseurs y viennent de tout Azeroth, car nul gibier n'est plus fier. Strangleronce est une arène à ciel ouvert, où la loi du plus fort s'applique du sol à la cime. Ici, chasser et être chassé ne sont qu'une seule et même chose.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-arene-et-la-chasse

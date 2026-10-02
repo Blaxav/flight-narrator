@@ -1,0 +1,9 @@
+Vaelastrasz, le dragon rouge
+============================
+
+Dans le Repaire de l'Aile noire, un dragon rouge se tient captif : Vaelastrasz, vaincu et soumis par Nefarian. Il est un trophée, mais aussi un fardeau pour ses geôliers, car le sang rouge coule encore en lui. Les héros qui le découvrent comprennent vite qu'il peut devenir un allié : au bord de la mort, Vaelastrasz choisit de léguer sa force à ceux qui veulent abattre Nefarian, plutôt que de servir l'ennemi. Son sacrifice éclaire un instant les ténèbres du repaire. Vaelastrasz rappelle que même au cœur du Vol noir, la loyauté des autres vols n'est pas tout à fait éteinte, et qu'un dragon peut mourir libre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : vaelastrasz-le-dragon-rouge

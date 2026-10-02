@@ -1,0 +1,9 @@
+La forteresse de Mo'grosh
+=========================
+
+Dans les collines de Loch Modan se dresse la forteresse de Mo'grosh, un repaire d'ogres massifs qui défient l'ordre des nains. Ces brutes ont bâti leurs murailles de pierre brute et y règnent en maîtres, pillant les routes et écrasant quiconque s'approche. Leur force est redoutable, et leur chef, dit-on, ne craint ni lame ni flèche. Les nains de Forgefer les surveillent de loin, mais n'ont jamais pu les déloger tout à fait. Mo'grosh est une épine plantée dans le flanc de la région, un rappel que la montagne n'appartient jamais à un seul peuple. Tant que les ogres tiendront cette forteresse, les routes de Loch Modan ne seront pas sûres. Et nul ne sait quand leur appétit les poussera plus loin.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mogrosh

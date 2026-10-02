@@ -1,0 +1,9 @@
+La chute de Lordaeron
+=====================
+
+Tirisfal fut le cœur du royaume de Lordaeron, la plus puissante des nations humaines. C'est ici que prospéraient les fermes, les abbayes et les villes, et que résonnaient les cloches des églises, appelant les fidèles à la prière. Mais la peste du Fléau s'abattit sur le royaume, propagée par des caravanes maudites, et les morts se relevèrent contre les vivants dans une danse macabre. Le prince Arthas, revenu corrompu du Norfendre, acheva l'œuvre en tuant son père et en livrant le pays au Roi-liche, sans un regard en arrière. En quelques mois, Lordaeron s'effondra, et ses routes se couvrirent de ruines. Les Clairières de Tirisfal sont le témoin de cette agonie, un cimetière à ciel ouvert où les pierres racontent la fin d'un monde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-chute-de-lordaeron

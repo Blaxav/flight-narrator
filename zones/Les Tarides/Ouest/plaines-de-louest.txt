@@ -1,0 +1,9 @@
+Les plaines de l'ouest
+======================
+
+L'ouest des Tarides s'étire vers les Serres-Rocheuses en un paysage de plus en plus dur. Les herbes s'y raréfient, les mesas y dressent leurs parois rouges, et le vent y soulève des colonnes de poussière qui dansent sur la plaine. C'est une terre de grands espaces et de solitude, où les pistes se perdent et où l'on entend sa propre respiration. Les points d'eau y sont rares et jalousement gardés, et les bêtes y vivent à l'économie, ménageant leurs forces et leur eau. Pourtant, cette austérité a sa beauté : les couchers de soleil y embrasent la roche, et la nuit y déploie un ciel immense. L'ouest des Tarides est la savane à l'état pur, nue et sans pitié.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : plaines-de-louest

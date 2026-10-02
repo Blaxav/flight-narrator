@@ -1,0 +1,9 @@
+La forge de Lame-Rasoir
+=======================
+
+Le fer rouge et la fumée montent en permanence de la forge de Colline de Lame-Rasoir. Les forgerons orcs y façonnent haches, armures et outils, dans un fracas qui ne s'arrête que tard dans la nuit. Le métal y est martelé avec une force héritée des anciens clans, et chaque lame qui sort de l'atelier porte la marque d'un savoir-faire retrouvé. La forge est le poumon de l'avant-poste : elle arme les soldats, répare les chariots et fournit les fermiers. Les apprentis y apprennent le métier auprès de maîtres exigeants, car une hache mal trempée coûte des vies. À Lame-Rasoir, on forge plus que du métal : on forge l'avenir d'un peuple qui reconstruit tout, à la sueur de son front.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : forge

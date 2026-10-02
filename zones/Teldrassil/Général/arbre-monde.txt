@@ -1,0 +1,9 @@
+L'Arbre-monde Teldrassil
+========================
+
+Vous survolez Teldrassil, une île qui est en réalité un arbre, immense, dont la ramure porte des forêts entières et des villes accrochées aux branches. Ce colosse végétal s'élève au large de Sombrivage, planté dans la mer comme une montagne de feuillage et de bois. Ses racines plongent dans les eaux profondes, tandis que ses cimes tutoient les nuages et caressent les étoiles. Tout, sur cette île, vit et respire : les sentiers sont des branches, les clairières des nœuds de l'écorce, et les lacs des creux de la ramure. Teldrassil est le second Arbre-monde des elfes de la nuit, né de la magie et de l'espoir d'un peuple blessé. Depuis le ciel, il paraît un continent suspendu, une forêt dressée vers les cieux, immense et silencieuse.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : arbre-monde

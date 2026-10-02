@@ -1,0 +1,9 @@
+La crypte des héros
+===================
+
+Sous les dalles de la chapelle dort une crypte que peu de vivants ont visitée sans trembler. On y a enseveli, des siècles durant, les plus nobles enfants de Lordaeron : paladins tombés au champ d'honneur, prêtresses consumées par la foi, champions dont les noms ornent encore les vitraux. Ces ossements sanctifiés font de la colline un lieu que la mort n'ose pas profaner. Les nécromanciens du Fléau rêvent pourtant d'y puiser des cadavres puissants, mais chaque tentative s'est brisée sur les bénédictions qui scellent les tombes. Les gardiens de l'Aube d'argent descendent parfois y méditer, l'épée posée sur les genoux, à l'écoute d'un silence plus ancien que la peste. La Lumière, dit-on, y murmure encore.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-crypte-des-heros

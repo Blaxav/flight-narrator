@@ -1,0 +1,9 @@
+L'or des profondeurs
+====================
+
+Le thorium est le trésor de cette gorge maudite. Ce métal sombre et dense, forgé dans les entrailles du monde, résiste aux plus hautes chaleurs et donne des armes et des armures d'une solidité légendaire. Les mineurs de la Halte du Thorium en extraient des filons entiers, au péril de leur vie, entre les coulées de lave et les élémentaires de feu. Chaque lingot est une petite fortune, et chaque expédition une loterie. La Confrérie connaît les veines du minerai comme personne, et c'est ce savoir qui fait sa richesse et sa puissance. Le thorium est à la fois la raison d'être et la malédiction de la Halte, car l'or attire les convoitises. Les caravanes qui en sortent sont escortées comme des trésors royaux.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : thorium

@@ -1,0 +1,9 @@
+Les ogres Gordok
+================
+
+Les ogres Gordok se sont taillé un trône dans les ruines d'Eldre'Thalas. Menés par leur roi, ils ont envahi les salles abandonnées, brisé les portes de marbre et transformé les jardins en charniers. Leur force brute a fait ce que le temps n'avait pas réussi : plier la cité sous leur loi. Pourtant, ils ne comprennent pas ce qu'ils gardent. Les Gordok s'asseyent sur des trésors dont ils ignorent la valeur, et règnent sur des couloirs hantés par des choses bien plus anciennes qu'eux. On dit que leur roi aime parader au milieu des richesses volées, sans voir les ombres qui s'approchent. Mais à Hache-Tripes, la richesse attire plus qu'elle ne protège, et l'orgueil des ogres pourrait bien leur coûter leur trône.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gordok

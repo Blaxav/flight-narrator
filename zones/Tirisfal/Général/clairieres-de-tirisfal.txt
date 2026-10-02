@@ -1,0 +1,9 @@
+Les Clairières de Tirisfal
+==========================
+
+Vous survolez les Clairières de Tirisfal, une campagne de brumes et de forêts grises, où les fermes abandonnées et les moulins fantômes se succèdent sous un ciel bas. La terre y est grasse, mais les champs y sont en friche, et l'air y sent l'humus, le froid et la cendre. C'est le cœur de l'ancien Lordaeron, le berceau d'un royaume humain aujourd'hui dévoré par le Fléau et relevé par les morts. Les routes y serpentent entre des bosquets tordus, des lacs sombres et des ruines qui émergent de la brume comme des souvenirs. Pourtant, la vie y rôde encore, discrète et dure, obstinée. Tirisfal est une terre de mémoire et de deuil, un paysage qui se souvient de sa splendeur et ne montre plus que ses cicatrices. Ici, la brume est comme un linceul posé sur le passé.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : clairieres-de-tirisfal

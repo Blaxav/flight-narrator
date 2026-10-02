@@ -1,0 +1,9 @@
+Médivh et Gul'dan
+=================
+
+La Porte des Ténèbres fut l'œuvre de deux sorciers que tout opposait, mais qu'une même folie réunit. D'un côté, Médivh, le Gardien de Tirisfal rongé par Sargeras ; de l'autre, Gul'dan, le maître démoniaque des orcs. Depuis les deux rives du monde, ils unirent leurs forces pour déchirer le voile entre Azeroth et Draenor. Médivh ouvrit la brèche depuis sa tour de Karazhan, tandis que Gul'dan la nourrissait de sacrifices et de magie, jusqu'à ce que le passage s'embrase. De leur alliance contre nature naquit la Porte, et par elle passa la Horde, comme un fleuve de fer. Ce fut une trahison, une folie et un désastre dont le monde se souvient encore. Les deux sorciers périrent, mais leur œuvre leur survécut. La Porte des Ténèbres est leur monument commun, le fruit empoisonné de deux ambitions qui n'auraient jamais dû se rencontrer.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : medivh-et-guld-an

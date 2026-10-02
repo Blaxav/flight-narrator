@@ -1,0 +1,9 @@
+Les réfugiés et les voyageurs
+=============================
+
+Auberdine accueille les réfugiés et les voyageurs que la côte et les guerres ont jetés sur les routes. Des elfes chassés de leurs bois, des marins rescapés, des marchands fourbus y trouvent un toit, une soupe et un instant de répit. On y partage les nouvelles, on y soigne les blessures, et l'on y repart, souvent sans bruit. L'hospitalité y est simple, sans façon, mais réelle. Les réfugiés d'Auberdine sont le visage humain de la côte, la preuve que le port ne vit pas seulement de commerce, mais de la détresse qu'il recueille et de l'espoir qu'il relance.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : refugies

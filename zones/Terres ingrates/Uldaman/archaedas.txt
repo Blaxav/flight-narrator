@@ -1,0 +1,9 @@
+Archaedas, le gardien
+=====================
+
+Au cœur d'Uldaman veille Archaedas, un gardien de pierre que les Titans laissèrent en sentinelle. Il ne dort pas vraiment : il attend, immobile depuis des millénaires, que l'on profane son sanctuaire ou que reviennent ses maîtres. Sa force est celle de la roche, et sa colère, celle d'un monde outragé. Les explorateurs qui l'ont rencontré en parlent comme d'un dieu ancien, lent et implacable, qui ne connaît ni fatigue ni pitié. Archaedas commande aux machines et aux golems d'Uldaman, et rien ne le détourne de sa tâche, ni l'or ni les prières. Il est la mémoire vivante des Titans, le gardien d'un ordre que les mortels ne comprennent plus. L'affronter, c'est défier non pas une créature, mais une volonté plus vieille que les royaumes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : archaedas

@@ -1,0 +1,9 @@
+Aux portes de Mulgore
+=====================
+
+Depuis Camp Taurajo, on devine au sud-ouest les premières pentes vertes de Mulgore, la patrie des Taurens. La frontière entre les deux mondes est brutale : d'un côté, la savane jaune et assoiffée, de l'autre, les prairies grasses où paissent les kodos. Ce contraste explique pourquoi le camp fut bâti ici, à la lisière, comme un sas entre l'abondance et l'aridité. Les caravanes qui remontent de Mulgore s'y reprennent avant d'affronter la poussière, et celles qui descendent y retrouvent la fraîcheur des sources. Camp Taurajo est ainsi le seuil des deux visages de la terre tauren. Il rappelle que les Taurens n'ont jamais oublié leurs racines, et que chaque pierre de ce camp regarde vers la maison.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : portes-de-mulgore

@@ -1,0 +1,9 @@
+Le territoire des Kolkar
+========================
+
+L'ouest des Tarides est le territoire des centaures Kolkar. Ils y ont dressé leurs camps de peaux, gardés par des sentinelles au torse nu et à la lance prête. Ces cavaliers nés ne connaissent pas la fatigue : ils sillonnent la plaine en hardes, harcelant les caravanes et disputant les points d'eau aux Taurens. Leur haine est ancienne, transmise de génération en génération, et ils ne font aucun quartier. Les voyageurs évitent ces parages, ou les traversent en force, car un centaure aperçu au loin est rarement seul. Les Kolkar sont chez eux dans ces plaines, et ils le font savoir à quiconque ose y poser le pied. Ici, la terre n'appartient à personne d'autre qu'à eux.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : centaures-kolkar

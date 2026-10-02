@@ -1,0 +1,9 @@
+Une terre morte
+===============
+
+Le défilé de Deuillevent est une terre morte, où la vie semble avoir renoncé. Le sol y est aride, les rochers décharnés, et l'on n'y croise que des ogres et des spectres. Autrefois, dit-on, ce passage reliait des terres vivantes et fréquentées ; aujourd'hui, il n'est plus qu'un couloir maudit que l'on traverse en retenant son souffle. La présence de Karazhan, la tour de Médivh, y fait planer une magie ancienne qui semble avoir brûlé la terre alentour. Les routes y sont encore tracées, mais personne ne s'y sent en sécurité. Le défilé de Deuillevent est la preuve qu'un lieu peut mourir, et que sa mort se voit encore, des années après, dans la pierre et dans le vent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : terre-morte

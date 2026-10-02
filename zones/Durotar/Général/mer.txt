@@ -1,0 +1,9 @@
+La côte et les murlocs
+======================
+
+Au bord de Durotar, la Grande Mer roule ses vagues contre des falaises dorées, et la côte offre ses plages et ses criques aux pêcheurs. Mais ces eaux ne sont pas sûres : les murlocs y pullulent, sortant des récifs pour attaquer quiconque s'approche de trop près. Ces créatures à la fois grotesques et féroces vivent en tribus, et leur cri aigu annonce souvent une embuscade. Les trolls de Sen'jin et les pêcheurs orcs apprennent à les connaître et à s'en méfier. La côte est pourtant précieuse : c'est par la mer que la Horde garde un œil sur l'horizon et sur les routes maritimes. La mer nourrit et menace à la fois, et Durotar lui rend le respect qu'elle exige.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mer

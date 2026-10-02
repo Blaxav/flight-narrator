@@ -1,0 +1,9 @@
+Les chutes empoisonnées
+=======================
+
+Près du Poste de la Vénéneuse tombent des chutes dont les eaux charrient la corruption de Gangrebois. Leur écume a des reflets verdâtres, et nul ne boit à leur source sans risquer la maladie. Autrefois, ces chutes devaient être claires et vives, alimentant la forêt en eau pure. Aujourd'hui, elles sont devenues un poison qui coule vers les vallées. Les habitants du poste les surveillent de près, car elles disent l'état de la terre : plus l'eau noircit, plus la corruption gagne. Les chutes de la Vénéneuse sont un baromètre sinistre, le pouls malade d'une région qui se vide de sa vie. On dit que quiconque y plonge la main en ressort avec des rêves empoisonnés pour longtemps.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : chutes

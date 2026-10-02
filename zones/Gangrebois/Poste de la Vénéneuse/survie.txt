@@ -1,0 +1,9 @@
+La survie au jour le jour
+=========================
+
+Vivre au Poste de la Vénéneuse demande une discipline de fer. L'eau est rare et souvent impure, le gibier maigre, et le sol refuse de nourrir les cultures. Les soldats apprennent à reconnaître les plantes dangereuses, à purifier ce qui peut l'être et à se méfier de chaque ombre. Les blessures s'infectent vite dans cet air vicié, et les guérisseurs travaillent sans relâche. Pourtant, une forme de fierté unit la garnison : tenir ici, au bord du gouffre, c'est prouver sa valeur. Le Poste de la Vénéneuse forge des survivants, et chaque aube y est une petite victoire sur la corruption. Car ici, survivre n'est pas une habitude : c'est une victoire quotidienne arrachée à la corruption.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : survie

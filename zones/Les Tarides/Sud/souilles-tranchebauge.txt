@@ -1,0 +1,9 @@
+Les Souilles de Tranchebauge
+============================
+
+Au sud-est des Tarides s'étendent les Souilles de Tranchebauge, une citadelle de ronces géantes et de huttes de boue, cœur de la société des sangliers. Les hommes-porcs y ont creusé des galeries et planté des épines plus hautes que des hommes, formant un labyrinthe mortel. C'est de là qu'ils lancent leurs raids contre les caravanes et les fermes, et c'est là qu'ils se replient quand la Horde riposte. Leur société y est gouvernée par des chamans et des chefs de guerre, et l'on dit que des choses anciennes dorment sous la fange. Les Souilles sont plus qu'un repaire : c'est une capitale sauvage, où la loi est celle du groin et de la lance. Peu s'y aventurent, et moins encore en reviennent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : souilles-tranchebauge

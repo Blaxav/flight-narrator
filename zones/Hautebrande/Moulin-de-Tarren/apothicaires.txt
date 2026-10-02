@@ -1,0 +1,9 @@
+Les apothicaires du moulin
+==========================
+
+Le Moulin-de-Tarren abrite une cellule de la Société royale d'apothicaires, ces savants des Réprouvés qui étudient les poisons et les maladies. Dans leurs caves, ils distillent des toxines, expérimentent sur des cadavres et préparent les armes de la guerre silencieuse. Leur réputation est sinistre, et leurs voisins vivants les fuient. Pourtant, ils se considèrent comme des héritiers de la science de Lordaeron, des chercheurs que la mort n'a pas arrêtés. Leurs découvertes servent la cause des Réprouvés, mais elles effraient même leurs alliés. Le moulin est leur laboratoire discret, un lieu où l'on transforme la mort en instrument de reconquête. Leur savoir est une arme que la Horde observe avec un mélange de fierté et de prudence.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : apothicaires

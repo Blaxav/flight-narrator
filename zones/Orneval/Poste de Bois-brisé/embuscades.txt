@@ -1,0 +1,9 @@
+Les embuscades elfiques
+=======================
+
+Autour du poste de Bois-brisé, les embuscades elfiques frappent sans prévenir. Une flèche siffle, un guerrier s'effondre, et les feuillages se referment déjà sur le tireur invisible. Les orcs vivent dans la hantise de ces coups portés depuis les branches, et nul ne s'aventure seul au-delà des palissades. Les sentinelles tendent des pièges, coupent les cordes et empoisonnent les points d'eau. La forêt elle-même semble complice de leurs coups. Les embuscades de Bois-brisé sont la vengeance d'Orneval, la preuve que les elfes, chez eux, ne livrent jamais de bataille franche, mais une guerre d'ombres et de patience.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : embuscades

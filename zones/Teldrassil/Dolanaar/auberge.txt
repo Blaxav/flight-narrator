@@ -1,0 +1,9 @@
+L'auberge de Dolanaar
+=====================
+
+L'auberge de Dolanaar est un refuge tiède au milieu des bois, où les voyageurs se reposent avant de reprendre la route. On y sert des mets de la forêt, des infusions parfumées et des histoires plus vieilles que l'Arbre-monde, racontées à voix basse. Le feu y crépite doucement dans l'âtre, et l'on y entend, le soir, le murmure des chasseurs et les rires des jeunes Sentinelles qui se détendent. L'aubergiste connaît chaque habitué par son nom et chaque route par ses dangers, et il sait quand retenir un voyageur au seuil. C'est là que se croisent les nouvelles de Teldrassil, de Darnassus et des lointains rivages de Sombrivage. Une auberge comme celle-ci n'est pas qu'un toit : c'est le cœur battant d'une bourgade, le lieu où les solitudes se rencontrent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : auberge

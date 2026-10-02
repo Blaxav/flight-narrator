@@ -1,0 +1,9 @@
+Le dernier village
+==================
+
+Sombre-comté est le dernier village debout du Bois de la Pénombre, un îlot de lanternes dans une mer d'ombres. Ses habitants y vivent repliés, les portes closes, et ne s'aventurent dehors qu'en plein jour. Le village s'organise autour de sa place, de son auberge et de sa caserne, où la Garde de la Nuit veille. La peur y est palpable, mais aussi une forme de solidarité farouche : ici, on s'entraide, on partage les vivres, et l'on veille les uns sur les autres. Sombre-comté tient bon, accroché à ses torches et à ses serments, refusant de céder à la nuit. C'est un dernier rempart, la preuve que même au cœur des ténèbres, des gens ordinaires peuvent choisir de rester et de se battre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : village

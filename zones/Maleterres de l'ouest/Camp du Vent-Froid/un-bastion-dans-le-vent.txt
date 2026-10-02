@@ -1,0 +1,9 @@
+Un bastion dans le vent
+=======================
+
+Perché sur un escarpement balayé par les rafales, le Camp du Vent-Froid dresse ses tentes et ses palissades face aux Maleterres de l'ouest. C'est un avant-poste de l'Alliance, bâti à la hâte sur une hauteur d'où l'on embrasse du regard les champs pourris et les routes grises. Le vent y souffle sans répit, un vent glacé qui porte les cendres et les plaintes lointaines des morts, et qui a donné son nom à ce refuge battu par les éléments. Derrière les remparts de bois, on trouve un forgeron, des soigneurs et une piste d'atterrissage pour les griffons. Les soldats y vivent en permanence, les joues rougies par le froid et l'arme toujours à portée. Pour les voyageurs venus du sud, c'est la dernière halte avant l'horreur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : un-bastion-dans-le-vent

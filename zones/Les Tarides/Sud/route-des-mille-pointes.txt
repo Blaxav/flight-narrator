@@ -1,0 +1,9 @@
+La route des Mille Pointes
+==========================
+
+La route du sud descend vers les Mille Pointes, un pays de canyons vertigineux et d'aiguilles de pierre qui percent le ciel. Pour y parvenir, les caravanes quittent la savane et s'engagent sur des corniches étroites, où un faux pas vaut la mort. Les sangliers y tendent des embuscades, et les charognards y suivent les convois comme une promesse. Pourtant, cette voie est empruntée, car elle relie les Tarides aux terres du sud, à Gadgetzan et au-delà. Les conducteurs y font halte avant la descente, resserrent les harnais et prient leurs esprits. La route des Mille Pointes est un escalier taillé dans le vide, et chaque marche y est une victoire sur le néant.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : route-des-mille-pointes

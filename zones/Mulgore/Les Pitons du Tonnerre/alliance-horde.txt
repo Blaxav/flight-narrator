@@ -1,0 +1,9 @@
+L'alliance avec la Horde
+========================
+
+C'est aux Pitons du Tonnerre que fut scellée l'alliance entre les taurens et la Horde. Cairne Sabot-Sanglant, menacé par les centaures, trouva en Thrall un chef digne de confiance, et les deux peuples unirent leurs forces. Les taurens apportèrent à la Horde leur sagesse, leur connaissance des terres et leur force tranquille ; la Horde leur offrit en retour une protection contre les pillards. Cette alliance n'est pas seulement militaire : elle repose sur le respect, la parole donnée et une survie partagée. L'alliance des Pitons est la preuve que des peuples différents peuvent marcher côte à côte, et qu'un serment prononcé sur la terre sacrée vaut plus que tous les traités.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : alliance-horde

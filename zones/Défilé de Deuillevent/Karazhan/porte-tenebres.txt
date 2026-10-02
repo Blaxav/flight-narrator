@@ -1,0 +1,9 @@
+L'ouverture de la Porte
+=======================
+
+C'est depuis Karazhan que Médivh, possédé par Sargeras, ouvrit la Porte des Ténèbres, la brèche par laquelle les orcs envahirent Azeroth. Cette décision changea le destin du monde : elle déclencha la Première Guerre, ravagea Hurlevent et fit basculer l'histoire des hommes et des orcs. La tour en porte encore la trace, et l'on raconte que la magie de la Porte résonne toujours dans ses murs. L'ouverture de la Porte des Ténèbres est l'acte fondateur des guerres modernes, le moment où un seul homme, corrompu, brisa la frontière entre les mondes. Karazhan est le point de départ de cette tragédie, la preuve qu'une décision prise dans une tour isolée peut embraser un continent entier.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : porte-tenebres

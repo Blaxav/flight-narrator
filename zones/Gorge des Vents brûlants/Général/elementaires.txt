@@ -1,0 +1,9 @@
+Les élémentaires de feu
+=======================
+
+Dans la gorge des Vents brûlants, les élémentaires de feu sont partout. Nés des coulées de lave et des souffles du magma, ils rôdent sur les pentes comme des braises vivantes. Leur corps incandescent consume tout ce qu'il touche, et leur fureur est celle d'un incendie qui ne s'éteint pas. Ils ne négocient pas, ne reculent pas, ne connaissent que la chaleur et la destruction. Les mineurs et les soldats qui travaillent dans la gorge doivent sans cesse les repousser. Ces créatures sont le signe le plus visible du pouvoir de Ragnaros : là où il passe, la pierre elle-même se lève pour le servir. La gorge appartient au feu, et le feu ne partage pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : elementaires

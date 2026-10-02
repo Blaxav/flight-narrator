@@ -1,0 +1,9 @@
+La cité perdue des gnomes
+=========================
+
+Gnomeregan fut autrefois la merveille du monde gnomique, une cité souterraine d'engrenages, de tuyaux et de lumières, où l'ingéniosité n'avait pas de limites. Ses rues mécaniques s'étendaient sous la montagne, et ses inventeurs y créaient des machines dont le reste du monde n'osait même pas rêver. C'était un lieu de rires, d'expériences et de progrès, le cœur d'un peuple petit par la taille mais immense par l'esprit. Aujourd'hui, Gnomeregan n'est plus qu'une ruine irradiée, peuplée de créatures folles et de machines détraquées. Mais dans la mémoire des gnomes, la cité reste ce qu'elle fut : un rêve de métal et de lumière, que la catastrophe n'a pas réussi à éteindre tout à fait.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cite-perdue

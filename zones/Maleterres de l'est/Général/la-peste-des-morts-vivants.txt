@@ -1,0 +1,9 @@
+La peste des morts-vivants
+==========================
+
+La catastrophe a commencé par des sacs de grain. Transportée de bourg en bourg, la peste des morts-vivants fut répandue dans les greniers de Lordaeron par les serviteurs de Kel'Thuzad, avant même que quiconque comprenne la nature du mal. Les villageois qui mangeaient de ce blé maudit tombaient dans une fièvre lente, puis mouraient, puis se relevaient, les yeux vides et la mâchoire pendante. Les villes se fermèrent trop tard. Quand le prince Arthas Menethil parcourut Stratholme, il n'y trouva que des condamnés à transformer, et choisit l'horreur d'une épuration plutôt que la soumission. Depuis, la peste ronge toujours la région, portée par les spores, les vers et les serviteurs du Culte des damnés qui continuent d'empoisonner les puits.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-peste-des-morts-vivants

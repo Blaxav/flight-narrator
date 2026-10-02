@@ -1,0 +1,9 @@
+Thoradin et Arathor
+===================
+
+Thoradin est le roi légendaire qui, il y a près de trois mille ans, unifia les tribus humaines pour faire face aux trolls Amani. Jusque-là, les clans se battaient chacun pour soi, et les trolls les écrasaient un à un. Thoradin les rassembla, fonda le royaume d'Arathor et bâtit Stromgarde sur les hauteurs. Avec les hauts-elfes, il remporta la guerre des Trolls, brisant l'empire Amani pour des siècles. C'est de cette alliance que naquirent les grandes nations humaines, et les descendants des Arathi essaimèrent dans tout le continent. Thoradin n'était pas qu'un guerrier : c'était un bâtisseur de civilisation. Son nom est resté gravé dans la pierre, et Arathi tout entière porte encore sa mémoire.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : thoradin

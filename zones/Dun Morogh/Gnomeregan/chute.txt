@@ -1,0 +1,9 @@
+La chute de Gnomeregan
+======================
+
+La chute de Gnomeregan fut un désastre aussi soudain que terrible. Alors que les gnomes résistaient à l'invasion des troggs, leur grand bricoleur Sicco Thermaplugg, rongé par l'ambition et la jalousie, décida d'inonder la cité de radiations pour éliminer l'ennemi. Le plan échoua : les radiations tuèrent autant de gnomes que de troggs, et transformèrent la cité en tombeau empoisonné. Ceux qui purent fuir se réfugièrent à Forgefer, chez les nains, et Gnomeregan fut abandonnée. La trahison de Thermaplugg scella le destin de la cité. Depuis, les gnomes pleurent leurs morts et jurent de reprendre leurs foyers. La chute de Gnomeregan est une leçon amère : la ruse, sans sagesse, détruit ce qu'elle voulait sauver.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : chute

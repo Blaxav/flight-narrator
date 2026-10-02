@@ -1,0 +1,9 @@
+La neutralité armée
+===================
+
+Gadgetzan se veut un havre neutre, mais sa paix est une paix armée, tenue à coups de gourdins et de règlements. Les matons du Cartel patrouillent les ruelles, le gourdin à la ceinture et le regard aux aguets, prêts à mater la première rixe. Car ici se croisent des ennemis mortels : soldats de l'Alliance, guerriers de la Horde, contrebandiers et espions, tous venus chercher fortune. La ville ne survit que par un équilibre fragile, imposé sans tendresse et sans appel. Quiconque tire l'épée dans Gadgetzan apprend vite que le Cartel ne tolère qu'une seule violence : la sienne, rapide et définitive. Cette neutralité armée fait de la cité un refuge précaire, où chacun retient son souffle en comptant ses pièces. C'est le prix d'un commerce sans frontières.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : neutralite-armee

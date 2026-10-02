@@ -1,0 +1,9 @@
+La citadelle flottante
+======================
+
+Aux confins des Maleterres de l'est, quand le vent déchire les nuages, une masse d'os, de nécro-énergie et de pierre noire apparaît au-dessus de Stratholme : Naxxramas, la citadelle volante du Fléau. Ses remparts hérissés de pointes dérivent lentement, projetant une ombre glaciale sur les terres en contrebas. Des chaînes grandes comme des tours pendent de ses flancs, et des lueurs vertes palpitent derrière ses meurtrières. On dit que la nécropole se déplace au gré des ordres de son maître, semant la terreur partout où elle s'arrête. Pour les vivants qui l'aperçoivent, c'est une vision d'apocalypse suspendue. Monter à son assaut exige des ailes, des sorts de téléportation ou le courage de franchir des portails gardés par les plus terribles créatures du Roi-liche.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-citadelle-flottante

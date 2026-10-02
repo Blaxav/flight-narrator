@@ -1,0 +1,9 @@
+La cité épurée
+==============
+
+Derrière ses murailles noircies, Stratholme n'est plus qu'une ville fantôme livrée aux morts. Les rues pavées, jadis animées par les marchands et les gardes de Lordaeron, résonnent désormais du raclement des armures rouillées et des plaintes des fantômes. Les maisons à colombages penchent comme des ivrognes, les fontaines débordent d'une eau croupie et les étals pourrissent sous la cendre. Pourtant, la cité n'est pas vide : deux factions s'en disputent les ruines. La Croisade écarlate occupe les quartiers hauts, convaincue de purifier le mal, tandis que le Fléau ronge les bas-fonds et les cryptes. Au centre, la grande porte ne s'ouvre que pour laisser entrer les imprudents. Stratholme est un tombeau à ciel ouvert, et chaque pavé y garde la mémoire d'un crime.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-cite-epuree

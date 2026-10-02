@@ -1,0 +1,9 @@
+Les gardes funestes
+===================
+
+Les gardes funestes patrouillent Brill et ses abords, silhouettes en armure sombre montant la garde avec une discipline glacée. Ces soldats des Réprouvés, morts revenus à la vie, ne connaissent ni fatigue ni pitié, et leur pas résonne sur les pavés comme un glas. Ils surveillent les routes, protègent les convois et traquent les ennemis de la Dame noire, sans jamais hésiter ni reculer. Leur présence rassure les leurs et glace les étrangers, car il émane d'eux le froid de la tombe et la patience des morts. Pourtant, ils ne sont pas des monstres : ils sont ce qui reste d'un peuple trahi, armé pour survivre dans un monde qui le rejette. Les gardes funestes de Brill incarnent cette détermination sans faille. Sous leurs heaumes, nul regard ne vacille, et leur silence vaut toutes les menaces. Ils veillent, et leur veille ne finit jamais.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gardes-funestes

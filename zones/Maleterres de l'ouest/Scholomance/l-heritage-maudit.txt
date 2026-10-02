@@ -1,0 +1,9 @@
+L'héritage maudit
+=================
+
+Pourquoi tant d'âmes ont-elles franchi le seuil de Scholomance ? Parce que le savoir interdit promet ce que ni l'épée ni la foi n'accordent : la maîtrise de la mort elle-même. Des générations d'étudiants y ont cherché le secret des liches, la recette des pestes, le pouvoir de retenir un esprit au bord du trépas. Mais l'école prélève son droit d'entrée : la vie, d'abord, puis la raison, enfin l'âme. Ceux qui en sortent ne sont plus tout à fait des vivants, et ceux qui y restent deviennent des meubles de pierre et d'os. Scholomance est un piège tendu par le Fléau aux ambitieux, une promesse qui se referme comme une mâchoire. Et pourtant, chaque année, des imprudents gravissent encore la colline de Caer Darrow, attirés par la lueur des fenêtres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-heritage-maudit

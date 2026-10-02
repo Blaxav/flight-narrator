@@ -1,0 +1,9 @@
+Les centaures Kolkar
+====================
+
+Les centaures Kolkar sont la plaie des Tarides. Ces êtres au torse d'homme et au corps de cheval, nés d'une union maudite entre un gardien de la nature et une princesse de la terre, ont juré la perte des Taurens. Leurs chasseurs sillonnent les plaines, sur quatre sabots, et fondent sur les caravanes qui s'écartent de la Route de l'Or. Ils ne bâtissent pas de cités, seulement des camps de peaux et de pieux, puis repartent. Leur haine est ancienne, nourrie par des guerres de territoire dont plus personne ne se souvient, mais dont chacun connaît le goût du sang. Les Taurens le savent : là où souffle la poussière, un Kolkar n'est jamais loin. Dans les Tarides, la route n'appartient au voyageur, elle est à qui la surveille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : centaures

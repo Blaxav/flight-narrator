@@ -1,0 +1,9 @@
+Ogres et bêtes sauvages
+=======================
+
+Les Terres ingrates abritent aussi des ogres, ces brutes massives qui campent dans les ravins et rançonnent les voyageurs assez fous pour s'y aventurer. Ils se battent pour un morceau de viande ou un butin, et leur force écrase les imprudents sans même qu'ils y pensent. Autour d'eux, des coyotes faméliques, des vautours et des scorpions géants se disputent les charognes, tandis que des wyvernes tournoient au-dessus des mesas, ombres cruelles sur la roche. La faune de ces terres est dure, affamée et sans pitié, à l'image du pays qui l'a façonnée. Chaque pas hors des pistes est un risque, chaque ombre peut cacher des crocs ou une massue. Les Terres ingrates ne pardonnent pas aux faibles : elles les dévorent. Ici, la survie est une affaire de vigilance et de dents, et chacun y joue sa peau.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ogres-et-betes

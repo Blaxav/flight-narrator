@@ -1,0 +1,9 @@
+Les forges et les prisons
+=========================
+
+Ombreforge est un royaume de travail forcé et de métal en fusion. Dans ses prisons croupissent des captifs de toutes les races, condamnés aux mines et aux forges sans espoir de libération. Les élémentaires de feu y sont enchaînés, contraints de chauffer les fourneaux de leurs maîtres. Les gardes Sombrefer patrouillent sans relâche, et les contremaîtres frappent plus vite que l'on ne respire. La cité produit des armes jour et nuit, dans un fracas qui ne s'interrompt jamais. Mais sous les chaînes couve la colère, et l'on murmure que certains esclaves n'attendent qu'une occasion pour se soulever. Les Profondeurs de Rochenoire sont une machine, et les machines finissent toujours par se gripper.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-forges-et-les-prisons

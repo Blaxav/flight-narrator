@@ -1,0 +1,9 @@
+Le nom de Kargath
+=================
+
+L'avant-poste porte le nom de Kargath, un ancien chef de guerre orc dont la légende est faite de fer et de fureur. On dit qu'il s'est tranché la main pour la remplacer par une lame, et qu'il mena son clan au combat avec une sauvagerie qui fit trembler ses ennemis. Ce nom, gravé sur les palissades et prononcé avec respect, est un hommage et un avertissement : la Horde n'oublie ni ses héros ni ses batailles, et elle honore ceux qui ont payé leur place dans le sang. Les soldats de l'avant-poste le répètent comme on salue un ancêtre, pour se donner du courage dans les nuits de vent. Kargath est plus qu'une bourgade de frontière : c'est un serment fait à la mémoire d'un guerrier. Ici, le passé de la Horde monte la garde avec les vivants.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-nom-de-kargath

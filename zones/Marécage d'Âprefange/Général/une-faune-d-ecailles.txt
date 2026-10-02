@@ -1,0 +1,9 @@
+Une faune d'écailles
+====================
+
+Les eaux et les vasières du Marécage d'Âprefange grouillent d'une faune à écailles et à crocs. Les crocilisques y règnent en maîtres, immobiles sous la surface, prêts à jaillir sur les chevilles imprudentes. Les murlocs colonisent les criques, leurs cris rauques montant des roseaux à la tombée du jour. Des araignées géantes tissent leurs toiles entre les branches basses, et des raptors aux plumes ternes chassent en meutes sur les tertres plus secs. Les serpents d'eau glissent sans bruit, et l'on dit que des créatures plus anciennes remontent parfois des profondeurs. Les chasseurs y viennent pour les peaux et les glandes, mais chaque sortie est une loterie. Le marécage ne se laisse pas traverser : il se mérite, pas après pas, la main sur la garde de l'épée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : une-faune-d-ecailles

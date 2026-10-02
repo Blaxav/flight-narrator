@@ -1,0 +1,9 @@
+L'assaut de la nécropole
+========================
+
+Pénétrer dans Naxxramas n'est pas une expédition, mais une guerre. Les ordres de l'Aube d'argent ne laissent passer que des compagnies aguerries, équipées de reliques purificatrices et protégées par des enchantements coûteux. La nécropole exige des dizaines de héros, car ses couloirs sont pensés pour broyer les imprudents : salles piégées, gardiens sans nombre, magies de glace et de peste. Les guildes les plus puissantes de la Horde et de l'Alliance y ont laissé des pages entières de leurs registres. Ceux qui en reviennent parlent d'un froid qui s'infiltre jusque dans l'âme, et d'une voix qui murmure à travers la pierre. Pourtant, tant que Naxxramas flottera au-dessus de Lordaeron, nul ne pourra dormir en paix dans les royaumes de l'Est.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-assaut-de-la-necropole

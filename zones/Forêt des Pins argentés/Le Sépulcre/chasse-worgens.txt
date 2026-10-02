@@ -1,0 +1,9 @@
+La chasse aux worgens
+=====================
+
+Depuis le Sépulcre, les Réprouvés mènent une guerre sans merci contre les worgens. Les patrouilles sillonnent les bois, les pièges sont tendus dans les clairières, et les primes pleuvent sur les peaux de bêtes. Chaque hurlement dans la nuit rappelle que la meute rôde, et chaque villageois disparu nourrit la colère des morts. Cette chasse n'est pas un caprice : les worgens étranglent les routes, attaquent les fermes et menacent l'emprise des Réprouvés sur la région. Les habitants du Sépulcre savent que la forêt ne sera jamais sûre tant que la malédiction vivra. Alors ils traquent, ils brûlent, ils abattent, sans jamais se lasser. Car tant qu'un seul hurlement retentira dans la nuit, personne au Sépulcre ne dormira tranquille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : chasse-worgens

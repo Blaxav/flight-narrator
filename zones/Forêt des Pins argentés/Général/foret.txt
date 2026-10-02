@@ -1,0 +1,9 @@
+La forêt des pins d'argent
+==========================
+
+Vous planez au-dessus de la forêt des Pins argentés, un manteau sombre posé sur les collines de Lordaeron. Les pins y sont hauts et serrés, leurs aiguilles pâles accrochant la brume comme des fils d'argent. Le sol est humide, les sentiers étroits, et la lumière n'y descend qu'en lambeaux. C'est une terre de silence, traversée de ruisseaux et de côtes rocheuses battues par la mer. Mais ce calme est trompeur : des yeux brillent entre les troncs, et des hurlements s'élèvent à la nuit tombée. Depuis la chute de Lordaeron, la forêt est devenue un territoire disputé, où les vivants se terrent et où les morts ne dorment plus. Les Pins argentés sont beaux comme un linceul.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : foret

@@ -1,0 +1,9 @@
+Le Boucher de Scholomance
+=========================
+
+Dans les sous-sols de Scholomance, une légende d'horreur répond au nom de docteur Theolen Krastinov, surnommé le Boucher. Jadis médecin respecté, il troqua le serment de soigner contre une curiosité dévorante pour la souffrance. Ses expériences, menées sur des prisonniers, des réfugiés et parfois des étudiants trop curieux, firent de lui une figure honnie même au sein du Culte des damnés. On raconte que ses instruments sont encore posés sur des plateaux, brillants d'un éclat trop propre, et que ses patients ne quittent jamais vraiment sa table. Ceux qui descendent dans son antre y trouvent des registres macabres, des membres en bocaux et une odeur de formol qui prend à la gorge. Le Boucher n'enseigne pas la mort : il la découpe, lentement, pour voir ce qu'il y a dedans.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-boucher-de-scholomance

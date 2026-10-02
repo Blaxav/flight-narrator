@@ -1,0 +1,9 @@
+Le Grand Bricoleur Mekkatorque
+==============================
+
+Gelbin Mekkatorque est le Grand Bricoleur des gnomes, le chef légitime de son peuple en exil. Inventeur de génie, il a consacré sa vie à la science et au bien de sa cité, et c'est sous son règne que Gnomeregan connut ses plus belles années. Quand la catastrophe frappa, il choisit de sauver les siens plutôt que ses machines, et il conduit aujourd'hui les réfugiés gnomes depuis Forgefer, en attendant le jour de la reconquête. On raconte qu'il travaille sans relâche à un moyen de purifier la cité de ses radiations. Mekkatorque est un esprit brillant dans un corps fragile, et sa détermination force le respect des nains eux-mêmes. Tant qu'il vivra, l'espoir des gnomes vivra avec lui, et la reconquête restera possible.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mekkatorque

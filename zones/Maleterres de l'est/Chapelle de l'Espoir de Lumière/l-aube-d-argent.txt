@@ -1,0 +1,9 @@
+L'Aube d'argent
+===============
+
+La Chapelle de l'Espoir de Lumière est le cœur battant de l'Aube d'argent, cet ordre neutre né des cendres de Lordaeron pour combattre le Fléau sans servir ni la Horde ni l'Alliance. Prêtres, paladins, mages et anciens soldats y unissent leurs forces, convaincus que la peste des morts-vivants est une menace qui dépasse les querelles des vivants. On y distribue des reliques bénies, des onguents purificateurs et des insignes gagnés sur les nécromanciens. Le seigneur Maxwell Tyrosus veille sur cette garnison de la dernière chance, entouré de guérisseurs et d'officiers à la mine grave. Dans la cour pavée, les recrues apprennent à reconnaître la souillure, à briser les runes et à brûler les restes maudits avant qu'ils ne se relèvent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-aube-d-argent

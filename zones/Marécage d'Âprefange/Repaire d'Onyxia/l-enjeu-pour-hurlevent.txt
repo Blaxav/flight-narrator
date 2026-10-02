@@ -1,0 +1,9 @@
+L'enjeu pour Hurlevent
+======================
+
+Tant qu'Onyxia respire, Hurlevent n'est pas maître de son destin. La dragonne ne se contente pas de couver dans les marais : elle corrompt la cour, affaiblit l'armée, divise les seigneurs et prépare, à pas feutrés, la chute du royaume. Les héros qui descendent dans son repaire ne chassent donc pas un simple monstre, mais une conspiratrice couronnée d'ombres. Arracher son masque, briser ses œufs, la traquer jusqu'à sa caverne, c'est rendre à Hurlevent un peu de sa liberté. Les émissaires de l'Alliance paient cher la tête de la dragonne, et les bardes chantent déjà la geste de ceux qui oseront. Mais nul n'ignore qu'Aile-de-mort a d'autres enfants, et que le feu des dragons noirs ne s'éteint jamais tout à fait.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-enjeu-pour-hurlevent

@@ -1,0 +1,9 @@
+Face aux démons
+===============
+
+Depuis le Poste de la Vénéneuse, les guerriers de la Horde lancent des expéditions contre les démons de Gangrebois. Les satyres et les créatures de la Légion n'ont aucun droit sur ces terres, et la Horde compte bien le leur rappeler. Les combats y sont brutaux, souvent au corps à corps, dans des clairières où la magie gangrenée fausse les sens. Chaque démon abattu est une victoire, mais il en surgit toujours d'autres. Pourtant, les soldats du poste ne reculent pas. Ils savent que céder du terrain ici, c'est laisser la corruption gagner les forêts voisines. La Vénéneuse est une digue, et ses défenseurs se battent pour que la marée ne passe pas. Chaque expédition y laisse des traces, et toutes ne reviennent pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : demons

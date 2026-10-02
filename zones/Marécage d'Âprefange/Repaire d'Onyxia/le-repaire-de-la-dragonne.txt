@@ -1,0 +1,9 @@
+Le repaire de la dragonne
+=========================
+
+Au cœur du Marécage d'Âprefange, derrière un rideau de brume et de roseaux, s'ouvre le repaire d'Onyxia, une caverne volcanique creusée dans le roc noir. L'air y est chaud, chargé de soufre et de cendre, et la roche y vibre du grondement d'une bête immense. Des ossements jonchent l'entrée, restes de proies trop lentes et d'aventuriers trop braves. À l'intérieur, des galeries mènent à une vaste chambre où couve la chaleur d'un brasier, et où des œufs de jais attendent dans des nids de pierre. C'est le domaine d'une dragonne noire, un sanctuaire de feu et d'écailles que nul ne visite deux fois. Les plus grandes guildes de la Horde et de l'Alliance y ont monté des expéditions entières, et beaucoup n'en sont pas revenues.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-repaire-de-la-dragonne

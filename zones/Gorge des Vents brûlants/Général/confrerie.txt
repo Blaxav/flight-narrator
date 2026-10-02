@@ -1,0 +1,9 @@
+La Confrérie du thorium
+=======================
+
+Au milieu de cet enfer, la Confrérie du thorium a choisi son camp. Ces nains, pour beaucoup d'anciens Sombrefer, ont rompu avec Ragnaros et refusent de servir le Seigneur du Feu. Installés à la Halte du Thorium, ils accueillent les étrangers, échangent des minerais et offrent leur aide contre les forces du feu. Leur position est périlleuse : leurs anciens frères les traitent de traîtres, et les élémentaires ne font pas de quartier. Pourtant, ils tiennent, convaincus que la gorge peut redevenir une terre de forge plutôt qu'une fournaise. La Confrérie du thorium est la preuve que même au cœur des flammes, la loyauté et la raison peuvent survivre. Leur choix est un acte de courage, mais aussi un long pari contre les flammes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : confrerie

@@ -1,0 +1,9 @@
+Les dragons bleus
+=================
+
+Les dragons bleus veillent sur les rivages d'Azshara, derniers gardiens d'une terre autrefois protégée par la magie. Leur chef, Azuréos, un dragon ancien, surveille la côte et défend les secrets que la mer n'a pas rendus. Ces dragons, héritiers du vol bleu et de sa charge sur la magie, se méfient des mortels autant que des nagas. On les voit planer au-dessus des falaises, silencieux, comme des sentinelles d'un autre âge. Leur présence rappelle que la magie est une force à surveiller, et qu'Azshara en regorge encore. Les dragons bleus sont la preuve que même une région abandonnée des vivants n'est jamais tout à fait sans gardien, et que certains serments se gardent à travers les siècles.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : dragons-bleus

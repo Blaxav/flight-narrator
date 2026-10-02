@@ -1,0 +1,9 @@
+La malédiction des worgens
+==========================
+
+La forêt des Pins argentés est le royaume des worgens. Ces créatures, mi-hommes mi-loups, rôdent entre les arbres et fondent sur les voyageurs isolés. Leur morsure transmet la malédiction, et nul ne sait combien de victimes errent désormais sous leur forme bestiale. Leur présence remonte à la Troisième Guerre, quand l'archimage Arugal les invoqua pour repousser le Fléau, avant de perdre tout contrôle. Depuis, ils se sont multipliés, et la forêt est devenue leur terrain de chasse. Les worgens sont la peur incarnée de ces bois, la preuve qu'une arme peut se retourner contre la main qui l'a forgée, et qu'une malédiction ne s'arrête jamais d'elle-même. La lune rousse qui se lève sur les pins semble elle-même hésiter à les éclairer.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : worgens

@@ -1,0 +1,9 @@
+La famille Barov
+================
+
+Scholomance est à jamais liée au nom des Barov, une noble famille de Lordaeron dont l'ambition surpassa la fortune. Le seigneur Alexei Barov, maître des lieux, ouvrit les portes de son donjon aux sombres études, espérant tirer puissance et gloire du savoir interdit. Sa femme et ses enfants furent happés par la spirale : trahisons, pactes et meurtres tissèrent la toile de leur chute. Aujourd'hui, leurs spectres hantent les couloirs, disputant encore un héritage qui n'a plus de valeur aux yeux des vivants. On croise la dame Jandice Barov, belle et glaciale, dans les salles basses, tandis que le seigneur Alexei veille sur des trésors qu'il ne pourra plus jamais dépenser. La fortune des Barov est devenue leur prison, et Scholomance leur tombeau.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-famille-barov

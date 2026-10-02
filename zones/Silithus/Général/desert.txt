@@ -1,0 +1,9 @@
+Le désert de Silithus
+=====================
+
+Vous planez au-dessus de Silithus, un désert de sable pâle et de roches éclatées, au sud de Kalimdor, où le soleil pèse comme un couvercle de plomb. Le vent y soulève des voiles de poussière, les dunes y rampent lentement, et l'horizon y tremble de chaleur. Rien n'y pousse, ou presque, et l'on n'y entend que le grésillement des insectes. C'est une terre hostile, vidée de sa vie, mais qui n'est pas morte : elle attend, traversée de courants souterrains et de silences lourds. Le désert de Silithus est la lisière du monde, la preuve que la nature a des confins arides, et que certains sables cachent des secrets qui ne dorment qu'à moitié.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : desert

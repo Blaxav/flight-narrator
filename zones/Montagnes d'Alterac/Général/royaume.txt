@@ -1,0 +1,9 @@
+Le royaume d'Alterac
+====================
+
+Le royaume d'Alterac fut l'une des sept nations humaines nées de l'empire d'Arathor. Perché dans ses montagnes, il vivait de ses cols, de ses carrières et de la vigilance de ses seigneurs. Mais sa gloire s'acheva pendant la Deuxième Guerre : le roi Aiden Perenolde trahit l'Alliance et ouvrit ses cols aux orcs, espérant sauver sa couronne. La trahison fut découverte, et le royaume fut démantelé, ses terres partagées, son nom voué au mépris. Perenolde disparut, mais ses nobles ne renoncèrent jamais. Le royaume d'Alterac n'est plus qu'un souvenir, mais un souvenir qui mord : ici, la félonie a laissé une tache que la neige elle-même ne parvient pas à blanchir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : royaume

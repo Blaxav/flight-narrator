@@ -1,0 +1,9 @@
+La distillerie de Kharanos
+==========================
+
+Kharanos est réputée dans tout Dun Morogh pour ses bières, brassées selon des recettes que les familles naines se transmettent de père en fils. Les caves y abritent des tonneaux alignés comme des soldats, et l'odeur du malt et du houblon flotte dans les ruelles. On y fabrique des breuvages sombres et forts, capables de réchauffer un mineur après une journée au fond de la montagne. Les maîtres-brasseurs de Kharanos sont des artistes, et leur fierté est aussi grande que leur barbe. Un voyageur qui n'a pas goûté la bière de Kharanos n'a pas connu Dun Morogh, dit-on. Ici, la chope est un art de vivre, et le froid n'est jamais tout à fait vainqueur, tant que la bière coule.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : distillerie

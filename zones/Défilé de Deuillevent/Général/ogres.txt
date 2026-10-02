@@ -1,0 +1,9 @@
+Les ogres du défilé
+===================
+
+Les ogres du défilé de Deuillevent sont les seuls à s'être installés dans cette terre morte, et ils y ont fait leurs repaires. Descendants des serviteurs de Médivh, ou simples pillards attirés par les ruines, ils campent dans les gorges et attaquent les voyageurs. Leur présence ajoute au danger du lieu, déjà éprouvant par lui-même. On les voit rôder autour de Karazhan, comme des chiens autour d'un cadavre, cherchant de quoi survivre dans une région sans ressources. Ils sont devenus une partie du décor sinistre du défilé, une menace supplémentaire sur une route que personne n'emprunte de bon cœur. Les ogres de Deuillevent sont la preuve que même les terres mortes trouvent des habitants, pourvu qu'ils soient assez désespérés.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ogres

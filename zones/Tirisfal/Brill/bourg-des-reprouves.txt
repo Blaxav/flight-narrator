@@ -1,0 +1,9 @@
+La bourgade des Réprouvés
+=========================
+
+Brill s'étend au cœur des Clairières de Tirisfal, bourgade sombre où les Réprouvés ont établi l'une de leurs places fortes. Ses maisons de pierre, ses auberges et ses échoppes ont été reprises aux morts et remises en service par les serviteurs de Sylvanas Coursevent, sans jamais effacer tout à fait les traces du passé. On y croise des gardes funestes, des apothicaires et des voyageurs de la Horde, tous affairés dans une atmosphère de cendre et de brume. Brill est un lieu de passage et de commandement, un relais entre Fossoyeuse et les terres alentour, un point d'appui dans un pays hostile. Rien n'y est gai, mais tout y est utile, et l'on y vit comme l'on monte la garde. Ici, les Réprouvés ne cachent pas ce qu'ils sont : ils bâtissent sur des ruines, et ils tiennent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bourg-des-reprouves

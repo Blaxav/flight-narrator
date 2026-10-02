@@ -1,0 +1,9 @@
+Le camp de la Horde
+===================
+
+Au nord de Strangleronce, dans une clairière arrachée à la jungle, s'élève le camp de Grom'gol, le bastion de la Horde dans les terres du sud. Des palissades de bois, des tours de guet et des feux de camp en font une forteresse modeste mais tenace. C'est ici que les orcs, les trolls et leurs alliés reprennent des forces avant de s'enfoncer dans la forêt. Le camp surveille les routes, protège les caravanes et sert de point de départ aux expéditions contre les trolls Gurubashi. Grom'gol n'est pas une ville, mais un poing serré posé sur la jungle, et la jungle le sent. Tant qu'il tient, la Horde garde une porte ouverte sur le sud.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-camp-de-la-horde

@@ -1,0 +1,9 @@
+Le gouffre sous Orgrimmar
+=========================
+
+Sous les rues d'Orgrimmar s'ouvre le Gouffre de Ragefeu, un réseau de cavernes volcaniques où coulent des ruisseaux de lave et où l'air sent le soufre. C'est une plaie dans les fondations de la capitale, un lieu sombre que les honnêtes gens évitent. Des cultistes s'y sont installés, attirés par la chaleur des profondeurs et par les secrets qu'elles recèlent. On dit que ce gouffre fut autrefois un refuge, mais il n'est plus qu'un repaire de fanatiques. La Horde y descend régulièrement pour purger la menace, car nul ne peut gouverner Orgrimmar en laissant le mal croître sous ses pieds. Le Gouffre de Ragefeu est la preuve que le danger vient parfois d'en bas, et qu'il faut aller le chercher.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gouffre

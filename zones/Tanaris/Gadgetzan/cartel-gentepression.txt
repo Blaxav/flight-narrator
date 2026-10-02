@@ -1,0 +1,9 @@
+Le Cartel Gentepression
+=======================
+
+Gadgetzan appartient au Cartel Gentepression, ce vaste réseau gobelin dont les comptoirs couvrent Azeroth de l'or de leurs caisses. Le Cartel n'a qu'une loi, le profit, et qu'une méthode, la neutralité armée. Ses matons patrouillent les portes, ses agents pèsent chaque marchandise et collectent leur part sur chaque affaire, jusqu'à la dernière pièce. Horde et Alliance peuvent y commercer sans s'égorger, car une rixe ferait fuir les clients et tarir les bénéfices. Cette paix intéressée a fait de Gadgetzan un carrefour où les ennemis se croisent en serrant leur bourse, sans jamais baisser la garde. Le Cartel ne prend parti pour personne, sauf pour lui-même, et ses comptables ont des épées. Ici, la seule révolution que l'on redoute, c'est une grève des pièces d'or.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cartel-gentepression

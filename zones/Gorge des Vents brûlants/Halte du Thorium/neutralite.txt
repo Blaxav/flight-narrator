@@ -1,0 +1,9 @@
+Un havre de neutralité
+======================
+
+Dans la gorge des Vents brûlants, où chacun est l'ennemi de l'autre, la Halte du Thorium impose une règle simple : la neutralité. Horde et Alliance peuvent s'y croiser sans s'égorger, car la Confrérie ne sert aucun seigneur de guerre. Cette paix fragile tient à un intérêt commun : tout le monde a besoin de minerai, d'armes et d'informations. Les nains de la Halte jouent les intermédiaires, les banquiers et les armuriers. Leur neutralité n'est pas de l'indifférence : c'est une stratégie de survie. Dans une région gouvernée par le feu, la Confrérie a compris que la seule victoire durable, c'est de rester debout quand tout brûle. Car dans la fournaise, les rancunes passent après la survie.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : neutralite

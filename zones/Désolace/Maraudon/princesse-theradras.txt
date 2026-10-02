@@ -1,0 +1,9 @@
+La princesse Theradras
+======================
+
+Au plus profond de Maraudon dort la princesse Theradras, fille de Therazane la Mère des Roches. C'est une créature immense, à la beauté pétrifiée, gardienne jalouse du tombeau de Zaetar. Elle ne pardonne pas aux mortels de profaner son sanctuaire, et sa colère fait trembler la roche tout entière. Ceux qui l'ont affrontée racontent qu'elle ne se bat pas seulement avec ses poings de pierre, mais avec le poids de toute la terre. Pourtant, derrière la fureur se devine une tristesse infinie : Theradras n'est pas seulement un monstre, c'est une mère qui a vu ses enfants tuer leur père, et qui n'a jamais pu l'accepter. L'affronter, c'est réveiller une douleur plus ancienne que les royaumes, et plus lourde que les montagnes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : princesse-theradras

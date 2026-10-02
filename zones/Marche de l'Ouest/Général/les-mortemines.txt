@@ -1,0 +1,9 @@
+Les Mortemines
+==============
+
+Au sud-ouest de la Marche de l'Ouest s'ouvrent les Mortemines, un dédale de galeries creusé sous les falaises. Jadis mine d'or prospère, elle fut abandonnée quand les filons s'épuisèrent, puis investie par la Confrérie défias, qui en fit son repaire, son arsenal et son port secret. Les bruits qui montent des puits parlent de forges, de machines de guerre et d'un navire que les bandits assemblent dans l'ombre. Les fermiers évitent la falaise, et les enfants se racontent, à voix basse, des histoires de pirates et de trésors engloutis. Les Mortemines sont devenues le symbole de la chute de la région : un trou béant par où remonte, chaque nuit, la colère des trahis.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-mortemines

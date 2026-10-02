@@ -1,0 +1,9 @@
+Le monastère Écarlate
+=====================
+
+Au nord-est de Tirisfal, le Monastère Écarlate dresse ses tours et ses cloîtres au-dessus de la brume, forteresse de pierre vouée à la Croisade écarlate. Autrefois lieu de prière et de savoir, il est devenu un bastion de fanatiques, où l'on s'exerce à la guerre sainte contre les morts-vivants et contre tous ceux qui doutent. Ses salles résonnent de sermons enflammés, de cliquetis d'armures et de cris de suppliciés, et l'encens y masque à peine l'odeur du sang. Les étendards rouges y flottent partout, et la lumière qu'on y invoque a des reflets de bûcher. Le monastère n'accueille ni le doute ni l'étranger : il juge, il condamne et il frappe, sans appel. C'est une citadelle de foi dévoyée, où la peur a pris le visage de la fureur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-monastere

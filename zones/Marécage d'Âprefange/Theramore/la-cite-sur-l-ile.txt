@@ -1,0 +1,9 @@
+La cité sur l'île
+=================
+
+Theramore se dresse sur une île basse, à l'embouchure des marais, comme une forteresse blanche posée sur les flots. Ses tours carrées, ses remparts crénelés et ses toits de tuiles dessinent une cité ordonnée, balayée par le vent du large. Les rues y sont pavées, propres, parcourues de soldats en uniforme et de marchands venus par la mer. Le port abrite des navires de guerre aux voiles frappées de l'ancre de Kul Tiras, et les quais résonnent du bruit des cordages et des caisses qu'on décharge. Autour de la ville, les marais s'étendent à perte de vue, brumeux et menaçants, comme pour rappeler que cette clairière de civilisation reste fragile. Theramore est un défi jeté à la sauvagerie de Kalimdor, un rêve de pierre au milieu de la vase.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-cite-sur-l-ile

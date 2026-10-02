@@ -1,0 +1,9 @@
+Le port des gobelins
+====================
+
+Accrochée aux falaises du cap, la Baie-du-Butin étage ses maisons colorées au-dessus des eaux vertes de Strangleronce. Les pilotis plongent dans la mer, les passerelles s'enroulent autour de la roche, et les mâts des navires se balancent dans le port. C'est une ville verticale, bruyante et vivante, où l'on décharge des caisses, où l'on négocie à tue-tête et où l'or change de main à chaque marée. Les gobelins du Cartel Gentepression en ont fait un carrefour où se croisent marchands, aventuriers et contrebandiers. La Baie-du-Butin ne dort jamais : elle travaille, elle vend et elle surveille. Ici, la mer apporte les clients et emporte les dettes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-port-des-gobelins

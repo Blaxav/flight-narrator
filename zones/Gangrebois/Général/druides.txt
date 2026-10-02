@@ -1,0 +1,9 @@
+Le combat des druides
+=====================
+
+Face à la corruption, les druides et le Cercle cénarien refusent de céder. Dans les clairières préservées de Gangrebois, ils soignent les plantes malades, purifient les sources et cherchent à rendre à la forêt sa splendeur perdue. Leur tâche est immense et souvent désespérée : pour chaque arbre guéri, dix autres noircissent. Pourtant, ils s'obstinent, convaincus que la nature peut renaître si on lui en laisse le temps. Ils demandent aux aventuriers de rapporter des échantillons, des remèdes et des cœurs de démons, afin de comprendre le mal qui ronge ces terres. Gangrebois est leur plus grand défi, et ils le relèvent sans relâche, car abandonner la forêt serait abandonner une part d'eux-mêmes. Ils sont peu, mais ils sont la conscience de ces bois.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : druides

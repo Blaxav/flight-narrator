@@ -1,0 +1,9 @@
+La gorge des Vents brûlants
+===========================
+
+Vous planez au-dessus de la gorge des Vents brûlants, une entaille volcanique au cœur des terres naines. Des coulées de lave serpentent entre les roches noires, et des geysers crachent leur vapeur dans un air lourd de soufre. Rien ne pousse ici, ou presque : la terre est craquelée, les pentes couvertes de scories, et le ciel rougi par les reflets du magma. C'est un paysage de forge, brutal et grandiose, comme si le monde montrait ses entrailles. Pourtant, cette gorge n'est pas morte : elle grouille d'activité, entre les mines, les machines et les créatures de feu. La gorge des Vents brûlants est le cœur industriel et infernal de Khaz Modan, une terre où l'on vient chercher fortune ou trépas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : paysage

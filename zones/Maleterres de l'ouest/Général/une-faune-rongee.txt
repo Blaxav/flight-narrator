@@ -1,0 +1,9 @@
+Une faune rongée
+================
+
+Les bêtes des Maleterres de l'ouest portent la marque de la corruption. Des chiens de chasse aux chairs à vif et à l'haleine fétide rôdent autour des fermes, guidés par une faim qui n'est plus tout à fait naturelle. Les chauves-souris pestilentielles, suspendues sous les ponts, s'abattent en nuées sur les caravanes. Dans les sous-bois, des araignées géantes tissent des toiles poisseuses où se balancent des cocons humains. Même les vers des terriers ont grossi jusqu'à devenir des prédateurs. Les fermiers disent que la peste ne tue plus seulement : elle transforme, donnant aux bêtes des yeux de braise et des crocs trop longs. Pourtant, leurs organes et leurs glandes sont recherchés par les alchimistes, et les chasseurs s'enhardissent, flèches empoisonnées en bandoulière. Chaque trophée arraché à ces créatures se monnaie cher à la Chapelle de l'Espoir de Lumière.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : une-faune-rongee

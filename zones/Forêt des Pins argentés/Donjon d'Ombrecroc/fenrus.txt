@@ -1,0 +1,9 @@
+Fenrus le Dévoreur
+==================
+
+Dans les couloirs d'Ombrecroc rôde Fenrus le Dévoreur, un worgen d'une férocité légendaire. On dit qu'il fut l'un des premiers à répondre à l'appel d'Arugal, et qu'il n'a jamais cessé de chasser depuis. Sa silhouette massive hante les salles basses, et ses crocs ont goûté au sang de bien des aventuriers. Fenrus n'obéit pas par loyauté, mais par instinct : il suit l'odeur de la chair et la voix de son maître, sans jamais comprendre les desseins des hommes. Sa présence rappelle ce que sont vraiment les worgens : non pas des soldats, mais des prédateurs. À Ombrecroc, la frontière entre l'animal et le monstre s'est effacée depuis longtemps. Sa gueule ne se referme que lorsqu'il a trouvé une proie.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fenrus

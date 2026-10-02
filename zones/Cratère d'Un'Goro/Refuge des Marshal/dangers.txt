@@ -1,0 +1,9 @@
+Les dangers du cratère
+======================
+
+Le Refuge des Marshal vit sous la menace permanente du cratère. Les devilsaurs rôdent à quelques pas du camp, les raptors détalent dans les fourrés, et les mares de bitume avalent les imprudents. Les gobelins ont dressé des pièges et des palissades, mais la jungle est plus forte. Chaque nuit, des cris résonnent, et l'on retrouve parfois une tente vide au matin. Les chercheurs s'habituent à cette peur, sans jamais s'y résigner. Le danger fait partie du contrat : c'est le prix à payer pour étudier un monde perdu. Le Refuge des Marshal est la preuve que la curiosité a un coût, et que ceux qui veulent percer les secrets d'Un'Goro doivent d'abord apprendre à y survivre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : dangers

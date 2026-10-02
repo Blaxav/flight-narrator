@@ -1,0 +1,9 @@
+La porte de Menethil
+====================
+
+Les Paluns abritent le Port de Menethil, la grande porte maritime des royaumes nains et de l'Alliance. C'est par ses quais que partent les navires vers Kalimdor et les terres lointaines, et c'est par eux qu'arrivent les marchandises et les renforts. Le port fait des Paluns un carrefour essentiel, malgré les marais qui l'entourent. Des routes pavées le relient aux montagnes de Dun Morogh et aux hauteurs d'Arathi, et des patrouilles en gardent les abords. Le Port de Menethil est le cœur battant de la région, la raison pour laquelle cette terre noyée reste précieuse. Sans lui, les Paluns ne seraient qu'un désert d'eau et de boue. Tant qu'il tiendra, les routes du nord resteront ouvertes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : menethil

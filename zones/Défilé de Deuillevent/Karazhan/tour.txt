@@ -1,0 +1,9 @@
+La tour de Karazhan
+===================
+
+Karazhan est la tour de Médivh, dressée au sommet du défilé de Deuillevent, et l'un des lieux les plus étranges d'Azeroth. Bâtie sur un nœud de lignes telluriques, elle a absorbé la magie de son maître pendant des années, et elle en est restée imprégnée. Les salles y sont déformées, les couloirs changent, et le temps lui-même y semble capricieux. On y croise des fantômes, des créatures invoquées et les échos des banquets d'autrefois. La tour n'est pas une simple ruine : c'est un organisme magique, vivant de sa propre mémoire. Karazhan est la preuve qu'un lieu peut garder l'empreinte d'un homme, et que certains murs ne se laissent pas oublier.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : tour

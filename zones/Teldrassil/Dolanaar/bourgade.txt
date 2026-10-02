@@ -1,0 +1,9 @@
+La bourgade de Dolanaar
+=======================
+
+Sur la route du sud de Teldrassil, Dolanaar s'étire entre les grands arbres, paisible bourgade de bois et de verdure. Ses maisons basses, ses passerelles de lianes et ses lanternes de lune en font une halte douce pour les voyageurs qui montent vers Darnassus ou descendent vers la mer. On y croise des Sentinelles en patrouille, des marchands chargés de fruits et des druides de passage, chacun allant à son rythme. La vie y est lente, rythmée par le chant des oiseaux et le frémissement des feuilles au-dessus des toits. Dolanaar n'a rien d'une forteresse : c'est un village accueillant, où l'étranger trouve un regard, un abri et parfois une histoire. Ici, la forêt n'est pas une frontière, mais une voisine bienveillante que l'on salue en passant.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bourgade

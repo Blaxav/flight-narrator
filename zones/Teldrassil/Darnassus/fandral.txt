@@ -1,0 +1,9 @@
+Fandral Staghelm
+================
+
+En l'absence de Malfurion, c'est Fandral Staghelm qui dirige les druides de Darnassus d'une main ferme. Archidruide orgueilleux et volontaire, il fut l'artisan de Teldrassil, cet Arbre-monde planté pour rendre aux elfes leur immortalité perdue après la Troisième Guerre. Sa décision, prise contre bien des avis, divise encore son peuple : l'Arbre n'a pas reçu la bénédiction des Aspects, et il demeure imparfait, rongé d'ombres. Fandral, lui, n'en démord pas, convaincu que la fin justifiait les moyens et que son peuple méritait l'éternité. Il règne sur le Cercle cénarien avec autorité, et son ombre plane sur Darnassus. Certains le vénèrent, d'autres le craignent, tous l'écoutent. Fandral Staghelm est la preuve qu'un sauveur peut aussi semer le trouble.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fandral

@@ -1,0 +1,9 @@
+Rend Main-Noire
+===============
+
+Rend Main-Noire est le fils de Main-Noire, le premier chef de guerre de l'ancienne Horde, et il a fait de ce nom un fardeau. Après la Deuxième Guerre, il refusa de suivre les orcs vers la rédemption et s'accrocha au Pic Rochenoire avec les siens. Il se dit le chef légitime, mais son trône est bâti sur la rancune et le sang. Rusé et impitoyable, il s'est allié aux dragons noirs pour tenir la montagne. Rend est le visage d'un passé qui ne veut pas mourir, un chef sans peuple véritable, qui règne sur des couloirs au lieu d'une nation. Sa chute serait la fin d'une époque, mais il ne tombera pas sans mordre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : rend-main-noire

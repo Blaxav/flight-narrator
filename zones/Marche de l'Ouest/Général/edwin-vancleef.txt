@@ -1,0 +1,9 @@
+Edwin VanCleef
+==============
+
+Le nom d'Edwin VanCleef se murmure dans toute la Marche de l'Ouest comme celui d'un homme trahi devenu bourreau. Maître maçon de génie, il avait bâti de ses mains une partie des murailles et des tours de Hurlevent. Quand la noblesse refusa de le payer, il ne vit dans la justice des rois qu'un marché de dupes. Il emporta sa colère dans les Mortemines, où il transforma une bande de manœuvres en une armée disciplinée, équipée d'armes volées et de plans minutieux. VanCleef n'est pas un brigand ordinaire : il lit les cartes, tient ses comptes et prépare une revanche de longue haleine. On dit que sa rancune est aussi vaste que les mers, et que tant qu'il respirera, aucun noble de Hurlevent ne dormira tranquille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : edwin-vancleef

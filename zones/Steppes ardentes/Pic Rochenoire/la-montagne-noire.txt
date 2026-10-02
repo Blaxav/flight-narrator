@@ -1,0 +1,9 @@
+La montagne noire
+=================
+
+Voici le Pic Rochenoire, le volcan qui domine les Steppes ardentes de sa masse noire et fumante. Ses flancs sont crevassés de lave, ses crêtes crachent des cendres, et le sol tremble sous ses colères. La montagne n'a pas toujours été ce brasier : elle fut soulevée et creusée par l'arrivée de Ragnaros, quand les nains Sombrefer l'invoquèrent dans ses profondeurs. Depuis, elle n'a jamais vraiment dormi, et l'on dit qu'elle respire au rythme du feu qui couve en elle. Chaque fissure est une bouche de feu, chaque galerie un fourneau, chaque crête une promesse de tempête de cendres. Le Pic Rochenoire n'est pas un simple sommet : c'est une forge à ciel ouvert, un géant de roche et de magma qui veille sur les terres brûlées comme une menace permanente.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-montagne-noire

@@ -1,0 +1,9 @@
+Les trolls de la jungle
+=======================
+
+Les trolls de Strangleronce sont les héritiers dispersés des Gurubashi, divisés en tribus rivales qui se disputent les ruines et les territoires de chasse. Certains vouent encore un culte aux anciens dieux, d'autres se contentent de survivre en pillant les caravanes et les comptoirs. Leur peau bleue ou verte se confond avec l'ombre des feuillages, et leurs tambours résonnent la nuit comme un avertissement. Ils ne sont plus l'empire d'autrefois, mais ils en gardent la férocité et la ruse. Chaque sentier peut cacher une embuscade, chaque ruine une bande armée prête à défendre ses idoles. Les trolls de la jungle sont la mémoire vivante d'un royaume perdu, et cette mémoire, ils la protègent à coups de lances et de sortilèges.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-trolls-de-la-jungle

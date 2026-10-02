@@ -1,0 +1,9 @@
+Le grenier de Lordaeron
+=======================
+
+Avant la peste, Stratholme était le grenier de Lordaeron, la cité marchande par où transitaient les récoltes de tout le nord. Ses silos débordaient de grain, ses quais voyaient passer les barges chargées de farine, et ses marchés attiraient les négociants de Dalaran jusqu'à Hurlevent. C'est précisément cette richesse qui la condamna : les convois de blé contaminé partirent de ses portes, répandant la mort dans les campagnes, et la cité elle-même devint le foyer de la contagion. L'ironie est amère : la prospérité de Stratholme servit de tombeau à son peuple. Les vieux traités de commerce, encore accrochés dans les comptoirs en ruine, témoignent d'une époque où l'on comptait en sacs de grain plutôt qu'en cadavres. Le Fléau a fait de ce grenier un charnier.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-grenier-de-lordaeron

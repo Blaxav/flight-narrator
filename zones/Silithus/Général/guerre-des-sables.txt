@@ -1,0 +1,9 @@
+La guerre des sables mouvants
+=============================
+
+Il y a plus de mille ans, Silithus fut le théâtre de la guerre des sables mouvants, quand les armées qiraji jaillirent de leurs cités pour submerger Kalimdor. Les elfes de la nuit et les dragons, menés par les Aspects, dressèrent un mur pour contenir la marée, au prix d'immenses sacrifices. Le désert porte encore les cicatrices de cette lutte, et le souvenir en hante les survivants. La guerre des sables mouvants est la mémoire noire de Silithus, la preuve que le désert fut un champ de bataille, et que les portes qui s'y dressent ne doivent jamais se rouvrir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : guerre-des-sables

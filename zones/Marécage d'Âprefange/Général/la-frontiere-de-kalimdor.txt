@@ -1,0 +1,9 @@
+La frontière de Kalimdor
+========================
+
+Le Marécage d'Âprefange est une frontière mouvante entre la Horde et l'Alliance. Au nord-est, Theramore rayonne sous la bannière bleue ; à l'ouest, Mur-de-Fougères répond sous l'étendard rouge. Entre les deux, le marais n'appartient à personne, et les patrouilles des deux camps s'y croisent plus souvent qu'elles ne le souhaiteraient. Les escarmouches éclatent sur les digues et dans les criques, brèves et meurtrières, puis la brume avale les cris. Pourtant, des trêves tacites se nouent parfois, car les créatures du marais frappent sans distinction. Cette terre de passage est devenue le symbole d'une paix impossible et d'une guerre sans fin. Et sous la vase, des yeux anciens observent les vivants se déchirer, attendant leur heure.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-frontiere-de-kalimdor

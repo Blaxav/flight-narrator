@@ -1,0 +1,9 @@
+Le nom des Menethil
+===================
+
+Le Port de Menethil porte le nom de la dynastie qui régna sur Lordaeron pendant des générations. Les rois Menethil furent parmi les plus sages du monde, et leur capitale fut un phare pour tous les humains. Le dernier d'entre eux, Terenas Menethil, gouverna avec sagesse jusqu'à la chute de son royaume, trahi par son propre fils, Arthas. Donner ce nom à un port de l'Alliance, c'est honorer une lignée disparue et rappeler ce que Lordaeron fut. Chaque navire qui quitte ces quais emporte un peu de cette mémoire. Le Port de Menethil est un hommage de pierre et d'eau à un trône qui n'est plus. Les marins qui partent y saluent une dernière fois la mémoire des rois.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : menethil

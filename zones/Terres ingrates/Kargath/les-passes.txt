@@ -1,0 +1,9 @@
+Les passes et les pistes
+========================
+
+Kargath commande les passes qui mènent aux Gorges des Vents brûlants et aux terres voisines, des couloirs étroits où l'on avance à découvert, sans autre abri que la roche. Les caravanes y passent sous escorte, les messagers y galopent, et les bandits y guettent, tapis dans les ombres. Contrôler ces pistes, c'est contrôler l'accès à toute la région, et la Horde le sait mieux que quiconque. Les guetteurs de Kargath scrutent chaque convoi, chaque silhouette, chaque nuage de poussière soulevé par le vent. Les routes y sont rares et dangereuses, mais vitales, car elles relient les terres arides aux royaumes voisins. L'avant-poste est la clef de ces chemins de rocaille, un verrou posé sur la carte. Ici, la géographie est une arme, et la Horde la tient fermement de ses tours.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-passes

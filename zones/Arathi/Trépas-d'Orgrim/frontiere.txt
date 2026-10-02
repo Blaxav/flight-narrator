@@ -1,0 +1,9 @@
+Une frontière disputée
+======================
+
+Arathi est une frontière, et le Trépas-d'Orgrim en est le verrou. La région est disputée par tous : l'Alliance tient la Pointe du Refuge, les ogres occupent Stromgarde, et le Syndicat rôde entre les deux. Dans ce chaos, le bastion de la Horde doit rester debout, sous peine de voir les routes du sud se refermer. Les éclaireurs y rapportent chaque mouvement, et les renforts y partent au moindre signal. La vie y est tendue, rythmée par les alertes et les escarmouches. Mais c'est précisément ce rôle de sentinelle qui rend le lieu précieux. Le Trépas-d'Orgrim est la preuve que la Horde tient ses frontières avec les dents, et qu'une terre disputée ne se garde jamais à moitié.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : frontiere

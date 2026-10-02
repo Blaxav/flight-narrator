@@ -1,0 +1,9 @@
+La faune de la forêt
+====================
+
+Les bois d'Aldrassil fourmillent de vie, et la forêt y est un royaume à part entière. Les sabres-de-nuit y chassent en silence, leur pelage sombre se fondant dans les sous-bois, tandis que les chouettes surveillent les clairières de leurs grands yeux ronds. Les écureuils y grimpent aux troncs, les cerfs y broutent les jeunes pousses, et les hippogriffes passent parfois au-dessus des cimes, ombres rapides sur le ciel vert. Cette faune est l'âme de Teldrassil, sauvage et libre, mais elle n'est pas toujours docile : les bêtes blessées ou corrompues deviennent dangereuses, et l'on apprend à les respecter avant de les chasser. Aldrassil est ainsi entouré d'un peuple d'animaux, une cour sauvage qui ne connaît d'autre loi que celle de la forêt. Et la forêt, elle, n'explique jamais ses mystères.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : faune

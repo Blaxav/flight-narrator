@@ -1,0 +1,9 @@
+La route du bois
+================
+
+Une route de terre traverse Orneval jusqu'au poste de Bois-brisé, reliant les camps de la Horde et charriant le bois vers le sud. C'est une piste étroite, creusée par les charrettes, bordée de fourrés où l'on ne s'attarde pas. Les convois y roulent sous escorte, car les elfes y ont tendu plus d'un piège. Malgré le danger, la route ne dort jamais : la Horde y fait passer ses vivres, ses blessés et ses victoires. La route de Bois-brisé est l'artère de la conquête, la preuve que la guerre d'Orneval se joue aussi sur les chemins, et que tenir la route, c'est tenir la forêt.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : route

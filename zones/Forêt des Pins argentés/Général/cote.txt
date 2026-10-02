@@ -1,0 +1,9 @@
+La côte sauvage
+===============
+
+À l'ouest, la forêt des Pins argentés s'achève sur une côte rocheuse, balayée par les vents de la Grande Mer. Les falaises y plongent dans les vagues, et les criques abritent des murlocs qui ne tolèrent aucun intrus. Les pêcheurs racontent que les marées y déposent parfois des épaves et des trésors, mais aussi des choses qui n'auraient jamais dû remonter à la surface. Cette côte est une frontière oubliée, loin des grandes routes, où l'on ne s'aventure que par nécessité. Les pins d'argent s'y penchent vers l'eau comme pour écouter les secrets de la mer. La forêt et l'océan s'y disputent le rivage, et aucun des deux ne cède jamais. Les naufragés qui s'y échouent ne racontent pas toujours ce qu'ils y ont vu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cote

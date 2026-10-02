@@ -1,0 +1,9 @@
+Les remèdes de la forêt
+=======================
+
+La Clairière de Talonbranche est un centre de soin autant qu'un poste militaire. Les druides et les herboristes y préparent des remèdes à partir des plantes encore saines, et les aventuriers sont envoyés chercher des échantillons dans les zones corrompues. Chaque feuille, chaque racine, chaque sève rapporte une information sur la maladie qui ronge Gangrebois. Les soigneurs étudient, comparent, expérimentent, dans l'espoir de trouver un antidote. Ce travail est ingrat et lent, mais il est essentiel. La clairière est un laboratoire à ciel ouvert, où la guerre contre la corruption se mène aussi à coups de mortier et de décoctions, et pas seulement d'épées. Chaque découverte, si modeste soit-elle, y est une promesse de guérison lointaine.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : quetes

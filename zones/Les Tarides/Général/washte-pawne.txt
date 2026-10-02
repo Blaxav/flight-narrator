@@ -1,0 +1,9 @@
+Washte Pawne, le serpent des vents
+==================================
+
+Parmi les serpents des vents qui planent au-dessus des Tarides, l'un d'eux porte un nom redouté : Washte Pawne. Cette créature ailée, au corps rouge et aux ailes jaunes, glisse entre les courants comme un fouet de feu, et nul ne s'y frotte sans brûlure. Les Taurens l'appellent le Mangeur d'esprits, car sa morsure semble vider ceux qu'elle touche. Jorn Skyseer, au Camp Taurajo, convoitait ses plumes, et il envoyait les chasseurs les plus hardis les lui rapporter. Le nom de la bête est une ironie : en une langue ancienne, il évoque le bien-être, alors que son contact n'est que douleur. Washte Pawne est la preuve que le ciel des Tarides n'est pas plus sûr que le sol, et que la beauté y tue.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : washte-pawne

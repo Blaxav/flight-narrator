@@ -1,0 +1,9 @@
+Les trolls Sombrelance
+======================
+
+Les trolls Sombrelance sont un peuple de survivants. Chassés de leurs îles par les nagas et les murlocs, ils traversèrent la mer et trouvèrent refuge auprès des orcs, avec qui ils scellèrent une amitié indéfectible. Fiers et agiles, ils mêlent le culte des esprits, l'art du vaudou et une redoutable habileté au combat. Leur peau bleue, leurs défenses et leurs coiffures les distinguent, mais c'est leur loyauté qui les définit : un Sombrelance n'oublie jamais qui l'a sauvé. À Sen'jin, la tribu s'est reconstruite sans rien renier de ses traditions. Les Sombrelance sont la preuve que la Horde est née de l'entraide, et qu'un peuple, même exilé, peut renaître s'il garde la mémoire et la fierté.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : trolls-sombrelance

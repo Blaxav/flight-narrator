@@ -1,0 +1,9 @@
+Les alliés de l'ombre
+=====================
+
+Le Bas du Pic est un carrefour de serviteurs. Les orcs Rochenoire y côtoient des ogres brutaux, des nains Sombrefer et les rejetons de dragons noirs qui montent du Repaire de l'Aile noire. Chacun y trouve son compte : les uns la guerre, les autres l'or, d'autres encore la faveur de Nefarian. Cette alliance de circonstance rend les salles basses imprévisibles, car on n'y sait jamais qui commande vraiment. Les bannières se mêlent, les langues s'affrontent, et pourtant tous se tiennent prêts à défendre la montagne contre les intrus. Le Bas du Pic est la preuve que les puissances du feu savent s'unir, au moins jusqu'à ce que l'un d'eux en trahisse un autre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-allies-de-l-ombre

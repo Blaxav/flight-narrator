@@ -1,0 +1,9 @@
+L'empire Gurubashi
+==================
+
+Strangleronce fut jadis le cœur de l'empire Gurubashi, le plus puissant des royaumes trolls. Les Gurubashi y bâtirent des cités de pierre, des temples et des ziggourats qui dominent encore la canopée. Leur puissance s'étendait sur toute la jungle, et leurs prêtres commandaient aux esprits et au sang. Puis vint le déclin : les guerres civiles, la faim de pouvoir et l'appel d'un dieu sombre brisèrent l'empire de l'intérieur. Les cités tombèrent, les tribus se dispersèrent, et la jungle reprit ses droits sur les palais désertés. Pourtant, les ruines Gurubashi ne sont pas mortes : elles attendent, peuplées de descendants orgueilleux. Strangleronce est un musée à ciel ouvert, mais un musée dont les gardiens mordent encore.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-empire-gurubashi

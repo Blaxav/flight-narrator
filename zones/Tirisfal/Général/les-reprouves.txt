@@ -1,0 +1,9 @@
+Les Réprouvés
+=============
+
+De la chute de Lordaeron naquit un peuple nouveau : les Réprouvés, ces morts-vivants qui brisèrent les chaînes du Roi-liche et reprirent leur libre arbitre. Rejetés par les vivants qu'ils défendaient autrefois, ils se regroupèrent sous la bannière de Sylvanas Coursevent et firent de Tirisfal leur terre, leur refuge et leur bastion. Ils ne sont ni des monstres ni des saints, seulement des âmes arrachées à la mort et condamnées à la solitude, à la méfiance et au souvenir. Leur présence a changé la région : les ruines se sont repeuplées, les tours se sont rallumées, et la brume s'est chargée d'une volonté nouvelle. Les Réprouvés sont la mémoire vivante de Lordaeron, mais une mémoire qui se bat pour ne pas s'éteindre. Ici, être mort n'empêche pas de vouloir vivre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-reprouves

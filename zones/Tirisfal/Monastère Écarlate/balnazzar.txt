@@ -1,0 +1,9 @@
+L'ombre de Balnazzar
+====================
+
+La Croisade écarlate croit servir la lumière, mais une ombre tire ses ficelles : le seigneur de l'effroi Balnazzar, démon de la Légion ardente. Il a infiltré la croisade, s'est glissé sous la peau de ses chefs et la pousse à la folie, au massacre et à l'aveuglement, savourant chaque excès comme une offrande. Chaque goutte de sang versée le sert, chaque innocent torturé renforce son emprise, et les fanatiques l'ignorent en chantant leurs psaumes. Les plus lucides sentent confusément que quelque chose pourrit le monastère, mais nul n'ose le dire à voix haute, de peur du bûcher. Balnazzar est le ver dans le fruit, le démon qui se cache derrière les sermons et les étendards. La Croisade écarlate est sa victime et son arme, et elle l'ignore en mourant.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : balnazzar

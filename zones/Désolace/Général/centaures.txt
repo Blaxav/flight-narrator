@@ -1,0 +1,9 @@
+Les centaures de Désolace
+=========================
+
+Les centaures sont les maîtres de Désolace. Nés d'une union maudite entre la terre et la nature, ces créatures à buste d'homme et corps de cheval parcourent les plaines en clans, armées de lances et de haches. Ils ne bâtissent rien, ne cultivent rien : ils chassent, pillent et se font la guerre entre eux avec une fureur sans fin. Leur nombre est leur force, et leur cruauté n'a d'égale que leur superstition. Chaque tribu honore ses ancêtres et ses khans, et chaque voyageur isolé est une proie. Pourtant, les centaures ne sont pas qu'une menace : ils sont l'âme sauvage de cette terre, les derniers enfants d'une légende oubliée. Désolace leur appartient, et ils le rappellent à quiconque ose traverser leurs plaines.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : centaures

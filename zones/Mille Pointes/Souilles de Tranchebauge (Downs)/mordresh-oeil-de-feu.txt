@@ -1,0 +1,9 @@
+Mordresh Œil-de-Feu
+===================
+
+Dans les salles basses des Downs veille Mordresh Œil-de-Feu, un squelette de quilboar dont les orbites brûlent d'une flamme inextinguible. Il fut jadis un grand chaman, dit-on, et sa colère contre les vivants ne s'est jamais éteinte, même après la mort. Relevé par la nécromancie, il commande aux légions d'ossements qui arpentent les galeries, et son regard embrase quiconque croise sa route. Les aventuriers racontent qu'il apparaît au détour d'un couloir, immense et silencieux, avant de faire pleuvoir le feu sur ses ennemis. Sa présence rappelle que les morts des Downs ne sont pas des pantins sans âme : certains se souviennent de leurs haines, et les nourrissent comme des braises. L'affronter, c'est affronter la rancune d'un peuple entier.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mordresh-oeil-de-feu

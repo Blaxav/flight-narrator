@@ -1,0 +1,9 @@
+Les Sentinelles, gardiennes de l'Arbre
+======================================
+
+Sur tout Teldrassil, les Sentinelles veillent, et leur présence est le fil qui relie les branches de l'Arbre-monde. Ces guerrières d'élite, vouées à Elune, patrouillent les sentiers, gardent les villages et surveillent les lisières où rôde la corruption. Leur discipline est ancienne, forgée par dix mille ans de guerres, de veilles et de sacrifices. Elles montent les hippogriffes, tirent l'arc à la perfection et ne reculent devant aucun danger, ni bête ni démon. Teldrassil est leur foyer, et elles le défendent comme on défend un sanctuaire, sans faiblir et sans douter. Chaque jeune elfe rêve un jour de porter leur armure et de servir sous la lune. Les Sentinelles sont la garde patiente qui tient la nuit à distance. Tant qu'elles veilleront, Teldrassil restera debout.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sentinelles-gardiennes

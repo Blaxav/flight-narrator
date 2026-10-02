@@ -1,0 +1,9 @@
+Les orcs Rochenoire
+===================
+
+Dans les hauteurs du Pic Rochenoire s'accroche le clan Rochenoire, ces orcs à la peau sombre qui refusent la paix de Thrall. Ils suivent Rend Main-Noire, fils du premier chef de guerre, qui se proclame encore le vrai chef de la Horde. Depuis la Deuxième Guerre, ils n'ont déposé ni les armes ni l'orgueil, et ils tiennent les salles de la montagne comme une forteresse. Alliés aux dragons noirs de Nefarian, ils complotent et forgent dans l'ombre. Les orcs Rochenoire sont les vestiges d'une Horde ancienne, celle qui a brûlé Hurlevent et plié Azeroth. Leur présence au sommet est un défi : tant qu'ils tiennent le Pic, la guerre n'est jamais tout à fait finie.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : orcs-rochenoire

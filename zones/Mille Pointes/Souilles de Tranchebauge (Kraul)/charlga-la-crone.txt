@@ -1,0 +1,9 @@
+Charlga la crone
+================
+
+Au fond des Kraul, dans une salle tapissée de peaux et d'ossements, siège Charlga, la crone de Tranchebauge. Vieille et voûtée, le poil gris, les défenses jaunies, elle règne sur les clans d'une main de fer et d'une voix qui n'a plus besoin de crier. Sa magie ancienne mêle les sorts de l'ombre, les malédictions et les appels aux esprits, et ses serviteurs la servent avec une dévotion terrifiée. On raconte qu'elle connaît le nom de chaque ancêtre, le secret de chaque ronce, et qu'aucun étranger n'a jamais quitté sa salle sans en payer le prix. Charlga ne cherche pas la guerre ; elle protège son peuple, et pour cela, elle est prête à tout. Les héros qui la traquent le savent : la crone ne tombera pas sans emporter ses ennemis.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : charlga-la-crone

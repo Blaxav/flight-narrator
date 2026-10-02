@@ -1,0 +1,9 @@
+L'ombre de Gnomeregan
+=====================
+
+Au-dessus de Dun Morogh plane l'ombre de Gnomeregan, la cité des gnomes tombée aux mains des troggs et de la folie. Les nains vivent avec ce deuil à leurs portes, et beaucoup ont recueilli les réfugiés gnomes qui ont fui la catastrophe. Le souvenir de cette chute hante les vallées : on en parle à voix basse, et l'on évite certains tunnels d'où remontent des vapeurs étranges. Pourtant, l'espoir n'est pas mort : les gnomes survivants rêvent de reconquérir leur cité, et les nains leur prêtent main-forte. L'ombre de Gnomeregan est un fardeau, mais aussi une promesse. Tant que Dun Morogh tiendra, la cité perdue ne sera jamais tout à fait abandonnée, et ses fils ne renonceront pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ombre-gnomeregan

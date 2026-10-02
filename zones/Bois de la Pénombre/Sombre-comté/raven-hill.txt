@@ -1,0 +1,9 @@
+Le cimetière de Raven Hill
+==========================
+
+Le cimetière de Raven Hill est l'endroit le plus redouté du Bois de la Pénombre, un champ de tombes que personne ne visite de nuit. Les morts y sont agités, et les goules en sortent pour rôder sur les routes. Les fossoyeurs y travaillent à la hâte, car les tombes ne restent jamais longtemps fermées. On raconte que la terre elle-même y est maudite, et que certains cercueils se vident avant l'aube. La Garde de la Nuit y monte des patrouilles, mais elle ne peut pas être partout. Raven Hill est le cœur pourri du bois, la preuve que le repos des morts n'est plus respecté, et que la mort elle-même a perdu sa paix. Ici, les pierres tombales ne protègent plus personne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : raven-hill

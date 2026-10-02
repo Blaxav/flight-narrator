@@ -1,0 +1,9 @@
+Le dieu ancien
+==============
+
+Au fond du Temple d'Ahn'Qiraj se tient C'Thun, le dieu ancien, immense et sans âge. Son regard perce les armures et les esprits, et ses tentacules emplissent la salle comme des racines de cauchemar. Il ne parle pas, il murmure, et ses murmures défont la raison. Les plus braves s'y brisent, les plus sages s'y perdent. Le vaincre, dit-on, est la seule façon de sauver Silithus, mais nul ne sait ce qu'il en coûte. C'Thun est l'horreur au bout du temple, la preuve que certains dieux ne méritent pas de s'éveiller, et que le monde est plus vieux et plus sombre que ne le croient les mortels.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : dieu

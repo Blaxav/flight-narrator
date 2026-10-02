@@ -1,0 +1,9 @@
+Les pirates de la Voile sanglante
+=================================
+
+Le long des côtes de Strangleronce, les navires ne battent pas tous pavillon honnête. Les Boucaniers de la Voile sanglante, pirates cruels et sans loi, croisent au large et harcèlent les comptoirs. Leurs capitaines se disputent les routes maritimes, leurs équipages pillent les épaves et leurs repaires se cachent dans les criques. Ils sont la plaie de la jungle côtière, mais aussi, dit-on, une source inépuisable de butin pour qui ose les traquer. Les gobelins de la Baie-du-Butin les tolèrent tant qu'ils paient, et les combattent dès qu'ils s'approchent trop. La Voile sanglante rappelle que la mer, comme la jungle, n'appartient à personne, et que chaque trésor a un prix de sang.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-pirates-de-la-voile-sanglante

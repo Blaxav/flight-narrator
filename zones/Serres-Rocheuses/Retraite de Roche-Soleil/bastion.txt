@@ -1,0 +1,9 @@
+Le bastion de la Horde
+======================
+
+La Retraite de Roche-Soleil est un bastion de la Horde accroché aux pentes des Serres-Rocheuses, où le soleil chauffe la pierre dès l'aube. Ses palissades de bois et ses tentes de cuir se serrent contre la falaise, comme pour résister au vent et aux assauts. On y trouve des feux, des réserves et des sentinelles qui scrutent les cols sans relâche. C'est un lieu de repli et de départ, où l'on panse les blessés et où l'on prépare les raids. La Retraite de Roche-Soleil est le point d'ancrage de la Horde dans la montagne, la preuve que même un refuge se transforme en forteresse quand la guerre le réclame.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bastion

@@ -1,0 +1,9 @@
+Ragnaros, le Seigneur du Feu
+============================
+
+Sous la gorge des Vents brûlants sommeille la puissance de Ragnaros, le Seigneur du Feu, seigneur élémentaire du royaume du feu. C'est lui que l'empereur Thaurissan appela pour anéantir ses ennemis, et c'est lui qui, en surgissant, déchira la terre et fit jaillir les volcans. Depuis, sa présence irradie la région : la lave coule, les élémentaires de feu s'agitent, et la chaleur ne retombe jamais. Ragnaros n'est pas un simple démon, c'est une force de la nature, ancienne comme le monde. Son nom se prononce avec terreur dans toutes les montagnes. Tant qu'il régnera, la gorge restera une plaie brûlante, et les nains Sombrefer, ses serviteurs, continueront d'attiser sa fournaise. Son souffle fait trembler les fondations des montagnes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ragnaros

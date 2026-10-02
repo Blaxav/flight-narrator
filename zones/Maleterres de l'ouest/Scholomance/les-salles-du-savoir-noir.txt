@@ -1,0 +1,9 @@
+Les salles du savoir noir
+=========================
+
+Scholomance est un dédale de salles de classe dédiées à des disciplines que la raison réprouve. Ici, on étudie la conservation des chairs, les phylactères et les runes de rappel ; là, on pratique l'alchimie des pestes, distillant des fioles qui transforment l'eau en venin. Les laboratoires débordent de cornues, de bocaux d'organes et de grimoires annotés d'une écriture serrée. Dans les cryptes voisines, des élèves s'exercent à relever les squelettes enchaînés aux murs, tandis que des professeurs-spectres corrigent leur posture d'un coup de fouet spectral. Les couloirs sont gardés par des gardiens de chair et des rats de bibliothèque devenus monstres. Chaque salle porte un numéro, chaque numéro une leçon, et chaque leçon se paie en sang. L'école ne ferme jamais ses portes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-salles-du-savoir-noir

@@ -1,0 +1,9 @@
+Le mont Hyjal
+=============
+
+Au nord du Berceau-de-l'Hiver se dresse le mont Hyjal, la montagne sacrée où s'est joué le destin d'Azeroth. C'est sur ses pentes que, lors de la Troisième Guerre, les mortels, les elfes et les Aspects s'unirent pour repousser la Légion ardente et le démon Archimonde. L'Arbre-monde Nordrassil y fut sacrifié, et sa magie dévasta les armées démoniaques. Depuis, la montagne est un lieu de pèlerinage et de mémoire, gardé par les elfes de la nuit. Depuis le Berceau-de-l'Hiver, on aperçoit sa silhouette, et l'on comprend pourquoi les peuples de Kalimdor tournent leurs regards vers elle. Le mont Hyjal est la preuve qu'Azeroth sait se défendre, quand ses enfants acceptent de se battre ensemble.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mont-hyjal

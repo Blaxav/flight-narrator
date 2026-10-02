@@ -1,0 +1,9 @@
+Empêcher le réveil
+==================
+
+Toute la tragédie du Temple englouti tient à une seule question : Hakkar reviendra-t-il ? L'Écorcheur d'âmes, banni jadis par les trolls gurubashis, attend dans les limbes, nourri par les rites des Atal'ai et par le sang des imprudents. Si les prêtres achèvent leur invocation, une ombre divine s'abattra sur le monde, et les marais eux-mêmes se videront de toute vie. Les aventuriers qui descendent dans le temple ne cherchent donc pas un trésor, mais un sursis : briser les autels, défaire les prophètes, rompre les chaînes du rituel. Chaque victoire y repousse l'échéance, sans jamais effacer la menace. Car les dieux du sang, dit-on, ne meurent pas vraiment. Ils attendent, patients, sous la vase, que quelqu'un prononce à nouveau leur nom.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : empecher-le-reveil

@@ -1,0 +1,9 @@
+Le prince Tortheldrin
+=====================
+
+Le prince Tortheldrin règne sur les vestiges d'Eldre'Thalas, dernier maître des bien-nés qui refusent de partir. Autrefois noble et érudit, il s'est enfermé dans sa cité avec ses fidèles, loin d'un monde qu'il ne reconnaît plus. Pour maintenir la magie de la ville, il a accepté l'impensable : nourrir le démon Immol'thar et sacrifier ce qui restait de son peuple. Sa folie est celle d'un roi qui ne veut pas voir son royaume mourir. Les aventuriers qui pénètrent dans Hache-Tripes le trouvent entouré d'ombres, à la fois bourreau et prisonnier de sa propre cour. Tortheldrin incarne la chute des bien-nés : non pas un monstre né, mais un sage que l'orgueil a lentement dévoré. Nul ne sait s'il se souvient encore de ce qu'il fut.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : tortheldrin

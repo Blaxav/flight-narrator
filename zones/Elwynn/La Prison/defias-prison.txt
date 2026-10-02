@@ -1,0 +1,9 @@
+Les Défias derrière les barreaux
+================================
+
+La Prison de Hurlevent regorge de membres de la Confrérie des Défias, arrêtés au fil des raids contre leurs repaires. Derrière les barreaux, ils n'ont rien perdu de leur haine pour la noblesse qui les a trahis, et ils ont trouvé dans la révolte l'occasion de se venger. Leurs masques rouges, cachés ou arrachés, sont devenus un signe de ralliement entre les cellules. Ils complotent, recrutent et rêvent d'une évasion qui les ramènerait dans les bois d'Elwynn, plus forts et plus enragés qu'avant. La Prison n'a pas réussi à les briser : elle les a concentrés. Et concentrer des Défias, c'est préparer un incendie dont la capitale pourrait bien sentir la chaleur bien avant d'en voir les flammes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : defias-prison

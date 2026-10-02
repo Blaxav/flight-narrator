@@ -1,0 +1,9 @@
+La forêt de Féralas
+===================
+
+Vous planez au-dessus de Féralas, l'une des dernières grandes forêts primitives de Kalimdor. Les arbres anciens y montent si haut que la lumière tombe en colonnes, et les rivières tracent des veines d'argent jusqu'à la mer de l'ouest. La côte se découpe en îles et en falaises, pendant que l'est s'ouvre vers les savanes desséchées de Mille Pointes. C'est un pays sauvage, peuplé de loups, d'ours, d'hippogriffes et de créatures que l'on préfère ne pas nommer. La Horde et l'Alliance s'y disputent chaque sentier, chaque clairière, chaque source. Les ruines des elfes de la nuit dorment sous les fougères, et les ogres ont bâti leurs repaires dans les décombres. Féralas respire comme un vieux géant : calme en apparence, mais plein de dangers cachés sous sa canopée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : foret

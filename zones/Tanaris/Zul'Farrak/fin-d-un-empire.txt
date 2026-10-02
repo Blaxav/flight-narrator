@@ -1,0 +1,9 @@
+La fin d'un empire
+==================
+
+Zul'Farrak est le vestige d'un empire troll qui dominait autrefois le sud de Kalimdor, et dont les sables ont avalé la gloire. Les guerres, les schismes et la montée des autres peuples ont réduit cette puissance à une cité perdue, accrochée à ses pyramides comme à un trône en ruine. Les Furie-des-sables n'ont conservé que la haine de ce qu'ils ont perdu, et ils la retournent contre tous ceux qui passent à portée de leurs lances. Leurs dieux se taisent, leurs routes sont coupées, et pourtant ils ne cèdent rien, ni terre ni mémoire. Zul'Farrak est la mémoire d'une gloire ancienne devenue un tombeau, un empire qui a choisi de mourir debout plutôt que de s'éteindre sans bruit. C'est là toute la tragédie de ces trolls : ils se battent pour un passé que le désert a déjà enseveli.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fin-d-un-empire

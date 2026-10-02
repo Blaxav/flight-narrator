@@ -1,0 +1,9 @@
+Le grain de la mort
+===================
+
+C'est depuis Andorhal que la peste des morts-vivants s'est répandue comme une traînée de poudre à travers Lordaeron. Les silos de la ville, remplis de grain maudit préparé par le Culte des damnés, expédiaient chaque matin des charrettes vers les villages les plus reculés. Les meuniers ne se doutaient de rien, les boulangers enfournaient la mort, et les familles rompaient le pain du trépas à leur propre table. Quand les premières fièvres apparurent, il était déjà trop tard. Les routes de la région sont encore jalonnées de ces convois renversés, roues en l'air, sacs éventrés déversant des céréales noircies. Andorhal fut le cœur de cette infection silencieuse, et son nom reste, pour les survivants, synonyme de trahison et d'agonie.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-grain-de-la-mort

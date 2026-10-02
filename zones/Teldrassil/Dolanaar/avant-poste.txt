@@ -1,0 +1,9 @@
+Un avant-poste de l'ordre
+=========================
+
+Dolanaar n'est pas qu'une halte paisible : c'est un avant-poste des elfes de la nuit sur les terres de Teldrassil. Les Sentinelles y coordonnent leurs patrouilles, les druides y surveillent la santé de l'Arbre-monde, et les messagers y relaient les ordres venus de Darnassus. Le village veille ainsi sur la route, sur la forêt et sur les jeunes recrues qui s'y forment, l'arc à la main. En cas de danger, ses cloches résonnent jusqu'aux cimes, et les guetteurs allument leurs feux. Dolanaar est une sentinelle paisible, une main posée sur le pouls de la forêt, attentive au moindre frémissement. Ceux qui la croient endormie se trompent : sous ses ombrages, l'ordre des elfes de la nuit ne dort jamais tout à fait. Il veille, en silence, comme la forêt.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : avant-poste

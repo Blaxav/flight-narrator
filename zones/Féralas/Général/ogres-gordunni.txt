@@ -1,0 +1,9 @@
+Les ogres Gordunni
+==================
+
+Les ogres Gordunni rôdent dans les collines de Féralas, descendus des montagnes pour se tailler un royaume dans les ruines. Massifs, brutaux et sans pitié, ils se sont installés autour de la cité d'Eldre'Thalas, qu'ils disputent aux elfes et aux aventuriers. Leur force est immense, mais leur vrai pouvoir vient de leur nombre : ils pullulent le long des routes et dans les vallées, et nul ne traverse la forêt sans croiser l'un de leurs camps. On raconte qu'ils gardent les trésors des bien-nés, entassés dans leurs tanières, et qu'ils rêvent d'un empire à leur mesure. Les Gordunni sont la preuve que les ruines attirent toujours les prédateurs, et que la forêt, si belle soit-elle, n'est pas un refuge pour les faibles.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ogres-gordunni

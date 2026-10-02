@@ -1,0 +1,9 @@
+L'architecture ancienne
+=======================
+
+L'architecture d'Ahn'Qiraj n'est pas celle des hommes : ses murs s'incurvent comme des alvéoles, ses colonnes évoquent des pattes jointes, et ses sols luisent d'une résine durcie. On y devine une géométrie étrangère, pensée pour des corps à six pattes et des essaims en marche. Les sculptures représentent des dieux sans visage et des reines sans fin. C'est une beauté d'insecte, froide et répétitive, qui oppresse plus qu'elle n'élève. L'architecture d'Ahn'Qiraj est la signature d'un peuple sans âme, la preuve que la civilisation peut prendre des formes qui n'ont rien d'humain.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : architecture

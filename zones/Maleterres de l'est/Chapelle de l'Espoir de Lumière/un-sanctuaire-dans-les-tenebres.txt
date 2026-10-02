@@ -1,0 +1,9 @@
+Un sanctuaire dans les ténèbres
+===============================
+
+Depuis les hauteurs où s'effilochent les brumes pestilentielles, la Chapelle de l'Espoir de Lumière apparaît comme une flamme pâle posée sur la terre morte des Maleterres de l'est. Autour d'elle s'étendent des champs noircis, des fermes effondrées et des routes où rôdent les goules. Pourtant, ses murs de pierre blanche semblent repousser l'ombre qui dévore tout. Les voyageurs épuisés y trouvent un foyer, de l'eau claire et la promesse qu'une aube peut encore se lever. Ici, ni bannière royale ni étendard guerrier : seule veille la foi de ceux qui refusent de céder la dernière parcelle sacrée de Lordaeron. On raconte que même les abominations du Fléau hésitent avant d'en fouler le seuil béni.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : un-sanctuaire-dans-les-tenebres

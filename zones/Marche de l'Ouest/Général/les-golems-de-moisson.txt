@@ -1,0 +1,9 @@
+Les golems de moisson
+=====================
+
+Dans les champs de la Marche de l'Ouest, d'étranges machines de bois et de métal arpentent les sillons : les golems de moisson. Construits pour pallier le manque de bras, ces automates fauchent le blé avec une régularité d'horloge, mais certains ont perdu la raison. Leurs engrenages grincent, leurs bras mécaniques tournoient, et ils broient sans distinguer l'épi du fermier. On raconte qu'un sorcier, ou peut-être la seule usure du temps, a faussé leurs ordres, les transformant en faucheurs aveugles. Les paysans les craignent autant que les bandits, et les miliciens sont parfois appelés pour abattre une machine devenue folle au milieu d'un champ. Ironie amère : la mécanique censée sauver les moissons moissonne désormais autre chose que le blé.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-golems-de-moisson

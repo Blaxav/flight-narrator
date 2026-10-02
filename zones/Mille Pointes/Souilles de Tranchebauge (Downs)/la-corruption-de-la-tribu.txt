@@ -1,0 +1,9 @@
+La corruption de la tribu
+=========================
+
+Les Souilles de Tranchebauge racontent la chute d'un peuple acculé. Chassés, méprisés, décimés par les centaures et les autres clans, les quilboars des Downs ont cherché dans la mort la force que la vie leur refusait. Leur désespoir les a rendus vulnérables, et la nécromancie s'est glissée dans leurs rites comme un poison dans l'eau claire. Aujourd'hui, la tribu ne distingue plus ses ancêtres de ses geôliers, et ses chamans psalmodient des paroles qu'ils ne comprennent plus. Les rares quilboars lucides s'enfuient ou se taisent. Le drame des Downs n'est pas celui d'un monstre, mais d'un peuple qui a choisi de se perdre plutôt que de disparaître. Et la mort, reconnaissante, les a pris au mot.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-corruption-de-la-tribu

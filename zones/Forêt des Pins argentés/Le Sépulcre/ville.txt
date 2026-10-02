@@ -1,0 +1,9 @@
+Le Sépulcre
+===========
+
+Le Sépulcre est un bourg des Réprouvés, tapi au cœur de la forêt des Pins argentés. Ses bâtisses grises et ses tombes ouvertes lui donnent un air de cimetière habité, où les morts vont et viennent comme les vivants d'autrefois. On y trouve des marchands, des gardes et des apothicaires, tous unis par la même pâleur et la même détermination. Le Sépulcre n'est pas une cité : c'est un avant-poste, une main de Fossoyeuse posée sur les terres de Lordaeron. La vie y est dure, les nuits longues, et pourtant une étrange solidarité y règne. Les Réprouvés n'ont plus de royaume, mais ils ont ce bourg, et ils comptent bien le garder. Ses habitants savent que la mort ne protège pas de tout.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ville

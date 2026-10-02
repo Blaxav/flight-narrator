@@ -1,0 +1,9 @@
+Les caravanes de la Route de l'Or
+=================================
+
+Sur la Route de l'Or, les caravanes se succèdent sans relâche, tirées par des kodos massifs ou portées par des chariots gobelins bringuebalants. Elles transportent le grain de Mulgore, le bois des Serres-Rocheuses, les marchandises de Ratchet et les armes d'Orgrimmar. Chaque convoi est un pari lancé à la savane : il faut passer avant la nuit, éviter les embuscades et garder les roues sur la piste. Les marchands paient des gardes, les gardes prient pour un ciel clair, et les pillards, eux, attendent. La Croisée est la plaque tournante de ce trafic, le lieu où l'on compte les bêtes, où l'on change les attelages et où l'on mesure les pertes. Dans les Tarides, le commerce est une guerre lente, et la route en est le champ de bataille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : caravanes

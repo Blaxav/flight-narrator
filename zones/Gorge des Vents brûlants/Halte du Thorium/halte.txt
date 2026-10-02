@@ -1,0 +1,9 @@
+La Halte du Thorium
+===================
+
+La Halte du Thorium est un camp fortifié, planté sur les hauteurs de la gorge des Vents brûlants. Derrière ses murs de pierre noire, on trouve des forges, des échoppes et des feux qui ne s'éteignent jamais. C'est le refuge de la Confrérie du thorium, un havre de neutralité dans une région déchirée. Les voyageurs des deux factions y sont accueillis, à condition de laisser leurs querelles à la porte. Ici, on ne parle pas de guerre, mais de minerai, de forge et de survie. La Halte du Thorium est un paradoxe : un îlot d'ordre au milieu d'un océan de feu, où le marteau et l'enclume comptent plus que les bannières. C'est peut-être ce qui en fait le dernier refuge des gens sensés de la région.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : halte

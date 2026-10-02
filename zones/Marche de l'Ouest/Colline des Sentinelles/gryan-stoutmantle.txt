@@ -1,0 +1,9 @@
+Gryan Stoutmantle
+=================
+
+Le maître des lieux est Gryan Stoutmantle, un vétéran au visage buriné qui a pris la tête de la milice du peuple. Cet ancien soldat ne porte plus l'uniforme royal, mais il en garde la droiture, et sa parole vaut ordre sur la Colline des Sentinelles. Il organise les patrouilles, répartit les maigres vivres et recrute tous les volontaires capables de tenir une fourche ou une épée. Sa colère est dirigée contre la Confrérie défias, qu'il tient pour responsable du délabrement de la région, mais il n'oublie pas les nobles de Hurlevent qui ont laissé pourrir la situation. Gryan parle peu, écoute beaucoup, et ne promet jamais ce qu'il ne peut tenir. Les fermiers le saluent d'un signe de tête, et les miliciens mourraient pour lui.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gryan-stoutmantle

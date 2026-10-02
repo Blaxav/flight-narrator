@@ -1,0 +1,9 @@
+La garnison de Nethergarde
+==========================
+
+Derrière ses murailles, le Fort de Nethergarde abrite une garnison aguerrie : fantassins, archers, mages et clercs, unis par une même discipline et une même méfiance. On s'y entraîne à la hache, au sort et à l'arc, car l'ennemi, s'il revient, ne préviendra pas et ne laissera pas de répit. Les dortoirs y sont nus, les repas frugaux, les jours identiques, et pourtant personne ne songe à déserter. La camaraderie y est forte, comme toujours aux frontières du monde, là où l'on ne peut compter que sur le voisin. Les vétérans y racontent la Deuxième Guerre, et les recrues écoutent en silence, le regard durci par les récits. Nethergarde n'est pas une garnison de parade : c'est une garnison de veille, tendue vers un danger que chacun espère ne jamais voir. Le fort est une lame posée sur la plaine, patiente.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-garnison

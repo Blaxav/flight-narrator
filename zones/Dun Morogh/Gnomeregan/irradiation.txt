@@ -1,0 +1,9 @@
+L'irradiation
+=============
+
+Les radiations qui ont noyé Gnomeregan n'ont pas disparu : elles imprègnent les murs, les sols et l'air des galeries. Ceux qui s'y aventurent tombent malades, et beaucoup en ressortent changés, la peau grise et l'esprit troublé. Les créatures qui vivent dans la cité portent les marques de ce poison : troggs déformés, machines fondues, gnomes lépreux errant dans les couloirs. L'irradiation est un ennemi invisible, plus patient que les troggs, et elle décourage plus d'une expédition. Les ingénieurs gnomes cherchent un remède, mais la tâche est immense. Gnomeregan est devenue une plaie radioactive au flanc de Dun Morogh, et nul ne peut y entrer sans risquer d'en rapporter plus qu'il n'y est allé chercher.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : irradiation

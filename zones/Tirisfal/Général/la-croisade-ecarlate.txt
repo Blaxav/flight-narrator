@@ -1,0 +1,9 @@
+La Croisade écarlate
+====================
+
+Dans les Clairières de Tirisfal, la Croisade écarlate dresse ses bastions et ses abbayes fortifiées, comme des îles de ferveur dans un océan de brume. Ces fanatiques, survivants de la chute de Lordaeron, vouent une haine sans nuance aux morts-vivants, qu'ils pourchassent sans relâche, au nom d'une lumière qu'ils croient servir. Leur foi s'est durcie jusqu'à la folie : tout étranger leur semble suspect, tout compromis une trahison, et ils torturent avant de juger. Ils se croient les derniers défenseurs de Lordaeron, mais leur zèle a fait d'eux une menace pour tous, vivants comme morts. Les Réprouvés les combattent, et les voyageurs les évitent avec soin. La Croisade écarlate est le miroir sombre de la foi de Lordaeron, la preuve que la peur peut transformer des justes en bourreaux. Leurs étendards rouges claquent dans la brume comme des promesses de sang.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-croisade-ecarlate

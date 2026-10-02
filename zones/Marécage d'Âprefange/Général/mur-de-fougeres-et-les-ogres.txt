@@ -1,0 +1,9 @@
+Mur-de-Fougères et les ogres
+============================
+
+À l'ouest du Marécage d'Âprefange, le village de Mur-de-Fougères accroche ses huttes de bois et de terre à la lisière des roseaux. C'est un avant-poste de la Horde, tenu par la tribu des ogres de Stonemaul, alliée aux orcs. Ses remparts grossiers, faits de troncs et de fougères tassées, lui ont donné son nom. Les ogres y montent la garde avec une force tranquille, leurs massues posées contre l'épaule, tandis que des chasseurs orcs et des chamans taurens veillent sur les abords. L'endroit n'a rien de raffiné : la boue y est reine, et l'odeur de poisson séché flotte sur les feux. Mais pour la Horde, Mur-de-Fougères est un verrou posé face à Theramore, et un refuge sûr au milieu des marais.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mur-de-fougeres-et-les-ogres

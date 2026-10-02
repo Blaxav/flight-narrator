@@ -1,0 +1,9 @@
+La magie noire
+==============
+
+La Porte des Ténèbres suinte une magie noire qui a empoisonné toute la région, comme une plaie qui ne cesse de suppurer. Son ouverture a déchiré plus que l'espace : elle a blessé la terre elle-même, répandant une corruption qui ne s'est jamais dissipée. Les roches alentour en sont restées rouges et brûlantes, et l'air y est chargé d'une énergie qui déforme les vivants et trouble les songes. Les mages qui l'étudient en perdent parfois la raison, tant la Porte est imprégnée de pouvoir et de volonté. Elle n'est pas qu'un passage : c'est une plaie magique, une source de corruption qui continue d'agir, même refermée. La Porte des Ténèbres rappelle que certaines magies ne s'effacent jamais, et qu'ouvrir un seuil, c'est parfois laisser entrer ce que l'on ne peut plus chasser.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-magie-noire

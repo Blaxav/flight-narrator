@@ -1,0 +1,9 @@
+Le plateau de Red Cloud
+=======================
+
+Camp Narache se dresse sur le plateau de Red Cloud, une haute prairie qui domine Mulgore et regarde le soleil se lever sur les herbes. C'est le premier village que voient les jeunes taurens, un cercle de tentes et de feux posé sur la terre sacrée. Autour, les grands oiseaux coureurs broutent, les loups rôdent à distance, et le vent apporte l'odeur des pâturages. Ici, la vie est simple et rude, rythmée par la chasse, les troupeaux et les prières aux ancêtres. Le plateau de Red Cloud est le seuil de Mulgore, la preuve que chaque grande aventure commence sur une terre que l'on connaît par cœur, avant de s'élancer vers l'inconnu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : plateau

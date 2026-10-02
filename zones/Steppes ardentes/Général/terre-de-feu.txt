@@ -1,0 +1,9 @@
+Une terre de feu
+================
+
+Vous survolez les Steppes ardentes, une terre de cendres et de roche noire où la chaleur monte du sol par vagues. Nulle forêt, nul ruisseau : seulement des crevasses fumantes, des coulées de lave et des volcans qui grondent. Ce paysage infernal n'est pas né du hasard : il fut creusé il y a près de trois siècles, quand les nains Sombrefer invoquèrent Ragnaros au cœur du Pic Rochenoire. L'explosion rasa les terres alentour et les marqua à jamais. Aujourd'hui, les élémentaires de feu, les dragons noirs et les orcs Rochenoire rôdent dans les fumerolles. Les Steppes ardentes sont la cicatrice ouverte d'un monde qui s'est consumé, et leur chaleur rappelle que la montagne n'a jamais fini de brûler.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : terre-de-feu

@@ -1,0 +1,9 @@
+Les quilboars de Tranchebauge
+=============================
+
+Au sud des Mille Pointes s'étend le domaine des quilboars de Tranchebauge, un peuple d'hommes-sangliers aux défenses recourbées et au poil hérissé. Leur territoire est un enchevêtrement de ronces et de tertres, percé de galeries où ils vivent en clans. Les quilboars ne sont pas des bêtes : ils ont des chefs, des chamans et une foi farouche tournée vers leurs ancêtres et vers le sanglier ancien Agamaggan. Mais certains clans ont versé dans des pratiques plus sombres, et leurs tertres s'ouvrent sur des profondeurs où l'on entend des incantations. Les taurens les tiennent à distance, les centaures les évitent, et les voyageurs les craignent. Tranchebauge est un nom que l'on prononce à voix basse, car derrière ses ronces couve une menace que peu osent regarder en face.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-quilboars-de-tranchebauge

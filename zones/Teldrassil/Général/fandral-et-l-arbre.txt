@@ -1,0 +1,9 @@
+Fandral et la naissance de l'Arbre
+==================================
+
+Teldrassil est né d'une décision audacieuse, prise au lendemain d'une tragédie. Après la Troisième Guerre, quand Nordrassil fut sacrifié et que les elfes perdirent leur immortalité, l'archidruide Fandral Staghelm résolut de planter un nouvel Arbre-monde. Contre l'avis de plusieurs sages, il fit germer ce géant au large de Kalimdor, espérant rendre à son peuple ce qu'il avait perdu dans les flammes. Les elfes de la nuit y bâtirent alors Darnassus et y transplantèrent leur civilisation, leurs temples et leurs souvenirs. Mais l'Arbre n'obtint jamais la bénédiction des Aspects, et l'immortalité promise ne revint pas. Teldrassil demeure ainsi le fruit d'un orgueil autant que d'un espoir. Il est le monument d'un peuple qui refusa de se résigner, et d'un druide qui crut pouvoir forcer le destin.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : fandral-et-l-arbre

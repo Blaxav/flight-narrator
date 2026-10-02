@@ -1,0 +1,9 @@
+Taragaman l'Affamé
+==================
+
+Dans les profondeurs du Gouffre de Ragefeu se terre Taragaman l'Affamé, une créature monstrueuse dont la faim ne connaît pas de fin. Née des énergies corrompues du gouffre, elle dévore tout ce qui s'approche, et les cultistes la nourrissent d'offrandes pour s'attirer ses faveurs. Sa caverne est tapissée d'os, et son hurlement glace le sang des rares survivants. Taragaman n'est pas un simple monstre : c'est le symbole de la voracité de la Lame Ardente, de cette faim de pouvoir qui consume ceux qui la servent. L'affronter, c'est se confronter au cœur même de la corruption. Beaucoup sont descendus dans le gouffre, mais peu ont réchappé de sa tanière et de ses crocs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : taragaman

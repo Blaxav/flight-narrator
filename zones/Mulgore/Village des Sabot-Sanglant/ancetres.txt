@@ -1,0 +1,9 @@
+La mémoire des ancêtres
+=======================
+
+Les Sabot-Sanglant honorent leurs ancêtres comme des présences toujours vivantes. Des cairns de pierre et des totems marquent les lieux où reposent les anciens, et l'on y dépose des offrandes de tabac, de viande et de fleurs. Les chamans y parlent à ceux qui sont partis, et l'on croit que les ancêtres veillent sur les troupeaux et les nouveau-nés. Les fêtes, les naissances et les deuils s'y célèbrent dans la même fidélité. La mémoire des ancêtres est le ciment du village, la preuve que les taurens ne marchent jamais seuls, et que les morts continuent de garder la plaine.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ancetres

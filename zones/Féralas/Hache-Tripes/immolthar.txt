@@ -1,0 +1,9 @@
+Le démon Immol'thar
+===================
+
+Au cœur d'Hache-Tripes sommeille un secret abominable : le démon Immol'thar. Pour survivre à la chute du monde, les mages bien-nés de la cité l'invoquèrent et l'enchaînèrent dans les profondeurs, puis se nourrirent de son énergie pendant des millénaires. Mais un démon n'est jamais vraiment prisonnier : il ronge ses liens, corrompt ceux qui l'approchent et répand sa soif de destruction. On raconte que sa faim est insatiable, et que la cité tout entière s'est lentement assombrie à son contact. Immol'thar est le cœur noir d'Eldre'Thalas, la preuve que les plus grands prodiges se paient toujours en âmes, et que le recours aux ténèbres laisse une dette qui ne s'éteint jamais. Certains soirs, on entend sa respiration monter des caves de la cité.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : immolthar

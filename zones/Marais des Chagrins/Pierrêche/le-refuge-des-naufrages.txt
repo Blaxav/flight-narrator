@@ -1,0 +1,9 @@
+Le refuge des naufragés
+=======================
+
+Pour les voyageurs perdus dans le Marais des Chagrins, apercevoir les feux de Pierrêche est une délivrance. Le poste recueille les naufragés de la brume, les chasseurs blessés, les caravanes attaquées par les murlocs. On y panse les plaies, on y distribue du bouillon brûlant et des couvertures râpeuses, et l'on y écoute les récits haletants de ceux qui ont échappé aux crocilisques. L'aubergiste, un orc taciturne, ne pose pas de questions : il sert, il compte, il ferme les yeux sur les dettes des plus pauvres. Les voyageurs y reprennent des forces avant de repartir, reconnaissants mais pressés de quitter le marais. Car même à l'abri de la palissade, chacun entend la nuit gronder au-dehors, et nul ne dort vraiment d'un sommeil tranquille à Pierrêche.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-refuge-des-naufrages

@@ -1,0 +1,9 @@
+Les tertres hantés
+==================
+
+Les Souilles de Tranchebauge, côté Downs, s'enfoncent sous les ronces en un dédale de tertres, de cavernes et de salles creusées dans la terre. L'air y est froid, chargé d'une odeur de racines et de cendres, et des ossements tapissent les couloirs comme des galets. Les quilboars y ont bâti un sanctuaire funèbre, où les totems de leurs ancêtres voisinent avec des autels souillés. Des torches verdâtres jettent une lueur maladive sur des murs couverts de signes, et l'on entend, dans les profondeurs, des grattements et des psalmodies. Les Downs ne ressemblent plus à un terrier vivant : c'est une nécropole qui respire, un tombeau où les morts et les vivants se partagent la même nuit.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-tertres-hantes

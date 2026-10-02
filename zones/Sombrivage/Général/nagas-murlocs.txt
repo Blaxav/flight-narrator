@@ -1,0 +1,9 @@
+Les nagas et les murlocs
+========================
+
+Les eaux de Sombrivage grouillent de nagas et de murlocs, qui sortent des vagues pour harceler les rivages. Les murlocs, gloussants et nombreux, pillent les épaves et les filets. Les nagas, plus redoutables, rôdent dans les ruines englouties et complotent contre les vivants. Les uns et les autres disputent la côte aux elfes, qui ne baissent jamais la garde. La mer, ici, n'est jamais vide : elle remue, observe et frappe. Les nagas et les murlocs de Sombrivage sont la menace venue des flots, la preuve que la côte sombre appartient autant à ce qui nage qu'à ce qui marche.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : nagas-murlocs

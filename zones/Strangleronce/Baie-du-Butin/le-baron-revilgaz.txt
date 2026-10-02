@@ -1,0 +1,9 @@
+Le Baron Revilgaz
+=================
+
+La Baie-du-Butin est l'œuvre d'un gobelin plus malin que les autres : le baron Revilgaz. C'est lui qui a transformé une crique de forbans en un port de commerce prospère, en comprenant qu'un refuge neutre vaut plus que tous les trésors. Il règne sur la ville depuis son domaine, entouré de gardes et de comptables, et sa parole y fait loi. Revilgaz n'est ni un roi ni un soldat : c'est un homme d'affaires qui a fait de la piraterie un métier respectable, ou presque. Sous sa poigne, la Baie-du-Butin est devenue un aimant à or. Le baron sait que la richesse se protège mieux par la ruse que par l'épée, et sa ville le prouve chaque jour.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-baron-revilgaz

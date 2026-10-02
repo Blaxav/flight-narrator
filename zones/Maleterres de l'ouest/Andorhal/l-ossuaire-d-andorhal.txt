@@ -1,0 +1,9 @@
+L'ossuaire d'Andorhal
+=====================
+
+Sous les entrepôts d'Andorhal s'étend un ossuaire où les habitants morts de la peste furent entassés à la hâte. Les caveaux, creusés dans le roc, débordent d'ossements blanchis et de reliques oubliées. Des nécromanciens y descendent la nuit pour réveiller les défunts, et l'on entend parfois des grattements sous les dalles, comme si la ville elle-même respirait mal. Les prêtres de l'Aube d'argent y viennent en procession, dispersant des cendres consacrées et murmurant des bénédictions qui ne trouvent plus de repos. On raconte que certaines cryptes recèlent des trésors enfouis avec leurs maîtres, bagues d'or et épées de cérémonie. Mais ceux qui s'y aventurent pour les piller découvrent vite que les morts d'Andorhal ne dorment que d'un œil.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ossuaire-d-andorhal

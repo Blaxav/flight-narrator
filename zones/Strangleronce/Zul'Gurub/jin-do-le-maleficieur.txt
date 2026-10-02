@@ -1,0 +1,9 @@
+Jin'do le Maléficieur
+=====================
+
+Parmi les serviteurs d'Hakkar, un nom se détache : Jin'do le Maléficieur, prêtre déchu et maître des esprits tourmentés. Ce troll rusé a bâti sa puissance sur la souffrance, enchaînant les âmes et commandant aux morts pour mieux servir le dieu sanglant. Jin'do est un manipulateur, plus dangereux par ses sortilèges que par sa lame, et ses fidèles le craignent autant qu'ils le vénèrent. Il voit dans le retour d'Hakkar l'occasion de régner sur les ruines de son peuple. Jin'do le Maléficieur incarne la corruption qui ronge les Gurubashi : non pas la force brutale, mais la ruse qui sacrifie les siens pour un trône de cendres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : jin-do-le-maleficieur

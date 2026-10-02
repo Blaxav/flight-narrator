@@ -1,0 +1,9 @@
+L'ombre des dragons noirs
+=========================
+
+Le Marécage d'Âprefange est traversé par le vol des dragons noirs, dont les ailes obscurcissent parfois le ciel comme des nuages d'orage. Ces créatures, descendantes d'Aile-de-mort, ont fait du marais leur terrain de chasse, fondant sur les voyageurs et les caravanes. Leur repaire s'ouvre quelque part dans les profondeurs, gardé par des dragonkins et des œufs de jais. On murmure qu'une dragonne d'une puissance redoutable, Onyxia, y a élu domicile, et que son ombre s'étend bien au-delà du marais. Les pêcheurs racontent que les eaux bouillonnent par endroits, comme si le feu couvait sous la vase. Les dragons noirs ne négocient pas, ne menacent pas : ils prennent. Et le marécage entier semble retenir son souffle sous leurs ailes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ombre-des-dragons-noirs

@@ -1,0 +1,9 @@
+Les pyramides à degrés
+======================
+
+L'architecture de Zul'Farrak est un exploit que le désert n'a pas su effacer : des pyramides à degrés, des cours suspendues et des temples creusés dans la roche, construits pour défier les siècles et les hommes. Chaque terrasse raconte une cérémonie, chaque bas-relief une légende oubliée, et chaque pierre porte la marque des bâtisseurs trolls. Les proportions y sont écrasantes, les escaliers taillés pour des géants, et les salles s'enfoncent dans l'ombre fraîche des pierres comme dans le ventre d'une montagne. C'est une architecture de puissance, faite pour impressionner autant que pour protéger. Les trolls de Zul'Farrak sont les héritiers de ces bâtisseurs, mais ils ne construisent plus : ils défendent, farouchement, ce que leurs ancêtres ont édifié. La pierre, elle, tient encore, patiente et orgueilleuse.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : pyramides-trolles

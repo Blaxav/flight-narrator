@@ -1,0 +1,9 @@
+La corruption qui s'étend
+=========================
+
+La corruption de Maraudon ne reste pas enfermée sous la terre : elle suinte, lentement, vers la surface. Les sources des collines deviennent amères, les plantes se dessèchent, et les animaux fuient sans raison apparente. C'est cette maladie qui a fait de Désolace une terre grise, et elle gagne chaque année un peu plus de terrain. Les druides de la Pointe de Nijel l'observent avec inquiétude, et les chamans de Proie-de-l'Ombre la sentent sous leurs pieds. Certains disent qu'il faut frapper au cœur du mal, dans les profondeurs de Maraudon, pour arrêter la contagion. D'autres redoutent que la princesse et ses serviteurs ne sortent un jour à la lumière. Tant que Maraudon restera souillé, Désolace continuera de mourir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : corruption

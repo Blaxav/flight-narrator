@@ -1,0 +1,9 @@
+Tyrande Murmevent
+=================
+
+Darnassus est le fief de Tyrande Murmevent, haute prêtresse d'Elune et guide des elfes de la nuit depuis des millénaires. C'est elle qui, dans les heures les plus sombres, a tenu son peuple debout face à la Légion ardente, au Fléau et à toutes les nuits qui menaçaient de tout engloutir. Sa foi éclaire la cité, et sa voix y porte plus que celle d'aucun autre. Depuis le temple de la Lune, elle veille sur Teldrassil, conseille les Sentinelles et prie la déesse pour les vivants comme pour les morts. Tyrande n'est pas une souveraine ordinaire : c'est une prêtresse devenue guerrière, une figure d'airain et de lune. Sa présence suffit à rappeler pourquoi les elfes de la nuit n'ont jamais plié. Tant qu'elle veille, Darnassus ne craint pas la nuit.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : tyrande

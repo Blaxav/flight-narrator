@@ -1,0 +1,9 @@
+Une capitale vivante
+====================
+
+Darnassus n'est pas bâtie : elle est cultivée, élevée comme une forêt patiente. Les maisons y poussent, les ponts y sont des branches guidées par la main des druides, et les salles y suivent la courbe naturelle des troncs. Les anciens, ces gardiens arboricoles, s'y déplacent comme des sentinelles de bois, lents et bienveillants. Des puits de lune scintillent aux carrefours, des hippogriffes se posent sur les terrasses, et les feux follets dansent au crépuscule entre les colonnes. Tout, ici, respire, grandit et se souvient, sans jamais cesser de vivre. Darnassus est la démonstration que les elfes de la nuit ne possèdent pas la forêt : ils l'habitent, la respectent et la laissent les porter vers le ciel. Cette capitale est un poème de bois, vivant et sans cesse recommencé.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : capitale-vivante

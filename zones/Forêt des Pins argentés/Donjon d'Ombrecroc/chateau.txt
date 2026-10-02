@@ -1,0 +1,9 @@
+Le donjon d'Ombrecroc
+=====================
+
+Le donjon d'Ombrecroc est une forteresse ancienne, dressée sur les hauteurs de la forêt des Pins argentés. Ses tours sombres dominent les pins, et ses murs portent les cicatrices des siècles. Autrefois demeure d'une noble maison, elle est devenue un repaire de terreur. Les portes grincent, les couloirs sentent la bête, et les hurlements des worgens résonnent dans les salles. Nul n'y entre sans y être appelé, et rares sont ceux qui en ressortent. Ombrecroc est un nom que les habitants prononcent à voix basse, comme on nomme une maladie. La forteresse n'est pas seulement hantée : elle est devenue le cœur d'une malédiction qui ronge toute la région. Ses pierres suintent une humidité froide, comme une sueur de peur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : chateau

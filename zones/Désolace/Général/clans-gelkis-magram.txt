@@ -1,0 +1,9 @@
+Les clans Gelkis et Magram
+==========================
+
+Deux grands clans centaures se disputent Désolace : les Gelkis et les Magram. Leur haine est ancienne, nourrie de sang et de rancunes dont plus personne ne se souvient vraiment. Les Gelkis campent dans les plaines et se disent les gardiens des traditions ; les Magram, plus brutaux, revendiquent les meilleurs pâturages. Entre eux, la guerre est permanente, faite d'embuscades, de raids et de massacres. Les voyageurs avisés jouent de cette rivalité, gagnant la faveur d'un clan pour se protéger de l'autre, mais la paix reste fragile. Un khân tombé, une insulte, et les plaines s'embrasent à nouveau. Tant que ces deux clans se haïront, Désolace restera une terre de lances et de sang, où nul campement n'est jamais tout à fait sûr.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : clans-gelkis-magram

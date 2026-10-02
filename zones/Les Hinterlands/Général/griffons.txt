@@ -1,0 +1,9 @@
+Les griffons des cimes
+======================
+
+Les griffons sont les maîtres des cieux des Hinterlands, et les nains Marteau-Hardi leurs alliés depuis des générations. Ces créatures, mi-aigles mi-lions, nichent sur les plus hautes corniches et fondent sur leurs proies comme des flèches vivantes. Les cavaliers Marteau-Hardi les dressent dès l'éclosion, et le lien qui les unit est plus fort qu'un serment : un griffon ne porte que celui qu'il a choisi. Ensemble, ils patrouillent les cols, escortent les voyageurs et frappent les ennemis du haut du ciel. Les griffons sont la fierté des Hinterlands, la preuve qu'entre la terre et le ciel, les nains ont trouvé des ailes. Et malheur à qui menace l'un des deux, car l'autre fondra sur lui.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : griffons

@@ -1,0 +1,9 @@
+Le dernier Gardien
+==================
+
+Le titre de Gardien de Tirisfal désignait le mage choisi pour protéger Azeroth contre les démons, en portant à lui seul la puissance de ses pairs. Médivh fut le dernier à le recevoir, et le plus illustre. Mais ce fardeau immense se révéla une faiblesse : Sargeras, le seigneur démon, s'insinua dans l'esprit du Gardien dès l'enfance, et retourna sa force contre le monde. L'histoire du Gardien est ainsi celle d'un paradoxe : plus il était puissant, plus il était dangereux. Après la mort de Médivh, l'ordre des Gardiens se dispersa, et le titre ne fut plus transmis. Le Gardien de Tirisfal est la preuve que concentrer le pouvoir en un seul homme, c'est risquer de tout perdre d'un coup.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gardien

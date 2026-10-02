@@ -1,0 +1,9 @@
+Les colosses et le Rêve d'émeraude
+==================================
+
+Au nord de Féralas se dressent deux colossales statues de pierre, sentinelles muettes d'un âge oublié. Nul ne sait qui les a taillées, ni pourquoi elles veillent sur la forêt. Les elfes racontent qu'elles marquent une porte vers le Rêve d'émeraude, ce monde verdoyant où sommeille l'esprit d'Azeroth. Autour d'elles, des dragons verts apparaissent parfois, gardiens silencieux de ce passage interdit aux mortels. Leur présence rend la région sacrée et dangereuse à la fois : s'en approcher, c'est frôler un pouvoir qui dépasse l'entendement. Les deux géants de pierre sont le cœur mystique de Féralas, la preuve que cette forêt n'est pas seulement sauvage, mais habitée par des forces très anciennes qui veillent toujours. On dit que leur ombre, à midi, ne tombe jamais du même côté.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : colosses-emeraude

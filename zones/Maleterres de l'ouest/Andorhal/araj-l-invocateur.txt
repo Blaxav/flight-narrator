@@ -1,0 +1,9 @@
+Araj l'Invocateur
+=================
+
+Au milieu des ruines centrales d'Andorhal plane Araj l'Invocateur, une liche au regard d'outre-tombe qui règne sur les morts de la cité. Enveloppé de frimas et de maléfices, il psalmodie des invocations que nul vivant ne devrait entendre, relevant les gardes déchus pour en faire ses sbires. Les éclaireurs racontent qu'il flotte au-dessus des pavés, indifférent aux flèches, et que sa voix glace le sang des plus braves. Il commande aux nécromanciens disséminés dans les entrepôts et veille sur les silos comme sur un trésor maudit. Les ordres de l'Aube d'argent promettent une récompense à qui rapportera sa phylactère, mais personne ne sait où il l'a cachée. Abattre Araj, c'est frapper le fléau d'Andorhal en son centre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : araj-l-invocateur

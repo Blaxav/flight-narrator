@@ -1,0 +1,9 @@
+La secte de la Lame Ardente
+===========================
+
+Au fond du Gouffre de Ragefeu s'agite la secte de la Lame Ardente, des orcs et des trolls qui ont renoué avec la magie démoniaque et les pactes de l'ancienne Horde. Ils rêvent de rendre au peuple orc sa soif de sang, et complotent contre Thrall depuis les ombres. Leurs invocateurs appellent des démons, leurs adeptes hurlent des serments impies, et leur fanatisme est sans limites. La Lame Ardente est un cancer au cœur de la Horde, un rappel de ce que les orcs furent jadis. Thrall la traque sans pitié, car il sait qu'un seul cultiste peut rallumer le feu qui faillit consumer son peuple. Le Gouffre est leur nid, et tant qu'il ne sera pas nettoyé, la menace demeurera.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : lame-ardente

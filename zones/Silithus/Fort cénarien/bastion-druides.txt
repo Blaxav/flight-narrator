@@ -1,0 +1,9 @@
+Le bastion des druides
+======================
+
+Le Fort cénarien se dresse au cœur de Silithus, un bastion de pierre et de verdure que les druides ont fait surgir du désert. C'est un îlot de vie dans l'océan de sable, où des arbres courageux poussent à l'abri des remparts et où l'eau est plus précieuse que l'or. On y trouve des salles de conseil, des ateliers et des feux qui ne s'éteignent jamais. Le Fort cénarien est le poste avancé du Cercle cénarien, la preuve que la nature, même au bord de l'abîme, peut encore planter ses racines et tenir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bastion-druides

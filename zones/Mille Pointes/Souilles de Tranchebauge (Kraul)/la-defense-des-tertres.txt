@@ -1,0 +1,9 @@
+La défense des tertres
+======================
+
+Les quilboars des Kraul considèrent les Mille Pointes comme leur terre, et ils la défendent avec l'énergie du désespoir. Chassés de terres plus fertiles, pressés par les centaures, les harpies et les peuples de la Horde, ils se sont retranchés dans leurs ronces comme dans une forteresse. Chaque intrusion y est repoussée par des pièges, des charges de guerriers et des sorts de chamans. Les aventuriers qui descendent dans les Kraul n'y trouvent ni trésor facile ni ennemi sans honneur : ils y trouvent un peuple qui refuse de disparaître. On peut juger leurs méthodes cruelles, mais leur obstination force le respect. Les tertres de Tranchebauge sont leur dernier rempart, et ils le défendront jusqu'au dernier souffle, pour Agamaggan et pour les leurs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-defense-des-tertres

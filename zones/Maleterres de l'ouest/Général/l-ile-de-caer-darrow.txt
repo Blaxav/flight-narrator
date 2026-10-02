@@ -1,0 +1,9 @@
+L'île de Caer Darrow
+====================
+
+Au sud des Maleterres de l'ouest, les eaux sombres du lac Darrow enserrent une île lugubre que domine le donjon de Caer Darrow. C'est là, dit-on, que la famille Barov a laissé sa fortune et sa malédiction, et c'est là que s'ouvrent les portes de Scholomance, l'école de nécromancie. Les barques des passeurs n'y accostent plus, et les poissons y sont rares, comme si la vie fuyait les rives. Pourtant, les lumières du donjon brillent parfois entre les créneaux, d'un éclat verdâtre qui n'a rien d'un foyer. Les marins évitent le lac à la tombée de la nuit, racontant des processions de fantômes glissant sur les eaux sans rides. Caer Darrow est devenue une sentinelle du savoir interdit, et son ombre plane sur toute la région.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ile-de-caer-darrow

@@ -1,0 +1,9 @@
+Morbent Fel
+===========
+
+Morbent Fel est le nom que l'on murmure avec crainte à Sombre-comté, celui d'un nécromancien qui a apporté le malheur sur la région. On dit qu'il a conclu un pacte avec les ténèbres et qu'il a répandu la corruption depuis sa demeure maudite. Les habitants racontent que des morts se lèvent sur son passage, et que sa magie a transformé des hommes en créatures. La Garde de la Nuit a juré de l'arrêter, mais le trouver est une autre affaire. Morbent Fel est l'incarnation du mal qui ronge le Bois de la Pénombre, un ennemi insaisissable dont le seul nom fait verrouiller les portes. Tant qu'il rôdera, Sombre-comté ne connaîtra pas le repos.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : morbent-fel

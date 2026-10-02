@@ -1,0 +1,9 @@
+Khadgar et la fermeture
+=======================
+
+Après la Deuxième Guerre, la Porte des Ténèbres fut scellée au prix d'un sacrifice que peu de héros consentiraient. L'archimage Khadgar et ses compagnons traversèrent vers Draenor et détruisirent la Porte depuis l'autre côté, afin d'empêcher le retour des armées orques. Ce faisant, ils se condamnèrent à rester dans un monde mourant, loin de leur foyer et de leur avenir. Leur geste sauva Azeroth, mais les perdit, et leurs noms furent longtemps murmurés comme ceux des morts. La Porte, brisée, demeura silencieuse, simple cicatrice dans la roche rouge. Plus tard, elle fut rouverte, et les ombres revinrent, comme si nul sacrifice ne suffisait jamais. L'histoire de la Porte est ainsi faite de fermetures et de réveils, de héros qui la scellent et de démons qui la rouvrent. Khadgar incarne ce courage-là : celui qui ferme la porte et en paie le prix.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : khadgar-et-la-fermeture

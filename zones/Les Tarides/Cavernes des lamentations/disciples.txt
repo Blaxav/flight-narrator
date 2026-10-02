@@ -1,0 +1,9 @@
+Les Druides du Croc
+===================
+
+Les disciples de Naralex n'ont pas tous péri : beaucoup ont été changés. Corrompus par le cauchemar, ils sont devenus les Druides du Croc, des êtres à la peau d'écaille et aux yeux de reptile, qui rampent dans les galeries humides. Ils ont renié le Rêve d'émeraude pour servir une force plus ancienne et plus sombre, et ils gardent les cavernes comme un temple. Leurs chants ne sont plus des prières, mais des sifflements, et leurs sortilèges font pousser des choses qui n'auraient jamais dû voir le jour. On dit qu'ils attendent le réveil de leur maître endormi, et que chaque intrus nourrit leur patience. Dans les Cavernes des lamentations, le druidisme a pris un visage de serpent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : disciples

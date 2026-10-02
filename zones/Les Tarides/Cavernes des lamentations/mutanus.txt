@@ -1,0 +1,9 @@
+Mutanus le Dévoreur
+===================
+
+Au plus profond des Cavernes des lamentations, dans les eaux noires, sommeille Mutanus le Dévoreur. Cette créature monstrueuse, née des eaux corrompues par le cauchemar, ne connaît qu'une faim sans fond. Sa gueule broie, ses yeux ne reflètent aucune pensée, et son corps massif semble fait pour engloutir. Les Druides du Croc le nourrissent comme on apaise un dieu, et l'on dit qu'il monte des profondeurs quand le temple est menacé. Ceux qui l'ont affronté en parlent comme d'un cauchemar qui a pris chair. Mutanus est la vérité dernière des cavernes : ce que Naralex a réveillé n'était pas la vie, mais un appétit. Et un appétit, lui, ne s'endort jamais. Il attend, au fond des eaux noires, que quelque chose descende.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mutanus

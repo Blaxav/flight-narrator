@@ -1,0 +1,9 @@
+La route d'Orgrimmar
+====================
+
+De Colline de Lame-Rasoir part la grande route qui mène à Orgrimmar, une piste de terre rouge bordée de rochers et de cactus. Les caravanes y circulent sous escorte, chargées de minerai, de peaux et de vivres, et les messagers y galopent à toute heure. Cette route est vitale : elle relie l'avant-poste à la capitale, et par elle passent les renforts et les nouvelles. Mais elle est aussi dangereuse, car les quilboars et les bêtes y rôdent. Les éclaireurs la surveillent sans relâche, et l'on dit que tenir cette route, c'est tenir Durotar tout entier. Pour les jeunes orcs, parcourir ce chemin est un premier pas vers la capitale, et vers un destin qu'ils devront mériter au-delà des remparts.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : route-orgrimmar

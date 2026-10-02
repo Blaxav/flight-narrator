@@ -1,0 +1,9 @@
+Les ogres dans la cité
+======================
+
+Les ogres Crushridge ont élu domicile dans les ruines d'Alterac, transformant les anciennes salles en tanières et les cours en dépotoirs. Ils y dorment sur les dalles des rois, allument leurs feux dans les cheminées nobles et empilent leurs trophées dans ce qui fut une salle du trône. Leur présence est une insulte à la mémoire du royaume, mais nul ne vient les en chasser : la cité morte leur appartient désormais. Ils y montent la garde avec une jalousie de bêtes, et malheur à qui s'approche des murs. Les ogres d'Alterac sont les nouveaux seigneurs des ruines, la preuve que la barbarie s'installe toujours dans les palais abandonnés.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ogres-cite

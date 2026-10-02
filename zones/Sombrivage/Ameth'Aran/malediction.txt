@@ -1,0 +1,9 @@
+La malédiction des lieux
+========================
+
+Une malédiction pèse sur Ameth'Aran, dont nul ne connaît plus l'origine exacte. Les habitants disent que la ville fut frappée dans une seule nuit, et que ses occupants périrent ou fuirent sans emporter leurs morts. Depuis, les lieux restent vides, comme si la terre elle-même refusait qu'on y vive. Les bêtes évitent certains seuils, les feux s'y éteignent, et l'on y entend des plaintes quand la brume s'épaissit. La malédiction d'Ameth'Aran est le poison invisible des ruines, la preuve que certaines chutes ne s'expliquent pas, et qu'elles continuent de ronger la pierre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : malediction

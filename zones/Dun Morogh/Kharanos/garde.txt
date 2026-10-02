@@ -1,0 +1,9 @@
+La garde de Kharanos
+====================
+
+Les gardes de Kharanos sont des montagnards nains, vêtus de cuir et armés de fusils, qui patrouillent les abords du bourg avec une vigilance de tous les instants. Ils connaissent chaque sentier, chaque grotte, chaque pierre qui pourrait cacher un trogg ou un loup. Leur présence rassure les fermiers et les voyageurs, et leurs coups de feu résonnent parfois dans les collines. Ces gardes ne sont pas des soldats d'apparat : ce sont des chasseurs et des vétérans, qui ont appris à survivre dans la neige. Ils répondent aux raids, dégagent les routes et protègent les enfants du bourg. À Kharanos, la garde est une famille, et défendre le bourg, c'est défendre les siens. Personne ne s'y dérobe, et quand le danger approche, ils sont les premiers dehors.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : garde

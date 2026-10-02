@@ -1,0 +1,9 @@
+Hakkar et les prêtres Atal'ai
+=============================
+
+Dans l'ombre de Zul'Gurub, le culte d'Hakkar n'a jamais cessé. Les prêtres Atal'ai, fanatiques et secrets, vénèrent l'Écorcheur d'âmes et préparent son retour. Ils ont élevé des autels, rassemblé des fidèles et noyé leurs rites dans le sang. Hakkar, le dieu banni, leur promet la puissance en échange de leur dévotion, et ils l'écoutent, aveuglés par la ferveur. Les Atal'ai sont le cœur malade de la cité engloutie, la secte qui refuse d'admettre que son dieu la dévorera comme il a dévoré les autres. Tant qu'ils officieront, Zul'Gurub restera un sanctuaire du sang, et la jungle un terrain de chasse pour une faim ancienne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : hakkar-et-les-pretres-atal-ai

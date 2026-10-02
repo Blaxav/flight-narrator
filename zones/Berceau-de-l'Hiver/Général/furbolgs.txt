@@ -1,0 +1,9 @@
+Les furbolgs
+============
+
+Les furbolgs peuplent les forêts du Berceau-de-l'Hiver, et ils en sont les gardiens naturels. Ces grands hommes-ours vivent en tribus, entre les arbres gelés, et défendent leurs territoires avec une force redoutable. Longtemps en paix avec les autres peuples, beaucoup ont été gagnés par la corruption, devenant des Winterfall furieux qui attaquent tout étranger. D'autres, les Timbermaw, tiennent encore le tunnel qui relie la région au reste de Kalimdor, et ils contrôlent le passage avec méfiance. Les furbolgs rappellent que les peuples de la nature sont les premiers touchés par les ténèbres, et les premiers à se battre. Dans le Berceau-de-l'Hiver, croiser un furbolg n'est jamais anodin : il peut être un allié prudent ou un ennemi implacable.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : furbolgs

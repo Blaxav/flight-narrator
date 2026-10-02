@@ -1,0 +1,9 @@
+Une terre foudroyée
+===================
+
+Vous survolez les Terres foudroyées, une étendue de roche rouge et de cendres, crevassée et brûlante, où rien ne pousse que des ronces desséchées et des buissons d'épines. Le sol y est fendu comme une peau malade, et des lueurs malsaines s'en échappent par endroits, comme si la terre respirait du feu. Les collines y ont des airs de carcasses, et le vent y charrie une odeur de soufre qui colle à la gorge. Cette désolation n'est pas naturelle : elle est le fruit de la magie noire qui, pendant des années, s'est écoulée de la Porte des Ténèbres et a empoisonné la région. Les Terres foudroyées sont la cicatrice d'une plaie ancienne, un paysage que la guerre a vidé de sa sève. Ici, la terre se souvient, et elle saigne encore.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : terre-corrompue

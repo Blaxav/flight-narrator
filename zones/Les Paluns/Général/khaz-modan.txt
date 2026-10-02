@@ -1,0 +1,9 @@
+Le pays de Khaz Modan
+=====================
+
+Les Paluns font partie de Khaz Modan, l'ancien domaine des nains. Ces terres humides furent jadis aménagées par les bâtisseurs des montagnes, qui y tracèrent des routes et des digues. Leurs ouvrages, ponts et chaussées, tiennent encore bon, même si la nature reprend lentement ses droits. Les nains considèrent les Paluns comme leur avant-cour, une porte basse par laquelle on accède à leurs royaumes. Mais cette porte est difficile à tenir : l'eau, la boue et les créatures ne cessent d'en grignoter les bords. Khaz Modan s'étend jusque dans ces marais, et les nains y rappellent que leur génie civil a su dompter les terres les plus ingrates. Leur obstination de bâtisseurs a laissé des marques que le marais n'a pas effacées.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : khaz-modan

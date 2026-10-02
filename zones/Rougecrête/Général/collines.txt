@@ -1,0 +1,9 @@
+Les collines de Rougecrête
+==========================
+
+Vous planez au-dessus de Rougecrête, un pays de collines rousses et de forêts de pins, traversé de routes qui serpentent entre les lacs et les crêtes. La pierre y affleure, chaude et rouge, et les vallées y gardent une fraîcheur de sous-bois. C'est une terre de frontière, à l'est de la forêt d'Elwynn, où les villages de l'Alliance s'accrochent aux pentes et où les feux de camp des patrouilles brillent la nuit. Paisible en apparence, Rougecrête est pourtant une terre assiégée, où la menace rôde derrière chaque colline. Les collines de Rougecrête sont un seuil, la preuve que la civilisation s'arrête là où les hauteurs commencent, et que l'Alliance y monte la garde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : collines

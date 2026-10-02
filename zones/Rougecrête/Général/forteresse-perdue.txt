@@ -1,0 +1,9 @@
+La forteresse perdue
+====================
+
+Une forteresse se dresse sur les hauteurs de Rougecrête, et son nom seul fait baisser les voix. Autrefois poste de guet de l'Alliance, elle est tombée aux mains des orcs Rochenoire, qui en ont fait leur repaire. De ses tours, ils surveillent les routes et fondent sur les convois. Les habitants racontent que la place fut prise par surprise, et que ses murs n'ont jamais été repris. La forteresse perdue est la blessure de Rougecrête, la preuve qu'un rempart qui change de main devient une menace, et que chaque pierre abandonnée pèse sur tout le pays.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : forteresse-perdue

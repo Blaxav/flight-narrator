@@ -1,0 +1,9 @@
+Zaetar et Theradras
+===================
+
+Il y a des siècles, le gardien Zaetar, fils de Cénarius, s'éprit de Theradras, princesse élémentaire fille de Therazane. De leur union contre nature naquirent les centaures, une race de fureur et de violence. Mais cette naissance fut aussi un crime : les premiers centaures, pris de rage, tuèrent leur propre père, et Theradras, rongée par le chagrin, se retira au plus profond de la terre. Le corps de Zaetar fut enseveli dans ce qui allait devenir Maraudon, et son esprit, blessé, ne trouva jamais le repos. Cette légende explique tout : la sauvagerie des centaures est l'héritage d'une passion maudite, et Maraudon est le mausolée de cette faute originelle. La terre n'oublie pas ceux qu'elle a enfantés.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : zaetar-theradras

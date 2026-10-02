@@ -1,0 +1,9 @@
+Malfurion Hurlorage
+===================
+
+Malfurion Hurlorage, l'archidruide, demeure à jamais lié à Teldrassil, même si son corps repose dans les profondeurs du Rêve d'émeraude. Premier des druides, il fut le disciple de Cénarius et l'âme de la résistance contre la Légion, celui qui parla aux arbres et fit plier les démons. Depuis la fin de la Troisième Guerre, il explore les étendues verdoyantes du Rêve, laissant à d'autres le soin des affaires du monde. Son nom est prononcé avec respect dans tout Darnassus, où l'on espère son retour et son conseil. Malfurion est la sagesse des elfes de la nuit, la voix patiente qui enseigne que la nature est plus forte que les empires. Son absence pèse sur la cité, mais sa mémoire, elle, ne s'éteint pas : elle respire dans chaque feuille de Teldrassil.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : malfurion

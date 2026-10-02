@@ -1,0 +1,9 @@
+La garnison des montagnes
+=========================
+
+La garnison de la Retraite de Roche-Soleil vit au rythme des patrouilles et des alertes. Les guerriers y affûtent leurs armes, les éclaireurs y rapportent les mouvements de l'Alliance, et les chamans y invoquent les esprits pour obtenir leur aide. Les tours de guet veillent jour et nuit, car les cols ne pardonnent pas la négligence. La discipline y est rude, la camaraderie forte, et l'on y partage le pain comme le danger. La garnison de Roche-Soleil est le cœur militaire du bastion, la preuve que la Horde tient les hauteurs par la patience et la vigilance.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : garnison

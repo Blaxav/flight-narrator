@@ -1,0 +1,9 @@
+Les trolls Sombrelance
+======================
+
+Les trolls de Proie-de-l'Ombre sont des Sombrelance, la tribu qui, conduite par Sen'jin puis par Thrall, rejoignit la Horde après avoir fui les mers. Exilés de leurs îles, ils ont appris à survivre sur des rivages étrangers, et cette côte de Désolace est l'un de leurs refuges. Ils conservent les rites de leurs ancêtres, parlent la langue des esprits et manient le vaudou avec prudence. Pêcheurs et chasseurs avant tout, ils préfèrent la patience à la guerre ouverte. Mais ne vous y trompez pas : un Sombrelance sait se battre, et sa fidélité à la Horde est sans faille. À Proie-de-l'Ombre, la tribu garde ses traditions vivantes, loin du vacarme des capitales.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : trolls-sombrelance

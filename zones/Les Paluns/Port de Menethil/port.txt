@@ -1,0 +1,9 @@
+Le Port de Menethil
+===================
+
+Le Port de Menethil est le grand port de l'Alliance au nord des royaumes de l'Est. Ses quais de pierre s'avancent dans les eaux grises des Paluns, et ses navires se balancent au gré des marées. On y charge les minerais des montagnes, on y décharge les vivres des terres lointaines, et on y embarque les soldats vers tous les fronts. La ville est ceinturée de murs, car les marais ne sont jamais sûrs. À l'intérieur, les tavernes ne désemplissent pas, et les capitaines y recrutent des équipages. Le Port de Menethil est un lieu de passage, de commerce et de départs, où l'on sent toujours le souffle du large. Ses grues et ses mâts dessinent une forêt tournée vers l'horizon.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : port

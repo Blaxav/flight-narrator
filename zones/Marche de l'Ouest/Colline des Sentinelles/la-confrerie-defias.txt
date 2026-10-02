@@ -1,0 +1,9 @@
+La Confrérie défias
+===================
+
+Depuis la Colline des Sentinelles, la menace de la Confrérie défias est dans toutes les têtes. Ces bandits masqués de rouge ont transformé les routes en coupe-gorge et les fermes en cibles. Ils volent le grain, brûlent les granges et rançonnent les voyageurs, le tout avec une organisation qui n'a rien d'une simple bande de brigands. Leurs guetteurs se fondent parmi les journaliers, et leurs embuscades frappent là où on ne les attend pas. Les miliciens racontent que la Confrérie est née d'une trahison des maçons de Hurlevent, laissés sans salaire après la reconstruction, et que sa colère couve comme un feu de tourbe. Les fermiers, eux, ne retiennent que la peur : la nuit, ils verrouillent les portes et n'ouvrent à personne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-confrerie-defias

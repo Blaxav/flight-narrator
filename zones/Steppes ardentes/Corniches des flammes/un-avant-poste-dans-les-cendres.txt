@@ -1,0 +1,9 @@
+Un avant-poste dans les cendres
+===============================
+
+Les Corniches des flammes sont un avant-poste de la Horde, planté sur un promontoire des Steppes ardentes, face aux cendres et aux coulées de lave. Quelques huttes, des feux de camp et une tour de guet suffisent à en faire un refuge au milieu du brasier. C'est ici que la Horde observe le Pic Rochenoire et ses dangers, à distance prudente mais les armes à portée de main. Les voyageurs y trouvent un feu, des vivres et des nouvelles, avant de repartir vers les terres brûlées. Les Corniches des flammes sont un poste modeste, mais dans ce désert, le moindre toit est une forteresse, et le moindre feu un acte de défi.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : un-avant-poste-dans-les-cendres

@@ -1,0 +1,9 @@
+La tour sur la colline
+======================
+
+La Colline des Sentinelles dresse sa tour de pierre au-dessus des champs dorés de la Marche de l'Ouest, comme un doigt pointé vers la mer. C'est le cœur battant de la région, un point de ralliement pour les fermiers, les miliciens et les voyageurs venus de Hurlevent. La tour, coiffée de bois et de toile, abrite un poste de guet d'où l'on surveille les routes, les fermes et les lisières des bois. Autour d'elle s'alignent des tentes, des enclos à chevaux et des feux de camp autour desquels on discute à voix basse. L'air y sent le foin coupé et la poussière, mêlés à une inquiétude sourde. Car la Marche de l'Ouest, si paisible vue du ciel, est rongée par une menace que les sentinelles ne voient pas toujours venir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-tour-sur-la-colline

@@ -1,0 +1,9 @@
+Le cimetière des kodors
+=======================
+
+Au cœur de Désolace s'étend le cimetière des kodors, un lieu étrange où ces énormes bêtes viennent mourir depuis des générations. Les kodors y marchent en silence, poussés par un instinct que nul ne comprend, puis se couchent parmi les ossements de leurs ancêtres. Le sol y est jonché de squelettes gigantesques, de cornes brisées et de crânes à demi enfouis dans la poussière. Les centaures, qui chassent le kodor pour sa viande et son cuir, y rôdent avec respect, car ce sanctuaire est pour eux un territoire sacré. Les druides y voient le signe d'un lien profond entre la bête et la terre. Le cimetière des kodors est un lieu de silence et de fin, où la mort n'est pas une défaite, mais un retour.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cimetiere-des-kodos

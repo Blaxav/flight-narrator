@@ -1,0 +1,9 @@
+Artisans et gardes
+==================
+
+Dolanaar vit du travail de ses habitants, et l'on y entend du matin au soir le bruit des métiers. Les artisans y façonnent des arcs, des cuirs et des potions, tandis que les gardes veillent sur les abords du village et sur les routes. Les ateliers sentent le bois frais et les herbes, et l'on y répare ce que la route a usé, sans hâte ni gaspillage. Chacun y a sa place : les tanneurs, les archers, les herboristes et les guetteurs, unis par la nécessité de tenir la forêt. Les Sentinelles y relèvent les jeunes recrues, les druides y bénissent les récoltes, et les anciens y racontent le temps d'avant, celui des premières branches. Dolanaar est une communauté soudée, où le savoir se transmet de main en main. Ici, personne n'est inutile, et chacun veille sur tous.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : artisans

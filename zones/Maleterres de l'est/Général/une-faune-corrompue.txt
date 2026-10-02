@@ -1,0 +1,9 @@
+Une faune corrompue
+===================
+
+La peste n'a pas épargné les bêtes. Dans les cieux des Maleterres de l'est, des chauves-souris pestiférées aux ailes déchirées tournoient en nuées, porteuses de miasmes. Les chiens de chasse du Fléau, échine hérissée et gueule baveuse, flairent les vivants à des lieues et les traquent sans relâche. Dans les sous-bois pourrissants, des araignées aux pattes craquelées tissent des toiles lourdes d'humidité, tandis que des vers charognards se faufilent sous les racines. Même les champignons qui percent la terre ont pris des teintes maladives, leurs spores ensorcelant quiconque les respire. Les herboristes s'aventurent pourtant dans ces marécages vénéneux, car certaines de ces créatures fournissent des essences précieuses. Mais chaque récolte se paie au prix d'une vigilance de chaque instant.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : une-faune-corrompue

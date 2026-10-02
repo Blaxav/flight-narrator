@@ -1,0 +1,9 @@
+La forteresse de l'île
+======================
+
+Vous survolez Pennelune, une forteresse des elfes de la nuit dressée sur une île au large de Féralas. On n'y accède que par la mer, et les vagues en gardent les abords mieux que n'importe quel rempart. Ses pavillons clairs se nichent parmi les arbres, autour d'un puits de lune dont l'eau brille à la nuit tombée. Les sentinelles y montent la garde, l'arc à la main, le regard tourné vers l'horizon. C'est un havre de calme dans une région sauvage, un morceau de la civilisation kaldorei posé sur les flots. Mais cette sérénité est trompeuse : l'île est aussi un poste avancé, et l'ennemi rôde sous la surface. Pennelune veille, et ne dort jamais tout à fait.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ile

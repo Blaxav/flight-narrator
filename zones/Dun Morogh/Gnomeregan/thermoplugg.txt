@@ -1,0 +1,9 @@
+Mekgénieur Thermaplugg
+======================
+
+Sicco Thermaplugg fut jadis l'ami et le rival de Mekkatorque, un ingénieur de talent dévoré par l'envie. Il rêvait de diriger Gnomeregan, et quand les troggs l'assaillirent, il y vit une occasion : noyer l'ennemi sous un déluge de radiations, au mépris de la vie de son propre peuple. La catastrophe qu'il déclencha lui donna une cité morte à gouverner. Depuis, il règne sur les ruines irradiées, entouré de machines et de serviteurs qu'il a lui-même corrompus. Thermaplugg n'est plus qu'un tyran de ferraille, haï par tous les gnomes. Son nom est devenu synonyme de trahison. Gnomeregan, sauvée par ambition, fut condamnée par elle, et son bourreau rôde encore dans les ruines.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : thermoplugg

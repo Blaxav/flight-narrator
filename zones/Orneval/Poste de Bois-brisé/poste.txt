@@ -1,0 +1,9 @@
+Le poste de Bois-brisé
+======================
+
+Le poste de Bois-brisé est un avant-poste de la Horde enfoncé au cœur d'Orneval, au milieu des arbres que ses haches ont déjà entamés. Des troncs abattus y jonchent le sol, des tentes de cuir s'y dressent entre les souches, et l'air y sent la sève et la sueur. C'est un camp de travail autant que de guerre, où l'on affûte les lames autant que les haches. Les sentinelles y vivent sur le qui-vive, car la forêt alentour est pleine d'yeux. Le poste de Bois-brisé est la blessure ouverte d'Orneval, la preuve que la Horde a planté sa hache dans le cœur du bois, et qu'elle n'en partira pas de bon gré.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : poste

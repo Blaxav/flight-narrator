@@ -1,0 +1,9 @@
+Les ruines d'Ameth'Aran
+=======================
+
+Ameth'Aran est une cité elfique en ruines, écroulée au bord des eaux de Sombrivage. Ses maisons sans toits, ses rues envahies d'herbes et ses autels brisés s'étirent le long de la grève, comme si la ville s'était endormie pour ne plus se réveiller. Le vent y gémit entre les murs, la brume s'y accroche aux pierres, et l'on y marche sur les fragments d'une vie interrompue. C'est un lieu mélancolique, où la grandeur passée affleure sous la mousse. Les ruines d'Ameth'Aran sont un linceul de pierre, la preuve que les cités des elfes ont connu des nuits plus longues que leur gloire.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ruines-cite

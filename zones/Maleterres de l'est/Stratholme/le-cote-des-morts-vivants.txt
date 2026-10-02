@@ -1,0 +1,9 @@
+Le côté des morts-vivants
+=========================
+
+Au-delà de la grande porte, Stratholme bascule dans le royaume du Fléau. Les quartiers des morts-vivants sont un dédale de cryptes, d'égouts et de salles profanées où flotte une odeur de chair froide. Des goules y dévorent des restes, des abominations barrent les ruelles et des nécromanciens relèvent les cadavres encore tièdes. Au cœur de ce cauchemar, le baron Rivevent chevauche son destrier spectral, brandissant une lame qui vole la vie. Autrefois noble de Lordaeron, il a troqué son honneur contre l'éternité, et il commande désormais les troupes d'élite de la cité. On murmure que sa monture ne laisse aucune trace sur les pavés, et que le vaincre ne suffit pas à purger la malédiction qui le tient debout.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-cote-des-morts-vivants

@@ -1,0 +1,9 @@
+Les ruines des Titans
+=====================
+
+Sous les Terres ingrates dorment des ruines d'un autre âge : celles des Titans, ces bâtisseurs de mondes qui façonnèrent Azeroth bien avant les mortels. Leurs salles cyclopéennes, leurs machines et leurs gardiens sommeillent dans la roche, oubliés de tous, comme des reliques d'une époque sans témoin. C'est pour percer ces mystères que les nains creusent avec tant d'acharnement, persuadés que ces ruines racontent l'origine de leur propre peuple et de leur chair. Mais les ruines des Titans ne se laissent pas profaner : des gardiens s'y éveillent, et des pièges anciens y attendent les curieux avec une patience infinie. Les Terres ingrates sont un immense chantier archéologique, un livre de pierre à moitié enfoui, dont les pages se tournent au péril de la vie. Ceux qui le lisent mal en paient le prix.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ruines-des-titans

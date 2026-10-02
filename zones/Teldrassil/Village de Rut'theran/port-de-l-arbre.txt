@@ -1,0 +1,9 @@
+Le port au pied de l'Arbre
+==========================
+
+Au pied de Teldrassil, le Village de Rut'theran s'accroche aux racines géantes de l'Arbre-monde, là où la forêt plonge vers la mer. Ses quais de bois, ses maisons basses et ses lanternes dansent au-dessus des eaux sombres, bercés par le ressac. C'est le port des elfes de la nuit, le seul lien véritable entre l'île et le reste de Kalimdor. Les navires y accostent, chargés de marchandises et de voyageurs, avant que leurs passagers ne s'enfoncent dans l'ombre immense de l'Arbre. L'air y mêle l'odeur du sel à celle de la sève, et le bruit des vagues répond au chant des oiseaux nichés dans les racines. Rut'theran est un seuil, une porte posée entre la mer et le ciel, entre le monde et le rêve.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : port-de-l-arbre

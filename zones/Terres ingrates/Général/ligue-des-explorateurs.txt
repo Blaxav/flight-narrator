@@ -1,0 +1,9 @@
+La Ligue des explorateurs
+=========================
+
+Dans les Terres ingrates, la Ligue des explorateurs naine a planté ses camps au bord des fouilles, bravant la roche et les dangers. Ces archéologues, géologues et ingénieurs bravent les troggs et les Sombrefer pour exhumer les reliques des Titans, animés par une soif de savoir que le danger ne refroidit pas. Leurs tentes s'accrochent aux flancs des canyons, leurs treuils grincent, et leurs lanternes percent la nuit d'une lueur obstinée. Ils notent, mesurent et cartographient chaque découverte, convaincus de tenir entre leurs mains l'origine des nains. La Ligue voit dans ces terres stériles le berceau de son peuple, et elle est prête à tout pour le prouver au monde. Certains l'accusent de réveiller ce qui devrait dormir, d'autres la tiennent pour des héros. La vérité, comme souvent, se cache sous la roche, entre le savoir et le sacrilège.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ligue-des-explorateurs

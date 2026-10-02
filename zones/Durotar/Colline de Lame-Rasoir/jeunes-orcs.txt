@@ -1,0 +1,9 @@
+Les jeunes orcs
+===============
+
+C'est à Colline de Lame-Rasoir que beaucoup de jeunes orcs font leurs premières armes. Ils y apprennent à manier la hache, à suivre une piste et à obéir aux anciens, sous le regard exigeant des instructeurs. Les épreuves y sont rudes, à la mesure d'une terre qui ne fait aucun cadeau. On leur confie d'abord de petites tâches, puis des missions plus périlleuses, jusqu'à ce qu'ils soient dignes de rejoindre Orgrimmar. Chaque réussite y est célébrée, chaque échec y devient une leçon. Ces jeunes sont l'avenir de la Horde, et la colline est leur école. Ici, on ne naît pas guerrier : on le devient, à force de courage, de sueur et de cicatrices, et la colline est le creuset où la Horde forge ses héros de demain.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : jeunes-orcs

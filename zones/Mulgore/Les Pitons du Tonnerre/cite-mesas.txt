@@ -1,0 +1,9 @@
+La cité des mesas
+=================
+
+Les Pitons du Tonnerre sont la capitale des taurens, une cité bâtie sur quatre mesas de pierre qui jaillissent de la prairie comme des piliers de cathédrale. On y accède par des ascenseurs de bois et des ponts de corde tendus au-dessus du vide, et l'on y circule au milieu des totems, des tentes de cuir et des fumées d'encens. Le vent y chante entre les piliers, et l'on voit tout Mulgore s'étendre en contrebas. C'est une ville à la fois aérienne et enracinée, ouverte sur le ciel et fidèle à la terre. Les Pitons du Tonnerre sont le cœur du peuple tauren, la preuve qu'une civilisation peut bâtir haut sans jamais quitter le sol de ses ancêtres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cite-mesas

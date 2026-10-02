@@ -1,0 +1,9 @@
+La mémoire du village
+=====================
+
+Malgré sa modestie, Thalanaar porte une mémoire ancienne. Les elfes y racontent que leurs ancêtres parcouraient ces forêts bien avant la chute du Puits d'éternité, quand Kalimdor n'était qu'un seul continent verdoyant. Les ruines qui affleurent sous les fougères en sont les témoins silencieux, et l'on se les montre à voix basse. Le village a été rebâti sur ces souvenirs, comme pour ne pas laisser le passé disparaître tout à fait. Les anciens y enseignent aux jeunes les noms des arbres, les chants de la Lune et les récits des premières Sentinelles. Thalanaar n'est pas qu'un point sur la carte : c'est une braise de mémoire, entretenue avec patience aux portes de la forêt. C'est ce qui fait d'elle un refuge, et non un simple poste perdu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : memoire

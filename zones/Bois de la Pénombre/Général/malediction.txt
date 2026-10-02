@@ -1,0 +1,9 @@
+La malédiction du bois
+======================
+
+Le Bois de la Pénombre n'a pas toujours été sombre. Autrefois, on l'appelait le Bois Clair, et c'était une terre paisible de l'Alliance, couverte de fermes et de villages. Puis la malédiction est tombée : les morts s'y sont relevés, les loups-garous s'y sont multipliés, et une brume glacée s'est accrochée aux routes. Nul ne sait vraiment d'où vient le mal, mais il a tout changé. Les habitants se terrent, les fermes sont abandonnées, et la nuit est devenue une ennemie. La malédiction du Bois de la Pénombre est un mystère qui ronge la région, une ombre qui s'étend un peu plus chaque année. Ici, on ne sort plus après le coucher du soleil, et l'on verrouille sa porte en priant.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : malediction

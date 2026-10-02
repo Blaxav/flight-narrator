@@ -1,0 +1,9 @@
+Les bêtes de l'est
+==================
+
+L'est des Tarides est le domaine des grands fauves et des bêtes à cuirasse. Les lions y rôdent en hardes, la crinière rabattue par le vent chaud, et leurs rugissements traversent la nuit. Près d'eux paissent les lézards-tonnerre, massifs et placides, dont la peau épaisse défie les crocs comme les lames. Ces créatures ne cherchent pas le combat, mais un voyageur imprudent peut vite devenir une proie. Les chasseurs de la Horde les traquent pour leur viande et leur cuir, en respectant la loi ancienne : ne prendre que ce qui est nécessaire. Dans ces plaines, la savane est vivante jusqu'à l'os, et chaque buisson peut cacher un mufle ou un œil jaune qui attend la nuit.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : betes-de-lest

@@ -1,0 +1,9 @@
+Les démons de la Légion
+=======================
+
+Gangrebois grouille de démons, restes de la Légion ardente qui n'ont jamais quitté ces terres. Satyres, chasseurs corrompus et gardes funestes rôdent entre les arbres noirs, fidèles à des maîtres lointains. Ils se sont retranchés dans des camps fortifiés, comme Jaedenar, d'où ils complotent et lancent des raids contre les vivants. Leur seule présence suffit à flétrir la terre autour d'eux. Les Sentinelles et les aventuriers qui osent s'y aventurer savent qu'il n'y a pas de négociation possible : un démon ne se rend pas, il se détruit. Gangrebois est un champ de bataille silencieux, où chaque clairière peut cacher une créature des abysses. Leur simple nom suffit à faire baisser la voix des plus braves.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : demons

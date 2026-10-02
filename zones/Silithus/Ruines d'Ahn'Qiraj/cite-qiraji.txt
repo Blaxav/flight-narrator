@@ -1,0 +1,9 @@
+La cité qiraji
+==============
+
+Les Ruines d'Ahn'Qiraj sont les vestiges de la cité des qiraji, une métropole de pierre et de chitine bâtie par les insectes au service des dieux anciens. Ses rues sont des couloirs, ses places des nids, et ses salles résonnent du cliquetis des mandibules. La lumière du désert n'y pénètre qu'en lames, et l'ombre y est vivante. C'est un lieu sans merci, où chaque recoin cache un essaim. Les Ruines d'Ahn'Qiraj sont le seuil de l'empire qiraji, la preuve que les insectes ont su bâtir des cités, et que leur architecture est une ruche à l'échelle d'un peuple.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cite-qiraji

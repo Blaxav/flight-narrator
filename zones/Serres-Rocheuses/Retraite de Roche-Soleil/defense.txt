@@ -1,0 +1,9 @@
+La défense des cols
+===================
+
+Depuis la Retraite de Roche-Soleil, la Horde défend les cols des Serres-Rocheuses contre les incursions de l'Alliance. Les chemins sont surveillés, les gués tenus, les crêtes occupées par des guetteurs. Chaque convoi est escorté, chaque message porté à travers la montagne au péril des flèches. La défense des cols est une guerre de position, où l'on gagne à tenir plutôt qu'à prendre. La Retraite de Roche-Soleil est le verrou de ces hauteurs, la preuve que la montagne appartient à qui sait la garder, et que la Horde n'entend pas la céder.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : defense

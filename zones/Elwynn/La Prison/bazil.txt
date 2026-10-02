@@ -1,0 +1,9 @@
+Bazil Thredd
+============
+
+Au cœur de l'émeute se tient Bazil Thredd, un bandit au sang-froid redoutable, que l'on dit lié à la Confrérie des Défias. Enfermé dans la Prison, il n'a pas tardé à reprendre la main, fédérant les détenus autour de sa haine et de ses promesses. On murmure qu'il prépare quelque chose de plus grand qu'une simple évasion, et que la révolte n'est que le début. Bazil Thredd est un meneur né, aussi rusé que brutal, et sa voix porte loin dans les couloirs. L'abattre, c'est priver l'émeute de sa tête, mais c'est aussi s'aventurer au plus profond du danger. Dans la Prison, son nom est un ordre, et l'on y obéit ou l'on y meurt, sans discussion.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bazil

@@ -1,0 +1,9 @@
+Les captifs du désert
+=====================
+
+Les trolls de Zul'Farrak ne tuent pas toujours leurs prisonniers : ils les traînent dans des cages au cœur de la cité, en attendant le sacrifice qui apaisera leurs dieux. On y voit des voyageurs, des soldats et des aventuriers, entassés sous le soleil, sans eau ni espoir, les yeux fixés sur les murs qui les enferment. Les trolls les nourrissent à peine, les regardent dépérir, puis les mènent vers les autels où coule le sang, sous les tambours et les incantations. Certains tentent de fuir, mais les ruelles de la cité sont un labyrinthe gardé par des lances et des sortilèges. Zul'Farrak est une prison à ciel ouvert, un abattoir qui attend son heure sans se presser. Les cris des captifs se mêlent aux tambours, et le désert, indifférent, les emporte avec le vent. Nul n'en revient sans cicatrices.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-captifs

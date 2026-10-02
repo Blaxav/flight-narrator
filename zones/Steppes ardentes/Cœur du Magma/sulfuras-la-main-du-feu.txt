@@ -1,0 +1,9 @@
+Sulfuras, la main du feu
+========================
+
+Au cœur du Cœur du Magma, on forge et l'on convoite la plus célèbre des armes du feu : Sulfuras, la main de Ragnaros. Ce marteau légendaire, fait de métal en fusion et de haine, est l'emblème du Seigneur du feu. On raconte que seuls ceux qui triomphent de Ragnaros et de ses lieutenants peuvent espérer en rassembler les fragments. Sulfuras n'est pas qu'une arme : c'est un morceau du maître, une promesse de puissance capable d'embraser les champs de bataille. Les forgerons les plus ambitieux descendent dans la montagne pour elle, et certains n'en remontent pas. La main de Ragnaros ne se laisse pas saisir sans se brûler.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sulfuras-la-main-du-feu

@@ -1,0 +1,9 @@
+La Croisade écarlate
+====================
+
+La Croisade écarlate est née des cendres de Lordaeron, portée par des survivants qui ont juré d'exterminer tous les morts-vivants et de purifier la terre par le feu et l'acier. Mais leur croisade s'est peu à peu refermée sur elle-même : ils voient des traîtres partout, torturent les suspects et rejettent quiconque n'épouse pas leur folie, jusqu'à se déchirer entre eux. Leur haine est devenue leur seule foi, et leur justice une parodie cruelle. Pourtant, ils se croient purs, élus, bénis d'en haut, et cette certitude les rend plus dangereux encore. Le monastère est leur quartier général, le cœur de cette armée fanatique qui ne recule devant rien. La Croisade écarlate est une tragédie : des héros qui, pour combattre les monstres, sont devenus des monstres à leur tour, et ils l'ignorent encore.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-croisade

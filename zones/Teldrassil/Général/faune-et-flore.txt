@@ -1,0 +1,9 @@
+Une faune merveilleuse
+======================
+
+Teldrassil abrite une faune et une flore que l'on ne trouve nulle part ailleurs en Azeroth. Les sabres-de-nuit y glissent entre les ombres, les hiboux y veillent du haut des branches, et les chimaères y déploient leurs ailes au-dessus des clairières, majestueuses et farouches. Les fleurs y sont pâles, les mousses phosphorescentes, et certains arbres semblent murmurer aux oreilles des druides. Cette abondance est née de la magie de l'Arbre-monde, qui nourrit la vie à chaque étage de la canopée. Les elfes de la nuit chassent avec respect, cueillent avec mesure et remercient la forêt pour chaque don reçu. Teldrassil est un jardin sauvage, un royaume où la nature est reine et où l'on ne prélève que le nécessaire. Ici, la vie ne se contente pas d'exister : elle éclate, à toutes les hauteurs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : faune-et-flore

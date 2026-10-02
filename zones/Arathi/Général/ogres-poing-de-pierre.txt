@@ -1,0 +1,9 @@
+Les ogres Poing-de-Pierre
+=========================
+
+Les ogres Poing-de-Pierre sont les maîtres des ruines d'Arathi, où ils ont établi leurs repaires après la chute de Stromgarde. Ces créatures massives et brutales, autrefois serviteurs de la Horde des orcs, vivent aujourd'hui en clans, pillant les fermes et les caravanes. Ils se sont installés dans les décombres de la cité, dormant dans les salles des anciens rois. Leur force est redoutable, mais c'est surtout leur nombre qui inquiète : ils pullulent dans les collines et s'en prennent aux voyageurs isolés. On raconte qu'ils gardent jalousement les trésors de Stromgarde, entassés dans leurs tanières. Les Poing-de-Pierre sont la preuve que les ruines n'appartiennent jamais longtemps aux morts : les ogres s'y installent et les revendiquent à coups de massue.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ogres-poing-de-pierre

@@ -1,0 +1,9 @@
+Le barrage de Pierretaillée
+===========================
+
+Le barrage de Pierretaillée retient les eaux du loch, et c'est une merveille d'ingénierie naine sans égale en Azeroth. Bâti par les ingénieurs de Forgefer, il dresse sa muraille au débouché de la vallée, transformant le cours des rivières en un lac immense. Ses pierres sont si bien ajustées qu'aucune eau ne s'y infiltre, et ses mécanismes anciens régulent le flot qui descend vers les Paluns. Les nains en parlent avec fierté, et les voyageurs s'arrêtent pour le contempler. Car ce barrage n'est pas qu'un ouvrage : c'est la preuve que les nains savent plier la montagne à leur volonté, et qu'ils tiennent leurs frontières à coups de pierre et de génie. C'est un géant de pierre qui veille en silence sur la vallée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : barrage

@@ -1,0 +1,9 @@
+L'avant-poste de la Horde
+=========================
+
+Kargath se dresse dans le nord des Terres ingrates, avant-poste de la Horde planté sur une crête battue par les vents. Ses tours de bois et ses palissades dominent les canyons, offrant un refuge sûr aux voyageurs de la Horde qui traversent ce désert de roche. On y trouve un toit, des armes et des nouvelles, à condition de montrer patte blanche et de respecter la loi du fort. Les soldats y montent la garde, l'œil tourné vers les pistes où rôdent les Sombrefer, les ogres et les troggs. Kargath n'est pas une ville : c'est un fort de frontière, austère et vigilant, où l'on dort la main sur la hache. Sa silhouette sur la falaise rappelle que la Horde, elle aussi, veille sur ces terres ingrates, et qu'elle n'y laisse rien au hasard.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : avant-poste-de-la-horde

@@ -1,0 +1,9 @@
+La mémoire d'un chef
+====================
+
+Le nom du Trépas-d'Orgrim n'est pas anodin : il commémore la chute du grand chef Orgrim Marteau-du-Destin, tombé en combattant pour son peuple. Chaque orc qui passe par ce camp connaît cette histoire, transmise de génération en génération autour des feux. On y raconte comment Orgrim, brisé mais jamais vaincu, arracha les siens aux camps humains et mourut l'arme à la main, léguant son marteau à Thrall. Le camp est ainsi un lieu de mémoire autant qu'une position militaire. Les jeunes y apprennent le prix de la liberté, et les anciens y veillent en silence. Tant que ce nom résonnera dans les collines d'Arathi, la Horde n'oubliera ni ses héros, ni ce qu'ils ont payé pour elle.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : memoire

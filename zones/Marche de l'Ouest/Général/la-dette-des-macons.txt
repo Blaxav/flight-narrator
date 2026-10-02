@@ -1,0 +1,9 @@
+La dette des maçons
+===================
+
+La Marche de l'Ouest paie encore la dette des maçons de Hurlevent. Après la reconstruction de la capitale, détruite pendant les guerres, la guilde des tailleurs de pierre réclama son salaire ; la noblesse, ruinée par l'effort, refusa de payer. Les maçons, menés par Edwin VanCleef, crièrent à la trahison, puis descendirent dans la rue, et l'émeute fit couler le sang. Chassés de la ville, ils se réfugièrent dans l'ouest et jurèrent de se venger. De cette colère naquit la Confrérie défias, une organisation de bandits qui frappe les domaines des nobles et rançonne les campagnes. Les fermiers, eux, n'y peuvent rien : ils subissent la vengeance d'ouvriers trahis par d'autres, et payent deux fois une dette qui n'était pas la leur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-dette-des-macons

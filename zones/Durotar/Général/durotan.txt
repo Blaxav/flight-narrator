@@ -1,0 +1,9 @@
+Le nom de Durotan
+=================
+
+Durotar porte le nom de Durotan, père de Thrall et ancien chef du clan Loup-de-Givre. Ce guerrier droit et fier refusa de boire le sang de Mannoroth, et fut tué pour sa loyauté envers les siens. Son fils Thrall, qui ne le connut jamais, fit graver son nom dans la terre même de la nouvelle patrie orque, afin que nul n'oublie ce que coûte l'intégrité. Durotan incarne l'honneur d'un peuple qui a su résister à la corruption, même au prix du sang. Chaque vallée, chaque colline de Durotar est ainsi un hommage à ce chef tombé. Tant que ce nom résonnera, les orcs se souviendront que la force sans honneur n'est rien, et que la liberté se paie de sacrifices.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : durotan

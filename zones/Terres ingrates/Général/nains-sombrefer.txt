@@ -1,0 +1,9 @@
+Les nains Sombrefer
+===================
+
+Les nains Sombrefer rôdent dans les Terres ingrates, fidèles à leur réputation de forgerons maudits et de pillards. Venus des profondeurs du Pic Rochenoire, ils fouillent ces terres à la recherche de reliques et de minerais, et ne laissent derrière eux que des camps calcinés et des galeries éventrées. Leur peau grise et leurs yeux embrasés les rendent faciles à reconnaître, mais difficiles à affronter, car ils se battent avec la fureur de ceux qui n'ont rien à perdre. Ils ne tolèrent aucune concurrence et attaquent quiconque s'aventure trop près de leurs chantiers, qu'il soit nain, orc ou aventurier. Les Sombrefer voient dans ces canyons une terre à prendre, une réserve de secrets et de puissance à arracher au sol. Leur présence est une menace de plus dans un pays qui n'en manque pas, et leurs feux brillent la nuit comme des braises prêtes à mordre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : nains-sombrefer

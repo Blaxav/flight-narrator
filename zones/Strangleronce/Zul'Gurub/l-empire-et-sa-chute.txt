@@ -1,0 +1,9 @@
+L'empire et sa chute
+====================
+
+Zul'Gurub fut le trône de l'empire Gurubashi, au temps où les trolls dominaient la jungle d'une côte à l'autre. Les prêtres y parlaient aux dieux, les rois y levaient des armées, et les tambours y battaient pour les sacrifices. Mais la grandeur attira la ruine : les luttes de pouvoir, les trahisons et l'appel d'Hakkar finirent par déchirer l'empire. Les cités tombèrent une à une, les tribus s'entre-déchirèrent, et la jungle reprit la capitale. Ce qui reste aujourd'hui n'est que l'ombre d'une splendeur disparue. Pourtant, dans les salles de Zul'Gurub, on jurerait entendre encore l'écho des anciens rois, et la promesse d'un retour que la jungle redoute.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-empire-et-sa-chute

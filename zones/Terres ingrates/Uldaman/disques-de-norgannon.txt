@@ -1,0 +1,9 @@
+Les Disques de Norgannon
+========================
+
+On dit qu'Uldaman renferme les Disques de Norgannon, des archives forgées par le Titan du savoir lui-même. Ces disques contiendraient l'histoire des Titans, leurs desseins et les secrets de la création d'Azeroth, tout ce qu'un esprit mortel pourrait à peine concevoir. Les nains les cherchent avec ferveur, convaincus qu'ils révéleront enfin leur véritable origine et le sens de leur existence. Mais les disques sont enfouis au plus profond du complexe, gardés par des sentinelles de pierre et des pièges anciens qui ne pardonnent pas. Ceux qui s'en approchent sentent le poids d'un savoir interdit, trop vaste pour un seul regard. Norgannon, gardien de la connaissance, n'a pas voulu que ces archives se perdent, mais il n'a pas non plus voulu qu'elles tombent entre toutes les mains. Uldaman en est le coffre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : disques-de-norgannon

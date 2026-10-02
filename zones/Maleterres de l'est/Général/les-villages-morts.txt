@@ -1,0 +1,9 @@
+Les villages morts
+==================
+
+Le long des anciennes routes, les bourgs des Maleterres de l'est ne sont plus que des décors figés : enseignes pendues, charrettes renversées, portes arrachées par la panique. À la Croisée de Corin, les maisons aux volets clos gardent encore les traces d'un marché interrompu, et l'on jurerait entendre le bruit d'une foule disparue. Les églises aux vitraux brisés abritent désormais des nids de goules, et les auberges servent de repaires aux cultistes. Pourtant, des récits parlent de familles cachées dans les caves, de courriers perdus et de trésors abandonnés à la hâte. Les aventuriers qui fouillent ces ruines y trouvent parfois des lettres jaunies, derniers mots d'un monde qui croyait encore au lendemain. C'est cette mémoire que le Fléau, inexorablement, efface.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-villages-morts

@@ -1,0 +1,9 @@
+Les ombres de la cité
+=====================
+
+La nuit, les ruines d'Alterac s'animent d'une autre vie. Des ombres glissent entre les murs, des voix chuchotent dans les salles effondrées, et l'on dit que les spectres des seigneurs déchus errent encore, incapables de quitter leur cité. Les sentinelles du Syndicat elles-mêmes évitent certains quartiers après le coucher du soleil, et les ogres se taisent quand le vent tourne. Ces apparitions ne sont peut-être que des légendes, mais elles nourrissent la peur et éloignent les curieux. Les ombres d'Alterac sont la mémoire de la montagne, la preuve que les morts d'un royaume trahi ne reposent jamais en paix, et que leurs regrets flottent encore dans le brouillard.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : spectres

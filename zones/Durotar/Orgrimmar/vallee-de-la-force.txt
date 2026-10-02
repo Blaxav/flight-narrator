@@ -1,0 +1,9 @@
+La Vallée de la Force
+=====================
+
+La Vallée de la Force est le cœur d'Orgrimmar, la grande artère où bat la vie de la capitale. C'est là que se dressent les principales échoppes, la banque, l'auberge et les étals des marchands, dans un brouhaha permanent. Les guerriers s'y retrouvent, les voyageurs s'y renseignent, et les crieurs y proclament les nouvelles. L'activité y est incessante, du lever du jour jusqu'aux feux de la nuit. On y sent la fierté d'un peuple qui a construit sa cité de ses mains. La Vallée de la Force n'est pas seulement un quartier : c'est la vitrine de la Horde, le lieu où l'on mesure sa vitalité. Quiconque entre à Orgrimmar passe par elle, et en garde l'empreinte à jamais.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : vallee-de-la-force

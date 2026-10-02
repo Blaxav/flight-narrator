@@ -1,0 +1,9 @@
+La forêt corrompue
+==================
+
+Vous planez au-dessus de Gangrebois, une forêt qui semble pourrir de l'intérieur. Les arbres y sont tordus, leurs feuilles noircies, et une lueur verdâtre suinte des fissures du sol. Autrefois, ces bois faisaient partie des grandes forêts de Kalimdor, mais la Légion ardente y a laissé sa marque. Après la bataille du mont Hyjal, la corruption s'est répandue comme une maladie, empoisonnant les sources et les bêtes. Les animaux y deviennent enragés, les plantes carnivores, et l'air lui-même pique la gorge. Gangrebois est une blessure ouverte au flanc du monde, la preuve que la guerre contre les démons ne s'arrête jamais vraiment, même après la victoire. Même le vent y charrie un goût de cendre et de soufre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : corruption

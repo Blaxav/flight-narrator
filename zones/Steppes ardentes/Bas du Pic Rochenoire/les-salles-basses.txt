@@ -1,0 +1,9 @@
+Les salles basses
+=================
+
+Le Bas du Pic Rochenoire est un dédale de galeries, de ponts et de salles crasseuses, où l'air est épais de fumée et de suie. C'est le domaine des orcs Rochenoire et de leurs alliés, qui en ont fait un bastion de guérilla difficile à prendre. On y croise des grunts armés jusqu'aux dents, des ogres affamés et des nains Sombrefer qui monnayent leur aide au plus offrant. Les couloirs sont étroits, les embuscades fréquentes, et chaque recoin peut dissimuler un ennemi prêt à frapper. Le Bas du Pic n'a rien de la majesté d'Ombreforge : c'est un repaire, un nid de frelons où l'on se bat pour chaque mètre de roche, et où la survie se paie au prix du sang.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-salles-basses

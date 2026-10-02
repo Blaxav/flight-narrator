@@ -1,0 +1,9 @@
+Jaina Portvaillant
+==================
+
+À la tête de Theramore veille Jaina Portvaillant, archimage de Dalaran et fille de l'amiral Portvaillant. Sa sagesse et sa puissance ont fait d'elle l'une des figures les plus respectées de Kalimdor. C'est elle qui, au plus fort de la Troisième Guerre, guida les survivants de Lordaeron par-delà la mer, cherchant un refuge loin du Fléau. À Theramore, elle gouverne d'une main ferme mais ouverte, préférant la diplomatie au fracas des armes. On la voit souvent sur les remparts, scrutant l'horizon, ou dans les salles de conseil, une carte déployée devant elle. Les soldats l'aiment, les mages la craignent un peu, et les émissaires la redoutent. Jaina croit encore qu'une paix est possible, même au bord d'un marais plein de crocs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : jaina-portvaillant

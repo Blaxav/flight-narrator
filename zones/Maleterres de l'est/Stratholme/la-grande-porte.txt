@@ -1,0 +1,9 @@
+La grande porte
+===============
+
+L'entrée de Stratholme se mérite. La grande porte, flanquée de tours effondrées, s'ouvre sur une avenue que balaient des rafales chargées de cendres. Les poutres calcinées, les charrettes renversées et les squelettes agrippés aux grilles racontent la panique de l'épuration. Les premiers pas dans la cité sont les plus redoutés, car le silence y est presque total, troublé seulement par le craquement des gonds et le froissement d'ailes des gargouilles. Les éclaireurs conseillent de longer les façades, d'éviter les plaques d'ombre et de ne jamais répondre aux voix qui appellent depuis les caves. Derrière chaque coin de rue, une embuscade attend. Stratholme ne tue pas par la ruse, mais par l'épuisement, et beaucoup s'y sont perdus en cherchant simplement la sortie.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-grande-porte

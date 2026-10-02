@@ -1,0 +1,9 @@
+Les caravanes des sables
+========================
+
+Des caravanes partent de Gadgetzan vers toutes les pistes de Tanaris, chargées de marchandises et escortées de gardes en armes. Elles relient la cité aux ports du sud, aux fouilles naines et aux lointains comptoirs gobelins, bravant le soleil, les pillards et les bêtes du désert. Les chameliers connaissent chaque dune, chaque point d'eau et chaque coupe-gorge, et ils ne s'aventurent jamais seuls, car le sable a vite fait d'avaler les imprudents. Ces convois sont l'artère du commerce : sans eux, la cité mourrait d'ennui et de faim au milieu de ses coffres. Les gobelins les assurent, les arment et les comptent, car chaque cargaison perdue est une ligne de moins dans leurs livres. Gadgetzan vit de ces pistes, et le désert, lui, veille sur elles sans jamais s'endormir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : caravanes

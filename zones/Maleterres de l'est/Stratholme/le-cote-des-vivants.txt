@@ -1,0 +1,9 @@
+Le côté des vivants
+===================
+
+La partie de Stratholme tenue par la Croisade écarlate a des allures de bastion assiégé : barricades hâtives, bannières écarlates claquant au vent, inquisiteurs psalmodiant des litanies de haine. Les croisés y traquent les morts-vivants avec une ferveur meurtrière, mais quelque chose de pourri ronge leur commandement. Au sommet de la citadelle se terre Balnazzar, seigneur de l'effroi déguisé, qui souffle sa corruption dans l'oreille des chefs. Sous prétexte de pureté, la Croisade torture, brûle et recrute des fanatiques qu'elle envoie mourir en masse. Les aventuriers qui s'y risquent affrontent des gardes endoctrinés, des prêtres implacables et des bourreaux en armure. Vaincre Balnazzar, c'est arracher un ver de plus du fruit malade de la Croisade.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-cote-des-vivants

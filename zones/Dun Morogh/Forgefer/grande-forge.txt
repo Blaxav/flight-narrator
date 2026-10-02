@@ -1,0 +1,9 @@
+La Grande Forge
+===============
+
+Au centre de Forgefer brûle la Grande Forge, un immense creuset de lave et de feu autour duquel s'organise toute la cité. C'est là que les maîtres forgerons nains fondent le métal, forgent les armes et les armures qui équipent les armées de l'Alliance. Le vacarme y est assourdissant, la chaleur écrasante, et l'air y sent le charbon et le fer rouge. On y travaille jour et nuit, par équipes, car la guerre ne dort jamais. Les apprentis y apprennent le métier auprès des anciens, et les plus doués rejoignent un jour les grands maîtres. La Grande Forge n'est pas seulement un atelier : c'est le symbole de la puissance naine, la preuve que le feu et le métal, bien gouvernés, bâtissent des empires.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : grande-forge

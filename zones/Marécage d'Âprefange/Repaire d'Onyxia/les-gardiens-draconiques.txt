@@ -1,0 +1,9 @@
+Les gardiens draconiques
+========================
+
+Les galeries du repaire d'Onyxia sont gardées par une armée d'écailles. Des dragonkins à la carrure de taureau montent la garde, hallebardes levées, leurs yeux de braise fouillant l'obscurité. Des gardes d'élite patrouillent en rangs serrés, et des rejetons d'Onyxia, jeunes dragons aux ailes encore maladroites, fondent en nuées sur les intrus. Partout, des œufs palpitent dans les nids, prêts à éclore au premier danger. Les éclaireurs racontent que les rejetons sortent des œufs par grappes, griffant et crachant des flammèches, et que leur mère entend le moindre cri. Progresser dans ce nid exige une discipline absolue : ne pas s'éparpiller, ne pas réveiller ce qui dort, ne jamais sous-estimer une coquille fissurée. Car chaque garde abattu attire un peu plus l'attention de la dragonne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-gardiens-draconiques

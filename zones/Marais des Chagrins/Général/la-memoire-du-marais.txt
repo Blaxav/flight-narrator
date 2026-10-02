@@ -1,0 +1,9 @@
+La mémoire du marais
+====================
+
+Le Marais des Chagrins porte dans sa vase la mémoire de plusieurs peuples. Les trolls y ont bâti des temples dont il ne reste que des marches glissantes ; les humains y ont perdu des colonies entières, rongées par la fièvre et les bêtes ; les dragons verts y veillent sur des secrets plus vieux que les royaumes. Certains disent que le chagrin du marais vient des sacrifices d'Hakkar, dont le sang aurait imprégné la terre pour toujours. D'autres racontent que les larmes des dieux anciens y ont creusé les mares. Les voyageurs sensibles y éprouvent un poids étrange, comme si le paysage lui-même se souvenait de chaque noyade. C'est une terre frontière, suspendue entre l'histoire et le cauchemar, où le passé remonte à la surface avec les bulles des eaux dormantes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-memoire-du-marais

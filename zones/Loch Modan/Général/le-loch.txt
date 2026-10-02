@@ -1,0 +1,9 @@
+Le lac des montagnes
+====================
+
+Loch Modan tire son nom du grand lac qui dort au creux de ses montagnes, une étendue d'eau calme enserrée par des crêtes grises et rudes. De là-haut, le loch paraît posé comme un miroir dans un écrin de pierre, alimenté par les ruisseaux qui descendent de Dun Morogh. Ses rives sont bordées de pins et de bouleaux, et l'air y est plus frais qu'ailleurs, chargé d'humidité et de silence. Les nains de Forgefer ont fait de ce bassin le cœur de leur arrière-pays, un réservoir d'eau et de vie au milieu des montagnes. Loch Modan est la preuve que même les terres les plus rudes savent garder une douceur, pour peu qu'on la protège. Ici, l'eau est un trésor, et les nains le savent mieux que quiconque.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-loch

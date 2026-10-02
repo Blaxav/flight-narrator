@@ -1,0 +1,9 @@
+Hérode, le champion
+===================
+
+Dans l'Armurerie du monastère règne Hérode, champion de la Croisade écarlate, colosse en armure rouge qui manie une hache immense. Son entraînement est une boucherie : des recrues s'y affrontent jusqu'au sang, et lui-même descend dans l'arène pour briser ceux qui faiblissent, sous les acclamations des fanatiques. On le dit invincible, porté par une foi qui ne connaît ni la peur ni la pitié, et son nom est prononcé avec une crainte mêlée d'admiration. Les murs de son quartier sont maculés, et l'on y entend sans cesse le fracas des lames et les halètements des combattants. Hérode incarne la force brutale de la Croisade, cette conviction qu'il suffit de frapper assez fort pour purifier le monde. Ceux qui le défient comprennent vite que sous l'armure, il n'y a plus qu'une fureur.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : herode

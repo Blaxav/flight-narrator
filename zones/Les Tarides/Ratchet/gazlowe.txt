@@ -1,0 +1,9 @@
+Gazlowe, l'ingénieur
+====================
+
+Ratchet est l'œuvre d'un seul gobelin : Gazlowe. Ingénieur de génie, il a d'abord aidé Rexxar à poser les fondations d'Orgrimmar pendant la Troisième Guerre, avant de bâtir son propre royaume sur la côte des Tarides. Il a compris avant tout le monde qu'un port neutre au cœur de Kalimdor vaut plus qu'une armée, et il a fait de ce rivage une machine à produire de l'or. On le croise rarement, mais son empreinte est partout : dans les grues, les entrepôts et les accords signés à voix basse. Gazlowe n'est pas un seigneur de guerre, c'est un bâtisseur d'opportunités. À Ratchet, son nom se prononce avec respect, car ici, le vrai pouvoir ne se mesure pas en soldats, mais en cargaisons.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gazlowe

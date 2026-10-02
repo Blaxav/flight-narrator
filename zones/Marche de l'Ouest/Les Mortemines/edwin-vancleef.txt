@@ -1,0 +1,9 @@
+Edwin VanCleef
+==============
+
+Tout au bout des Mortemines, sur le pont de son navire inachevé, attend Edwin VanCleef. Le maître maçon porte encore les outils de son ancien métier, mais ce sont désormais des armes : il manie la lame et la ruse avec la précision d'un homme qui a trop longtemps compté les trahisons. Sa voix, quand il harangue ses hommes, porte la colère des ouvriers floués, des familles affamées, des promesses non tenues. Il ne se bat pas pour l'or, mais pour une revanche qu'il juge légitime, et cette conviction le rend redoutable. On dit qu'il connaît chaque poutre de son navire, chaque recoin de sa caverne, et qu'il ne reculera jamais. Le vaincre, c'est trancher la tête de la Confrérie ; mais sa colère, elle, ne mourra peut-être pas avec lui.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : edwin-vancleef

@@ -1,0 +1,9 @@
+Les mares de bitume
+===================
+
+Les mares de bitume d'Un'Goro sont des fosses de goudron noir qui fument au milieu de la jungle, et qui engloutissent tout ce qui s'en approche. Les os des créatures qui s'y sont échouées affleurent à la surface, conservés depuis des siècles. C'est un piège naturel, redouté des chasseurs comme des bêtes, où la mort vient lentement, par enlisement. Pourtant, ces mares fascinent : on y trouve des fossiles, des restes de devilsaurs et parfois des trésors portés par les malheureux qui s'y sont perdus. Le bitume d'Un'Goro est la mémoire collante du cratère, la preuve que la nature sait conserver ses victimes, et que ce qu'elle avale, elle le garde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bitume

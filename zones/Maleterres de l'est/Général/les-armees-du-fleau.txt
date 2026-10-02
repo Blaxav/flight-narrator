@@ -1,0 +1,9 @@
+Les armées du Fléau
+===================
+
+Les Maleterres de l'est grouillent d'une armée qui ne connaît ni la faim, ni la peur, ni le repos. Des goules faméliques rôdent en meutes le long des routes, des squelettes surgissent des champs labourés, et de lourdes abominations cousues de chairs putréfiées montent la garde devant les fermes profanées. Au-dessus des clochers, des gargouilles de pierre s'animent pour fondre sur les voyageurs. Les nécromanciens du Culte des damnés, en robe sombre, psalmodient des invocations dans les cimetières, tandis que des banshees gémissent leur haine des vivants. Cette marée obéit à une volonté unique et lointaine : celle du Roi-liche, dont le regard glacé pèse sur tout le nord de Lordaeron. Chaque cadavre enfoui est une recrue en attente.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-armees-du-fleau

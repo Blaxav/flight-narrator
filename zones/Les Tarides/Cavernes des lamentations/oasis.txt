@@ -1,0 +1,9 @@
+L'oasis qui murmure
+===================
+
+L'oasis qui surplombe les Cavernes des lamentations semble paisible, mais ses eaux ne sont pas silencieuses. Elles suintent des profondeurs, chargées de l'énergie étrange qui a tordu les druides, et les bêtes qui y boivent en ressortent parfois changées. Les voyageurs qui s'y attardent jurent entendre des murmures monter des roseaux, comme une plainte lointaine. C'est le sang de la terre qui remonte, mêlé au rêve maudit de Naralex. Les Taurens évitent d'y planter leurs tentes, et les chasseurs n'y chassent qu'avec méfiance. Car cette oasis n'est pas un don : c'est la bouche des cavernes, et tout ce qui y boit s'abreuve à la même source que les serpents, et finit tôt ou tard par leur ressembler.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : oasis

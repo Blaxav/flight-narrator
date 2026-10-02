@@ -1,0 +1,9 @@
+L'école de nécromancie
+======================
+
+Sous les fondations du donjon de Caer Darrow s'ouvre Scholomance, une académie où l'on n'enseigne ni la médecine ni la théologie, mais l'art de commander aux morts. Ses salles voûtées résonnent de leçons macabres : on y apprend à animer les cadavres, à lier les esprits et à distiller les poisons de l'âme. Les étudiants, jadis vivants, ont laissé place à des élèves squelettiques et à des instructeurs au visage de cire. Des pupitres alignent des grimoires reliés en peau, des éprouvettes fument sur les paillasses, et des cages pendent au plafond, certaines encore occupées. Fondée pour former les nécromanciens du Culte des damnés, Scholomance est devenue le plus grand réservoir de sorciers noirs des royaumes de l'Est. Y entrer, c'est pousser la porte d'un monde qui refuse de mourir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : l-ecole-de-necromancie

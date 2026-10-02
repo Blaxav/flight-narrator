@@ -1,0 +1,9 @@
+Le roi Varian Wrynn
+===================
+
+Le roi Varian Wrynn est le souverain légitime de Hurlevent, héritier de la dynastie qui règne sur le royaume depuis des générations. Mais le trône est vide : Varian a disparu dans des circonstances troubles, et nul ne sait où il se trouve ni s'il reviendra. Sa disparition plonge la cour dans l'incertitude, et le royaume est gouverné en son nom par un régent. Le peuple attend son retour, partagé entre l'espoir et l'inquiétude. Varian incarne la continuité d'une lignée, et son absence laisse un vide que les intrigues ne tardent pas à remplir. Hurlevent tient debout, mais sans son roi, elle avance à tâtons, comme un navire privé de gouvernail.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : varian

@@ -1,0 +1,9 @@
+La côte orientale
+=================
+
+À l'est, les Tarides finissent par rencontrer la mer, et la savane s'arrête net sur des falaises de sel et de vent. C'est là que se niche Ratchet, le port gobelin, dont les docks s'avancent vers les flots comme des doigts avides. La côte orientale est un seuil : derrière, la plaine et ses dangers ; devant, les routes maritimes qui mènent à la Baie-du-Butin et au reste du monde. Les gobelins l'ont compris, et ils ont transformé ce rivage en porte-monnaie géant. Les navires y déchargent tout ce que la savane ne produit pas, et rembarquent ce qu'elle offre. Sur cette côte, le vent sent le goudron et le sel, et la richesse change de main à chaque marée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cote-orientale

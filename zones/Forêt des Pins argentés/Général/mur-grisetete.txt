@@ -1,0 +1,9 @@
+Le mur de Grisetête
+===================
+
+Au sud de la forêt des Pins argentés se dresse le mur de Grisetête, l'immense rempart qui ferme la péninsule de Gilnéas. Bâti pour isoler le royaume de Genn Grisetête du reste du monde, il barre la route et défie le ciel. Derrière lui, les Gilnéens se sont coupés des guerres, mais aussi du secours des autres nations. Les voyageurs qui le contemplent ne peuvent que s'interroger sur ce qui se cache de l'autre côté. Le mur de Grisetête est le symbole d'un repli obstiné, la preuve qu'un royaume peut choisir de disparaître plutôt que de se battre. La forêt, elle, continue de pousser à ses pieds, indifférente aux peurs des hommes. Derrière lui, un royaume entier a choisi le silence.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mur-grisetete

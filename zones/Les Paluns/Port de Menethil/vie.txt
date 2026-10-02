@@ -1,0 +1,9 @@
+La vie du port
+==============
+
+Malgré les dangers, le Port de Menethil déborde de vie. Les pêcheurs y vendent leur prise, les forgerons y réparent les ancres, et les marins y racontent des histoires de tempêtes et de monstres marins. Les tavernes sentent la bière et le poisson grillé, et les quais résonnent des appels des dockers. C'est une ville rude, où l'on travaille dur et où l'on parle fort, mais où la solidarité est réelle. Chacun y a sa place, du mousse au capitaine. Le Port de Menethil est une ville de courage et de sueur, une porte ouverte sur le monde, qui ne dort jamais tout à fait. Le départ des navires y scande les journées comme une horloge de toile.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : vie

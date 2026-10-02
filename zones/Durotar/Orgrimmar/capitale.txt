@@ -1,0 +1,9 @@
+La capitale de la Horde
+=======================
+
+Orgrimmar est la capitale de la Horde, une cité de fer et de pierre rouge dressée dans un canyon de Durotar. Ses remparts massifs, ses tours crénelées et ses portes de bois évoquent la puissance d'un peuple qui a juré de ne plus jamais être esclave. Les rues y grouillent de vie : orcs, trolls, taurens et Réprouvés s'y croisent, échangent, marchandent et se préparent à la guerre. C'est une ville jeune, bâtie à la hache et à la sueur, mais déjà chargée d'histoire. Orgrimmar n'est pas une cité d'apparat : c'est une forteresse vivante, le cœur battant d'une Horde unie par la survie et la fierté. Ici, chaque pierre a été posée par des mains libres, et chaque rue garde la mémoire d'une conquête.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : capitale

@@ -1,0 +1,9 @@
+La tension avec la Horde
+========================
+
+Theramore vit sous la menace diffuse de la Horde. De l'autre côté du marais, les avant-postes orcs et ogres surveillent ses routes, et les escarmouches éclatent sur les digues avec une régularité de marée. Pourtant, la guerre n'est pas déclarée : Jaina Portvaillant a jadis scellé des trêves avec les chefs de la Horde, et chacun, pour l'heure, campe sur ses positions. Les soldats de Theramore montent la garde sans relâche, guettant les feux lointains de Mur-de-Fougères. Les émissaires s'échangent des messages prudents, des avertissements voilés, des promesses fragiles. La paix tient à un fil, et le marais, indifférent, continue d'engloutir les traces des uns et des autres. À Theramore, chacun sait que le calme peut se rompre avant l'aube.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-tension-avec-la-horde

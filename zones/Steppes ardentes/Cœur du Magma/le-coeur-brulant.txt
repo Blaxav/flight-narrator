@@ -1,0 +1,9 @@
+Le cœur brûlant
+===============
+
+Au plus profond du Pic Rochenoire, là où la roche fond et où la chaleur devient lumière, s'ouvre le Cœur du Magma. Ce n'est pas une caverne, mais un monde de feu : des lacs de lave, des plateformes de basalte et des coulées incandescentes qui serpentent entre les îlots de pierre. L'air y brûle les poumons, et la moindre chute est un arrêt de mort. C'est le domaine de Ragnaros, le Seigneur du feu, et de ses élémentaires. Le Cœur du Magma est le nombril de la montagne, le fourneau originel d'où monte toute sa fureur. Ici, le feu n'est pas un danger : c'est le maître des lieux, et il ne tolère que ses serviteurs.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-coeur-brulant

@@ -1,0 +1,9 @@
+Kel'Thuzad le liche
+===================
+
+Le maître de Naxxramas est un spectre au nom murmuré avec effroi : Kel'Thuzad. Jadis archimage du Kirin Tor à Dalaran, il fut séduit par les promesses d'un pouvoir interdit et se tourna vers la nécromancie. Banni pour ses expériences, il répondit à l'appel du Roi-liche et devint le fondateur du Culte des damnés, semant la peste qui emporta Lordaeron. La mort ne fut pour lui qu'une étape : son esprit fut lié à une urne maudite et son corps relevé en liche immortelle. Depuis le trône de sa nécropole, il ourdit la ruine des royaumes de l'Est, entouré de serviteurs qui n'ont plus ni chair ni pitié. Frapper Kel'Thuzad, c'est viser le cœur même de la volonté du Fléau.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : kel-thuzad-le-liche

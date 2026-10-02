@@ -1,0 +1,9 @@
+Les seigneurs corrompus
+=======================
+
+Maraudon est gardé par des seigneurs déchus, jadis serviteurs de la nature, aujourd'hui tordus par la corruption. On y croise le seigneur Vyletongue, un satyre aux poisons raffinés, et Noxxion, un élémentaire de terre devenu un fléau rampant. Plus loin, des flagellants défendent les sources, et des bandes de centaures fidèles à Theradras patrouillent les galeries. Chacun de ces gardiens défend un fragment du sanctuaire avec une hargne qui n'appartient qu'aux damnés. Ils ne cherchent ni trésor ni gloire : ils obéissent à une volonté plus ancienne, celle d'une terre blessée qui ne veut plus être visitée. Les aventuriers qui s'y engouffrent le savent : chaque salle de Maraudon a son gardien, et chaque gardien a son prix.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : seigneurs-corrompus

@@ -1,0 +1,9 @@
+La pêche et la vie du lac
+=========================
+
+La pêche est l'âme du lac-étincelant. Les habitants de Bourg-du-Lac tendent leurs lignes à l'aube, relèvent leurs nasses et rentrent au crépuscule avec le fruit de leur patience. Le poisson y est abondant, nourrissant le bourg et les tables des environs. C'est un métier rude mais tranquille, rythmé par les saisons et les humeurs de l'eau. Les pêcheurs connaissent chaque fond, chaque courant, et se transmettent leurs secrets de père en fils. La pêche du lac-étincelant est la vie même de Rougecrête, la preuve que la richesse d'un pays tient parfois à une ligne jetée dans l'eau claire.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : peche

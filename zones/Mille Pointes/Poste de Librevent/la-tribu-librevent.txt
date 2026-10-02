@@ -1,0 +1,9 @@
+La tribu Librevent
+==================
+
+Le Poste de Librevent est le foyer de la tribu du même nom, des taurens attachés à la liberté des hauteurs et au souffle du vent. Leurs anciens racontent que la tribu a choisi cette mesa pour ne jamais être prise au piège dans les défilés, et pour que ses chasseurs puissent voir venir l'ennemi de loin. Les Librevent sont réputés pour leur sang-froid sur les ponts de corde et leur connaissance des courants d'air qui portent les flèches. Ils accueillent les voyageurs de la Horde avec une hospitalité grave, offrant l'eau, le feu et le gîte. Leur chef, un vieux taureau à la voix lente, tranche les litiges et distribue les missions. Ici, la bravoure ne se mesure pas aux trophées, mais à la sagesse.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-tribu-librevent

@@ -1,0 +1,9 @@
+L'avant-poste de Nijel
+======================
+
+Perchée sur une falaise au nord de Désolace, la Pointe de Nijel est un avant-poste des elfes de la nuit, dressé face aux plaines grises. Ses tours de bois et ses tentes se découpent sur le ciel, et l'on y respire un air plus pur, venu des forêts lointaines. C'est un lieu de veille, choisi pour sa hauteur : de là, les sentinelles surveillent les routes et les mouvements des centaures. Les voyageurs de l'Alliance y trouvent un refuge, une forge et des guides qui connaissent chaque sentier. La Pointe de Nijel n'a rien d'une ville, mais elle tient bon, plantée comme une lance dans une terre hostile. Elle rappelle que les elfes de la nuit n'abandonnent jamais un territoire qu'ils ont juré de surveiller.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : avant-poste

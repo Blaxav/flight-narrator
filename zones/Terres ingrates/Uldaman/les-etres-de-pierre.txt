@@ -1,0 +1,9 @@
+Les êtres de pierre
+===================
+
+Dans les entrailles d'Uldaman reposent les restes des êtres de pierre, ces serviteurs façonnés par les Titans pour creuser les profondeurs d'Azeroth. On les appelle les Terreux, et leur peau de roche garde la mémoire des premiers âges, de ceux où le monde n'était encore qu'une forge. Ils furent les mains des bâtisseurs de mondes, patients et infatigables, façonnant les souterrains avec une constance sans faille. Mais une malédiction ancienne, la malédiction de la chair, les transforma peu à peu en êtres de sang et d'os, vulnérables et mortels. De cette dégénérescence seraient nés les nains, selon les érudits de la Ligue des explorateurs. Uldaman contient les preuves de cette métamorphose, figées dans la pierre et le temps. C'est là que l'histoire des nains plonge ses racines, profondes comme les tunnels.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-etres-de-pierre

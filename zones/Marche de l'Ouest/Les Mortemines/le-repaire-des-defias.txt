@@ -1,0 +1,9 @@
+Le repaire des Défias
+=====================
+
+Les Mortemines ne sont pas une simple caverne : c'est une ville souterraine bâtie par la Confrérie défias au flanc de la falaise. Des galeries de mine abandonnées mènent à des salles creusées dans la roche, où l'on a installé des forges, des entrepôts et des casernements. L'air y sent la poudre, la suie et l'eau de mer, car le boyau principal débouche sur une crique cachée. Les bandits masqués de rouge y vivent par centaines, organisés comme une garnison : guetteurs aux entrées, contremaîtres dans les ateliers, gardes sur les pontons. Tout y est pensé pour durer, des réserves de vivres aux barricades. Les aventuriers qui s'y enfoncent découvrent vite qu'ils ne visitent pas un repaire, mais le quartier général d'une armée en révolte.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-repaire-des-defias

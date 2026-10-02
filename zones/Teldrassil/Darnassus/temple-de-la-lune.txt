@@ -1,0 +1,9 @@
+Le temple de la Lune
+====================
+
+Au cœur de Darnassus s'élève le temple de la Lune, sanctuaire d'Elune où les prêtresses chantent les hymnes de la déesse à la tombée du jour. Ses colonnes de bois pâle montent vers la ramure, et sa lueur argentée se devine depuis les quartiers les plus lointains de la cité. C'est là que l'on prie, que l'on soigne et que l'on consacre les Sentinelles, dans des cérémonies que la lune éclaire d'un éclat tranquille. Les fidèles y viennent chercher conseil, pardon ou courage, et repartent apaisés, le cœur plus léger. Le temple est le centre spirituel des elfes de la nuit, le lieu où la foi de tout un peuple se rassemble comme une marée. Elune n'y a pas de visage, mais sa présence y est partout, douce et grave, comme un clair de lune qui ne se couche jamais.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : temple-de-la-lune

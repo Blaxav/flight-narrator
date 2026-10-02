@@ -1,0 +1,9 @@
+Les eaux calmes du lac
+======================
+
+Le lac-étincelant s'étire au pied des collines de Rougecrête, si calme qu'il reflète le ciel sans une ride. Ses eaux sont claires, profondes par endroits, et l'on y devine des poissons filer entre les rochers. Les barques y glissent en silence, et les oiseaux y viennent boire à l'aube. C'est un lieu de paix, le poumon liquide du pays, où l'on vient oublier un instant la menace des montagnes. Le lac-étincelant est le miroir de Rougecrête, la preuve que même une terre assiégée garde des havres de douceur, où l'eau ne demande qu'à refléter le ciel.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : eaux-calmes

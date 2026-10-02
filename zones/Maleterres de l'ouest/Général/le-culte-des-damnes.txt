@@ -1,0 +1,9 @@
+Le Culte des damnés
+===================
+
+Dans les ruines et les cryptes des Maleterres de l'ouest se cachent les membres du Culte des damnés, une secte de mortels qui vénèrent la mort et servent le Roi-liche. Ils se réunissent en secret autour de braseros verdâtres, récitant des litanies en une langue qui fend les lèvres. Certains furent des prêtres déçus, des mages ambitieux ou des paysans brisés par le deuil ; tous ont choisi le Fléau plutôt que de le combattre. Ils empoisonnent les puits, profanent les tombes et guident les raids de goules vers les hameaux encore habités. On les reconnaît à leurs robes sombres, à leurs talismans d'os et à cette lueur froide dans le regard. Les traquer est une tâche ingrate, car ils se fondent parmi les réfugiés et frappent toujours par derrière.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-culte-des-damnes

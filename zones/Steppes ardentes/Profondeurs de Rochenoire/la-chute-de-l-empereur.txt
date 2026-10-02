@@ -1,0 +1,9 @@
+La chute de l'empereur
+======================
+
+Les Profondeurs de Rochenoire ne sont pas qu'une cité : c'est un piège pour les héros qui s'y risquent. Il faut franchir des salles gardées, déjouer les pièges des Sombrefer et affronter l'empereur lui-même au pied de son trône. La mort de Dagran Thaurissan ébranlerait la cité, mais elle laisserait Moira seule face à son peuple et à son père, et l'avenir n'en serait que plus incertain. Chaque expédition dans les profondeurs pèse ainsi sur le sort des nains tout entiers. Vaincre l'empereur, c'est ouvrir une porte sur un avenir trouble. Et c'est au plus profond de la montagne que se décide, à coups d'épée, le destin d'un royaume oublié du soleil.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-chute-de-l-empereur

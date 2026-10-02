@@ -1,0 +1,9 @@
+Le labyrinthe de ronces
+=======================
+
+Les Souilles de Tranchebauge, côté Kraul, forment un labyrinthe de ronces, de tertres et de boyaux creusés sous les épineux. Les murs de racines y sont si denses qu'ils filtrent la lumière en une pénombre verdâtre, et l'air y sent la terre humide et le musc des sangliers. Les quilboars y circulent par des tunnels étroits, des salles rondes et des passages dérobés que les intrus ne repèrent qu'à la dernière seconde. Des pièges de ronces, des fosses et des embuscades attendent les imprudents. C'est un terrier gigantesque, vivant, grouillant, où chaque souffle peut trahir une présence. Les Kraul sont le cœur ancien de Tranchebauge, le refuge originel d'un peuple qui ne veut ni alliés ni maîtres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-labyrinthe-de-ronces

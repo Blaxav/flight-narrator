@@ -1,0 +1,9 @@
+La cité d'Ombreforge
+====================
+
+Sous le Pic Rochenoire s'étend Ombreforge, la cité souterraine des nains Sombrefer, creusée dans la roche noire et baignée de lueurs rougeoyantes. Des ponts de fer enjambent des rivières de lave, des forges géantes ronflent dans des salles voûtées, et des avenues entières s'enfoncent dans la pénombre. C'est une capitale, avec ses tavernes, ses ateliers et ses prisons, mais une capitale sans ciel, où la chaleur tient lieu de soleil. Les Sombrefer y vivent, y travaillent et y complotent depuis des siècles, loin des regards du monde. Ombreforge n'est pas une ruine : c'est un royaume vivant, tapi sous la montagne, et qui ne demande qu'à remonter à la surface pour reprendre ce qu'il estime être à lui.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-cite-d-ombreforge

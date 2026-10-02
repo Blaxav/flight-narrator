@@ -1,0 +1,9 @@
+La garde des dragons verts
+==========================
+
+Le Marais des Chagrins est placé sous la surveillance inquiète du vol draconique vert, gardien du rêve d'Émeraude. Ses dragons, drapés d'écailles couleur de jade, planent au-dessus des brumes et veillent sur le Temple englouti, car la corruption qui y sommeille menace l'équilibre du monde. On croise leurs serviteurs draconiques aux abords du sanctuaire, montant la garde devant les ruines avec une patience de reptiles. Les voyageurs qui s'approchent trop sont accueillis par des souffles d'acide et des regards traversés de songes. Pourtant, la vigilance des verts s'érode : certains de leurs frères semblent gagnés par une folie venue des cauchemars, et nul ne sait plus distinguer le gardien du traître. Le marais retient son souffle sous leurs ailes immenses.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-garde-des-dragons-verts

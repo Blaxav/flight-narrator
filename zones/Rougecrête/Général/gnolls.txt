@@ -1,0 +1,9 @@
+Les gnolls des collines
+=======================
+
+Les gnolls pullulent dans les collines de Rougecrête, où ils se sont taillé des tanières parmi les rochers et les forêts. Ces créatures à tête de hyène, lâches et cruelles, attaquent les voyageurs isolés et les troupeaux. Leurs rires glapissants résonnent dans les ravins, et leurs bandes se déplacent vite, frappant avant de se disperser. Les miliciens de Bourg-du-Lac les traquent sans répit, mais ils semblent toujours plus nombreux. Les gnolls de Rougecrête sont la vermine des hauteurs, la preuve que les petits dangers, à force de patience, usent les plus solides défenses.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : gnolls

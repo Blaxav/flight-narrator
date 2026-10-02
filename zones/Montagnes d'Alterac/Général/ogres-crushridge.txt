@@ -1,0 +1,9 @@
+Les ogres Crushridge
+====================
+
+Les ogres Crushridge ont fait des montagnes d'Alterac leur domaine. Descendants des brutes qui suivirent la Horde, ils se sont installés dans les ruines et les cavernes, chassant en bandes et fracassant tout ce qui ose passer. Leur nom vient de l'arête où ils ont établi leurs repaires, une crête déchiquetée qu'ils défendent à coups de massue. Ils sont forts, lents et terriblement obstinés, et ils considèrent les cols comme leur propriété. Les caravanes évitent leurs territoires, et les soldats qui s'y aventurent reviennent rarement entiers. Les Crushridge sont la loi brutale de la montagne, la preuve que là où un royaume s'effondre, une horde trouve toujours un trône de gravats.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ogres-crushridge

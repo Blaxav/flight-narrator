@@ -1,0 +1,9 @@
+Le rêve de Naralex
+==================
+
+Sous une oasis du nord des Tarides s'ouvrent les Cavernes des lamentations, et leur histoire commence par un rêve. Naralex, un druide elfe de la nuit, voulait rendre aux Tarides leur forêt d'antan. Il descendit dans ces grottes avec ses disciples pour puiser dans le Rêve d'émeraude et reverdir la plaine. Mais le rêve se retourna contre lui : un cauchemar s'empara des cavernes, tordit les eaux et les esprits, et Naralex lui-même sombra dans un sommeil sans fin. Ses fidèles furent corrompus, et le sanctuaire devint un piège vivant. Les Cavernes des lamentations tirent leur nom des gémissements qui en montent : le cri d'un espoir qui a pourri sous la terre et qui ne s'éteint pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : naralex

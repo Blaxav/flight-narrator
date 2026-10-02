@@ -1,0 +1,9 @@
+Surveiller le Pic
+=================
+
+Depuis la Veille de Morgan, on voit le Pic Rochenoire se découper sur l'horizon, et c'est tout son rôle. Le camp existe pour surveiller la montagne : les allées et venues des orcs Rochenoire, les vols des dragons noirs et les fumerolles des profondeurs. Les guetteurs y notent chaque signe, chaque mouvement, et transmettent leurs rapports aux capitales. La position est stratégique, mais aussi périlleuse, car les ennemis de la montagne n'aiment pas être observés. La Veille de Morgan est le regard de l'Alliance posé sur le Pic, et ce regard, la montagne le sent peser sur elle.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : surveiller-le-pic

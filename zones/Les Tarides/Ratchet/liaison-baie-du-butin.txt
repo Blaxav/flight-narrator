@@ -1,0 +1,9 @@
+La route des deux continents
+============================
+
+Depuis les docks de Ratchet, les navires tracent une route qui relie deux continents : ils appareillent vers la Baie-du-Butin, au sud des Royaumes de l'Est, et reviennent chargés de marchandises de l'autre bout du monde. Cette liaison maritime fait de Ratchet une plaque tournante, le point où Kalimdor et les royaumes de l'est échangent leurs richesses sans passer par les champs de bataille. Les capitaines y jouent leur vie contre les tempêtes et les pirates, mais l'or est au bout de la route. Grâce à ce va-et-vient, ce qui manque ici arrive par la mer, et ce qui abonde là-bas repart par les flots. Ratchet est la preuve que les océans unissent ce que les guerres divisent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : liaison-baie-du-butin

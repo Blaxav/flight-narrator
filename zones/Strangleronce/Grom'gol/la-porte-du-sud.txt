@@ -1,0 +1,9 @@
+La porte du sud
+===============
+
+Grom'gol est plus qu'un camp : c'est la porte du sud pour la Horde. De là partent les routes vers la Baie-du-Butin, vers les terres foudroyées et vers les comptoirs du bout du monde. Les caravanes y font étape, les messagers s'y croisent, et les renforts s'y rassemblent. Perdre Grom'gol, ce serait couper la Horde de toute la jungle et abandonner le sud à ses ennemis. C'est pourquoi le camp est défendu avec acharnement, même quand les assauts se multiplient. Grom'gol est le verrou de Strangleronce, et la Horde tient ce verrou d'une main ferme, car derrière lui s'ouvrent toutes les routes qu'elle ne veut pas perdre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-porte-du-sud

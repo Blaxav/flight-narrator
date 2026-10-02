@@ -1,0 +1,9 @@
+Les gardiens écailleux
+======================
+
+Les profondeurs du Temple englouti sont gardées par des dragons verts à la vigilance altérée. Dreamscythe et Weaver, drakes aux écailles de jade, montent la garde dans les salles inondées, crachant des souffles d'acide sur quiconque approche. Ils furent envoyés par le vol vert pour contenir la corruption du temple, mais les années passées dans cette ombre ont empoisonné leur rêve. Leur regard n'est plus tout à fait celui des serviteurs d'Ysera : une lueur trouble y danse, comme un cauchemar qui ne veut pas finir. À l'entrée du sanctuaire, d'autres dragons veillent encore, alliés malgré eux au culte qu'ils devaient détruire. Les affronter est un crève-cœur pour les protecteurs du rêve, mais la corruption ne laisse guère le choix.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-gardiens-ecailleux

@@ -1,0 +1,9 @@
+Mannoroc, terre démoniaque
+==========================
+
+Au sud de Désolace, un mal plus ancien que les centaures ronge la terre, autour des collines de Mannoroc. Des sectateurs de la Légion ardente y ont dressé leurs autels, et des démons patrouillent près de leurs camps, invoqués par une magie impie. On dit que ces cultistes cherchent à ouvrir une brèche vers le Néant distordu, et que leurs rituels empoisonnent déjà les sources alentour. Les centaures eux-mêmes évitent ces hauteurs maudites, où l'air semble vibrer d'une présence hostile. Pour l'Alliance comme pour la Horde, Mannoroc est une plaie qu'il faut cautériser sans tarder. Mais les démons ne cèdent pas aisément le terrain qu'ils ont souillé, et chaque victoire s'y paie au prix du sang.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : mannoroc

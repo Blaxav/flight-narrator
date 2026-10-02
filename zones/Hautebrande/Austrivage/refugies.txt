@@ -1,0 +1,9 @@
+Les réfugiés du port
+====================
+
+Les rues d'Austrivage débordent de réfugiés venus de tout Lordaeron. Des familles entières ont fui le Fléau et la guerre, et se sont arrêtées au bord de la mer, faute de pouvoir aller plus loin. Elles vivent dans des baraques, des auberges bondées, parfois à même les quais. La ville fait ce qu'elle peut : des soupes, des couvertures, des prières. Mais les ressources manquent, et l'avenir est sombre. Pourtant, ces réfugiés ne sont pas seulement des bouches à nourrir : ils sont la mémoire vivante du royaume, et leur présence rappelle pourquoi l'Alliance se bat. Austrivage les accueille comme elle peut, avec cette générosité bourrue des ports ouverts à tous les vents. Leur présence rappelle que la guerre n'est jamais bien loin.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : refugies

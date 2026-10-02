@@ -1,0 +1,9 @@
+Le Temple englouti
+==================
+
+Au cœur du Marais des Chagrins, à demi dévoré par les eaux, se dresse le Temple englouti d'Atal'Hakkar. Bâti par les trolls Atal'ai, prêtres hérétiques de l'empire gurubashi, il fut consacré au dieu sanguinaire Hakkar l'Écorcheur d'âmes. Quand les autres trolls découvrirent leurs sacrifices, ils rasèrent le temple et dispersèrent la secte ; mais les Atal'ai survécurent, reconstruisirent leur sanctuaire dans les marais et y poursuivirent leurs rites. Le temple finit par s'enfoncer, happé par la vase, sans jamais cesser d'être habité. Ses terrasses noyées, ses idoles serpentines et ses autels tachés gardent des secrets que les trolls ne veulent pas réveiller. Aujourd'hui, des aventuriers s'y glissent pour empêcher le retour d'Hakkar, au péril de leur âme.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : le-temple-englouti

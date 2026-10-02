@@ -1,0 +1,9 @@
+Les clans des tertres
+=====================
+
+Les Kraul abritent plusieurs clans quilboars, unis par la langue, la foi et la peur de l'extérieur. Chaque clan garde ses tertres, ses chamans et ses guerriers, et les querelles internes se règlent parfois à la défense, parfois à la sagesse. Les chasseurs y traquent le gibier des Mille Pointes, les cueilleuses y récoltent racines et champignons, et les chamans y interprètent les signes d'Agamaggan. La vie y est rude, rythmée par les saisons sèches et les raids des centaures. Mais les quilboars des Kraul n'ont rien de sauvages : ils tressent des paniers, gravent des totems et chantent des épopées au coin des feux. Leur société, refermée sur elle-même, se méfie des étrangers comme de la peste. Et dans les Mille Pointes, la méfiance est une armure.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-clans-des-tertres

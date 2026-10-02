@@ -1,0 +1,9 @@
+Le Cartel Gentepression
+=======================
+
+À Ratchet, ni la Horde ni l'Alliance ne dicte sa loi : c'est le Cartel Gentepression qui règne. Ce cartel gobelin a fait de la ville un sanctuaire de neutralité, où l'ennemi d'hier devient le client d'aujourd'hui. Les gardes du port, des matons à la mâchoire carrée, veillent moins à la justice qu'à la bonne tenue du commerce. Ici, la seule langue qui compte est l'or, et toutes les autres s'accordent avec lui. Les marchands des deux camps s'y croisent sans s'égorger, parce que la guerre fait fuir les affaires. Le Cartel Gentepression l'a compris : tant que l'argent coule, il protège tout le monde. À Ratchet, la neutralité n'est pas un idéal, c'est un modèle économique.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : cartel-gentepression

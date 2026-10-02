@@ -1,0 +1,9 @@
+Les épreuves du sommet
+======================
+
+Le Sommet du Pic Rochenoire n'est pas un simple couloir vers un trône : c'est une succession d'épreuves. Il faut traverser des salles de garde, affronter la Bête, un monstre enchaîné qui ne demande qu'à être libéré, et repousser les draconides qui fondent des galeries. Chaque palier est plus étroit, plus brûlant, plus mortel que le précédent. Les aventuriers y progressent en formation serrée, comme on monte à l'assaut d'une citadelle. Le sommet récompense la discipline et punit l'imprudence sans appel. C'est un chemin de braise qui mène au trône, et peu nombreux sont ceux qui en reviennent pour raconter ce qu'ils y ont vu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-epreuves-du-sommet

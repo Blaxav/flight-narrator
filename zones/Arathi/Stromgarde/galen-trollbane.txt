@@ -1,0 +1,9 @@
+Galen Trollbane
+===============
+
+Galen Trollbane était le prince de Stromgarde, héritier d'une lignée de rois. Mais la grandeur ne se transmet pas toujours avec le sang : rongé par l'ambition et la jalousie, Galen assassina son propre père, le roi Thoras, pour s'emparer de la couronne. Son crime lui donna une cité en ruines et un trône sans avenir. Depuis, il hante les décombres, fantôme vivant d'une dynastie qu'il a lui-même condamnée. Certains disent qu'il cherche à reprendre Stromgarde aux ogres, d'autres qu'il n'est plus qu'un brigand parmi les ruines. Galen Trollbane est la preuve que le pire ennemi d'un royaume n'est pas toujours à ses portes : parfois, il dort sous le même toit, une dague à la main.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : galen-trollbane

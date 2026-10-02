@@ -1,0 +1,9 @@
+Le port des elfes
+=================
+
+Auberdine est le port des elfes de la nuit sur la côte de Sombrivage, un havre de bois et de cordages dressé face à la mer grise. Ses quais s'avancent entre les rochers, ses voiles se gonflent au vent du large, et l'on y charge les marchandises venues de Teldrassil. Les navires y font escale à toute heure, guidés par les lanternes qui percent la brume. C'est un lieu d'activité et de veille, où l'on ne dort que d'un œil. Le port d'Auberdine est la porte de Sombrivage, la preuve que la côte sombre a besoin d'un seuil, et qu'elle l'a bâti sur l'eau.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : port

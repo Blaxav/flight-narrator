@@ -1,0 +1,9 @@
+Le bourg de Kharanos
+====================
+
+Kharanos est un bourg nain posé sur la route qui mène à Forgefer, à mi-chemin entre les vallées glacées et la grande cité. Ses maisons de pierre et de bois fument doucement dans le froid, et l'on y entend le bruit des ateliers et des tavernes. C'est un lieu de passage, où les voyageurs se réchauffent avant de reprendre la route, et où les montagnards viennent vendre leurs peaux et leur minerai. La vie y est simple et solide, rythmée par le travail et les saisons. Kharanos n'a pas la grandeur de Forgefer, mais elle en a la chaleur : on y est accueilli, nourri, et l'on y trouve toujours un feu et une histoire. C'est une porte du royaume nain, ouverte sur la montagne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : bourg

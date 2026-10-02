@@ -1,0 +1,9 @@
+La foi d'Agamaggan
+==================
+
+Les quilboars des Kraul vouent un culte farouche à Agamaggan, le sanglier ancien dont le sang, dit la légende, a donné naissance à leur peuple. Ce demi-dieu des âges anciens, immense et indomptable, incarne la fureur sacrée et la ténacité des leurs. Les chamans des Kraul entretiennent des autels de cornes et de défenses, où ils offrent des racines, des herbes et parfois du sang, pour que l'esprit d'Agamaggan guide leurs chasses et leurs guerres. On dit que sa bénédiction rend les guerriers plus féroces et les mères plus fécondes, et que son courroux fait trembler la terre. Les quilboars croient qu'Agamaggan reviendra un jour mener leur peuple vers la gloire. Cette foi les tient debout, même quand tout le monde les condamne.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-foi-d-agamaggan

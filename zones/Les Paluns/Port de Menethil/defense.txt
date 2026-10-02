@@ -1,0 +1,9 @@
+La défense du port
+==================
+
+Le Port de Menethil vit en état d'alerte. Les marais qui l'entourent grouillent d'ennemis : murlocs, gnolls, crocilisques et nains Sombrefer menacent les routes et les murs. La garnison monte la garde, les tours surveillent les abords, et les patrouilles sillonnent les digues. Les navires eux-mêmes sont armés, car les eaux côtières ne sont pas sûres. Cette vigilance a un prix, mais elle est indispensable : si le port tombait, tout le nord de l'Alliance serait coupé du monde. Les défenseurs de Menethil le savent, et ils tiennent bon, les pieds dans la boue et le regard tourné vers le large. Les canons et les tours rappellent que la mer ne protège pas de tout, loin de là.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : defense

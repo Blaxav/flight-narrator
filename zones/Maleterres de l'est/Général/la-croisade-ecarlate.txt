@@ -1,0 +1,9 @@
+La Croisade écarlate
+====================
+
+Au nord-est, la citadelle de la Main de Tyr abrite la Croisade écarlate, un ordre de fanatiques qui a juré d'éradiquer le Fléau par le fer et le feu. Née des survivants de Lordaeron, elle s'est peu à peu refermée sur sa propre intransigeance : quiconque n'est pas des leurs passe pour souillé. Ses inquisiteurs traquent les morts-vivants, mais aussi les voyageurs, les réfugiés et parfois leurs propres frères, au nom d'une pureté devenue folie. On raconte que des démons murmurent à l'oreille de leurs chefs, corrompant une cause jadis noble. Pourtant, la Croisade tient la Main de Tyr d'une poigne de fer, ses remparts garnis d'arbalétriers et ses cryptes bourrées de recrues endoctrinées. Mieux vaut contourner leurs patrouilles que croiser leurs bûchers.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-croisade-ecarlate

@@ -1,0 +1,9 @@
+Aux pieds des Serres-Rocheuses
+==============================
+
+L'ouest des Tarides bute sur les Serres-Rocheuses, dont les crêtes déchiquetées se dressent comme des crocs contre le ciel. C'est là que la plaine s'arrête et que la montagne commence, dans un chaos de ravins et de sentiers escarpés. Les cols qui s'y enfoncent mènent aux avant-postes de la Horde et aux mines de la région, mais ils sont étroits et faciles à tendre d'embuscades. Les harpies y nichent, les pillards y guettent, et chaque montée se paie de prudence. Pourtant, ces montagnes sont vitales : elles fournissent le bois, la pierre et l'acier dont la Horde a besoin. Aux pieds des Serres-Rocheuses, la savane se souvient qu'elle a des frontières, et qu'elles se défendent.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : frontiere-serres-rocheuses

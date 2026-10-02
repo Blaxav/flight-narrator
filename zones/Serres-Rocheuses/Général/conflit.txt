@@ -1,0 +1,9 @@
+Le conflit des factions
+=======================
+
+Les Serres-Rocheuses sont un champ de bataille entre la Horde et l'Alliance, qui s'y disputent les cols, le bois et les routes. Les avant-postes s'y regardent en chiens de faïence, les patrouilles s'y croisent à distance de flèche, et chaque virage peut cacher une embuscade. La montagne elle-même ne prend aucun parti, mais elle aggrave tout : les tempêtes, les chutes et les bêtes s'ajoutent aux lames. Le conflit des Serres-Rocheuses est une guerre d'usure en terrain vertical, la preuve que les factions se disputent jusqu'aux cailloux, et que la montagne, elle, reste indifférente.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : conflit

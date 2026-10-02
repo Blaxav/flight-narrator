@@ -1,0 +1,9 @@
+La révolte des ouvriers
+=======================
+
+Les Mortemines abritent moins des bandits que des ouvriers en colère. Beaucoup des masques rouges furent jadis des maçons, des charpentiers et des manœuvres qui ont bâti Hurlevent pierre après pierre. Ils dormaient sur les chantiers, nourrissaient leurs familles avec des salaires promis, puis se sont vu fermer les portes de la noblesse quand vint l'heure de payer. La Confrérie défias est née de cette colère, et ses rangs se sont gonflés de tous les laissés-pour-compte de la Marche de l'Ouest : fermiers ruinés, déserteurs, orphelins. Leurs motivations sont mêlées de juste rancœur et de basse rapine, et c'est ce qui rend leur cause si trouble. Les miliciens qui les combattent le savent : derrière chaque masque se cache parfois le visage d'un voisin.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-revolte-des-ouvriers

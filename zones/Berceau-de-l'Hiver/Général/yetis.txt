@@ -1,0 +1,9 @@
+Les yétis des cols
+==================
+
+Les yétis hantent les cols et les forêts du Berceau-de-l'Hiver, et leur fourrure épaisse les rend presque invisibles dans la neige. Ces créatures massives, proches des grands singes, vivent en groupes et défendent leurs territoires avec une violence aveugle. Les voyageurs apprennent à reconnaître leurs traces et à éviter leurs tanières, car un yéti en colère peut broyer un homme d'une seule main. Leur force en fait des cibles prisées des chasseurs, qui paient cher leurs peaux et leurs griffes. Mais le yéti ne se laisse pas chasser sans se défendre, et la montagne est pleine d'histoires de chasseurs qui ne sont pas rentrés. Ces créatures sont l'esprit sauvage de l'hiver, la preuve que la montagne ne pardonne pas aux imprudents.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : yetis

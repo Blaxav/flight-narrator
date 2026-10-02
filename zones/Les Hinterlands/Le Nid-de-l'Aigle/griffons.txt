@@ -1,0 +1,9 @@
+Les cavaliers de griffons
+=========================
+
+Les cavaliers de griffons du Nid-de-l'Aigle sont une élite redoutée. Dès leur plus jeune âge, les nains apprennent à connaître ces bêtes fières, à les nourrir, à les soigner et à voler avec elles. Un cavalier et son griffon forment un couple inséparable, qui se comprend d'un seul regard. Ensemble, ils patrouillent les cols, escortent les voyageurs et fondent sur l'ennemi avec la force d'un orage. Leur maîtrise du ciel est sans égale, et leur courage, légendaire. Les cavaliers de griffons sont la force de frappe des Marteau-Hardi, la preuve que les nains des hauteurs n'ont besoin ni de murs ni d'armées pour se faire craindre. On dit que le ciel leur appartient, et que le ciel est d'accord.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : griffons

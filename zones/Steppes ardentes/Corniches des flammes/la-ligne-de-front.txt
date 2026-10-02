@@ -1,0 +1,9 @@
+La ligne de front
+=================
+
+Depuis les Corniches des flammes, la Horde tient une ligne de front invisible. On y surveille les orcs Rochenoire qui s'accrochent au Pic, les dragons noirs qui patrouillent les cieux et les nains Sombrefer qui remontent des profondeurs. Les éclaireurs partent à l'aube et reviennent à la nuit, chargés de rapports et de blessures. La position est exposée, battue par les vents chauds et menacée par les créatures du feu, mais elle est tenue avec obstination. Les Corniches des flammes sont les yeux de la Horde dans les Steppes ardentes, et tant que ces yeux restent ouverts, rien ne bouge sans être vu.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-ligne-de-front

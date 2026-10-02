@@ -1,0 +1,9 @@
+La sentinelle de l'Alliance
+===========================
+
+La Veille de Morgan est un camp de l'Alliance dressé au bord des Steppes ardentes, sur les hauteurs qui font face au Pic Rochenoire. Ses murs de pierre et ses tours de guet en font un poste solide, l'un des rares refuges de la région. Des soldats de Hurlevent et de Forgefer y montent la garde, surveillant les routes et les crêtes sans relâche. C'est d'ici que l'Alliance organise ses expéditions vers la montagne et ses patrouilles dans les terres brûlées. La Veille de Morgan n'est pas une ville, mais une sentinelle : un point d'appui posé au seuil de l'enfer, pour que le feu ne s'étende pas jusqu'aux royaumes.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-sentinelle-de-l-alliance

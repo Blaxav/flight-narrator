@@ -1,0 +1,9 @@
+L'invasion des troggs
+=====================
+
+Ce sont les troggs qui ont précipité la perte de Gnomeregan. Sortis des profondeurs, ils envahirent les niveaux inférieurs de la cité, tuant et détruisant tout sur leur passage. Les défenses gnomes, si ingénieuses soient-elles, ne purent endiguer cette marée de brutes. Plutôt que d'accepter la défaite, Thermaplugg choisit la destruction, et les troggs eux-mêmes furent irradiés. Aujourd'hui, ils rôdent encore dans les ruines, plus sauvages que jamais, et disputent les couloirs aux gnomes lépreux et aux machines folles. L'invasion des troggs est l'étincelle qui mit le feu à la cité, la preuve qu'une civilisation, si brillante soit-elle, peut tomber devant la force brute quand la ruse tourne mal.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : troggs-gnomeregan

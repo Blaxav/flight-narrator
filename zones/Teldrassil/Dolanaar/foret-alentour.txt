@@ -1,0 +1,9 @@
+La forêt alentour
+=================
+
+Autour de Dolanaar, la forêt de Teldrassil est un monde à part entière, plus vaste et plus ancien que tout ce que les hommes connaissent. Les troncs y sont si larges que plusieurs elfes n'en feraient pas le tour, et les feuillages y tissent une voûte qui tamise la lumière en nappes vertes. Des sentiers s'y enfoncent, bordés de fougères et de fleurs pâles, vers des clairières secrètes et des puits de lune oubliés des cartes. Les bêtes y rôdent, discrètes, et les esprits de la forêt y chuchotent aux druides qui savent les entendre. C'est une forêt née de la magie de l'Arbre-monde, et elle ne se laisse pas traverser sans égards. Les gens de Dolanaar l'ont apprise par cœur, mais ils savent aussi qu'elle garde des mystères qui ne se livrent jamais.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : foret-alentour

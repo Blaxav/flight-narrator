@@ -1,0 +1,9 @@
+La trahison des Sabot-Sinistre
+==============================
+
+Depuis le Camp Mojache, les Taurens surveillent un danger plus proche que les ogres : la tribu des Sabot-Sinistre. Ces Taurens renégats ont rompu avec les enseignements de Cairne Sabot-Sanglant et complotent dans l'ombre de la forêt. On les dit prêts à tout pour imposer leur loi, même à s'allier avec les ennemis de la Horde. Les éclaireurs de Mojache traquent leurs campements et déjouent leurs embuscades, mais la menace demeure. Cette trahison est une blessure profonde pour les Taurens, car elle divise leur peuple au moment où il doit rester uni. Les Sabot-Sinistre rappellent que le danger ne vient pas toujours de l'extérieur : parfois, il porte le même visage que le vôtre, et il parle votre langue.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sabots-sinistres

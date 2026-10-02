@@ -1,0 +1,9 @@
+Les marais des Paluns
+=====================
+
+Vous planez au-dessus des Paluns, une immense étendue de marécages et de bras d'eau, posée entre les montagnes et la mer. Le brouillard y rampe sur les eaux noires, les roseaux y frémissent au passage des bêtes, et la pluie y tombe sans fin. C'est une terre basse, spongieuse, où chaque pas s'enfonce et où chaque sentier se perd. Les routes y sont rares, et les voyageurs s'y égarent facilement. Pourtant, les Paluns ne sont pas déserts : murlocs, gnolls et crocilisques y grouillent, et les nains y ont bâti des digues et des ponts. Les Paluns sont une frontière humide, un pays que l'eau dispute sans cesse à la terre. Les nains y entretiennent des digues que l'eau ne cesse de ronger.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : marais
