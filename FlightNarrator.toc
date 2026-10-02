@@ -1,9 +1,8 @@
 ## Interface: 11509
 ## Title: Flight Narrator
-## Notes: Reads a short line out loud while you fly. Flight narration with a shipped voice: /fn, /fn flight
+## Notes: Plays the Ratchet narration clip when a flight launches.
 ## Author: xavbl
 ## Version: 0.3.3
 ## DefaultState: enabled
-## SavedVariables: FlightNarratorDB
 
 FlightNarrator.lua
