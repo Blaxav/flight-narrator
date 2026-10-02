@@ -10,3 +10,7 @@ Thumbs.db
 
 # Throwaway voice audition samples; the shipped clips in voice/ are committed.
 voice/audition/
+
+# Python bytecode and generator logs.
+__pycache__/
+*.log
