@@ -1,9 +1,0 @@
-Bourg-du-Lac
-============
-
-Bourg-du-Lac est le bourg principal de Rougecrête, bâti au bord des eaux calmes du lac-étincelant. C'est une petite ville de bois et de pierre, où l'on pêche, où l'on commerce et où l'on écoute les nouvelles des montagnes. Ses habitants sont des gens simples et rudes, habitués aux longues veilles et aux alertes soudaines. Les soldats de Hurlevent y tiennent garnison, car les orcs ne sont jamais loin. Bourg-du-Lac est le cœur battant de Rougecrête, la preuve que la vie ordinaire résiste au milieu du danger, et qu'un village au bord de l'eau peut être un rempart.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : bourg-du-lac

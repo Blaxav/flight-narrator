@@ -1,0 +1,6 @@
+# Désolace / Maraudon — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+37.5;58.5
+40.5;58.5
+40.5;61.5
+37.5;61.5

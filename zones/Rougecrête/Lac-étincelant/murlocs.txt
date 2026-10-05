@@ -1,9 +1,0 @@
-Les murlocs des rives
-=====================
-
-Sur les rives du lac-étincelant, les murlocs ont établi leurs cahutes de branchages et de coquillages. Ces créatures amphibies au gloussement étrange sortent des roseaux pour piller les filets et harceler les pêcheurs. Ils ne sont pas très forts, mais ils sont nombreux, et leurs cris attirent toujours des renforts. Les villageois les chassent à coups de fourche et de torche, mais ils reviennent, obstinés comme la marée. Les murlocs du lac-étincelant sont l'ennui quotidien de Rougecrête, la preuve que les grands dangers ne sont pas toujours les plus usants, et que les petites menaces rongent la patience.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : murlocs

@@ -1,0 +1,4 @@
+0;28;Les Carmines;Lakeshire;
+0;53;Les Carmines;Général;
+34;61;Steppes ardentes;Veille de Morgan;
+53;61;Steppes ardentes;Général;

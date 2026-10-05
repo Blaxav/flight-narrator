@@ -1,9 +1,0 @@
-Les troggs des profondeurs
-==========================
-
-Les troggs sont le fléau de Loch Modan. Ces créatures primitives et brutales ont été déterrées des cavernes par les fouilles des nains, et elles n'ont jamais cessé depuis de hanter la région. Elles ont élu domicile dans les ravins et les grottes, d'où elles fondent sur les voyageurs avec des gourdins et des haches de fortune. Leur force vient du nombre et d'une fureur sans pensée, et elles s'attaquent à tout ce qui bouge. Les nains les repoussent sans cesse, mais elles reviennent, comme si la terre les recrachait. Les troggs sont la preuve que creuser sous les montagnes réveille parfois ce qui aurait dû dormir, et que Loch Modan paie encore le prix de ses fouilles.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : troggs

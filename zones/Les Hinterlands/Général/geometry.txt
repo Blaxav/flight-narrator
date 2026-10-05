@@ -1,0 +1,10 @@
+# Les Hinterlands / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+51.669;28.019
+63.688;26.334
+60.775;34.074
+57.724;36.282
+55.766;34.165
+53.49;34.848
+50.804;33.3
+50.667;29.384

@@ -1,0 +1,10 @@
+# Désolace / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+38.861;50.038
+41.08;50.095
+45.206;50.692
+45.861;53.14
+44.979;56.469
+45.491;62.132
+35.702;61.819
+36.328;54.392

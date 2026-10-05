@@ -1,0 +1,12 @@
+0;14;Les Tarides;Est;
+0;28;Les Tarides;Nord;
+0;32;Les Tarides;La Croisée;
+0;114;Les Tarides;Général;
+14;150;Les Tarides;Ouest;
+28;150;Les Tarides;Sud;
+93;133;Les Tarides;Camp Taurajo;
+114;210;Mulgore;Général;
+122;167;Les Tarides;Cavernes des lamentations;
+210;252;Feralas;Général;
+221;252;Feralas;Camp Mojache;
+227;233;Feralas;Thalanaar;

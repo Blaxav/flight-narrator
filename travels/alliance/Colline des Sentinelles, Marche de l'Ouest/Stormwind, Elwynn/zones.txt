@@ -1,0 +1,6 @@
+0;15;Marche de l'Ouest;Les Mortemines;
+0;23;Marche de l'Ouest;Colline des sentinelles;
+0;26;Marche de l'Ouest;Général;
+26;86;Elwynn;Général;
+64;86;Elwynn;Stormwind;
+67;86;Elwynn;La Prison;

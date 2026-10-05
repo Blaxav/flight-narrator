@@ -1,0 +1,8 @@
+# Les Carmines / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+50.388;68.691
+58.856;68.09
+62.116;71.569
+51.79;74.774
+49.86;74.228
+50.165;72.228

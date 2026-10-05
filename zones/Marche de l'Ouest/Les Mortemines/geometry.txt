@@ -1,0 +1,6 @@
+# Marche de l'Ouest / Les Mortemines — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+39.5;75.0
+42.5;75.0
+42.5;78.0
+39.5;78.0

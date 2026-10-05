@@ -1,9 +1,0 @@
-Les harpies des hauteurs
-========================
-
-Dans les nids perchés des Mille Pointes vivent les harpies, créatures ailées au visage de femme et aux serres d'oiseau de proie. Leurs cris perçants déchirent l'air des mesas, et leurs essaims fondent sur les voyageurs isolés pour les déchiqueter. Elles nichent dans les anfractuosités de la roche, entassant os, chiffons et trésors volés dans des cavernes battues par le vent. Leurs matriarches, plus grandes et plus cruelles, commandent aux nuées d'une voix stridente. Les taurens les redoutent, car les harpies s'attaquent aux kodos et aux enfants, et leur cruauté n'a pas de raison. Pourtant, certains aventuriers s'aventurent dans leurs nids, attirés par les colliers et les pierres précieuses que les harpies arrachent aux cadavres. Chaque trésor y est taché de sang.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : les-harpies-des-hauteurs

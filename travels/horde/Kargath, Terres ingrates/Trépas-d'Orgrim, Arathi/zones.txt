@@ -1,0 +1,9 @@
+0;22;Terres ingrates;Kargath;
+0;25;Terres ingrates;Général;
+0;26;Terres ingrates;Uldaman;
+25;71;Dun Morogh;Général;
+34;77;Loch Modan;Thelsamar;
+73;103;Loch Modan;Général;
+101;198;Les Paluns;Général;
+198;263;Arathi;Général;
+242;263;Arathi;Trépas-d'Orgrim;

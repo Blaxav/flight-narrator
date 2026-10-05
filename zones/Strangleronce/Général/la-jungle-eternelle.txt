@@ -1,9 +1,0 @@
-La jungle éternelle
-===================
-
-Vous planez au-dessus de Strangleronce, une jungle si dense que la lumière y descend par rares éclats, entre les lianes et les feuillages lourds d'humidité. Les rivières y serpentent comme des serpents, les ruines s'y noient sous la mousse, et la brume monte des sous-bois à la tombée du jour. C'est une terre ancienne, plus sauvage que toutes les frontières, où les routes se referment derrière le voyageur. Les trolls y règnent depuis des millénaires, et la forêt porte encore les cicatrices de leur empire déchu. Strangleronce ne se laisse pas traverser : elle s'explore, se combat et se redoute. Ici, la jungle n'est pas un décor, c'est une créature vivante qui n'aime pas les étrangers, et qui referme ses lianes sur ceux qui s'y attardent.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : la-jungle-eternelle

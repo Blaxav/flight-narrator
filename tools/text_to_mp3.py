@@ -1,40 +1,23 @@
 #!/usr/bin/env python3
-"""Turn text into an MP3 narration clip with a state-of-the-art, natural voice.
+"""Turn text into an MP3 narration clip with ElevenLabs.
 
-Three backends, chosen with --backend (or auto-detected):
+Single backend: ElevenLabs, the most natural intonation for French. The deep
+storyteller voice is "Martin Dupont" (a5n9pJUnAhX4fn7lx3uo), with model
+eleven_v4 (the latest, most emotive model). Needs
+ELEVENLABS_API_KEY.
 
-    openai      gpt-4o-mini-tts (or tts-1-hd for quality). The voice is steered with a natural
-                language "instructions" prompt, which is exactly what you want for
-                "voix grave, lecture lente, narrateur de conte". Deep male voice:
-                onyx. Needs OPENAI_API_KEY.
-    elevenlabs  Eleven v4 / Multilingual v2. Widely considered the most natural
-                intonation for French; deep storyteller voice "Antoni" (or Daniel,
-                George). Needs ELEVENLABS_API_KEY.
-    edge        Microsoft Edge neural TTS (free, no account, no key) - the
-                previous default, kept as a zero-setup fallback.
-
-Without any API key, --backend auto falls back to edge so the tool always works.
-Set OPENAI_API_KEY or ELEVENLABS_API_KEY (or pass --api-key) to unlock the
-state-of-the-art backends.
+Every text is prefixed with "[lentement]" (slow) before it is sent, and the
+delivery is steered by the voice settings below (stability/similarity/style).
 
 Examples:
 
-    python tools/text_to_mp3.py "Vous quittez Hurlevent derriere vous, cap au nord vers la foret d'Elwynn."
-    python tools/text_to_mp3.py --backend openai -o elwynn.mp3 "Votre texte ici..."
-    python tools/text_to_mp3.py --backend elevenlabs --model eleven_v4 -o elwynn.mp3 --text-file lore.txt
+    python tools/text_to_mp3.py "Vous quittez Stormwind derriere vous, cap au nord vers la foret d'Elwynn."
+    python tools/text_to_mp3.py --model eleven_v4 -o elwynn.mp3 --text-file lore.txt
 
-    setx OPENAI_API_KEY "sk-..."      # then re-open the terminal
     setx ELEVENLABS_API_KEY "..."     # then re-open the terminal
-
-Notes:
-  * OpenAI  "instructions" steer intonation, pacing and emotion (the default is a
-            deep, slow, storyteller prompt in French).
-  * ElevenLabs stability/similarity/style control the delivery; for a solemn
-    storyteller keep stability ~0.5 and style low.
 """
 
 import argparse
-import asyncio
 import json
 import os
 import re
@@ -43,29 +26,63 @@ import unicodedata
 import urllib.error
 import urllib.request
 
-import edge_tts
+# Deep French storyteller voice (the closest to the WoW narrator).
+DEFAULT_VOICE = "a5n9pJUnAhX4fn7lx3uo"  # Martin Dupont, deep warm French storyteller
+DEFAULT_MODEL = "eleven_v4"  # latest, most emotive
 
-# Deep storyteller voice for each backend (the closest to the WoW narrator).
-DEFAULT_VOICE = {
-    "openai": "onyx",          # deep, calm male; echo/ash/verse are the other males
-    "elevenlabs": "Antoni",    # deep, warm storyteller; Daniel/George also work
-    "edge": "fr-FR-HenriNeural",
-}
+# Smallest MP3 ElevenLabs offers: 22.05 kHz, 32 kbps, mono. Voice-only narration
+# stays perfectly intelligible at this bitrate and files are ~4x smaller than the
+# default mp3_44100_128 (stereo). See --output-format for other values, e.g.
+# mp3_44100_64 (mono, a touch fuller) or opus_48000_32 (Opus in an OGG container).
+DEFAULT_OUTPUT_FORMAT = "mp3_22050_32"
 
-DEFAULT_MODEL = {
-    "openai": "gpt-4o-mini-tts",            # alternatives: tts-1 (fast), tts-1-hd (quality)
-    "elevenlabs": "eleven_multilingual_v2",  # eleven_v4 = latest, most emotive
-    "edge": None,
-}
+ELEVENLABS_URL = "https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format={output_format}"
 
-OPENAI_DEFAULT_INSTRUCTIONS = (
-    "Parle d'une voix grave, posee et lente, comme un narrateur de conte qui "
-    "raconte une legende au coin du feu. Articule bien, laisse des pauses "
-    "naturelles, et donne de l'emotion a l'histoire."
+# Prepended to every text before it is sent to ElevenLabs.
+PREFIX = "[lentement] "
+
+# Allowed ElevenLabs output formats (codec_sample_rate_bitrate).
+OUTPUT_FORMATS = (
+    "alaw_8000",
+    "mp3_22050_32",
+    "mp3_24000_48",
+    "mp3_44100_32",
+    "mp3_44100_64",
+    "mp3_44100_96",
+    "mp3_44100_128",
+    "mp3_44100_192",
+    "opus_48000_32",
+    "opus_48000_64",
+    "opus_48000_96",
+    "opus_48000_128",
+    "opus_48000_192",
+    "pcm_8000",
+    "pcm_16000",
+    "pcm_22050",
+    "pcm_24000",
+    "pcm_32000",
+    "pcm_44100",
+    "pcm_48000",
+    "ulaw_8000",
+    "wav_8000",
+    "wav_16000",
+    "wav_22050",
+    "wav_24000",
+    "wav_32000",
+    "wav_44100",
+    "wav_48000",
 )
 
-ELEVENLABS_URL = "https://api.elevenlabs.io/v1/text-to-speech/{voice}"
-OPENAI_URL = "https://api.openai.com/v1/audio/speech"
+
+def default_extension(output_format: str) -> str:
+    """Return the file extension matching an ElevenLabs output format."""
+    if output_format.startswith("opus"):
+        return ".ogg"
+    if output_format.startswith(("wav", "pcm")):
+        return ".wav"
+    if output_format.startswith(("ulaw", "alaw")):
+        return ".raw"
+    return ".mp3"
 
 
 def slugify(text: str) -> str:
@@ -86,16 +103,6 @@ def read_text(args: argparse.Namespace) -> str:
     if not sys.stdin.isatty():
         return sys.stdin.read().strip()
     raise SystemExit("no text given: pass it as an argument, with --text-file, or on stdin")
-
-
-def resolve_backend(requested: str) -> str:
-    if requested != "auto":
-        return requested
-    if os.environ.get("ELEVENLABS_API_KEY"):
-        return "elevenlabs"
-    if os.environ.get("OPENAI_API_KEY"):
-        return "openai"
-    return "edge"
 
 
 def load_dotenv() -> None:
@@ -134,38 +141,11 @@ def _post_json(url: str, payload: dict, headers: dict) -> bytes:
         raise SystemExit(f"request failed ({error.code}): {detail}") from None
 
 
-async def render_edge(text, voice, rate, pitch, volume, output) -> None:
-    kwargs = {"rate": rate}
-    if pitch:
-        kwargs["pitch"] = pitch
-    if volume:
-        kwargs["volume"] = volume
-    communicate = edge_tts.Communicate(text, voice, **kwargs)
-    await communicate.save(output)
-
-
-def render_openai(text, voice, model, instructions, output, api_key) -> None:
+def render_elevenlabs(text, voice, model, stability, similarity, style, output, api_key, output_format=DEFAULT_OUTPUT_FORMAT) -> None:
     if not api_key:
-        raise SystemExit("--backend openai needs OPENAI_API_KEY (or --api-key).")
+        raise SystemExit("ELEVENLABS_API_KEY is missing (or pass --api-key).")
     payload = {
-        "model": model,
-        "voice": voice,
-        "input": text,
-        "instructions": instructions,
-        "response_format": "mp3",
-    }
-    audio = _post_json(OPENAI_URL, payload, {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    })
-    _write(audio, output)
-
-
-def render_elevenlabs(text, voice, model, stability, similarity, style, output, api_key) -> None:
-    if not api_key:
-        raise SystemExit("--backend elevenlabs needs ELEVENLABS_API_KEY (or --api-key).")
-    payload = {
-        "text": text,
+        "text": PREFIX + text,
         "model_id": model,
         "voice_settings": {
             "stability": stability,
@@ -174,7 +154,7 @@ def render_elevenlabs(text, voice, model, stability, similarity, style, output, 
             "use_speaker_boost": True,
         },
     }
-    audio = _post_json(ELEVENLABS_URL.format(voice=voice), payload, {
+    audio = _post_json(ELEVENLABS_URL.format(voice=voice, output_format=output_format), payload, {
         "xi-api-key": api_key,
         "Content-Type": "application/json",
     })
@@ -189,31 +169,24 @@ def _write(audio: bytes, output: str) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Turn text into an MP3 narration clip with a deep, slow storyteller voice.",
-        epilog="Backends: openai (steerable intonation), elevenlabs (most natural French), edge (free, no key).",
+        epilog="Backend: ElevenLabs (Martin Dupont, deep French storyteller).",
     )
     parser.add_argument("text", nargs="*", help="The text to speak (joined with spaces).")
     parser.add_argument("-o", "--output", help="Output MP3 path. Defaults to <slug>.mp3 in the current folder.")
     parser.add_argument("--text-file", metavar="PATH", help="Read the text from this UTF-8 file instead of the command line.")
 
-    parser.add_argument("--backend", choices=["auto", "openai", "elevenlabs", "edge"], default="auto",
-                        help="Which engine to use (default: auto = elevenlabs/openai if a key is set, else edge).")
     parser.add_argument("--voice", default=None,
-                        help="Voice name/id. Defaults per backend: openai=onyx, elevenlabs=Antoni, edge=fr-FR-HenriNeural.")
+                        help="ElevenLabs voice name/id (default: Martin Dupont).")
     parser.add_argument("--model", default=None,
-                        help="Model id. Defaults per backend: openai=gpt-4o-mini-tts, elevenlabs=eleven_multilingual_v2.")
+                        help="ElevenLabs model id (default: eleven_v4).")
     parser.add_argument("--api-key", default=None,
-                        help="API key. Defaults to $OPENAI_API_KEY or $ELEVENLABS_API_KEY.")
+                        help="API key. Defaults to $ELEVENLABS_API_KEY.")
 
-    parser.add_argument("--instructions", default=None,
-                        help="(openai) Natural-language style prompt steering intonation, pacing, emotion.")
-
-    parser.add_argument("--rate", default="-15%", help="(edge) Speed, e.g. -15%% or -20%%.")
-    parser.add_argument("--pitch", default=None, help="(edge) Pitch shift, e.g. -8Hz for a deeper voice.")
-    parser.add_argument("--volume", default=None, help="(edge) Volume, e.g. -5%%.")
-
-    parser.add_argument("--stability", type=float, default=0.5, help="(elevenlabs) 0-1, higher = more consistent/less expressive.")
-    parser.add_argument("--similarity", type=float, default=0.75, help="(elevenlabs) 0-1, closeness to the reference voice.")
+    parser.add_argument("--stability", type=float, default=0.15, help="(elevenlabs) 0-1, higher = more consistent/less expressive.")
+    parser.add_argument("--similarity", type=float, default=0.09, help="(elevenlabs) 0-1, closeness to the reference voice.")
     parser.add_argument("--style", type=float, default=0.2, help="(elevenlabs) 0-1, higher = more expressive performance.")
+    parser.add_argument("--output-format", choices=OUTPUT_FORMATS, default=None,
+                        help=f"output codec/bitrate (default: {DEFAULT_OUTPUT_FORMAT}, a small mono MP3).")
     args = parser.parse_args()
 
     load_dotenv()
@@ -222,25 +195,14 @@ def main() -> int:
     if not text:
         raise SystemExit("the text is empty")
 
-    backend = resolve_backend(args.backend)
-    voice = args.voice or DEFAULT_VOICE[backend]
-    output = args.output or (slugify(text) + ".mp3")
+    voice = args.voice or DEFAULT_VOICE
+    model = args.model or DEFAULT_MODEL
+    api_key = args.api_key or os.environ.get("ELEVENLABS_API_KEY")
+    output_format = args.output_format or DEFAULT_OUTPUT_FORMAT
+    output = args.output or (slugify(text) + default_extension(output_format))
 
-    if backend == "edge":
-        asyncio.run(render_edge(text, voice, args.rate, args.pitch, args.volume, output))
-        print(f"[edge] rendered {output} with {voice} at {args.rate}")
-        print("tip: set OPENAI_API_KEY or ELEVENLABS_API_KEY for state-of-the-art intonation")
-    elif backend == "openai":
-        model = args.model or DEFAULT_MODEL["openai"]
-        instructions = args.instructions or OPENAI_DEFAULT_INSTRUCTIONS
-        api_key = args.api_key or os.environ.get("OPENAI_API_KEY")
-        render_openai(text, voice, model, instructions, output, api_key)
-        print(f"[openai] rendered {output} with {voice} ({model})")
-    else:  # elevenlabs
-        model = args.model or DEFAULT_MODEL["elevenlabs"]
-        api_key = args.api_key or os.environ.get("ELEVENLABS_API_KEY")
-        render_elevenlabs(text, voice, model, args.stability, args.similarity, args.style, output, api_key)
-        print(f"[elevenlabs] rendered {output} with {voice} ({model})")
+    render_elevenlabs(text, voice, model, args.stability, args.similarity, args.style, output, api_key, output_format)
+    print(f"[elevenlabs] rendered {output} with {voice} ({model}, {output_format})")
     return 0
 
 

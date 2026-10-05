@@ -1,0 +1,9 @@
+0;31;Marais des Chagrins;Stonard;
+0;31;Marais des Chagrins;Temple englouti;
+0;45;Marais des Chagrins;Général;
+45;130;Les Carmines;Général;
+65;102;Les Carmines;Lakeshire;
+109;170;Steppes ardentes;Veille de Morgan;
+129;197;Steppes ardentes;Général;
+167;197;Steppes ardentes;Corniches des flammes;
+183;197;Steppes ardentes;Profondeurs de Rochenoire;

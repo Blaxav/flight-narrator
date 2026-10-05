@@ -1,0 +1,7 @@
+0;21;Les Tarides;Camp Taurajo;
+0;60;Les Tarides;Ouest;
+0;60;Les Tarides;Sud;
+0;104;Les Tarides;Général;
+48;53;Marécage d'Âprefange;Mur-de-Fougères;
+104;125;Mille Pointes;Général;
+105;125;Mille Pointes;Poste de Librevent;

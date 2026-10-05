@@ -1,0 +1,7 @@
+# Feralas / Thalanaar — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+46.55;68.63
+50.55;68.63
+50.55;72.63
+46.55;72.63

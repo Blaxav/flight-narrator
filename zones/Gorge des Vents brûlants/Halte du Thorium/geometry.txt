@@ -1,0 +1,7 @@
+# Gorge des Vents brûlants / Halte du Thorium — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+46.57;57.77
+50.57;57.77
+50.57;61.77
+46.57;61.77

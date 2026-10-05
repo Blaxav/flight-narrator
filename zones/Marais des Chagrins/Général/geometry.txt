@@ -1,0 +1,7 @@
+# Marais des Chagrins / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+51.751;74.81
+59.746;72.297
+59.601;75.521
+56.942;78.453
+52.389;78.07

@@ -1,9 +1,0 @@
-Le premier berceau
-==================
-
-Aldrassil est le berceau des jeunes elfes de la nuit de Teldrassil, le lieu où l'on apprend à devenir soi-même. C'est là qu'ils apprennent à bander un arc, à suivre une piste et à reconnaître les voix innombrables de la forêt. Les Sentinelles y instruisent les nouvelles générations, transmettant des gestes vieux de dix mille ans, patiemment répétés sous les feuillages. Les druides, eux, enseignent le respect du vivant, le silence qui écoute et la patience des racines. L'endroit respire la transmission et la lenteur, loin des bruits du monde et de ses guerres. Chaque génération y puise ce que les précédentes ont déposé, comme l'on puise à un puits sans jamais l'épuiser. Aldrassil n'est pas seulement un village : c'est la mémoire des elfes de la nuit qui se transmet, génération après génération, à l'ombre d'un arbre immobile et tutélaire.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : premier-berceau

@@ -1,0 +1,6 @@
+0;16;Sombrivage;Bashal'Aran;
+0;39;Sombrivage;Auberdine;
+0;76;Sombrivage;Général;
+76;77;Gangrebois;Général;
+77;128;Sombrivage;Général;
+128;151;Reflet-de-Lune;Général;

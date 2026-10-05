@@ -1,0 +1,8 @@
+0;18;Les Tarides;Est;
+0;23;Les Tarides;La Croisée;
+0;82;Les Tarides;Général;
+0;88;Les Tarides;Nord;
+18;88;Les Tarides;Ouest;
+80;180;Ashenvale;Général;
+179;253;Gangrebois;Général;
+231;253;Gangrebois;Poste de la Vénéneuse;

@@ -1,9 +1,0 @@
-Le village de Thalanaar
-=======================
-
-Vous survolez Thalanaar, un village des elfes de la nuit posé à la lisière orientale de Féralas. Ses maisons de bois clair s'alignent autour d'un puits de lune, et les sentiers mènent vers la forêt d'un côté, vers les terres arides de l'autre. C'est un lieu paisible, presque à l'écart des grandes guerres, mais sa position en fait une sentinelle avancée du peuple kaldorei. Les elfes y vivent simplement, entre la cueillette, la prière et la garde. On y répare les arcs, on y tresse les paniers, et l'on y raconte les anciennes histoires à la veillée. Thalanaar n'a pas la puissance de Pennelune ni le tumulte des grandes cités : c'est un village qui veille, discret et obstiné, à la frontière du monde kaldorei.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : village

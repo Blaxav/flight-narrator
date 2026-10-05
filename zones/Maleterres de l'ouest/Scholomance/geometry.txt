@@ -1,0 +1,6 @@
+# Maleterres de l'ouest / Scholomance — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+47.5;25.5
+50.5;25.5
+50.5;28.5
+47.5;28.5

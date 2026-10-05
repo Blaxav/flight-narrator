@@ -1,0 +1,10 @@
+# Steppes ardentes / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+46.021;62.716
+48.239;63.665
+50.989;63.137
+60.55;63.319
+60.352;67.874
+50.37;68.782
+47.351;68.088
+45.293;65.502

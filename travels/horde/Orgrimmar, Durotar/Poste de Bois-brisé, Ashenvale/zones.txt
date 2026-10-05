@@ -1,0 +1,6 @@
+0;28;Durotar;Gouffre de Ragefeu;
+0;34;Durotar;Général;
+0;38;Durotar;Orgrimmar;
+39;48;Les Tarides;Général;
+47;89;Ashenvale;Général;
+52;89;Ashenvale;Poste de Bois-brisé;

@@ -1,0 +1,9 @@
+Les embuscades elfiques
+=======================
+
+Le poste de Bois-brisé est un îlot de la Horde perdu dans une forêt qui ne lui pardonne pas. Autour de ses palissades, les Sentinelles de la nuit mènent une guerre d'ombres : une flèche siffle, un orc s'effondre, et le feuillage se referme déjà sur la tireuse invisible. Elles coupent les cordes, empoisonnent les points d'eau et frappent les convois sans jamais livrer bataille. Cette tactique n'a rien d'improvisé : les elfes de la nuit défendent Ashenvale ainsi depuis que la Horde y abat ses arbres, au lendemain de la Troisième Guerre. Pour eux, chaque tronc coupé est un sacrilège, et chaque embuscade une prière rendue à Elune. Bois-brisé tient, mais il sait que la forêt le regarde, et qu'elle n'a jamais cessé de viser.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : embuscades

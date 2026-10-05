@@ -1,0 +1,7 @@
+# Les Paluns / Port de Menethil — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+45.59;45.83
+49.59;45.83
+49.59;49.83
+45.59;49.83

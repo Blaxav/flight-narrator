@@ -1,0 +1,7 @@
+0;21;Les Tarides;Camp Taurajo;
+0;62;Les Tarides;Sud;
+0;63;Les Tarides;Ouest;
+0;79;Les Tarides;Général;
+59;79;Les Tarides;La Croisée;
+62;79;Les Tarides;Nord;
+63;79;Les Tarides;Est;

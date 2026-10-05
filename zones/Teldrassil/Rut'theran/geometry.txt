@@ -1,0 +1,7 @@
+# Teldrassil / Rut'theran — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+42.49;14.94
+46.49;14.94
+46.49;18.94
+42.49;18.94

@@ -1,0 +1,9 @@
+Les trois ailes de la cité
+==========================
+
+Hache-Tripes fut jadis Eldre'Thalas, une cité des elfes de la nuit vouée à la magie, bâtie dix mille ans avant que la Fracture ne l'épargne. Aujourd'hui, elle est coupée en trois. À l'est, la forêt a repris ses droits sur les ruines. À l'ouest, les bien-nés survivants, les Shen'dralar, errent sous la coupe du prince Tortheldrin, qui draine un démon captif pour prolonger sa vie. Au nord, les ogres Gordok ont installé leur cour, et leur roi trône au milieu des coffres. Trois ailes, trois maîtres, une seule cité perdue. Hache-Tripes est la preuve qu'une civilisation, même immortelle, peut sombrer dans l'orgueil et le déclin.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ailes

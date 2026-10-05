@@ -1,0 +1,8 @@
+0;3;Mulgore;Camp Narache;
+0;41;Mulgore;Thunder Bluff;
+0;64;Mulgore;Général;
+3;64;Mulgore;Village des Sabot-Sanglant;
+62;134;Désolace;Général;
+97;155;Désolace;Combe de Nijel;
+131;182;Serres-Rocheuses;Général;
+142;182;Serres-Rocheuses;Retraite de Roche-Soleil;

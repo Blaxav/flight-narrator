@@ -1,0 +1,7 @@
+0;26;Tirisfal;Général;
+0;41;Tirisfal;Undercity;
+0;49;Tirisfal;Brill;
+27;141;Montagnes d'Alterac;Général;
+60;82;Montagnes d'Alterac;Ruines d'Alterac;
+82;100;Maleterres de l'ouest;Andorhal;
+101;141;Hillsbrad;Moulin-de-Tarren;

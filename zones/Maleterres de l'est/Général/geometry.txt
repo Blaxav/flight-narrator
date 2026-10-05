@@ -1,0 +1,11 @@
+# Maleterres de l'est / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+51.805;19.163
+53.535;16.818
+60.615;16.204
+64.326;24.695
+63.097;26.38
+59.545;26.903
+53.877;27.768
+54.15;25.97
+52.966;22.965

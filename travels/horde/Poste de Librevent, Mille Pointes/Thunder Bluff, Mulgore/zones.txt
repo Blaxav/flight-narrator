@@ -1,0 +1,9 @@
+0;26;Mille Pointes;Poste de Librevent;
+0;34;Mille Pointes;Général;
+13;20;Mille Pointes;Souilles de Tranchebauge (Downs);
+35;116;Les Tarides;Général;
+85;137;Les Tarides;Ouest;
+85;137;Les Tarides;Sud;
+113;225;Mulgore;Général;
+124;154;Les Tarides;Cavernes des lamentations;
+200;225;Mulgore;Thunder Bluff;

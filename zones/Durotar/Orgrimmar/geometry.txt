@@ -1,0 +1,7 @@
+# Durotar / Orgrimmar — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+55.98;43.78
+59.98;43.78
+59.98;47.78
+55.98;47.78

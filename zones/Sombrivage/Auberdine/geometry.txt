@@ -1,0 +1,7 @@
+# Sombrivage / Auberdine — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+43.20;24.35
+47.20;24.35
+47.20;28.35
+43.20;28.35

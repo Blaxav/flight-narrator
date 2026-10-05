@@ -1,9 +1,0 @@
-Les sentinelles de la forêt
-===========================
-
-Les sentinelles d'Astranaar sont les guerrières qui gardent Orneval. Vêtues de lune et de feuillage, elles patrouillent les sentiers, surveillent les ponts et frappent sans bruit. Leur discipline est héritée des longues veilles qui suivirent la chute de l'ancien monde, et leur loyauté va d'abord à la forêt et à la déesse Elune. Elles connaissent chaque cachette, chaque gué, chaque branche qui craque. Les sentinelles d'Orneval sont le rempart vivant de la forêt, la preuve que la vigilance elfique est une arme plus fine que l'acier, et qu'elle ne dort jamais.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : sentinelles

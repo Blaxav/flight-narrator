@@ -1,0 +1,6 @@
+# Les Hinterlands / Jintha'Alor — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+56.5;32.0
+59.5;32.0
+59.5;35.0
+56.5;35.0

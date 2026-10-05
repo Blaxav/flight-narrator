@@ -1,0 +1,9 @@
+La frontière aride
+==================
+
+À l'est de Thalanaar, la forêt s'arrête net, comme si la terre refusait d'aller plus loin. Au-delà commencent les hauteurs sèches de Mille Pointes, un pays de roc, de vent et de centaures. Les elfes de Thalanaar vivent avec ce contraste : d'un côté l'ombre verte et fraîche de Feralas, de l'autre la lumière crue des terres arides. Cette frontière n'est pas seulement géographique, elle est aussi symbolique. Thalanaar marque le point où la civilisation kaldorei s'avance jusqu'aux confins de son ancien empire. Ici, la forêt et le désert se regardent en chiens de faïence, et le village tient bon entre les deux, comme un trait d'union fragile entre deux mondes que tout oppose. Les sentinelles y veillent, comme pour empêcher le désert de gagner un pouce.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : frontiere-aride

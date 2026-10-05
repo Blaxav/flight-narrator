@@ -1,0 +1,12 @@
+0;24;Gorge des Vents brûlants;Halte du Thorium;
+0;41;Gorge des Vents brûlants;Général;
+9;45;Steppes ardentes;Sommet du Pic Rochenoire;
+15;51;Steppes ardentes;Bas du Pic Rochenoire;
+15;51;Steppes ardentes;Repaire de l'Aile noire;
+21;51;Steppes ardentes;Cœur du Magma;
+21;56;Steppes ardentes;Pic Rochenoire;
+22;31;Terres ingrates;Kargath;
+27;62;Steppes ardentes;Profondeurs de Rochenoire;
+28;75;Steppes ardentes;Corniches des flammes;
+41;96;Steppes ardentes;Général;
+73;96;Steppes ardentes;Veille de Morgan;

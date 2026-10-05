@@ -1,0 +1,4 @@
+0;67;Ashenvale;Astranaar;
+0;108;Ashenvale;Général;
+87;153;Serres-Rocheuses;Pic des Serres-Rocheuses;
+104;153;Serres-Rocheuses;Général;

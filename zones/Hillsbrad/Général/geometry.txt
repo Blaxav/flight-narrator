@@ -1,0 +1,9 @@
+# Hillsbrad / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+44.27;33.004
+48.083;31.707
+50.508;31.479
+50.826;33.163
+49.643;35.781
+49.574;39.128
+42.677;36.464

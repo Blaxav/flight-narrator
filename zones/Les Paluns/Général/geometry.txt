@@ -1,0 +1,9 @@
+# Les Paluns / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+49.03;41.948
+53.697;42.175
+59.434;41.811
+60.982;47.98
+56.087;50.735
+52.445;51.122
+46.071;48.14

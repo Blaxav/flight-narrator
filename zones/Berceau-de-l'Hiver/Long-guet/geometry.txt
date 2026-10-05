@@ -1,0 +1,7 @@
+# Berceau-de-l'Hiver / Long-guet — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+57.01;22.90
+61.01;22.90
+61.01;26.90
+57.01;26.90

@@ -1,9 +1,0 @@
-Le Tram des Profondeurs
-=======================
-
-Sous les montagnes court le Tram des Profondeurs, une merveille d'ingénierie gnomique qui relie Forgefer à Hurlevent. Ce long tunnel traverse les entrailles du monde, porté par des machines dont les rouages tournent sans fin. Les voyageurs y montent dans des wagons de fer, et filent dans la pénombre, entre deux capitales de l'Alliance, en un temps que les routes de surface ne permettent pas. Le tram est un exploit, né de l'amitié entre nains et gnomes, et un lien vital pour le ravitaillement et les renforts. Mais sous la roche, tout voyage garde un air de mystère, et l'on n'y croise que le reflet des lanternes. Le Tram des Profondeurs est la preuve que l'Alliance sait aussi creuser pour se tenir.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : tram

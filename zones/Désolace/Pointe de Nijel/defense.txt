@@ -1,9 +1,0 @@
-La défense contre les centaures
-===============================
-
-Les centaures sont la menace la plus immédiate pour la Pointe de Nijel. Leurs clans, toujours en quête de butin et de gloire, lancent des raids contre l'avant-poste, et les sentinelles les repoussent flèche après flèche. Les assauts sont brefs mais féroces, et chaque nuit peut apporter son lot d'alarmes. Les elfes ont appris à lire les signes : la poussière soulevée au loin, les cris dans les collines, le silence soudain des charognards. Elles frappent vite, sans laisser aux assaillants le temps de se regrouper. La Pointe de Nijel tient parce que ses défenseurs ne dorment jamais vraiment. Ici, survivre, c'est rester en alerte, et chaque aube sans attaque est une victoire silencieuse remportée sur la plaine.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : defense

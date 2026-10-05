@@ -1,0 +1,12 @@
+0;41;Marécage d'Âprefange;Theramore;
+0;103;Marécage d'Âprefange;Général;
+53;99;Marécage d'Âprefange;Mur-de-Fougères;
+97;206;Les Tarides;Sud;
+102;186;Les Tarides;Général;
+108;163;Les Tarides;Camp Taurajo;
+119;206;Les Tarides;Ouest;
+182;281;Mulgore;Général;
+217;263;Mulgore;Thunder Bluff;
+227;286;Mulgore;Village des Sabot-Sanglant;
+280;334;Désolace;Général;
+294;334;Désolace;Combe de Nijel;

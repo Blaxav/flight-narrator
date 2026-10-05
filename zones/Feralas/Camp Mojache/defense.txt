@@ -1,0 +1,9 @@
+Un rempart contre les ogres
+===========================
+
+Le Camp Mojache n'est pas seulement un refuge : c'est un rempart. À quelques lieues de là, les ogres Gordunni se multiplient et menacent les routes. Les guerriers taurens montent la garde nuit et jour, et les palissades du camp sont régulièrement renforcées. Chaque caravane qui part vers Mulgore ou vers le sud est escortée, car les ogres attaquent sans prévenir et ne font pas de quartier. Pourtant, les Taurens ne se contentent pas de se défendre : ils frappent les repaires des Gordunni pour briser leur emprise sur la forêt. C'est une guerre d'usure, lente et silencieuse, où chaque clairière se paie cher. Le Camp Mojache tient, et tant qu'il tiendra, la route de Feralas restera ouverte pour la Horde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : defense

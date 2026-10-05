@@ -1,0 +1,6 @@
+0;36;Désolace;Proie-de-l'Ombre;
+0;42;Désolace;Maraudon;
+0;50;Désolace;Général;
+50;196;Feralas;Général;
+121;160;Feralas;Hache-Tripes;
+161;196;Feralas;Camp Mojache;

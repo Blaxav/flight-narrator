@@ -1,0 +1,7 @@
+# Elwynn / Stormwind — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+41.84;67.27
+45.84;67.27
+45.84;71.27
+41.84;71.27

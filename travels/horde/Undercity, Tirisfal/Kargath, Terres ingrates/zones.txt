@@ -1,0 +1,18 @@
+0;18;Tirisfal;Général;
+0;28;Tirisfal;Undercity;
+0;34;Tirisfal;Brill;
+17;24;Forêt des Pins argentés;Général;
+23;107;Montagnes d'Alterac;Général;
+40;81;Montagnes d'Alterac;Ruines d'Alterac;
+88;123;Hillsbrad;Moulin-de-Tarren;
+107;187;Hillsbrad;Général;
+109;164;Hillsbrad;Southshore;
+258;344;Les Paluns;Général;
+291;345;Les Paluns;Port de Menethil;
+334;375;Dun Morogh;Kharanos;
+343;460;Dun Morogh;Général;
+352;407;Dun Morogh;Ironforge;
+457;488;Terres ingrates;Uldaman;
+461;469;Gorge des Vents brûlants;Général;
+461;488;Terres ingrates;Kargath;
+467;488;Terres ingrates;Général;

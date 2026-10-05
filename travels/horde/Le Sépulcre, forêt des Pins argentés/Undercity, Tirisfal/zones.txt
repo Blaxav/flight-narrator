@@ -1,0 +1,5 @@
+0;51;Forêt des Pins argentés;Le Sépulcre;
+0;96;Forêt des Pins argentés;Général;
+62;112;Tirisfal;Undercity;
+79;112;Tirisfal;Brill;
+95;112;Tirisfal;Général;

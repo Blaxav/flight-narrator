@@ -1,9 +1,0 @@
-La menace centaure
-==================
-
-Les centaures sont la plaie ancienne des taurens. Ces créatures brutales, à corps de cheval et buste d'homme, ont longtemps ravagé les plaines, brûlant les campements et massacrant les troupeaux. Chassés de Mulgore, ils rôdent encore sur les marges, et leurs bandes pillardes s'aventurent parfois au cœur de la prairie. Les jeunes taurens apprennent très tôt à reconnaître le galop sourd qui annonce une razzia. Pourtant, les taurens ne les haïssent pas : ils les plaignent, comme on plaint une bête enragée. La menace centaure est le souvenir des années sombres, la preuve que la paix de Mulgore a été conquise, et qu'il faut toujours des veilleurs pour la garder.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : centaures

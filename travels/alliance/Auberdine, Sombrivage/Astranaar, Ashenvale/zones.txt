@@ -1,0 +1,6 @@
+0;2;Sombrivage;Bashal'Aran;
+0;25;Sombrivage;Auberdine;
+0;101;Sombrivage;Général;
+40;89;Gangrebois;Poste de la Vénéneuse;
+102;176;Ashenvale;Général;
+152;176;Ashenvale;Astranaar;

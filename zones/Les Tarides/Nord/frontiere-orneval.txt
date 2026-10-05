@@ -1,9 +1,0 @@
-Aux lisières d'Orneval
-======================
-
-Au nord, les Tarides s'achèvent là où commence Orneval, et le contraste saisit le voyageur. D'un côté, la savane jaune et assoiffée, de l'autre, la forêt des elfes de la nuit, sombre et gorgée d'ombres. La route grimpe entre les deux mondes, et l'air change en quelques foulées : la poussière laisse place à l'odeur des feuilles et de la mousse. Cette lisière est disputée, car Orneval est une terre convoitée, et les patrouilles y sont fréquentes. Les Taurens et les orcs qui passent la frontière savent qu'ils entrent chez un peuple ancien, jaloux de ses bois. Le nord des Tarides est ainsi une porte, et chaque porte a deux visages qu'il faut apprendre à lire.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : frontiere-orneval

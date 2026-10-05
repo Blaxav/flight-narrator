@@ -1,0 +1,6 @@
+0;22;Strangleronce;Baie-du-Butin;
+0;141;Strangleronce;Général;
+50;55;Strangleronce;Zul'Gurub;
+70;101;Strangleronce;Grom'gol;
+142;175;Bois de la Pénombre;Général;
+154;175;Bois de la Pénombre;Darkshire;

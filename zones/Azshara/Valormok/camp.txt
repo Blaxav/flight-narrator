@@ -1,9 +1,0 @@
-Le camp de la Horde
-===================
-
-Valormok est un camp de la Horde posé sur la côte orientale d'Azshara, au milieu des ruines d'une civilisation engloutie. Orcs et trolls y ont dressé leurs huttes et leurs étendards, face à une mer qui murmure d'anciens secrets. Le lieu n'a rien d'une ville : c'est une base avancée, un point d'appui pour explorer une région livrée aux nagas et aux vestiges des bien-nés. Les chasseurs y rapportent des écailles, des perles et des récits de créatures surgies des profondeurs. On y répare les armes, on y fume le poisson, et l'on y prépare les expéditions vers l'intérieur des terres. Valormok est la preuve que la Horde s'aventure partout, même là où les elfes eux-mêmes n'osent plus regarder.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : camp

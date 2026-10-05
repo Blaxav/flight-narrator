@@ -1,8 +1,9 @@
 ## Interface: 11509
 ## Title: Flight Narrator
-## Notes: Plays the Ratchet narration clip when a flight launches.
+## Notes: Plays zone narration clips for the flight route.
 ## Author: xavbl
-## Version: 0.3.3
+## Version: 0.4.0
 ## DefaultState: enabled
 
+TravelData.lua
 FlightNarrator.lua

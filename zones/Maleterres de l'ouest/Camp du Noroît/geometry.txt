@@ -1,0 +1,7 @@
+# Maleterres de l'ouest / Camp du Noroît — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+47.52;25.67
+51.52;25.67
+51.52;29.67
+47.52;29.67

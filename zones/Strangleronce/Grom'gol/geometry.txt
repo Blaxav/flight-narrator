@@ -1,0 +1,7 @@
+# Strangleronce / Grom'gol — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+42.78;82.70
+46.78;82.70
+46.78;86.70
+42.78;86.70

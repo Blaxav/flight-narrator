@@ -1,0 +1,9 @@
+La Main d'argent
+================
+
+Avant la chute de Lordaeron, les clairières de Tirisfal virent s'illustrer l'un des ordres les plus nobles du royaume : la Main d'argent. Fondé par l'archevêque Alonsus Faol et mené par Uther Porteur de Lumière, cet ordre de paladins fut créé pendant la Deuxième Guerre pour opposer la foi en la Lumière à la sorcellerie démoniaque des orcs. Ses chevaliers parcouraient ces campagnes, protégeant les fermes et les abbayes, et leurs chapelles se dressaient sur ces collines aujourd'hui noyées de brume. Puis vint le Fléau, et le prince Arthas, et l'ordre se brisa, Uther tombant sous la lame de son ancien disciple. La Main d'argent rappelle que la foi la plus pure ne suffit pas toujours à sauver un royaume — mais elle laisse des traces que la brume ne recouvre pas.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-main-d-argent

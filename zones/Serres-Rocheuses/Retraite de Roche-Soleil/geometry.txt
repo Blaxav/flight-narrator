@@ -1,0 +1,7 @@
+# Serres-Rocheuses / Retraite de Roche-Soleil — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+41.85;46.22
+45.85;46.22
+45.85;50.22
+41.85;50.22

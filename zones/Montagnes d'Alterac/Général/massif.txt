@@ -1,9 +1,0 @@
-Le massif d'Alterac
-===================
-
-Vous planez au-dessus des montagnes d'Alterac, un massif abrupt et enneigé qui dresse ses crêtes entre les contreforts de Lordaeron et les plaines de l'est. Le vent y est glacial, les cols y sont étroits, et les nuages s'y accrochent comme une laine grise. C'est une terre de pierre et de glace, belle mais hostile, où chaque virage cache un précipice. Autrefois, ces sommets abritaient un royaume fier, bâti sur le commerce des cols et la noblesse des seigneurs de la montagne. Aujourd'hui, les routes y sont désertes, et les aigles y tournoient au-dessus de ruines silencieuses. Le massif d'Alterac est une frontière oubliée, la preuve qu'une couronne peut se perdre dans la neige aussi vite qu'un écho.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : massif

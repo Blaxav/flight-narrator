@@ -1,0 +1,5 @@
+0;10;Arathi;Stromgarde;
+0;30;Arathi;Refuge de l'Ornière;
+0;44;Arathi;Général;
+45;86;Hillsbrad;Général;
+57;86;Hillsbrad;Southshore;

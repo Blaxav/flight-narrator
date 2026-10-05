@@ -1,0 +1,319 @@
+Trajets avec |difference| > 30 s : 106
+
+[alliance] Theramore, marécage d'Âprefange -> Pic des Serres-Rocheuses, Serres-Rocheuses  |  diff=+347 s  (annonce 801 s, somme 454 s)
+    chaine: Theramore, marécage d'Âprefange -> Combe de Nijel, Désolace -> Pic des Serres-Rocheuses, Serres-Rocheuses
+
+[alliance] Reflet-de-Lune -> Ratchet, les Tarides  |  diff=+306 s  (annonce 748 s, somme 442 s)
+    chaine: Reflet-de-Lune -> Long-guet, Berceau-de-l'Hiver -> Halte de Talrendis, Azshara -> Ratchet, les Tarides
+
+[alliance] Feathermoon, Feralas -> Pic des Serres-Rocheuses, Serres-Rocheuses  |  diff=+301 s  (annonce 648 s, somme 347 s)
+    chaine: Feathermoon, Feralas -> Combe de Nijel, Désolace -> Pic des Serres-Rocheuses, Serres-Rocheuses
+
+[alliance] Ratchet, les Tarides -> Rut'theran, Teldrassil  |  diff=+288 s  (annonce 805 s, somme 517 s)
+    chaine: Ratchet, les Tarides -> Halte de Talrendis, Azshara -> Astranaar, Ashenvale -> Auberdine, Sombrivage -> Rut'theran, Teldrassil
+
+[alliance] Reflet-de-Lune -> Refuge des Marshal, cratère d'Un'Goro  |  diff=+243 s  (annonce 1052 s, somme 809 s)
+    chaine: Reflet-de-Lune -> Long-guet, Berceau-de-l'Hiver -> Halte de Talrendis, Azshara -> Ratchet, les Tarides -> Theramore, marécage d'Âprefange -> Gadgetzan, Tanaris -> Refuge des Marshal, cratère d'Un'Goro
+
+[alliance] Reflet-de-Lune -> Thalanaar, Feralas  |  diff=+230 s  (annonce 940 s, somme 710 s)
+    chaine: Reflet-de-Lune -> Long-guet, Berceau-de-l'Hiver -> Halte de Talrendis, Azshara -> Ratchet, les Tarides -> Theramore, marécage d'Âprefange -> Thalanaar, Feralas
+
+[alliance] Refuge des Marshal, cratère d'Un'Goro -> Astranaar, Ashenvale  |  diff=+210 s  (annonce 856 s, somme 646 s)
+    chaine: Refuge des Marshal, cratère d'Un'Goro -> Gadgetzan, Tanaris -> Theramore, marécage d'Âprefange -> Halte de Talrendis, Azshara -> Astranaar, Ashenvale
+
+[alliance] Reflet-de-Lune -> Pic des Serres-Rocheuses, Serres-Rocheuses  |  diff=+170 s  (annonce 493 s, somme 323 s)
+    chaine: Reflet-de-Lune -> Auberdine, Sombrivage -> Pic des Serres-Rocheuses, Serres-Rocheuses
+
+[alliance] Auberdine, Sombrivage -> Theramore, marécage d'Âprefange  |  diff=+133 s  (annonce 675 s, somme 542 s)
+    chaine: Auberdine, Sombrivage -> Halte de Talrendis, Azshara -> Ratchet, les Tarides -> Theramore, marécage d'Âprefange
+
+[alliance] Lakeshire, les Carmines -> Ironforge, Dun Morogh  |  diff=+98 s  (annonce 357 s, somme 259 s)
+    chaine: Lakeshire, les Carmines -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh
+
+[alliance] Baie-du-Butin, Strangleronce -> Southshore, Hillsbrad  |  diff=-90 s  (annonce 649 s, somme 739 s)
+    chaine: Baie-du-Butin, Strangleronce -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns -> Southshore, Hillsbrad
+
+[alliance] Baie-du-Butin, Strangleronce -> Refuge de l'Ornière, Arathi  |  diff=-90 s  (annonce 655 s, somme 745 s)
+    chaine: Baie-du-Butin, Strangleronce -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns -> Refuge de l'Ornière, Arathi
+
+[alliance] Thelsamar, Loch Modan -> Darkshire, bois de la Pénombre  |  diff=-90 s  (annonce 326 s, somme 416 s)
+    chaine: Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines -> Darkshire, bois de la Pénombre
+
+[alliance] Thelsamar, Loch Modan -> Lakeshire, les Carmines  |  diff=-89 s  (annonce 267 s, somme 356 s)
+    chaine: Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines
+
+[horde] Orgrimmar, Durotar -> Long-guet, Berceau-de-l'Hiver  |  diff=+89 s  (annonce 319 s, somme 230 s)
+    chaine: Orgrimmar, Durotar -> Valormok, Azshara -> Long-guet, Berceau-de-l'Hiver
+
+[alliance] Port de Menethil, les Paluns -> Darkshire, bois de la Pénombre  |  diff=-87 s  (annonce 309 s, somme 396 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines -> Darkshire, bois de la Pénombre
+
+[alliance] Baie-du-Butin, Strangleronce -> Camp du Noroît, Maleterres de l'ouest  |  diff=-86 s  (annonce 712 s, somme 798 s)
+    chaine: Baie-du-Butin, Strangleronce -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Camp du Noroît, Maleterres de l'ouest
+
+[alliance] Port de Menethil, les Paluns -> Lakeshire, les Carmines  |  diff=-86 s  (annonce 250 s, somme 336 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines
+
+[alliance] Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Darkshire, bois de la Pénombre  |  diff=-85 s  (annonce 591 s, somme 676 s)
+    chaine: Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines -> Darkshire, bois de la Pénombre
+
+[alliance] Combe de Nijel, Désolace -> Thalanaar, Feralas  |  diff=+85 s  (annonce 472 s, somme 387 s)
+    chaine: Combe de Nijel, Désolace -> Feathermoon, Feralas -> Thalanaar, Feralas
+
+[alliance] Gadgetzan, Tanaris -> Pic des Serres-Rocheuses, Serres-Rocheuses  |  diff=+84 s  (annonce 692 s, somme 608 s)
+    chaine: Gadgetzan, Tanaris -> Theramore, marécage d'Âprefange -> Combe de Nijel, Désolace -> Pic des Serres-Rocheuses, Serres-Rocheuses
+
+[alliance] Theramore, marécage d'Âprefange -> Auberdine, Sombrivage  |  diff=+84 s  (annonce 620 s, somme 536 s)
+    chaine: Theramore, marécage d'Âprefange -> Halte de Talrendis, Azshara -> Astranaar, Ashenvale -> Auberdine, Sombrivage
+
+[horde] Proie-de-l'Ombre, Désolace -> Poste de Librevent, Mille Pointes  |  diff=+79 s  (annonce 382 s, somme 303 s)
+    chaine: Proie-de-l'Ombre, Désolace -> Camp Mojache, Feralas -> Poste de Librevent, Mille Pointes
+
+[horde] Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Le Sépulcre, forêt des Pins argentés  |  diff=-74 s  (annonce 294 s, somme 368 s)
+    chaine: Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Undercity, Tirisfal -> Le Sépulcre, forêt des Pins argentés
+
+[horde] Le Sépulcre, forêt des Pins argentés -> Chapelle de l'Espoir de Lumière, Maleterres de l'est  |  diff=-74 s  (annonce 299 s, somme 373 s)
+    chaine: Le Sépulcre, forêt des Pins argentés -> Undercity, Tirisfal -> Chapelle de l'Espoir de Lumière, Maleterres de l'est
+
+[alliance] Rempart-du-Néant, Terres foudroyées -> Camp du Noroît, Maleterres de l'ouest  |  diff=-68 s  (annonce 631 s, somme 699 s)
+    chaine: Rempart-du-Néant, Terres foudroyées -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Camp du Noroît, Maleterres de l'ouest
+
+[alliance] Lakeshire, les Carmines -> Chapelle de l'Espoir de Lumière, Maleterres de l'est  |  diff=-68 s  (annonce 540 s, somme 608 s)
+    chaine: Lakeshire, les Carmines -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Chapelle de l'Espoir de Lumière, Maleterres de l'est
+
+[alliance] Rempart-du-Néant, Terres foudroyées -> Chapelle de l'Espoir de Lumière, Maleterres de l'est  |  diff=-67 s  (annonce 687 s, somme 754 s)
+    chaine: Rempart-du-Néant, Terres foudroyées -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Chapelle de l'Espoir de Lumière, Maleterres de l'est
+
+[alliance] Rempart-du-Néant, Terres foudroyées -> Port de Menethil, les Paluns  |  diff=-66 s  (annonce 467 s, somme 533 s)
+    chaine: Rempart-du-Néant, Terres foudroyées -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns
+
+[alliance] Veille de Morgan, Steppes ardentes -> Refuge de l'Ornière, Arathi  |  diff=-61 s  (annonce 378 s, somme 439 s)
+    chaine: Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns -> Refuge de l'Ornière, Arathi
+
+[alliance] Veille de Morgan, Steppes ardentes -> Nid-de-l'Aigle, Les Hinterlands  |  diff=-60 s  (annonce 436 s, somme 496 s)
+    chaine: Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Nid-de-l'Aigle, Les Hinterlands
+
+[horde] Halte du Thorium, Gorge des Vents brûlants -> Stonard, marais des Chagrins  |  diff=+60 s  (annonce 350 s, somme 290 s)
+    chaine: Halte du Thorium, Gorge des Vents brûlants -> Corniches des flammes, Steppes ardentes -> Stonard, marais des Chagrins
+
+[alliance] Colline des sentinelles, marche de l'Ouest -> Port de Menethil, les Paluns  |  diff=-59 s  (annonce 414 s, somme 473 s)
+    chaine: Colline des sentinelles, marche de l'Ouest -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns
+
+[alliance] Southshore, Hillsbrad -> Baie-du-Butin, Strangleronce  |  diff=-57 s  (annonce 597 s, somme 654 s)
+    chaine: Southshore, Hillsbrad -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Baie-du-Butin, Strangleronce
+
+[alliance] Southshore, Hillsbrad -> Colline des sentinelles, marche de l'Ouest  |  diff=-57 s  (annonce 430 s, somme 487 s)
+    chaine: Southshore, Hillsbrad -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Colline des sentinelles, marche de l'Ouest
+
+[alliance] Colline des sentinelles, marche de l'Ouest -> Thelsamar, Loch Modan  |  diff=-57 s  (annonce 389 s, somme 446 s)
+    chaine: Colline des sentinelles, marche de l'Ouest -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+
+[alliance] Veille de Morgan, Steppes ardentes -> Camp du Noroît, Maleterres de l'ouest  |  diff=-57 s  (annonce 435 s, somme 492 s)
+    chaine: Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Camp du Noroît, Maleterres de l'ouest
+
+[alliance] Refuge de l'Ornière, Arathi -> Baie-du-Butin, Strangleronce  |  diff=-56 s  (annonce 614 s, somme 670 s)
+    chaine: Refuge de l'Ornière, Arathi -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Baie-du-Butin, Strangleronce
+
+[alliance] Refuge de l'Ornière, Arathi -> Ironforge, Dun Morogh  |  diff=+56 s  (annonce 271 s, somme 215 s)
+    chaine: Refuge de l'Ornière, Arathi -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh
+
+[alliance] Thelsamar, Loch Modan -> Baie-du-Butin, Strangleronce  |  diff=-56 s  (annonce 508 s, somme 564 s)
+    chaine: Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Baie-du-Butin, Strangleronce
+
+[alliance] Veille de Morgan, Steppes ardentes -> Chapelle de l'Espoir de Lumière, Maleterres de l'est  |  diff=-56 s  (annonce 491 s, somme 547 s)
+    chaine: Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Chapelle de l'Espoir de Lumière, Maleterres de l'est
+
+[alliance] Veille de Morgan, Steppes ardentes -> Port de Menethil, les Paluns  |  diff=-56 s  (annonce 270 s, somme 326 s)
+    chaine: Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns
+
+[alliance] Lakeshire, les Carmines -> Thelsamar, Loch Modan  |  diff=+55 s  (annonce 415 s, somme 360 s)
+    chaine: Lakeshire, les Carmines -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+
+[alliance] Thelsamar, Loch Modan -> Colline des sentinelles, marche de l'Ouest  |  diff=-55 s  (annonce 342 s, somme 397 s)
+    chaine: Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Colline des sentinelles, marche de l'Ouest
+
+[alliance] Camp du Noroît, Maleterres de l'ouest -> Baie-du-Butin, Strangleronce  |  diff=-54 s  (annonce 662 s, somme 716 s)
+    chaine: Camp du Noroît, Maleterres de l'ouest -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Baie-du-Butin, Strangleronce
+
+[alliance] Camp du Noroît, Maleterres de l'ouest -> Colline des sentinelles, marche de l'Ouest  |  diff=-54 s  (annonce 495 s, somme 549 s)
+    chaine: Camp du Noroît, Maleterres de l'ouest -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Colline des sentinelles, marche de l'Ouest
+
+[alliance] Lakeshire, les Carmines -> Port de Menethil, les Paluns  |  diff=+54 s  (annonce 441 s, somme 387 s)
+    chaine: Lakeshire, les Carmines -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns
+
+[alliance] Refuge de l'Ornière, Arathi -> Rempart-du-Néant, Terres foudroyées  |  diff=-54 s  (annonce 547 s, somme 601 s)
+    chaine: Refuge de l'Ornière, Arathi -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Rempart-du-Néant, Terres foudroyées
+
+[alliance] Port de Menethil, les Paluns -> Baie-du-Butin, Strangleronce  |  diff=-54 s  (annonce 490 s, somme 544 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Baie-du-Butin, Strangleronce
+
+[alliance] Thelsamar, Loch Modan -> Rempart-du-Néant, Terres foudroyées  |  diff=-54 s  (annonce 441 s, somme 495 s)
+    chaine: Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Rempart-du-Néant, Terres foudroyées
+
+[alliance] Veille de Morgan, Steppes ardentes -> Thelsamar, Loch Modan  |  diff=-54 s  (annonce 245 s, somme 299 s)
+    chaine: Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+
+[alliance] Nid-de-l'Aigle, Les Hinterlands -> Baie-du-Butin, Strangleronce  |  diff=-53 s  (annonce 658 s, somme 711 s)
+    chaine: Nid-de-l'Aigle, Les Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Baie-du-Butin, Strangleronce
+
+[alliance] Port de Menethil, les Paluns -> Colline des sentinelles, marche de l'Ouest  |  diff=-53 s  (annonce 324 s, somme 377 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Colline des sentinelles, marche de l'Ouest
+
+[alliance] Nid-de-l'Aigle, Les Hinterlands -> Colline des sentinelles, marche de l'Ouest  |  diff=-52 s  (annonce 492 s, somme 544 s)
+    chaine: Nid-de-l'Aigle, Les Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Colline des sentinelles, marche de l'Ouest
+
+[alliance] Port de Menethil, les Paluns -> Rempart-du-Néant, Terres foudroyées  |  diff=-52 s  (annonce 423 s, somme 475 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Rempart-du-Néant, Terres foudroyées
+
+[alliance] Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Rempart-du-Néant, Terres foudroyées  |  diff=-51 s  (annonce 704 s, somme 755 s)
+    chaine: Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Rempart-du-Néant, Terres foudroyées
+
+[alliance] Stormwind, Elwynn -> Southshore, Hillsbrad  |  diff=-51 s  (annonce 443 s, somme 494 s)
+    chaine: Stormwind, Elwynn -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns -> Southshore, Hillsbrad
+
+[alliance] Nid-de-l'Aigle, Les Hinterlands -> Rempart-du-Néant, Terres foudroyées  |  diff=-51 s  (annonce 591 s, somme 642 s)
+    chaine: Nid-de-l'Aigle, Les Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Rempart-du-Néant, Terres foudroyées
+
+[alliance] Port de Menethil, les Paluns -> Veille de Morgan, Steppes ardentes  |  diff=-51 s  (annonce 221 s, somme 272 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes
+
+[alliance] Stormwind, Elwynn -> Refuge de l'Ornière, Arathi  |  diff=-50 s  (annonce 450 s, somme 500 s)
+    chaine: Stormwind, Elwynn -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns -> Refuge de l'Ornière, Arathi
+
+[alliance] Camp du Noroît, Maleterres de l'ouest -> Veille de Morgan, Steppes ardentes  |  diff=-49 s  (annonce 395 s, somme 444 s)
+    chaine: Camp du Noroît, Maleterres de l'ouest -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes
+
+[alliance] Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Veille de Morgan, Steppes ardentes  |  diff=-49 s  (annonce 503 s, somme 552 s)
+    chaine: Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes
+
+[alliance] Stormwind, Elwynn -> Nid-de-l'Aigle, Les Hinterlands  |  diff=-49 s  (annonce 508 s, somme 557 s)
+    chaine: Stormwind, Elwynn -> Ironforge, Dun Morogh -> Nid-de-l'Aigle, Les Hinterlands
+
+[horde] Long-guet, Berceau-de-l'Hiver -> Orgrimmar, Durotar  |  diff=+48 s  (annonce 304 s, somme 256 s)
+    chaine: Long-guet, Berceau-de-l'Hiver -> Valormok, Azshara -> Orgrimmar, Durotar
+
+[horde] Reflet-de-Lune -> Proie-de-l'Ombre, Désolace  |  diff=-48 s  (annonce 645 s, somme 693 s)
+    chaine: Reflet-de-Lune -> Long-guet, Berceau-de-l'Hiver -> Valormok, Azshara -> Thunder Bluff, Mulgore -> Proie-de-l'Ombre, Désolace
+
+[alliance] Ironforge, Dun Morogh -> Darkshire, bois de la Pénombre  |  diff=-47 s  (annonce 260 s, somme 307 s)
+    chaine: Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines -> Darkshire, bois de la Pénombre
+
+[alliance] Stormwind, Elwynn -> Camp du Noroît, Maleterres de l'ouest  |  diff=-47 s  (annonce 506 s, somme 553 s)
+    chaine: Stormwind, Elwynn -> Ironforge, Dun Morogh -> Camp du Noroît, Maleterres de l'ouest
+
+[horde] Gadgetzan, Tanaris -> Reflet-de-Lune  |  diff=-47 s  (annonce 653 s, somme 700 s)
+    chaine: Gadgetzan, Tanaris -> Poste de Librevent, Mille Pointes -> La Croisée, Tarides -> Poste de la Vénéneuse, Gangrebois -> Reflet-de-Lune
+
+[horde] Reflet-de-Lune -> Refuge des Marshal, cratère d'Un'Goro  |  diff=-47 s  (annonce 736 s, somme 783 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Poste de Librevent, Mille Pointes -> Gadgetzan, Tanaris -> Refuge des Marshal, cratère d'Un'Goro
+
+[horde] Refuge des Marshal, cratère d'Un'Goro -> Reflet-de-Lune  |  diff=-47 s  (annonce 766 s, somme 813 s)
+    chaine: Refuge des Marshal, cratère d'Un'Goro -> Gadgetzan, Tanaris -> Poste de Librevent, Mille Pointes -> La Croisée, Tarides -> Poste de la Vénéneuse, Gangrebois -> Reflet-de-Lune
+
+[alliance] Ironforge, Dun Morogh -> Lakeshire, les Carmines  |  diff=-46 s  (annonce 201 s, somme 247 s)
+    chaine: Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines
+
+[alliance] Halte du Thorium, Gorge des Vents brûlants -> Camp du Noroît, Maleterres de l'ouest  |  diff=-46 s  (annonce 342 s, somme 388 s)
+    chaine: Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Camp du Noroît, Maleterres de l'ouest
+
+[horde] Reflet-de-Lune -> Ratchet, les Tarides  |  diff=-46 s  (annonce 404 s, somme 450 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Ratchet, les Tarides
+
+[horde] Reflet-de-Lune -> Camp Mojache, Feralas  |  diff=-46 s  (annonce 604 s, somme 650 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Camp Mojache, Feralas
+
+[horde] Reflet-de-Lune -> Fort cénarien, Silithus  |  diff=-46 s  (annonce 734 s, somme 780 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Camp Mojache, Feralas -> Fort cénarien, Silithus
+
+[horde] Reflet-de-Lune -> Gadgetzan, Tanaris  |  diff=-46 s  (annonce 629 s, somme 675 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Poste de Librevent, Mille Pointes -> Gadgetzan, Tanaris
+
+[horde] Reflet-de-Lune -> Retraite de Roche-Soleil, Serres-Rocheuses  |  diff=-46 s  (annonce 502 s, somme 548 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Retraite de Roche-Soleil, Serres-Rocheuses
+
+[alliance] Halte du Thorium, Gorge des Vents brûlants -> Chapelle de l'Espoir de Lumière, Maleterres de l'est  |  diff=-45 s  (annonce 398 s, somme 443 s)
+    chaine: Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Chapelle de l'Espoir de Lumière, Maleterres de l'est
+
+[alliance] Stormwind, Elwynn -> Chapelle de l'Espoir de Lumière, Maleterres de l'est  |  diff=-45 s  (annonce 563 s, somme 608 s)
+    chaine: Stormwind, Elwynn -> Ironforge, Dun Morogh -> Chapelle de l'Espoir de Lumière, Maleterres de l'est
+
+[horde] Reflet-de-Lune -> Camp Taurajo, les Tarides  |  diff=-45 s  (annonce 443 s, somme 488 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Camp Taurajo, les Tarides
+
+[horde] Reflet-de-Lune -> La Croisée, Tarides  |  diff=-45 s  (annonce 353 s, somme 398 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides
+
+[horde] Reflet-de-Lune -> Mur-de-Fougères, marécage d'Âprefange  |  diff=-45 s  (annonce 515 s, somme 560 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Mur-de-Fougères, marécage d'Âprefange
+
+[horde] Reflet-de-Lune -> Poste de Librevent, Mille Pointes  |  diff=-45 s  (annonce 537 s, somme 582 s)
+    chaine: Reflet-de-Lune -> Poste de la Vénéneuse, Gangrebois -> La Croisée, Tarides -> Poste de Librevent, Mille Pointes
+
+[alliance] Halte du Thorium, Gorge des Vents brûlants -> Port de Menethil, les Paluns  |  diff=-44 s  (annonce 178 s, somme 222 s)
+    chaine: Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns
+
+[alliance] Stormwind, Elwynn -> Port de Menethil, les Paluns  |  diff=-44 s  (annonce 343 s, somme 387 s)
+    chaine: Stormwind, Elwynn -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns
+
+[alliance] Thelsamar, Loch Modan -> Halte du Thorium, Gorge des Vents brûlants  |  diff=-44 s  (annonce 152 s, somme 196 s)
+    chaine: Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants
+
+[alliance] Halte du Thorium, Gorge des Vents brûlants -> Thelsamar, Loch Modan  |  diff=-43 s  (annonce 152 s, somme 195 s)
+    chaine: Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+
+[alliance] Stormwind, Elwynn -> Thelsamar, Loch Modan  |  diff=-43 s  (annonce 317 s, somme 360 s)
+    chaine: Stormwind, Elwynn -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+
+[horde] Fort cénarien, Silithus -> Reflet-de-Lune  |  diff=-43 s  (annonce 768 s, somme 811 s)
+    chaine: Fort cénarien, Silithus -> Camp Mojache, Feralas -> La Croisée, Tarides -> Poste de la Vénéneuse, Gangrebois -> Reflet-de-Lune
+
+[alliance] Southshore, Hillsbrad -> Stormwind, Elwynn  |  diff=-42 s  (annonce 367 s, somme 409 s)
+    chaine: Southshore, Hillsbrad -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+
+[horde] Undercity, Tirisfal -> Trépas-d'Orgrim, Arathi  |  diff=+42 s  (annonce 301 s, somme 259 s)
+    chaine: Undercity, Tirisfal -> Moulin-de-Tarren, Hillsbrad -> Trépas-d'Orgrim, Arathi
+
+[alliance] Halte du Thorium, Gorge des Vents brûlants -> Rempart-du-Néant, Terres foudroyées  |  diff=-41 s  (annonce 265 s, somme 306 s)
+    chaine: Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Rempart-du-Néant, Terres foudroyées
+
+[alliance] Port de Menethil, les Paluns -> Halte du Thorium, Gorge des Vents brûlants  |  diff=-41 s  (annonce 135 s, somme 176 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants
+
+[alliance] Thelsamar, Loch Modan -> Stormwind, Elwynn  |  diff=-40 s  (annonce 279 s, somme 319 s)
+    chaine: Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+
+[alliance] Camp du Noroît, Maleterres de l'ouest -> Halte du Thorium, Gorge des Vents brûlants  |  diff=-39 s  (annonce 309 s, somme 348 s)
+    chaine: Camp du Noroît, Maleterres de l'ouest -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants
+
+[alliance] Camp du Noroît, Maleterres de l'ouest -> Stormwind, Elwynn  |  diff=-39 s  (annonce 432 s, somme 471 s)
+    chaine: Camp du Noroît, Maleterres de l'ouest -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+
+[alliance] Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Halte du Thorium, Gorge des Vents brûlants  |  diff=-39 s  (annonce 417 s, somme 456 s)
+    chaine: Chapelle de l'Espoir de Lumière, Maleterres de l'est -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants
+
+[alliance] Southshore, Hillsbrad -> Darkshire, bois de la Pénombre  |  diff=-38 s  (annonce 468 s, somme 506 s)
+    chaine: Southshore, Hillsbrad -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines -> Darkshire, bois de la Pénombre
+
+[alliance] Port de Menethil, les Paluns -> Stormwind, Elwynn  |  diff=-38 s  (annonce 261 s, somme 299 s)
+    chaine: Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+
+[horde] Fort cénarien, Silithus -> Mur-de-Fougères, marécage d'Âprefange  |  diff=-38 s  (annonce 425 s, somme 463 s)
+    chaine: Fort cénarien, Silithus -> Gadgetzan, Tanaris -> Mur-de-Fougères, marécage d'Âprefange
+
+[alliance] Nid-de-l'Aigle, Les Hinterlands -> Stormwind, Elwynn  |  diff=-37 s  (annonce 429 s, somme 466 s)
+    chaine: Nid-de-l'Aigle, Les Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+
+[alliance] Refuge de l'Ornière, Arathi -> Darkshire, bois de la Pénombre  |  diff=-37 s  (annonce 485 s, somme 522 s)
+    chaine: Refuge de l'Ornière, Arathi -> Port de Menethil, les Paluns -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines -> Darkshire, bois de la Pénombre
+
+[alliance] Darkshire, bois de la Pénombre -> Southshore, Hillsbrad  |  diff=-37 s  (annonce 517 s, somme 554 s)
+    chaine: Darkshire, bois de la Pénombre -> Lakeshire, les Carmines -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns -> Southshore, Hillsbrad
+
+[alliance] Darkshire, bois de la Pénombre -> Refuge de l'Ornière, Arathi  |  diff=-36 s  (annonce 524 s, somme 560 s)
+    chaine: Darkshire, bois de la Pénombre -> Lakeshire, les Carmines -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Port de Menethil, les Paluns -> Refuge de l'Ornière, Arathi
+
+[alliance] Darkshire, bois de la Pénombre -> Nid-de-l'Aigle, Les Hinterlands  |  diff=-35 s  (annonce 582 s, somme 617 s)
+    chaine: Darkshire, bois de la Pénombre -> Lakeshire, les Carmines -> Veille de Morgan, Steppes ardentes -> Halte du Thorium, Gorge des Vents brûlants -> Ironforge, Dun Morogh -> Nid-de-l'Aigle, Les Hinterlands
+
+[alliance] Nid-de-l'Aigle, Les Hinterlands -> Darkshire, bois de la Pénombre  |  diff=-32 s  (annonce 531 s, somme 563 s)
+    chaine: Nid-de-l'Aigle, Les Hinterlands -> Ironforge, Dun Morogh -> Halte du Thorium, Gorge des Vents brûlants -> Veille de Morgan, Steppes ardentes -> Lakeshire, les Carmines -> Darkshire, bois de la Pénombre

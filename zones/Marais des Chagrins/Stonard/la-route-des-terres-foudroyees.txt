@@ -1,0 +1,9 @@
+La route des Terres foudroyées
+==============================
+
+Stonard est la dernière étape avant les Terres foudroyées, cette contrée calcinée où la Porte des ténèbres déchire l'horizon. Les caravanes de la Horde y font halte pour se réapprovisionner, réparer les essieux et attendre une escorte. Les soldats racontent que l'air change au-delà du marais : la brume laisse place à la cendre, la vase au sable noir, et le chant des grenouilles au silence des démons. Certains voyageurs ne reviennent jamais, happés par les créatures qui rôdent autour de la Porte. Les orcs de Stonard accueillent ces départs d'un hochement de tête grave, comme on salue ceux qui montent au front. Le poste est ainsi une porte d'entrée vers le danger, mais aussi une porte de sortie vers la survie. Tous, un jour ou l'autre, repassent par ses feux.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-route-des-terres-foudroyees

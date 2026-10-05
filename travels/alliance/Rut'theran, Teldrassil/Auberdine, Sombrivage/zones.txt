@@ -1,0 +1,8 @@
+0;2;Teldrassil;Aldrassil;
+0;4;Teldrassil;Général;
+0;10;Teldrassil;Darnassus;
+0;19;Teldrassil;Rut'theran;
+0;24;Teldrassil;Dolanaar;
+46;86;Sombrivage;Général;
+60;86;Sombrivage;Bashal'Aran;
+68;86;Sombrivage;Auberdine;

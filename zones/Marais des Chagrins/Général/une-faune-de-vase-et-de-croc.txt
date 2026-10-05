@@ -1,9 +1,0 @@
-Une faune de vase et de croc
-============================
-
-Les eaux du Marais des Chagrins grouillent de créatures aussi patientes que mortelles. Les crocilisques, reptiles à la mâchoire capable de briser une barque, glissent sous la surface, seuls leurs yeux émergés trahissant leur présence. Les murlocs bâtissent des huttes branlantes sur les berges, lançant leurs cris rauques à la nuit tombée. Des araignées géantes tissent leurs toiles entre les palétuviers, tandis que des essaims d'insectes bourdonnent autour des cadavres. Dans les eaux profondes, on murmure que nagent des créatures plus anciennes encore, attirées par la magie du temple. Les chasseurs y viennent pour les peaux, les venins et les œufs, mais chaque expédition doit composer avec la vase, les sables mouvants et la brume qui désoriente. Le marais dévore les imprudents sans laisser de traces.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : une-faune-de-vase-et-de-croc

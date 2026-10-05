@@ -1,0 +1,9 @@
+La menace des murlocs
+=====================
+
+Les murlocs sont le fléau quotidien de Southshore, le dernier port de l'Alliance dans Hillsbrad. Ils se rassemblent sur les plages voisines, bâtissent leurs huttes dégoûtantes et fondent sur les pêcheurs dès que la marée monte. Leurs cris stridents réveillent la ville à l'aube, et leurs raids nocturnes laissent des filets déchirés et des bateaux éventrés. La garde organise des battues, mais les murlocs se reproduisent plus vite qu'on ne les chasse. Et pendant que Southshore repousse la mer, les Réprouvés du Moulin-Tarren la guettent depuis les collines. Cette menace semble dérisoire face aux grandes guerres, mais elle use les nerfs et vide les cales. À Southshore, on garde toujours une lame près de soi, même en plein jour.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : murlocs

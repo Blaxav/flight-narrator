@@ -1,9 +1,0 @@
-Le port gobelin
-===============
-
-Ratchet est le port des gobelins, planté sur la côte orientale des Tarides, là où la savane rencontre la mer. Ses docks de bois s'avancent dans les flots, chargés de caisses, de cordages et de marins pressés. Rien n'y est joli, mais tout y est utile : les entrepôts y débordent, les grues y grincent, et l'air sent le goudron, le poisson et la poudre. Ce n'est pas une ville de pierre, mais un bric-à-brac qui ne dort jamais, où l'on charge et décharge à toute heure. Ratchet a été bâti par ceux qui ont compris que le commerce vaut mieux que les armes. Sur cette côte, chaque planche du port est une promesse de profit, et chaque marée apporte son lot de fortune ou de ruine.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : port-gobelin

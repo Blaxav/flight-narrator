@@ -1,0 +1,6 @@
+# Silithus / Ruines d'Ahn'Qiraj — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+41.82;77.43
+46.828;77.515
+46.543;82.609
+41.421;82.751

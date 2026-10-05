@@ -1,0 +1,4 @@
+0;24;Dun Morogh;Ironforge;
+0;75;Dun Morogh;Général;
+64;87;Gorge des Vents brûlants;Halte du Thorium;
+75;87;Gorge des Vents brûlants;Général;

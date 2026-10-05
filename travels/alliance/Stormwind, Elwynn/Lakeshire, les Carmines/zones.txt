@@ -1,0 +1,5 @@
+0;24;Elwynn;La Prison;
+0;29;Elwynn;Stormwind;
+0;91;Elwynn;Général;
+85;113;Les Carmines;Lakeshire;
+92;113;Les Carmines;Général;

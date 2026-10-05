@@ -1,9 +1,0 @@
-La route des mers
-=================
-
-Par la mer, Austrivage est reliée au reste du monde. Ses navires partent vers les ports de l'Alliance, et ses quais voient passer des marchands, des soldats et des éclaireurs. Cette route maritime est vitale : elle apporte les vivres, les armes et les nouvelles, et elle permet d'évacuer les blessés. Mais elle est aussi dangereuse. Les tempêtes y sont violentes, et les créatures des profondeurs rôdent sous les coques. Chaque départ est un pari, chaque retour un soulagement. Austrivage vit au rythme des marées, et sa fortune dépend de la mer autant que de la terre. Le port est le poumon de la ville, et il ne doit jamais s'arrêter de respirer. La ville respire au rythme de l'écume et des départs.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : mer

@@ -1,0 +1,7 @@
+# Reflet-de-Lune / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+50.788;16.578
+58.528;15.753
+55.25;18.462
+55.389;22.422
+52.04;22.724

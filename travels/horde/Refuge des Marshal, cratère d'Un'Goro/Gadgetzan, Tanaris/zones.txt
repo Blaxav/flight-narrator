@@ -1,0 +1,5 @@
+0;33;Cratère d'Un'Goro;Refuge des Marshal;
+0;53;Cratère d'Un'Goro;Général;
+53;113;Tanaris;Général;
+54;113;Tanaris;Zul'Farrak;
+81;113;Tanaris;Gadgetzan;

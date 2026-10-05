@@ -1,0 +1,14 @@
+0;22;Feralas;Feathermoon;
+0;85;Feralas;Général;
+85;213;Désolace;Général;
+90;122;Désolace;Maraudon;
+93;136;Désolace;Proie-de-l'Ombre;
+211;218;Désolace;Combe de Nijel;
+212;336;Serres-Rocheuses;Général;
+287;330;Serres-Rocheuses;Pic des Serres-Rocheuses;
+317;360;Ashenvale;Avant-poste de Zoram'gar;
+332;365;Ashenvale;Profondeurs de Brassenoire;
+398;468;Sombrivage;Général;
+435;456;Sombrivage;Ameth'Aran;
+447;468;Sombrivage;Auberdine;
+467;468;Sombrivage;Bashal'Aran;

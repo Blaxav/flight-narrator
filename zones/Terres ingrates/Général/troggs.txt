@@ -1,9 +1,0 @@
-Les troggs des profondeurs
-==========================
-
-Des profondeurs des Terres ingrates montent les troggs, ces créatures trapues et brutales qui semblent surgies des entrailles de la terre pour la vider de ses vivants. Ils s'agglutinent dans les cavernes et les fouilles abandonnées, d'où ils sortent en hordes pour dévorer et détruire, sans autre raison que leur faim. Leur force est grande, leur intelligence faible, et leur nombre semble inépuisable, comme si la roche les enfantait sans cesse. On raconte qu'ils sont une dégénérescence des êtres de pierre créés par les Titans, une branche malade d'une lignée ancienne, tombée dans la fureur. Les nains les combattent sans relâche, car ils pullulent près des sites de fouille et menacent chaque découverte. Les troggs sont la face sombre des profondeurs, la preuve que tout ce qui est enfoui n'a pas forcément la sagesse des anciens. Souvent, il n'en reste que la fureur.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : troggs

@@ -1,0 +1,6 @@
+# Terres foudroyées / La Porte des Ténèbres — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+54.0;84.5
+57.0;84.5
+57.0;87.5
+54.0;87.5

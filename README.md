@@ -1,7 +1,9 @@
 # Flight Narrator
 
-A small **World of Warcraft Classic** addon that plays the **Ratchet** narration
-clip when a flight (taxi) launches. One clip, one trigger, nothing else.
+A **World of Warcraft Classic** addon that narrates a flight (taxi) with the zone
+clips matching the route. The flight duration is cut into ~55 s slots; each slot
+picks one random clip from the zones overflown during that slot, and the clips
+play one after the other, each starting at the beginning of its own slot.
 
 ## Install
 
@@ -20,14 +22,14 @@ Then `/reload` and make sure the addon is ticked in the AddOns list.
 The clip is rendered offline and travels with the addon as an ordinary sound
 file — the only way a voice can ship inside a WoW addon.
 
-- `tools/Render-VoiceClips.ps1` renders the lines in a `key|text` file into
-  `voice\<locale>\<key>.mp3` with a Microsoft Edge neural voice (free, no key):
+- `tools/text_to_mp3.py` renders a single piece of text with ElevenLabs (deep
+  French storyteller voice "Martin Dupont"). See its header for details.
 
-      python -m pip install edge-tts
-      powershell -ExecutionPolicy Bypass -File tools\Render-VoiceClips.ps1 -Voice fr-FR-HenriNeural -LinesFile tools\lines.fr.txt
+- `tools/render_zone_audio.py` renders every narration in a `zones\<region>`
+  folder to an MP3 **next to each text** with ElevenLabs (resumable; skips clips
+  that already exist unless `--force`):
 
-- `tools/text_to_mp3.py` renders a single piece of text with a choice of backends
-  (OpenAI, ElevenLabs, or Edge). See its header for details.
+      python tools/render_zone_audio.py "Les Tarides"
 
 After rendering, `/reload`: the client only sees sound files that existed when it
 loaded.
@@ -37,8 +39,20 @@ loaded.
 - `Ratchet.txt` — the Ratchet narration (French).
 - `La-Croisee.txt` — the Crossroads narration (French).
 
-`tools/lines.fr.txt` holds the same lines in the `key|text` form the renderer
-reads; `tools/lines.txt` is the English counterpart.
+## Travel data
+
+The route timelines ship as `TravelData.lua`: flight durations from
+`travels/**/duration.txt`, every MP3 under `zones/`, and the per-route zone
+timelines rebuilt from `travels/**/steps.txt`. Each route folder lists its
+unitary stops in `steps.txt` (intermediate nodes plus the destination; a direct
+route has a single line); the generator concatenates the `zones.txt` of each
+leg of that chain into the route's zone timeline. WoW cannot list files or read
+`.txt` files at runtime, so regenerate this file after adding clips or zone
+timelines:
+
+    python tools/generate_travel_data.py
+
+Routes with no usable leg `zones.txt` fall back to a single random clip.
 
 ## Notes
 

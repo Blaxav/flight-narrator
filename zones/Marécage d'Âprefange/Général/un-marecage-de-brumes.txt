@@ -1,9 +1,0 @@
-Un marécage de brumes
-=====================
-
-Le Marécage d'Âprefange s'étale sur la côte orientale de Kalimdor comme une éponge géante, saturée d'eau saumâtre et de brumes épaisses. Vus du ciel, ses marais, ses criques et ses bancs de vase dessinent un labyrinthe sans repères, où les arbres moussus ploient sous le poids de l'humidité. Le brouillard y est si dense, certains matins, qu'on n'y distingue pas sa propre main. L'air sent la tourbe, le sel et la décomposition, et le sol aspire les bottes à chaque pas. C'est une terre hostile, peuplée de créatures à écailles et de reptiles furtifs, que seuls les plus endurcis osent traverser. Pourtant, au cœur de ce bourbier, des cités se dressent et des puissances s'observent, car le Marécage d'Âprefange est aussi un échiquier où se joue l'avenir de Kalimdor.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : un-marecage-de-brumes

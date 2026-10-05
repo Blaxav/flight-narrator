@@ -1,9 +1,0 @@
-Dame Katrana Prestor
-====================
-
-À la cour de Hurlevent, nulle voix ne pèse autant que celle de Dame Katrana Prestor. Belle, éloquente et prodigieusement habile, elle conseille le régent et s'est rendue indispensable aux affaires du royaume. Mais derrière le sourire se cache un secret : Katrana Prestor n'est pas ce qu'elle prétend être. Nul ne le devine, ou nul n'ose le dire, et son influence s'étend jusque dans les plus hautes sphères du pouvoir. On murmure que la noblesse danse au son de sa voix, et que les décisions du trône portent sa marque. Dame Katrana est le ver dans le fruit, la preuve que le plus grand danger d'un royaume peut siéger à la place d'honneur, sans éveiller le moindre soupçon.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : katrana

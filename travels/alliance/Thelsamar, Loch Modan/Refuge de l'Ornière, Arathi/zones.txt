@@ -1,0 +1,6 @@
+0;19;Loch Modan;Thelsamar;
+0;41;Loch Modan;Général;
+39;120;Les Paluns;Général;
+120;164;Arathi;Général;
+146;164;Arathi;Refuge de l'Ornière;
+148;164;Arathi;Stromgarde;

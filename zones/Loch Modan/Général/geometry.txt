@@ -1,0 +1,10 @@
+# Loch Modan / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+52.263;51.008
+60.959;49.779
+61.073;54.263
+60.048;58.907
+54.972;57.382
+54.949;57.382
+52.268;58.072
+52.809;54.696

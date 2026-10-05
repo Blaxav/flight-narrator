@@ -1,0 +1,5 @@
+0;29;Feralas;Feathermoon;
+0;147;Feralas;Général;
+90;147;Feralas;Camp Mojache;
+127;155;Feralas;Thalanaar;
+147;155;Mille Pointes;Général;

@@ -1,0 +1,6 @@
+0;12;Silithus;Temple d'Ahn'Qiraj;
+0;36;Silithus;Fort cénarien;
+0;44;Silithus;Ruines d'Ahn'Qiraj;
+0;63;Silithus;Général;
+57;92;Cratère d'Un'Goro;Refuge des Marshal;
+63;92;Cratère d'Un'Goro;Général;

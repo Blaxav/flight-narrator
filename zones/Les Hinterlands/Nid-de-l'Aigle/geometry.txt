@@ -1,0 +1,7 @@
+# Les Hinterlands / Nid-de-l'Aigle — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+49.17;28.57
+53.17;28.57
+53.17;32.57
+49.17;32.57

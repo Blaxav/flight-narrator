@@ -1,0 +1,9 @@
+Eldre'Thalas, la cité de la Lune
+================================
+
+Hache-Tripes fut autrefois Eldre'Thalas, la cité de la Lune, un joyau des bien-nés au cœur de Feralas. Ses tours de marbre s'élevaient au-dessus des arbres, et ses mages maîtrisaient des sortilèges que nul n'ose plus prononcer. Quand le Puits d'éternité s'effondra et brisa le monde, la cité ne sombra pas : ses maîtres la protégèrent par un bouclier de magie. Mais ce salut eut un prix terrible. Peu à peu, la splendeur s'est fanée, les couloirs se sont vidés, et les ogres sont venus. Aujourd'hui, Eldre'Thalas n'est plus qu'une carcasse hantée, où l'or et la magie ancienne attirent les fous. La cité de la Lune est devenue un tombeau. Ses derniers mages, reclus dans les ténèbres, n'en sortent plus que pour se nourrir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : eldrethalas

@@ -1,0 +1,13 @@
+# Dun Morogh / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+38.923;49.483
+45.911;48.071
+52.263;50.849
+52.786;54.992
+52.231;58.017
+48.68;58.673
+46.039;60.057
+45.784;61.641
+46.44;62.625
+39.793;63.554
+38.786;57.041

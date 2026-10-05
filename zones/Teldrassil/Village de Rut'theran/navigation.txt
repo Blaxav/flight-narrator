@@ -1,9 +1,0 @@
-La route de Sombrivage
-======================
-
-Depuis le Village de Rut'theran, des navires elfes font la navette vers Auberdine, sur les rivages de Sombrivage. Ce sont de longs vaisseaux élancés, aux voiles claires, qui glissent sans bruit sur la mer de Kalimdor comme des oiseaux sur l'eau. Le voyage relie Teldrassil au continent, transportant soldats, marchands et pèlerins, et les traversées rythment la vie du port. Les équipages connaissent les courants, les récifs et les brumes, et ils gardent le cap avec une précision ancienne, héritée de millénaires de navigation. Cette route maritime est vitale : sans elle, l'Arbre-monde serait une île coupée du monde et de ses secours. Les départs s'enchaînent, les amarres se jettent, et l'on y entend toujours, quelque part, l'appel d'un navire prêt à larguer les voiles. La mer, ici, est une grande route.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : navigation

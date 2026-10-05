@@ -1,0 +1,3 @@
+Stormwind, Elwynn
+Ironforge, Dun Morogh
+Thelsamar, Loch Modan

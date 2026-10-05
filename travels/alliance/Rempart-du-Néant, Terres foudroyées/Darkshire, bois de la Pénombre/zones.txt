@@ -1,0 +1,6 @@
+0;29;Terres foudroyées;Rempart-du-Néant;
+0;41;Terres foudroyées;Général;
+26;36;Marais des Chagrins;Stonard;
+42;76;Défilé de Deuillevent;Général;
+63;91;Bois de la Pénombre;Darkshire;
+76;91;Bois de la Pénombre;Général;

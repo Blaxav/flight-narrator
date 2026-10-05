@@ -1,9 +1,0 @@
-Un refuge dans la neige
-=======================
-
-Dans le froid du Berceau-de-l'Hiver, Long-guet est un refuge. Les voyageurs y trouvent un feu, un repas chaud et un lit, avant de repartir vers les cols glacés. Les auberges y affichent complet dès la tombée de la nuit, et l'on y raconte des histoires de yétis, de furbolgs et de trésors perdus dans la neige. Le comptoir est une bulle de chaleur dans un désert blanc, un endroit où l'on reprend des forces avant d'affronter de nouveau l'hiver. Les gobelins y ont compris l'essentiel : dans une région aussi rude, le confort se vend très cher, et personne ne le regrette. Long-guet est la preuve que la civilisation, même la plus mercantile, finit toujours par offrir un toit à ceux qui bravent le froid.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : refuge

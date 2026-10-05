@@ -1,9 +1,0 @@
-Les quartiers de Hurlevent
-==========================
-
-Hurlevent se déploie en quartiers aux visages multiples. Le Quartier des Mages abrite les arcanes et les tours des enchanteurs, le Vieux Quartier conserve les tavernes et les guildes d'antan, et le Quartier du Commerce voit passer les marchands et les convois. Plus loin, les canaux séparent les districts, et les ponts enjambent des eaux tranquilles. Chaque quartier a son atmosphère, ses habitants et ses secrets, et l'on peut passer des heures à s'y perdre. Cette diversité fait la richesse de la cité, mais aussi sa complexité : qui contrôle un quartier ne contrôle pas la ville entière. Hurlevent est un puzzle vivant, et chaque pièce mérite d'être découverte à pied, au hasard des ruelles, comme on explore un monde en miniature.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : quartiers

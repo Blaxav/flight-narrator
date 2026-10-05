@@ -1,9 +1,0 @@
-La guerre du bois
-=================
-
-Le bois des Serres-Rocheuses est un enjeu de guerre. Les forêts de pins qui couvrent les pentes alimentent les scieries des deux factions, et chaque tronc abattu rapproche la Horde et l'Alliance de l'affrontement. Les bûcherons travaillent sous escorte, les convois roulent lourdement, et les scieries se transforment en forteresses. Les druides s'en désolent, mais la guerre a ses besoins. La guerre du bois des Serres-Rocheuses est la preuve que les montagnes ne sont pas seulement des remparts, mais des réserves, et que les arbres tombent souvent avant les hommes.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : guerre-du-bois

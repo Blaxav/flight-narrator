@@ -1,9 +1,0 @@
-Le carrefour des routes
-=======================
-
-Kharanos est bâtie à un carrefour, là où les routes de Dun Morogh se croisent avant de monter vers Forgefer ou de descendre vers les vallées. Les convois y font halte, les éclaireurs y échangent leurs nouvelles, et les chariots chargés de minerai y grincent à toute heure. Ce carrefour fait la richesse du bourg : tout ce qui circule dans la région finit par y passer. Mais c'est aussi une responsabilité, car tenir le carrefour, c'est tenir les routes. Les gardes y veillent donc jour et nuit, et l'on y monte la garde contre les troggs et les loups. Kharanos est un nœud vital, la preuve qu'en montagne, celui qui contrôle les chemins contrôle le commerce, les renforts et le destin de tout un royaume.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : carrefour

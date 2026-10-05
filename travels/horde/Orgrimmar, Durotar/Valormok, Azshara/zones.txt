@@ -1,0 +1,6 @@
+0;22;Durotar;Gouffre de Ragefeu;
+0;25;Durotar;Orgrimmar;
+0;26;Durotar;Général;
+26;99;Azshara;Général;
+29;78;Azshara;Halte de Talrendis;
+75;99;Azshara;Valormok;

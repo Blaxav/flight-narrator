@@ -1,9 +1,0 @@
-Brume et ruines
-===============
-
-La brume est l'âme de Tirisfal, et elle ne se lève jamais tout à fait. Elle monte des lacs, colle aux pierres et enveloppe les ruines d'un voile gris qui étouffe les sons et brouille les distances. Les voyageurs s'y perdent, les ombres s'y confondent, et l'on ne sait plus si l'on croise un vivant ou un souvenir revenu des cendres. Les ruines y sont partout : fermes effondrées, tours brisées, cimetières retournés par des mains impies. Certaines nuits, on dit que les cloches des églises sonnent encore, bien qu'il n'y ait plus ni églises ni cloches. Tirisfal est un pays de deuil, où le passé ne s'efface jamais tout à fait. La brume en est la mémoire, patiente et silencieuse. Elle attend, comme tout ce qui est mort ici.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : brume-et-ruines

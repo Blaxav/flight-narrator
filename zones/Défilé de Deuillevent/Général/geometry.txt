@@ -1,0 +1,7 @@
+# Défilé de Deuillevent / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+49.821;74.246
+51.751;74.756
+52.407;77.997
+51.77;80.857
+50.003;79.6

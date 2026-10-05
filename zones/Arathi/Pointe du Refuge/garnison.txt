@@ -1,9 +1,0 @@
-La garnison de l'Alliance
-=========================
-
-La garnison de la Pointe du Refuge est composée de soldats de Hurlevent, aguerris par des années de guerre. Ils montent la garde derrière les palissades, patrouillent les routes et répondent aux raids des pillards. Leur tâche est ingrate : défendre un avant-poste isolé, loin des renforts, dans une région que l'Alliance ne contrôle plus vraiment. Pourtant, ils tiennent, avec une discipline qui force le respect. On les voit s'entraîner à l'aube, réparer les murs, escorter les caravanes. Certains sont nés ici, d'autres viennent des royaumes du sud. Tous partagent la même certitude : tant que la Pointe du Refuge tient, l'Alliance garde un pied dans le berceau de l'humanité. Et cela vaut bien quelques nuits blanches.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : garnison

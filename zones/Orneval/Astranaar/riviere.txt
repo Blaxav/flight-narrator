@@ -1,9 +1,0 @@
-La rivière d'Astranaar
-======================
-
-La rivière qui baigne Astranaar descend des hauteurs d'Orneval, claire et froide, et nourrit la forêt jusqu'aux rivages lointains. Ses berges sont peuplées de roseaux et de bêtes qui viennent boire à l'aube. Les elfes y puisent l'eau de leurs rituels et y lavent leurs blessures, car elle est pure, du moins là où la corruption ne l'a pas touchée. Les pêcheurs y tendent leurs nasses, et les enfants y apprennent à nager dans les eaux calmes. La rivière d'Astranaar est le sang d'Orneval, la preuve que la forêt vit par ses eaux, et que protéger la source, c'est protéger tout le peuple.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : riviere

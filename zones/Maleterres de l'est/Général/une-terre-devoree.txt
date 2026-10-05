@@ -1,9 +1,0 @@
-Une terre dévorée
-=================
-
-Vue du ciel, la région des Maleterres de l'est ressemble à un corps que la gangrène aurait rongé. Les champs jadis dorés de blé ne sont plus que croûtes noirâtres, les rivières charrient des eaux glauques et les forêts dressent des squelettes d'arbres sans feuilles. Une odeur douceâtre monte des charniers, mêlée au goût de cendre que laisse le vent. Partout, la terre se fendille sous les pas des morts-vivants. Ce pays, autrefois grenier prospère de Lordaeron, est devenu le domaine du Fléau. Les rares fermes encore debout abritent des familles transformées en goules, et les clochers muets ne sonnent plus que pour les tempêtes. C'est ici, dans ce royaume d'agonie, que se joue la plus sombre bataille des royaumes de l'Est.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : une-terre-devoree

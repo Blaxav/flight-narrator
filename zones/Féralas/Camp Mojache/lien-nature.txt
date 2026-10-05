@@ -1,9 +1,0 @@
-Le lien avec la nature
-======================
-
-Ce qui frappe au Camp Mojache, c'est le profond respect des Taurens pour la forêt. Rien n'y est bâti sans raison, rien n'y est pris sans offrande. Les feux brûlent en l'honneur de la Terre-Mère, et les totems racontent les esprits des lieux. Les chamans écoutent le vent, les rivières et les arbres, et la forêt, dit-on, leur répond. Cette alliance entre le peuple tauren et Féralas est ancienne : elle remonte au temps où les Taurens parcouraient librement Kalimdor, avant les guerres et les exodes. Aujourd'hui encore, le camp semble appartenir à la forêt autant qu'à la Horde. C'est là toute la force de Mojache : il ne combat pas la nature, il la sert, et elle le protège en retour.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : lien-nature

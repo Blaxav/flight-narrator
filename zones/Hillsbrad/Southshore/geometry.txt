@@ -1,0 +1,7 @@
+# Hillsbrad / Southshore — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+44.85;32.54
+48.85;32.54
+48.85;36.54
+44.85;36.54

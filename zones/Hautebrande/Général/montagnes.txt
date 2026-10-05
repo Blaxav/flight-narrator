@@ -1,9 +1,0 @@
-Les montagnes d'Alterac
-=======================
-
-Au nord d'Hautebrande se dressent les montagnes d'Alterac, froides et tourmentées. Elles abritent des ogres, des bandits et les vestiges du royaume traître d'Alterac, dont les seigneurs ont jadis livré l'Alliance. Leurs neiges fondent au printemps et alimentent les rivières qui irriguent les collines. Mais ces montagnes sont aussi une menace : leurs cols sont dangereux, leurs pentes infestées de créatures, et leurs anciennes forteresses servent de repaires. Hautebrande vit sous leur ombre, partagée entre la crainte et la dépendance. Les montagnes d'Alterac sont le rempart et le tombeau de cette région, une frontière verticale que peu osent franchir. On dit que leurs neiges cachent des chemins que seuls les ogres connaissent encore, et que nul n'en revient.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : montagnes

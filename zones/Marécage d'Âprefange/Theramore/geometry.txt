@@ -1,0 +1,7 @@
+# Marécage d'Âprefange / Theramore — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+56.42;66.23
+60.42;66.23
+60.42;70.23
+56.42;70.23

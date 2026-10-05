@@ -1,0 +1,10 @@
+# Sombrivage / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+43.731;22.553
+51.075;18.163
+52.068;22.61
+49.109;23.493
+47.316;27.903
+47.031;34.22
+45.466;35.188
+44.157;35.871

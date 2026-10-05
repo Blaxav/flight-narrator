@@ -1,0 +1,7 @@
+# Désolace / Proie-de-l'Ombre — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+35.94;57.18
+39.94;57.18
+39.94;61.18
+35.94;61.18

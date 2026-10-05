@@ -1,0 +1,7 @@
+# Cratère d'Un'Goro / Refuge des Marshal — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+47.49;75.28
+51.49;75.28
+51.49;79.28
+47.49;79.28

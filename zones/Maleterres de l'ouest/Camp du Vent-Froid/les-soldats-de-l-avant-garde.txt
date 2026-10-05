@@ -1,9 +1,0 @@
-Les soldats de l'avant-garde
-============================
-
-Le Camp du Vent-Froid abrite des vétérans aux visages fermés, rescapés des garnisons de Lordaeron ou volontaires venus des royaumes du sud. Le commandant Ashlam, officier à la poigne de fer, y organise des patrouilles et distribue des missions périlleuses : brûler les charniers, repérer les mouvements du Fléau, escorter les convois de survivants. Ses hommes ont appris à ne plus sursauter au moindre craquement, mais leurs regards trahissent des nuits sans sommeil. On y croise aussi des paladins et des prêtres qui bénissent les recrues avant le départ. L'humour y est rare, la soupe y est claire, et les lettres des familles s'entassent sans réponse. Pourtant, personne ne déserte : chacun sait que si le camp tombe, la route du sud s'ouvre aux morts.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : les-soldats-de-l-avant-garde

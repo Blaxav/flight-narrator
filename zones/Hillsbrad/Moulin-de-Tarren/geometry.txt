@@ -1,0 +1,7 @@
+# Hillsbrad / Moulin-de-Tarren — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+45.86;29.55
+49.86;29.55
+49.86;33.55
+45.86;33.55

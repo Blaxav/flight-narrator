@@ -1,0 +1,7 @@
+# Strangleronce / Baie-du-Butin — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+41.95;91.16
+45.95;91.16
+45.95;95.16
+41.95;95.16

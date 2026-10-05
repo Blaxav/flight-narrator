@@ -1,0 +1,18 @@
+0;25;Strangleronce;Baie-du-Butin;
+0;161;Strangleronce;Général;
+58;83;Strangleronce;Zul'Gurub;
+80;130;Strangleronce;Grom'gol;
+162;240;Bois de la Pénombre;Général;
+178;227;Bois de la Pénombre;Darkshire;
+241;304;Elwynn;Général;
+304;372;Steppes ardentes;Général;
+335;385;Steppes ardentes;Corniches des flammes;
+349;386;Steppes ardentes;Profondeurs de Rochenoire;
+355;375;Steppes ardentes;Cœur du Magma;
+355;392;Steppes ardentes;Pic Rochenoire;
+361;375;Steppes ardentes;Repaire de l'Aile noire;
+361;398;Steppes ardentes;Bas du Pic Rochenoire;
+367;402;Steppes ardentes;Sommet du Pic Rochenoire;
+372;406;Terres ingrates;Général;
+382;406;Terres ingrates;Kargath;
+398;406;Terres ingrates;Uldaman;

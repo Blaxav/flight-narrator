@@ -1,9 +1,0 @@
-La vallée de Reflet-de-Lune
-===========================
-
-Vous planez au-dessus de Reflet-de-Lune, une vallée close entre les montagnes, baignée d'une lumière douce qui ne ressemble à nulle autre. C'est un sanctuaire de forêts argentées, de prairies tranquilles et de sources claires, où les bêtes ne craignent pas l'homme. Aucune guerre n'y pénètre, aucune faction n'y plante d'étendard, et l'on y vient en paix, ou l'on n'y vient pas. Reflet-de-Lune est la terre des druides, le cœur spirituel du Cercle cénarien. La vallée de Reflet-de-Lune est un rêve éveillé, la preuve qu'il existe des lieux où le monde accepte de se taire, et où la nature veille sans armes.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : vallee

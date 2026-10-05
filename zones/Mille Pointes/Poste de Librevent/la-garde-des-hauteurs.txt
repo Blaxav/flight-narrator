@@ -1,9 +1,0 @@
-La garde des hauteurs
-=====================
-
-Le Poste de Librevent vit sous la menace permanente des centaures et des harpies. Les centaures rôdent au fond du canyon, guettant les caravanes et les chasseurs isolés ; les harpies, elles, fondent depuis les nids voisins, attirées par les kodos et les réserves de viande. Les taurens ont dressé des palissades, des guetteurs et des pièges sur les sentiers d'approche. Les archers s'entraînent à tirer dans le vent, les jeunes apprennent à sonner l'alarme, et les chamans invoquent la protection des ancêtres. Parfois, une nuée de harpies tente un assaut, ou une bande de centaures s'aventure trop près ; le poste se hérisse alors de lances et de flèches. La mesa est un refuge, mais jamais un repos. La garde y est éternelle.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : la-garde-des-hauteurs

@@ -1,0 +1,13 @@
+0;1;Mulgore;Camp Narache;
+0;37;Mulgore;Thunder Bluff;
+0;48;Mulgore;Général;
+3;28;Mulgore;Village des Sabot-Sanglant;
+46;118;Les Tarides;Ouest;
+46;172;Les Tarides;Nord;
+48;176;Les Tarides;Général;
+118;172;Les Tarides;Est;
+149;190;Durotar;Colline de Lame-Rasoir;
+154;158;Durotar;Sen'jin;
+172;207;Durotar;Orgrimmar;
+179;207;Durotar;Général;
+185;207;Durotar;Gouffre de Ragefeu;

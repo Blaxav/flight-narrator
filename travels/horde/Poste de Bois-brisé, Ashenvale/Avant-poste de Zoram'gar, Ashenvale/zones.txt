@@ -1,0 +1,5 @@
+0;36;Ashenvale;Poste de Bois-brisé;
+0;166;Ashenvale;Général;
+70;142;Ashenvale;Astranaar;
+131;166;Ashenvale;Avant-poste de Zoram'gar;
+149;166;Ashenvale;Profondeurs de Brassenoire;

@@ -1,9 +1,0 @@
-Survivre au désert
-==================
-
-Traverser Tanaris est une épreuve dont peu sortent indemnes. La soif y est une ennemie plus sûre que les bandits, et le soleil y cogne comme un marteau de forge sur les nuques. Les voyageurs apprennent à marcher la nuit, à suivre les étoiles et à ne jamais quitter la piste, car chaque écart est une promesse de mort. Les points d'eau y sont rares, disputés par les bêtes et les brigands, et le moindre retard peut être fatal. Les nomades du désert, eux, connaissent les secrets des dunes : où s'abriter, quoi boire et quand avancer. Ils méprisent les imprudents qui sous-estiment le sable, et le sable finit toujours par leur donner raison. Tanaris ne pardonne ni l'orgueil ni l'erreur. Ici, survivre est un savoir ancien, et ceux qui l'ignorent ne laissent derrière eux que des os blanchis et quelques pièces perdues dans le vent.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : survivre-au-desert

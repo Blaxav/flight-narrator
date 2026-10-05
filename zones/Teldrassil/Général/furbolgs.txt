@@ -1,9 +1,0 @@
-Les furbolgs corrompus
-======================
-
-Dans les profondeurs de Teldrassil, des tribus de furbolgs, ces ours au cœur simple, ont sombré dans la corruption. Jadis paisibles et amicaux, ils sont devenus hostiles, frappés par une souillure que nul ne nomme tout à fait. Leurs villages se sont vidés, leurs chants se sont tus, et ils errent désormais entre les troncs, l'écume aux crocs et la rage au ventre. Les elfes de la nuit les regardent avec tristesse, car ils furent longtemps des alliés et des voisins, des gardiens de la forêt comme eux. On tente de les soigner, de comprendre la source du mal, mais la corruption gagne du terrain, comme une mauvaise sève qui monte. Les furbolgs de Teldrassil sont le miroir inquiétant de l'Arbre-monde : une nature blessée qui se retourne contre elle-même.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : furbolgs

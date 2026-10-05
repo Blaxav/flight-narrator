@@ -1,0 +1,6 @@
+# Steppes ardentes / Sommet du Pic Rochenoire — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+48.5;60.5
+51.5;60.5
+51.5;63.5
+48.5;63.5

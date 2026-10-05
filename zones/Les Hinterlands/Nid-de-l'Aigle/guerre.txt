@@ -1,0 +1,9 @@
+La guerre des hauteurs
+======================
+
+Depuis le Nid-de-l'Aigle, les Marteau-Hardi livrent une guerre sans fin aux trolls Vilebranche. Les deux peuples se disputent les hauteurs depuis des siècles, et chaque génération reprend le flambeau. Les raids trolls descendent des falaises, les cavaliers de griffons ripostent du ciel, et les cols se couvrent de tombes. Cette guerre est ancienne, presque rituelle, et nul ne se souvient vraiment de son origine. Pourtant, elle façonne la vie des Hinterlands, imposant ses patrouilles, ses deuils et ses veillées d'armes. Nid-de-l'Aigle est le rempart de cette lutte, la cité qui veille sur les cimes et qui ne plie pas. Les veillées y durent jusqu'à l'aube, quand les griffons prennent leur envol pour la première patrouille.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : guerre

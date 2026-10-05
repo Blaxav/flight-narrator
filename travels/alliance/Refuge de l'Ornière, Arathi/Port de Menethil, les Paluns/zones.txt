@@ -1,0 +1,5 @@
+0;16;Arathi;Stromgarde;
+0;24;Arathi;Refuge de l'Ornière;
+0;57;Arathi;Général;
+57;126;Les Paluns;Général;
+103;126;Les Paluns;Port de Menethil;

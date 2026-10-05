@@ -1,0 +1,7 @@
+0;16;Terres ingrates;Uldaman;
+0;47;Terres ingrates;Kargath;
+0;67;Terres ingrates;Général;
+16;86;Steppes ardentes;Bas du Pic Rochenoire;
+39;87;Steppes ardentes;Profondeurs de Rochenoire;
+41;87;Steppes ardentes;Corniches des flammes;
+66;87;Steppes ardentes;Général;

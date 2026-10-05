@@ -1,9 +1,0 @@
-La côte d'Azshara
-=================
-
-Azshara est une région côtière d'une beauté étrange, où des falaises rousses plongent dans la mer et où des forêts aux feuillages dorés s'accrochent aux pentes. L'automne y semble éternel, et la lumière y est douce, presque irréelle. Pourtant, cette splendeur est trompeuse : la région est en grande partie abandonnée, et ses plages cachent des ruines à demi englouties. Les vagues y déposent des fragments de marbre et des secrets oubliés, tandis que les nagas patrouillent sous la surface. C'est un paysage de mélancolie, un ancien joyau du royaume des elfes resté suspendu entre terre et mer. Azshara est belle comme un souvenir, et tout aussi insaisissable : on la regarde, mais on ne s'y attarde pas.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : paysage

@@ -1,0 +1,13 @@
+0;1;Mulgore;Camp Narache;
+0;28;Mulgore;Thunder Bluff;
+0;49;Mulgore;Général;
+2;35;Mulgore;Village des Sabot-Sanglant;
+49;51;Serres-Rocheuses;Général;
+51;152;Les Tarides;Général;
+58;149;Les Tarides;Nord;
+58;149;Les Tarides;Ouest;
+155;224;Ashenvale;Général;
+167;202;Ashenvale;Poste de Bois-brisé;
+193;245;Azshara;Halte de Talrendis;
+226;269;Azshara;Général;
+242;269;Azshara;Valormok;

@@ -1,0 +1,9 @@
+Le relais de Undercity
+=======================
+
+Brill est le premier relais sur la route de Undercity, la capitale souterraine des Réprouvés. Les voyageurs de la Horde y font halte, les messagers y changent de monture, et les troupes y attendent les ordres de la Dame noire avant de s'enfoncer dans la brume. La bourgade est un maillon d'une chaîne qui court jusqu'aux ruines de Lordaeron et aux profondeurs où gouverne Sylvanas Coursevent. Tout y est organisé pour la guerre et la survie, des entrepôts aux tours de garde, et rien n'y est laissé au hasard. Brill n'est pas une capitale, mais elle en est le seuil, le visage que les Réprouvés montrent à la surface du pays. Ici, l'on sent déjà la présence de la cité d'en bas, cette puissance patiente qui gouverne les morts. Brill veille, et Undercity veille en dessous.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : relais-de-undercity

@@ -1,9 +1,0 @@
-Les sentinelles de Talrendis
-============================
-
-La Pointe de Talrendis est un avant-poste des elfes de la nuit dressé sur les falaises méridionales d'Azshara. Les sentinelles kaldorei y montent la garde, loin de leurs forêts natales, sur une terre qui porte encore les cicatrices de la chute de la reine Azshara. Le village est modeste : quelques pavillons de bois clair, un feu de garde, et des archers qui scrutent les eaux où se cachent les nagas. Ces guerrières ont choisi de rester ici, à la frontière d'un territoire abandonné, pour surveiller l'ancienne puissance qui sommeille. On raconte que la pointe était autrefois un lieu de méditation des prêtresses de la Lune. Désormais, c'est une sentinelle posée entre la forêt et l'océan.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : sentinelles

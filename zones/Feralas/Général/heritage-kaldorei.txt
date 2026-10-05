@@ -1,0 +1,9 @@
+L'héritage kaldorei
+===================
+
+Feralas fut jadis le cœur d'un royaume elfique rayonnant. Avant la chute du Puits d'éternité, les bien-nés y bâtirent des cités de marbre et de magie, dont Eldre'Thalas, la cité de la Lune, reste la plus célèbre. Quand le monde se brisa, la forêt fut épargnée par les flammes, mais ses habitants furent dispersés. Aujourd'hui, les descendants de ces elfes veillent encore sur les ruines, depuis Feathermoon jusqu'à Thalanaar. Les colonnes brisées, les routes envahies et les temples silencieux racontent une grandeur disparue. Feralas est un musée à ciel ouvert, la preuve que les elfes de la nuit ont dominé Kalimdor bien avant que les jeunes races ne se lèvent. Leur souvenir hante chaque clairière, et la forêt se souvient.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : heritage-kaldorei

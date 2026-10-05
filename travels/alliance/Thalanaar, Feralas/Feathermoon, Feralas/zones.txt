@@ -1,0 +1,5 @@
+0;10;Mille Pointes;Général;
+0;34;Feralas;Thalanaar;
+10;76;Feralas;Camp Mojache;
+11;179;Feralas;Général;
+146;179;Feralas;Feathermoon;

@@ -1,9 +1,0 @@
-Les nagas de la mer
-===================
-
-Au large de Zoram'gar, les nagas rôdent. Ces créatures serpentines, nées d'elfes corrompus par les profondeurs, sortent des eaux pour piller les rivages et entraîner les imprudents sous la surface. Leurs sorcières commandent aux vagues, et leurs guerriers manient le trident avec une rage ancienne. Ils se sont installés dans les ruines englouties de la côte, d'où ils observent la guerre des terriens avec un mépris de prédateurs. Les nagas de Zoram sont la menace venue de la mer, la preuve que sous les flots d'Orneval se cache une autre guerre, plus ancienne et plus froide.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : nagas

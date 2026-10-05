@@ -1,0 +1,11 @@
+# Elwynn / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+39.592;63.626
+43.563;63.025
+45.256;65.502
+47.278;68.07
+50.406;68.819
+50.022;72.626
+49.869;73.607
+47.241;73.88
+42.955;75.484

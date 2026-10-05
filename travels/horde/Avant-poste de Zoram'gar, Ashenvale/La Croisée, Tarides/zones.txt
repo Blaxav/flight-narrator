@@ -1,0 +1,11 @@
+0;9;Ashenvale;Profondeurs de Brassenoire;
+0;29;Ashenvale;Avant-poste de Zoram'gar;
+0;108;Ashenvale;Général;
+12;19;Serres-Rocheuses;Pic des Serres-Rocheuses;
+34;63;Ashenvale;Astranaar;
+106;122;Serres-Rocheuses;Général;
+121;228;Les Tarides;Général;
+122;219;Les Tarides;Ouest;
+122;228;Les Tarides;Nord;
+200;228;Les Tarides;La Croisée;
+219;228;Les Tarides;Est;

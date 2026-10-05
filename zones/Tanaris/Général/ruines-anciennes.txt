@@ -1,9 +1,0 @@
-Les ruines sous les sables
-==========================
-
-Sous le sable de Tanaris dorment des ruines anciennes, vestiges d'empires oubliés que le vent dénude et recouvre tour à tour, comme s'il hésitait à les rendre au monde. On y trouve des temples trolls, des colonnes brisées et des pierres couvertes d'inscriptions que nul ne sait plus lire. Les trolls y ont régné autrefois, puis les sables ont avalé leurs cités et leurs dieux. Aujourd'hui, archéologues nains, pillards gobelins et sorciers curieux s'y disputent les reliques, chacun pour ses propres raisons. Certains fouillent pour le savoir, d'autres pour l'or, et quelques-uns réveillent ce qui aurait dû rester enseveli. Tanaris est un cimetière de civilisations, où chaque dune cache peut-être un trône. Le désert garde ses morts, et il ne les rend qu'à regret.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : ruines-anciennes

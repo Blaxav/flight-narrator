@@ -1,0 +1,9 @@
+L'avant-poste des Taurens
+=========================
+
+Vous survolez le Camp Mojache, un avant-poste de la Horde dressé par les Taurens au nord-ouest de Feralas. Ses tentes de cuir et ses totems se fondent dans la forêt, comme si le camp avait poussé là naturellement. Les chasseurs y déposent leurs proies, les chamans y entretiennent les feux, et les éclaireurs partent chaque matin dans les bois. C'est un lieu modeste, mais vital : il verrouille l'accès à la forêt et relie Feralas aux pâturages de Mulgore. Pour les Taurens, cette terre est sacrée, et ils la défendent comme leur propre foyer. Le Camp Mojache est le souffle de la Horde dans les profondeurs de Kalimdor, une main tendue vers la nature sauvage et un rempart contre les ombres.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : avant-poste

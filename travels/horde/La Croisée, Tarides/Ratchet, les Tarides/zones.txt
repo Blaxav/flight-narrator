@@ -1,0 +1,5 @@
+0;34;Les Tarides;La Croisée;
+0;44;Les Tarides;Est;
+0;44;Les Tarides;Nord;
+0;52;Les Tarides;Général;
+19;52;Les Tarides;Ratchet;

@@ -1,0 +1,12 @@
+0;9;Maleterres de l'ouest;Scholomance;
+0;22;Maleterres de l'ouest;Camp du Noroît;
+0;42;Montagnes d'Alterac;Général;
+7;20;Maleterres de l'ouest;Andorhal;
+10;52;Les Hinterlands;Nid-de-l'Aigle;
+20;63;Hillsbrad;Moulin-de-Tarren;
+42;120;Hillsbrad;Général;
+152;230;Les Paluns;Général;
+193;235;Les Paluns;Port de Menethil;
+226;258;Dun Morogh;Kharanos;
+230;261;Dun Morogh;Général;
+240;261;Dun Morogh;Ironforge;

@@ -1,0 +1,7 @@
+# Maleterres de l'est / Chapelle de l'Espoir de Lumière — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+58.78;20.59
+62.78;20.59
+62.78;24.59
+58.78;24.59

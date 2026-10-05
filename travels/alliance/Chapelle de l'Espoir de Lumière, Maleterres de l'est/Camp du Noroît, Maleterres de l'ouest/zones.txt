@@ -1,0 +1,8 @@
+0;27;Maleterres de l'est;Chapelle de l'Espoir de Lumière;
+0;91;Maleterres de l'est;Général;
+24;64;Maleterres de l'est;Stratholme;
+44;84;Maleterres de l'est;Naxxramas;
+91;139;Maleterres de l'ouest;Général;
+124;150;Maleterres de l'ouest;Camp du Noroît;
+137;150;Maleterres de l'ouest;Scholomance;
+139;150;Montagnes d'Alterac;Général;

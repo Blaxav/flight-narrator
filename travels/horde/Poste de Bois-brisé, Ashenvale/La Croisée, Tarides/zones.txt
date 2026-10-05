@@ -1,0 +1,6 @@
+0;29;Ashenvale;Poste de Bois-brisé;
+0;41;Ashenvale;Général;
+43;160;Les Tarides;Général;
+48;160;Les Tarides;Est;
+48;160;Les Tarides;Nord;
+132;160;Les Tarides;La Croisée;

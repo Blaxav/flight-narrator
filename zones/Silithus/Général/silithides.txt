@@ -1,9 +1,0 @@
-Les silithides
-==============
-
-Les silithides sont les maîtres de Silithus, des insectes géants à la carapace luisante, nés des sables et des ruches souterraines. Ils grouillent en nuées, creusent des galeries et fondent sur tout ce qui bouge. Leurs mandibules broient la pierre, leurs reines pondent sans fin, et leurs essaims obscurcissent le ciel. Ils ne connaissent ni peur ni pitié, seulement la faim et l'ordre de la ruche. Les silithides sont la marée vivante du désert, la preuve que Silithus n'appartient plus aux mortels, et que la terre y a enfanté une armée sans visage.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : silithides

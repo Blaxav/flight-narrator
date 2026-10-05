@@ -1,0 +1,7 @@
+# Azshara / Halte de Talrendis — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+54.85;39.48
+58.85;39.48
+58.85;43.48
+54.85;43.48

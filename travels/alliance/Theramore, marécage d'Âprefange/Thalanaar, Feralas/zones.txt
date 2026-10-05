@@ -1,0 +1,6 @@
+0;33;Marécage d'Âprefange;Theramore;
+0;87;Marécage d'Âprefange;Général;
+19;65;Marécage d'Âprefange;Repaire d'Onyxia;
+87;140;Les Tarides;Général;
+130;162;Feralas;Thalanaar;
+140;162;Mille Pointes;Général;

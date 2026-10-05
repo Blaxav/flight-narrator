@@ -1,0 +1,7 @@
+# Arathi / Trépas-d'Orgrim — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+53.48;34.03
+57.48;34.03
+57.48;38.03
+53.48;38.03

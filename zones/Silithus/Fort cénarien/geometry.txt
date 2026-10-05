@@ -1,0 +1,7 @@
+# Silithus / Fort cénarien — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+42.35;77.85
+46.35;77.85
+46.35;81.85
+42.35;81.85

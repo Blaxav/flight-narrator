@@ -1,9 +1,0 @@
-Les gnolls de la forêt
-======================
-
-Les bois d'Elwynn abritent des gnolls, ces créatures à tête de hyène, brutales et rusées, qui sortent de leurs tanières pour piller les fermes. Ils vivent en bandes, armés de haches et de bâtons, et s'en prennent aux voyageurs isolés avec une lâcheté calculée. Les fermiers de Comté-de-l'Or les redoutent, car ils frappent la nuit et disparaissent dans les fourrés. On raconte que certains de leurs chefs sont d'une cruauté peu commune, et que la milice a fort à faire pour les contenir. Les gnolls sont le revers de la paisible campagne d'Elwynn, le rappel que la forêt, si belle soit-elle, cache toujours des crocs. Les chasser est une tâche sans fin, qui ne connaît ni trêve ni repos.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : gnolls

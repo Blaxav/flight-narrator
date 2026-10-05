@@ -1,9 +1,0 @@
-Les montagnards de Forgefer
-===========================
-
-Thelsamar est le fief des montagnards nains, ces soldats râblés qui patrouillent les cols et les rives de Loch Modan. Vêtus de cuir et armés de haches, ils connaissent chaque sentier, chaque gué, chaque pierre qui pourrait servir d'abri. Ce sont eux qui tiennent les routes contre les troggs et les ogres, et qui portent secours aux voyageurs pris dans la brume. Leur bravoure est proverbiale, et leur entêtement plus encore : un montagnard ne recule pas, il s'adosse à la montagne. Thelsamar est leur camp de base, le lieu où ils se reposent entre deux patrouilles et où l'on chante leurs exploits. Tant qu'ils veillent, la région garde un semblant d'ordre. La montagne a trouvé ses plus fidèles gardiens.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : montagnards

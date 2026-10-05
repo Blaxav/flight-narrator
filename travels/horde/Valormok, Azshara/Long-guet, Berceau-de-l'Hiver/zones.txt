@@ -1,0 +1,4 @@
+0;18;Azshara;Général;
+0;21;Azshara;Valormok;
+18;131;Berceau-de-l'Hiver;Général;
+111;131;Berceau-de-l'Hiver;Long-guet;

@@ -1,0 +1,10 @@
+# Serres-Rocheuses / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+37.922;38.343
+43.129;38.684
+46.088;44.859
+49.076;46.026
+48.678;53.623
+45.69;53.083
+45.206;50.835
+40.511;50.123

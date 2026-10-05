@@ -1,0 +1,9 @@
+0;33;Maleterres de l'est;Chapelle de l'Espoir de Lumière;
+0;124;Maleterres de l'est;Général;
+29;78;Maleterres de l'est;Stratholme;
+54;102;Maleterres de l'est;Naxxramas;
+124;203;Maleterres de l'ouest;Général;
+202;262;Tirisfal;Général;
+224;252;Tirisfal;Monastère Écarlate;
+230;262;Tirisfal;Undercity;
+232;262;Tirisfal;Brill;

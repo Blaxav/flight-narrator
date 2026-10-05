@@ -1,0 +1,7 @@
+0;14;Marche de l'Ouest;Les Mortemines;
+0;23;Marche de l'Ouest;Colline des sentinelles;
+0;47;Marche de l'Ouest;Général;
+47;185;Strangleronce;Général;
+67;112;Strangleronce;Grom'gol;
+99;133;Strangleronce;Zul'Gurub;
+163;185;Strangleronce;Baie-du-Butin;

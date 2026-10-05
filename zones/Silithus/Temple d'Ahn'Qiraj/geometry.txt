@@ -1,0 +1,6 @@
+# Silithus / Temple d'Ahn'Qiraj — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+42.0;78.5
+45.0;78.5
+45.0;81.5
+42.0;81.5

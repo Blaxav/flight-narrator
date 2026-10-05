@@ -1,9 +1,0 @@
-Les commandants du fort
-=======================
-
-Le Fort cénarien est tenu par des commandants aguerris, des druides et des guerriers qui ont passé leur vie à lutter contre la corruption. Ils dirigent les opérations, répartissent les patrouilles et reçoivent les rapports des éclaireurs. Leur calme impressionne, car ils savent ce qui gronde sous les sables. On leur apporte les preuves des combats, les carapaces, les insignes qiraji, et ils en tirent des plans. Les commandants du Fort cénarien sont la tête froide de la résistance, la preuve que la guerre contre l'abîme exige des chefs qui ne tremblent pas.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : commandeurs

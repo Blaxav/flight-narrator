@@ -1,0 +1,12 @@
+0;27;Azshara;Valormok;
+0;42;Azshara;Général;
+24;74;Azshara;Halte de Talrendis;
+44;110;Ashenvale;Général;
+65;98;Ashenvale;Poste de Bois-brisé;
+113;209;Les Tarides;Général;
+116;202;Les Tarides;Nord;
+116;202;Les Tarides;Ouest;
+209;211;Serres-Rocheuses;Général;
+211;257;Mulgore;Général;
+224;256;Mulgore;Village des Sabot-Sanglant;
+231;257;Mulgore;Thunder Bluff;

@@ -1,0 +1,9 @@
+Bâti après la guerre
+====================
+
+Le Rempart-du-Néant fut érigé dans les années qui suivirent la Deuxième Guerre, quand l'Alliance comprit que la Porte des Ténèbres ne devait plus jamais être laissée sans surveillance. Les maçons et les soldats travaillèrent sur une terre déjà corrompue, battue par les vents et hantée par les démons, dressant des murs contre un ciel rouge. Ils édifièrent des tours massives, des salles taillées pour la guerre et des caves assez profondes pour abriter une garnison. Le fort devait être une réponse à la faute d'autrefois : celle d'avoir cru la Porte fermée à jamais, alors qu'elle n'attendait qu'une étincelle. Nethergarde est né de cette leçon, gravée dans la pierre et le sang. Il rappelle qu'Azeroth n'a pas fini de payer le prix des portes qu'elle a ouvertes, et que la vigilance est une dette sans fin.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : construit-apres-la-guerre

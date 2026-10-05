@@ -1,0 +1,9 @@
+# Forêt des Pins argentés / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+37.259;26.289
+43.587;24.877
+45.09;25.924
+43.678;30.295
+44.293;33.232
+42.791;36.464
+38.42;36.123

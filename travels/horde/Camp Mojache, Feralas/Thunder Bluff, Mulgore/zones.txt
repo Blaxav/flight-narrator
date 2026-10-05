@@ -1,0 +1,5 @@
+0;40;Feralas;Camp Mojache;
+0;61;Feralas;Général;
+61;259;Mulgore;Général;
+203;259;Mulgore;Camp Narache;
+220;259;Mulgore;Thunder Bluff;

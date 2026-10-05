@@ -1,0 +1,8 @@
+# Marche de l'Ouest / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+38.439;72.498
+41.753;71.459
+44.485;80.62
+42.281;81.057
+39.295;82.441
+36.672;75.976

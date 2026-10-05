@@ -1,0 +1,7 @@
+0;24;Les Carmines;Général;
+0;29;Les Carmines;Lakeshire;
+25;41;Elwynn;Général;
+43;119;Bois de la Pénombre;Général;
+105;133;Marche de l'Ouest;Colline des sentinelles;
+120;133;Marche de l'Ouest;Général;
+130;133;Marche de l'Ouest;Les Mortemines;

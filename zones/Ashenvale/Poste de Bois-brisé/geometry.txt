@@ -1,0 +1,7 @@
+# Ashenvale / Poste de Bois-brisé — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+51.26;41.08
+55.26;41.08
+55.26;45.08
+51.26;45.08

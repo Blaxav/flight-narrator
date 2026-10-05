@@ -1,0 +1,7 @@
+# Les Carmines / Lakeshire — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+49.70;70.36
+53.70;70.36
+53.70;74.36
+49.70;74.36

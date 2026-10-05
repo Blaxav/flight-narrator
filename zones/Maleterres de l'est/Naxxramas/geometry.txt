@@ -1,0 +1,6 @@
+# Maleterres de l'est / Naxxramas — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+54.5;22.5
+57.5;22.5
+57.5;25.5
+54.5;25.5

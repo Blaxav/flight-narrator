@@ -1,0 +1,9 @@
+Sylvanas Coursevent
+===================
+
+Sylvanas Coursevent, la Reine banshee, fut d'abord la générale des Forestiers de Lune-d'argent, la plus redoutable archère que les hauts-elfes aient jamais formée. Arthas la tua aux portes de sa propre ville et, par dérision, la ressuscita en banshee pour la voir servir le Fléau. Mais elle brisa ses chaînes, arracha au Roi-liche les morts libres de Lordaeron, et fit des ruines d'Undercity un royaume à elle. Son esprit est resté tranchant comme un arc, sa mémoire sans pardon, et sa patience sans limite. On la craint, on la sert, on la respecte — car sans elle, les Réprouvés ne seraient qu'une horde errante. Sylvanas Coursevent est la preuve que la mort peut être un commencement, à condition d'avoir une vengeance pour boussole.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sylvanas

@@ -1,9 +1,0 @@
-La vallée des jeunes nains
-==========================
-
-C'est dans une vallée glacée de Dun Morogh que les jeunes nains font leurs premières armes, loin du tumulte des cités. Ils y apprennent à chasser, à forger et à se battre, sous l'œil des anciens qui transmettent les gestes d'autrefois. Les débuts y sont rudes : le froid, les loups, les troggs rôdeurs, tout invite à grandir vite. Mais c'est aussi une vallée d'entraide, où chaque novice trouve un maître et chaque épreuve une leçon. On y forge le caractère avant de forger le fer. Cette vallée est le point de départ de bien des destins : c'est là que les futurs héros de Forgefer apprennent qu'un nain ne vaut rien sans sa hache, mais rien non plus sans ses frères.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : vallee-froide

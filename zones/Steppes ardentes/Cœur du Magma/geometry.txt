@@ -1,0 +1,6 @@
+# Steppes ardentes / Cœur du Magma — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+48.0;61.5
+51.0;61.5
+51.0;64.5
+48.0;64.5

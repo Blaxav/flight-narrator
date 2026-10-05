@@ -1,0 +1,7 @@
+0;22;Tanaris;Général;
+0;28;Tanaris;Gadgetzan;
+0;45;Tanaris;Zul'Farrak;
+22;120;Mille Pointes;Général;
+120;222;Marécage d'Âprefange;Général;
+139;177;Marécage d'Âprefange;Repaire d'Onyxia;
+195;222;Marécage d'Âprefange;Mur-de-Fougères;

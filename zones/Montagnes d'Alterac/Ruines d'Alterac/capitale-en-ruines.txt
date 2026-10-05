@@ -1,9 +1,0 @@
-La capitale en ruines
-=====================
-
-Les ruines d'Alterac sont tout ce qui reste de la capitale du royaume déchu. Des murs éventrés, des tours effondrées et des salles à ciel ouvert s'étagent sur la pente, rongées par le gel et le temps. On devine encore la fierté des bâtisseurs dans les pierres taillées, mais les toits se sont écroulés et les cours sont envahies par la neige. Les corbeaux y nichent, et le vent siffle entre les colonnes comme une plainte. C'est un lieu qui pèse, où chaque pierre raconte la chute d'une maison. Les ruines d'Alterac sont la tombe d'un royaume, la preuve qu'une capitale peut devenir un cimetière, et que la gloire des hommes tient souvent à un seul serment trahi.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : capitale-en-ruines

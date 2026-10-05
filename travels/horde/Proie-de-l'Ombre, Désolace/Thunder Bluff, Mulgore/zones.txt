@@ -1,0 +1,6 @@
+0;42;Désolace;Proie-de-l'Ombre;
+0;54;Désolace;Maraudon;
+0;149;Désolace;Général;
+116;178;Mulgore;Camp Narache;
+137;178;Mulgore;Thunder Bluff;
+150;178;Mulgore;Général;

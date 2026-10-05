@@ -1,0 +1,7 @@
+# Ashenvale / Avant-poste de Zoram'gar — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+42.00;36.41
+46.00;36.41
+46.00;40.41
+42.00;40.41

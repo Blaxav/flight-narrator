@@ -1,9 +1,0 @@
-Le village des ogres
-====================
-
-Mur-de-Fougères se serre contre la lisière du Marécage d'Âprefange, un fouillis de huttes basses ceintes d'une muraille de troncs et de fougères. Les toits de chaume gouttent sans fin, les ruelles sont des coulées de boue et les feux de camp luttent contre l'humidité. Pourtant, le village respire une solidité rassurante : les poteaux sont enfoncés profond, les pieux taillés serrés, et les tours de guet tiennent bon malgré le vent. On y entend le bruit sourd des massues qu'on aiguise, le grognement des ogres et les éclats de voix des orcs. C'est un poste de guerre, certes, mais aussi un foyer pour ceux que la Horde a envoyés aux marches du monde. Ici, on ne pose pas de questions inutiles.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : le-village-des-ogres

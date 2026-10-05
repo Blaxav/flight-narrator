@@ -1,0 +1,10 @@
+# Ashenvale / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+44.812;35.558
+47.003;34.363
+49.223;38.204
+56.65;35.871
+55.938;44.038
+51.442;47.253
+46.231;44.859
+43.048;39.086

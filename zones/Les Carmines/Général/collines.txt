@@ -1,0 +1,9 @@
+Les collines de Les Carmines
+==========================
+
+Vous planez au-dessus de Les Carmines, un pays de collines rousses et de forêts de pins que l'Alliance défend bec et ongles. C'est une terre de frontière, accrochée à l'est d'Elwynn, où les villages s'alignent le long des routes et des lacs. Mais la menace est réelle : les orcs Rochenoire, descendus des Steppes ardentes, ont pris d'assaut les tours de pierre et rançonnent la région, pendant que les gnolls déferlent sur les fermes isolées. Les miliciens et les aventuriers y tiennent les ponts et les gués, car si Les Carmines tombe, la route de Stormwind s'ouvre à l'ennemi. Ces collines sont le rempart avancé du royaume, la preuve que la civilisation s'arrête là où l'on cesse de monter la garde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : collines

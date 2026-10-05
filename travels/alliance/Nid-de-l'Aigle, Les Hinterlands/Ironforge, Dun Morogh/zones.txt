@@ -1,0 +1,8 @@
+0;24;Les Hinterlands;Nid-de-l'Aigle;
+0;33;Les Hinterlands;Général;
+33;135;Arathi;Général;
+135;223;Les Paluns;Général;
+180;227;Les Paluns;Port de Menethil;
+217;253;Dun Morogh;Kharanos;
+222;256;Dun Morogh;Général;
+233;256;Dun Morogh;Ironforge;

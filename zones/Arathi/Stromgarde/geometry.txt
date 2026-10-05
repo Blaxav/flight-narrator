@@ -1,0 +1,6 @@
+# Arathi / Stromgarde — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+52.0;36.0
+55.0;36.0
+55.0;39.0
+52.0;39.0

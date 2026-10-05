@@ -1,9 +1,0 @@
-Les hautes terres des Hinterlands
-=================================
-
-Vous planez au-dessus des Hinterlands, un pays de hauts plateaux et de forêts suspendues entre ciel et mer. Les rivières y dévalent en cascades, les pins s'accrochent aux falaises, et la brume s'étire dans les vallées comme une écharpe. C'est une terre sauvage et belle, où les aigles tournoient au-dessus des cimes et où les sentiers serpentent entre les rochers. Mais cette splendeur abrite de vieilles rancunes : les nains, les trolls et les créatures de la forêt s'y disputent chaque sommet. Les Hinterlands sont un bastion des hauteurs, un monde à part où l'on vit plus près du ciel, mais aussi plus près des orages. Les aigles y ont tracé des routes invisibles que seuls les griffons partagent.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : paysage

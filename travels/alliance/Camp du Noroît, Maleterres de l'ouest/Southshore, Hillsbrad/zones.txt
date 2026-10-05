@@ -1,0 +1,7 @@
+0;11;Maleterres de l'ouest;Scholomance;
+0;25;Maleterres de l'ouest;Camp du Noroît;
+0;52;Montagnes d'Alterac;Général;
+1;23;Maleterres de l'ouest;Andorhal;
+24;73;Hillsbrad;Moulin-de-Tarren;
+51;85;Hillsbrad;Général;
+61;85;Hillsbrad;Southshore;

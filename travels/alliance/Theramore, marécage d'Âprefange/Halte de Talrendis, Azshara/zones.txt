@@ -1,0 +1,9 @@
+0;18;Marécage d'Âprefange;Theramore;
+0;72;Marécage d'Âprefange;Général;
+88;124;Les Tarides;Ratchet;
+110;214;Durotar;Général;
+147;174;Durotar;Sen'jin;
+180;215;Durotar;Orgrimmar;
+187;213;Durotar;Gouffre de Ragefeu;
+214;235;Azshara;Général;
+218;235;Azshara;Halte de Talrendis;

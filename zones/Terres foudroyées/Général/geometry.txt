@@ -1,0 +1,8 @@
+# Terres foudroyées / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+52.516;77.906
+56.596;78.489
+58.417;82.969
+56.395;87.795
+51.442;87.814
+51.715;81.075

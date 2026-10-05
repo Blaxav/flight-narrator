@@ -1,9 +1,0 @@
-Le port d'Auberdine
-===================
-
-Auberdine est le principal port de Sombrivage, un bourg de bois posé sur la grève, où les elfes de la nuit accueillent les navires et les voyageurs. Ses quais s'avancent dans la brume, ses lanternes veillent sur les flots, et l'on y charge le bois, le poisson et les nouvelles. C'est un lieu de passage, modeste mais vital, qui relie la côte au reste du monde. On y trouve un abri, un feu et une oreille. Auberdine est la lumière de Sombrivage, la preuve que même les côtes les plus sombres gardent un port, et que l'hospitalité y est une forme de courage.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : auberdine

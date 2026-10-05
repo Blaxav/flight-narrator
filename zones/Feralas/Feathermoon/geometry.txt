@@ -1,0 +1,7 @@
+# Feralas / Feathermoon — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+35.71;67.80
+39.71;67.80
+39.71;71.80
+35.71;71.80

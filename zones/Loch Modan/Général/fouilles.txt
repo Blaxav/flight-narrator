@@ -1,9 +1,0 @@
-Les fouilles des nains
-======================
-
-Loch Modan est une terre de fouilles. Les nains y creusent les flancs des montagnes, ouvrent des mines et des chantiers, à la recherche de minerais et de vestiges anciens. Leurs pioches ont mis au jour plus d'un secret, mais aussi plus d'un danger : les troggs sont sortis de ces tunnels, et l'on dit que certaines galeries descendent vers des choses que nul ne devrait déranger. Pourtant, la fièvre du minerai ne s'arrête pas, car Forgefer a besoin de pierre, d'acier et d'or. Les chantiers bourdonnent d'activité, les wagonnets grincent, et la montagne résonne de coups sourds. À Loch Modan, creuser est un acte de foi, et la terre rend toujours plus qu'on ne lui demande, pour le meilleur et pour le pire.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : fouilles

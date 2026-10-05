@@ -1,0 +1,7 @@
+0;26;Mille Pointes;Poste de Librevent;
+0;32;Mille Pointes;Général;
+32;54;Tanaris;Général;
+49;93;Tanaris;Zul'Farrak;
+58;59;Mille Pointes;Général;
+64;93;Tanaris;Général;
+68;93;Tanaris;Gadgetzan;

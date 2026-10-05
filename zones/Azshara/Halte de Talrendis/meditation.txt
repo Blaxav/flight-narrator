@@ -1,0 +1,9 @@
+Un lieu de méditation
+=====================
+
+On raconte que la Halte de Talrendis fut, bien avant d'être un poste de garde, un lieu de méditation des prêtresses de la Lune. Les elfes y venaient contempler la mer et écouter la voix d'Elune dans le ressac. Les falaises, battues par les vagues, inspiraient le recueillement et le calme. Aujourd'hui encore, les sentinelles y allument des cierges les nuits de pleine lune, perpétuant un rite ancien. La guerre n'a pas tout effacé : il reste, dans ce lieu isolé, une sérénité que les combats n'ont pas pu briser. Talrendis est ainsi double : un rempart contre les nagas, et un sanctuaire où l'on se souvient que les elfes furent d'abord un peuple de prêtres et de poètes, avant de devenir des guerriers.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : meditation

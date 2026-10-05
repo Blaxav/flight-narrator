@@ -1,0 +1,7 @@
+# Tirisfal / Undercity — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+42.61;22.58
+46.61;22.58
+46.61;26.58
+42.61;26.58

@@ -1,0 +1,6 @@
+0;34;Maleterres de l'est;Chapelle de l'Espoir de Lumière;
+0;104;Maleterres de l'est;Général;
+31;60;Maleterres de l'est;Stratholme;
+56;60;Maleterres de l'est;Naxxramas;
+103;163;Les Hinterlands;Général;
+130;163;Les Hinterlands;Nid-de-l'Aigle;

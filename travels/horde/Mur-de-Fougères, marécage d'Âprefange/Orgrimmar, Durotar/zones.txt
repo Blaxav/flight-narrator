@@ -1,0 +1,10 @@
+0;23;Marécage d'Âprefange;Mur-de-Fougères;
+0;41;Marécage d'Âprefange;Général;
+41;147;Les Tarides;Général;
+49;109;Les Tarides;Est;
+79;124;Les Tarides;Ratchet;
+104;109;Les Tarides;Nord;
+150;217;Durotar;Général;
+154;187;Durotar;Sen'jin;
+195;217;Durotar;Orgrimmar;
+204;217;Durotar;Gouffre de Ragefeu;

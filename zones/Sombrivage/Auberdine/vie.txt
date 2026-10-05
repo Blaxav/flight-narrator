@@ -1,9 +1,0 @@
-La vie du bourg
-===============
-
-La vie d'Auberdine est rythmée par la marée, la pêche et l'entretien des navires. Les pêcheurs partent avant l'aube, les charpentiers rabotent sur la grève, et les marchandes alignent leurs étals de poisson séché, de bois et d'étoffes. Les enfants courent entre les filets, les anciens racontent la mer, et les sentinelles surveillent l'horizon. C'est une vie dure, salée, mais tissée de solidarité. La vie du bourg d'Auberdine est le battement de Sombrivage, la preuve que même sur une côte sombre, on peut bâtir des jours ordinaires, et y tenir.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : vie

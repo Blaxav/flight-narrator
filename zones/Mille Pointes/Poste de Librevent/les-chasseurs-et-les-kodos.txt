@@ -1,9 +1,0 @@
-Les chasseurs et les kodos
-==========================
-
-Les chasseurs du Poste de Librevent descendent chaque jour dans le canyon avec leurs arcs et leurs lances, escortés par des kodos massifs aux cornes larges. Ces bêtes placides portent les charges lourdes, tirent les traîneaux et montent la garde aux abords du camp. Les chasseurs connaissent les pistes des antilopes, les points d'eau cachés et les heures où les centaures patrouillent. Ils rapportent viande, cuir et cornes, mais aussi des nouvelles : une colonne ennemie, un nid de harpies, une source empoisonnée. Les kodos, eux, semblent sentir le danger avant les taurens, et leurs grondements sourds avertissent souvent le poste d'une menace. Entre les chasseurs et leurs montures, le lien est ancien, fait de patience et de respect mutuel.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : les-chasseurs-et-les-kodos

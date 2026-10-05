@@ -1,0 +1,7 @@
+# Arathi / Refuge de l'Ornière — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+50.63;35.22
+54.63;35.22
+54.63;39.22
+50.63;39.22

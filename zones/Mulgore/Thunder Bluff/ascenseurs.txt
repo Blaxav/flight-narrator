@@ -1,0 +1,9 @@
+Les ponts et les ascenseurs
+===========================
+
+Thunder Bluff défient le vide par leurs ascenseurs de bois et de corde, qui montent et descendent le long des falaises au gré des poulies. Les ponts suspendus relient les mesas entre elles, et l'on traverse au-dessus du précipice en sentant la plateforme tanguer sous le vent. Les jeunes taurens s'y habituent dès l'enfance, mais les visiteurs s'y agrippent, le souffle court. Cette architecture est née d'une nécessité : défendre la cité sans murailles, en la rendant presque imprenable. Les ascenseurs des Pitons sont la preuve de l'ingéniosité taurenne, une audace de bois et de corde qui fait de la hauteur un rempart et du vide un allié.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ascenseurs

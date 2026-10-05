@@ -1,0 +1,9 @@
+0;2;Sombrivage;Bashal'Aran;
+0;25;Sombrivage;Auberdine;
+0;84;Sombrivage;Général;
+15;39;Sombrivage;Ameth'Aran;
+118;155;Ashenvale;Profondeurs de Brassenoire;
+123;172;Ashenvale;Avant-poste de Zoram'gar;
+152;181;Serres-Rocheuses;Général;
+154;157;Ashenvale;Général;
+157;181;Serres-Rocheuses;Pic des Serres-Rocheuses;

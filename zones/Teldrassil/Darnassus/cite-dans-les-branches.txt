@@ -1,9 +1,0 @@
-Une cité dans les branches
-==========================
-
-Darnassus s'étend dans les hautes branches de Teldrassil, comme une ville suspendue entre le ciel et le feuillage. Ses temples de bois pâle, ses places ombragées et ses ponts de lianes s'enroulent autour de troncs colossaux, sans un seul clou ni une seule pierre taillée. La ville est vivante : elle respire avec l'arbre, et ses rues sont des branches aménagées où l'on marche à des dizaines de mètres au-dessus du sol. La lumière y tombe, dorée et paisible, et l'air y sent la résine, les fleurs et la mousse fraîche. Darnassus est la capitale des elfes de la nuit, un rêve de bois et de verdure accroché aux cimes, bercé par le vent. Ici, la civilisation n'a pas dompté la nature : elle a poussé avec elle, lentement, comme une branche de plus.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : cite-dans-les-branches

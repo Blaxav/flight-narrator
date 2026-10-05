@@ -1,0 +1,6 @@
+# Teldrassil / Aldrassil — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+41.5;15.5
+44.5;15.5
+44.5;18.5
+41.5;18.5

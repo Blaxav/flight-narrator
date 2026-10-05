@@ -1,0 +1,9 @@
+Le bastion de l'Alliance
+========================
+
+Southshore est le bastion de l'Alliance en Hillsbrad, la réponse des humains à la présence des Réprouvés. Ses soldats montent la garde, ses tours surveillent la route du nord, et ses officiers coordonnent la défense des fermes alentour. La garnison y est modeste, mais déterminée, et chaque raid contre Moulin-de-Tarren se prépare dans ses casernes. La ville est aussi un refuge pour les fermiers menacés et les voyageurs perdus. Pour beaucoup, Southshore représente ce qui reste de Lordaeron : un drapeau encore levé, une autorité encore debout, une promesse que tout n'est pas perdu. L'Alliance tient ici, et elle compte bien le faire savoir. Ses murs ne sont pas hauts, mais ils suffisent à tenir la peur à distance.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : alliance

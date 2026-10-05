@@ -1,9 +1,0 @@
-L'oasis stagnante
-=================
-
-À l'ouest, une oasis aux eaux dormantes attire les bêtes et les voyageurs, mais son calme est trompeur. Les palmes s'y penchent au-dessus d'une surface immobile, et l'air y semble plus lourd, chargé d'une odeur de vase et de vie ancienne. Les eaux remontent des profondeurs, portant l'étrange énergie des Cavernes des lamentations, et ce qui y boit en ressort parfois changé. Les chasseurs y viennent avec méfiance, les bêtes s'y abreuvent en cercles nerveux, et l'on raconte que la nuit, des formes glissent sous la surface. Cette oasis n'est pas un refuge : c'est un miroir tendu à la savane, et tous les reflets n'y sont pas ceux des vivants. Mieux vaut n'y tremper que la main, et repartir avant la nuit.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : oasis-stagnante

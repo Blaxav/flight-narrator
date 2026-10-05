@@ -1,0 +1,6 @@
+0;33;Hillsbrad;Southshore;
+0;55;Hillsbrad;Général;
+18;50;Hillsbrad;Moulin-de-Tarren;
+39;71;Les Hinterlands;Nid-de-l'Aigle;
+55;63;Montagnes d'Alterac;Général;
+64;71;Les Hinterlands;Général;

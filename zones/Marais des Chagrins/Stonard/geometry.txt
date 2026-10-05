@@ -1,0 +1,7 @@
+# Marais des Chagrins / Stonard — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+52.72;74.99
+56.72;74.99
+56.72;78.99
+52.72;78.99

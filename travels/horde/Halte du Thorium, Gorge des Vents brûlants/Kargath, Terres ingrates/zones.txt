@@ -1,0 +1,5 @@
+0;47;Gorge des Vents brûlants;Halte du Thorium;
+0;58;Gorge des Vents brûlants;Général;
+24;70;Terres ingrates;Kargath;
+34;70;Terres ingrates;Uldaman;
+58;70;Terres ingrates;Général;

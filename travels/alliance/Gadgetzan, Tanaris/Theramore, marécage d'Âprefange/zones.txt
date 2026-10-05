@@ -1,0 +1,6 @@
+0;4;Tanaris;Zul'Farrak;
+0;20;Tanaris;Général;
+0;23;Tanaris;Gadgetzan;
+21;106;Mille Pointes;Général;
+106;154;Marécage d'Âprefange;Général;
+132;154;Marécage d'Âprefange;Theramore;

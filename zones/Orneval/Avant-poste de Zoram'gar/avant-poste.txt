@@ -1,9 +1,0 @@
-L'avant-poste de la Horde
-=========================
-
-L'avant-poste de Zoram'gar est un camp de la Horde planté sur la côte nord d'Orneval, face à la mer. Des palissades de bois, des tentes de peaux et des feux de guerre y tiennent tête à la forêt hostile. Les orcs et les trolls y montent la garde, l'arme à la main, car les elfes rôdent et la jungle ne leur laisse aucun répit. C'est un lieu rude, sans confort, où l'on dort par roulement et où l'on mange sur le pouce. L'avant-poste de Zoram'gar est la pointe avancée de la Horde en terre elfique, la preuve que la guerre, ici, se gagne mètre par mètre, dans l'humidité et la méfiance.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : avant-poste

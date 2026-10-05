@@ -48,9 +48,9 @@ def split_name_zone(name: str):
 
 # frFR flight-node names we prefer to display under the narration/lore name.
 # text/ and prompts/ call the town "Ratchet" while the flight DB calls it
-# "Cabestan" (both are official; "Ratchet" is the one used in the audio).
+# "Ratchet" (both are official; "Ratchet" is the one used in the audio).
 CITY_RENAME = {
-    "Cabestan": "Ratchet",
+    "Ratchet": "Ratchet",
 }
 
 # Curated sub-folders: dungeons, raids, sub-regions, and cities that are not
@@ -61,7 +61,7 @@ EXTRA_SUBZONES = {
     # --- Kalimdor ---
     "Teldrassil": ["Darnassus", "Dolanaar", "Aldrassil"],
     "Sombrivage": ["Bashal'Aran", "Ameth'Aran"],
-    "Orneval": ["Profondeurs de Brassenoire"],
+    "Ashenvale": ["Profondeurs de Brassenoire"],
     "Azshara": [],
     "Durotar": ["Gouffre de Ragefeu", "Sen'jin", "Colline de Lame-Rasoir"],  # TODO: vérifier "Razor Hill"
     "Mulgore": ["Camp Narache", "Village des Sabot-Sanglant"],  # TODO: vérifier "Bloodhoof Village"
@@ -73,7 +73,7 @@ EXTRA_SUBZONES = {
         "Souilles de Tranchebauge (Downs)",   # TODO: vérifier le nom frFR exact
     ],
     "Marécage d'Âprefange": ["Repaire d'Onyxia"],
-    "Féralas": ["Hache-Tripes"],
+    "Feralas": ["Hache-Tripes"],
     "Gangrebois": [],
     "Berceau-de-l'Hiver": [],
     "Reflet-de-Lune": [],
@@ -85,11 +85,11 @@ EXTRA_SUBZONES = {
     "Dun Morogh": ["Gnomeregan", "Kharanos"],
     "Loch Modan": [],
     "Marche de l'Ouest": ["Les Mortemines"],
-    "Rougecrête": [],
+    "Les Carmines": [],
     "Bois de la Pénombre": [],
     "Défilé de Deuillevent": ["Karazhan"],
     "Les Paluns": [],
-    "Hautebrande": [],
+    "Hillsbrad": [],
     "Montagnes d'Alterac": ["Ruines d'Alterac"],
     "Arathi": ["Stromgarde"],
     "Strangleronce": ["Zul'Gurub"],

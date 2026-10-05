@@ -1,0 +1,9 @@
+# Tirisfal / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+36.94;19.459
+49.096;16.727
+48.937;22.737
+47.639;25.719
+44.839;25.833
+43.61;24.923
+37.213;26.425

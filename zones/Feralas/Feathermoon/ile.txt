@@ -1,0 +1,9 @@
+La forteresse de l'île
+======================
+
+Vous survolez Feathermoon, la forteresse insulaire que les elfes de la nuit ont dressée au large de Feralas pour surveiller la côte. On n'y accède que par la mer, et les vagues en gardent les abords mieux que n'importe quel rempart. C'est la générale Shandris, compagne d'armes de Tyrande Murmevent depuis la guerre des Anciens, qui commande ici : ses Sentinelles y montent la garde, l'arc à la main, le regard tourné vers l'horizon. Ce bastion est un morceau de la civilisation kaldorei posé sur les flots, mais aussi un poste avancé face aux nagas d'Azshara et aux ogres de Hache-Tripes. Feathermoon veille, et ne dort jamais tout à fait.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : ile

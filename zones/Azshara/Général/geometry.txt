@@ -1,0 +1,9 @@
+# Azshara / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+56.735;36.81
+59.011;35.586
+60.377;32.115
+66.325;30.066
+67.804;44.265
+60.662;43.013
+55.938;44.208

@@ -1,0 +1,5 @@
+0;32;Ashenvale;Astranaar;
+0;140;Ashenvale;Général;
+68;125;Ashenvale;Poste de Bois-brisé;
+119;150;Azshara;Halte de Talrendis;
+141;150;Azshara;Général;

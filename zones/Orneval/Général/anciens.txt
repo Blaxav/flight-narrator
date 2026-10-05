@@ -1,9 +1,0 @@
-Les Anciens et les esprits
-==========================
-
-Les Anciens veillent sur Orneval. Ces esprits de la nature, arbres qui marchent et gardiens de pierre, sont la mémoire vivante de la forêt. Ils connaissent chaque source, chaque nid, chaque sentier oublié, et ils parlent aux elfes comme à des enfants. On les consulte avant les grandes décisions, et leur colère, quand on blesse le bois, est redoutable. Les Anciens sont lents, mais rien ne leur échappe. Les Anciens d'Orneval sont les racines du monde, la preuve que la forêt n'est pas un décor, mais un être immense et ancien, qui respire sous les pas des vivants.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : anciens

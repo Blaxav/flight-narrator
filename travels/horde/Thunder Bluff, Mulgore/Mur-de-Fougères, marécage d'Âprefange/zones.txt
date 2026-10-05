@@ -1,0 +1,10 @@
+0;1;Mulgore;Camp Narache;
+0;59;Mulgore;Thunder Bluff;
+0;114;Mulgore;Général;
+80;207;Les Tarides;Ouest;
+80;239;Les Tarides;Sud;
+96;204;Les Tarides;Camp Taurajo;
+113;226;Les Tarides;Général;
+143;160;Les Tarides;Cavernes des lamentations;
+181;239;Marécage d'Âprefange;Mur-de-Fougères;
+225;239;Marécage d'Âprefange;Général;

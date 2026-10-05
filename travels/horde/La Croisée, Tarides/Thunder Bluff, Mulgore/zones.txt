@@ -1,0 +1,9 @@
+0;11;Les Tarides;Est;
+0;53;Les Tarides;La Croisée;
+0;98;Les Tarides;Général;
+0;111;Les Tarides;Nord;
+11;116;Les Tarides;Ouest;
+98;182;Mulgore;Général;
+111;116;Les Tarides;Sud;
+130;182;Mulgore;Thunder Bluff;
+143;174;Mulgore;Village des Sabot-Sanglant;

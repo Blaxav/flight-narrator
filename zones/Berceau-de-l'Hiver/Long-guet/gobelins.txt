@@ -1,9 +1,0 @@
-Les gobelins du froid
-=====================
-
-Long-guet est un comptoir gobelin planté au cœur du Berceau-de-l'Hiver, là où les pistes enneigées se croisent. Les gobelins y ont bâti des entrepôts, des auberges et des ateliers, transformant une clairière hostile en plaque tournante du nord de Kalimdor. Rien ne les arrête : ni le froid, ni les yétis, ni les furbolgs, tant qu'il y a de l'or à gagner. On y croise des marchands emmitouflés, des mécaniciens et des gardes du corps, tous occupés à faire tourner le commerce. Les gobelins de Long-guet ont compris que le froid est une affaire comme une autre, et ils vendent de la chaleur à prix d'or. Ici, l'hiver n'est pas un obstacle, c'est un marché.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : gobelins

@@ -1,0 +1,12 @@
+# Tanaris / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+52.201;77.071
+54.504;76.884
+54.987;79.129
+56.06;80.13
+59.128;79.107
+61.889;83.099
+57.839;94.625
+50.636;90.712
+51.29;86.651
+53.526;83.065

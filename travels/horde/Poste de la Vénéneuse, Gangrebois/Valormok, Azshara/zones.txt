@@ -1,0 +1,6 @@
+0;46;Gangrebois;Poste de la Vénéneuse;
+0;90;Gangrebois;Général;
+182;205;Ashenvale;Général;
+196;241;Azshara;Valormok;
+207;209;Berceau-de-l'Hiver;Général;
+208;241;Azshara;Général;

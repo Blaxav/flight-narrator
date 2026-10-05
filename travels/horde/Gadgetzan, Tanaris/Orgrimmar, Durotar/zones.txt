@@ -1,0 +1,13 @@
+0;4;Tanaris;Zul'Farrak;
+0;17;Tanaris;Général;
+0;20;Tanaris;Gadgetzan;
+17;89;Mille Pointes;Général;
+89;208;Marécage d'Âprefange;Général;
+100;129;Marécage d'Âprefange;Repaire d'Onyxia;
+112;151;Marécage d'Âprefange;Theramore;
+208;220;Les Tarides;Général;
+229;268;Les Tarides;Ratchet;
+253;350;Durotar;Général;
+295;324;Durotar;Sen'jin;
+331;350;Durotar;Orgrimmar;
+339;350;Durotar;Gouffre de Ragefeu;

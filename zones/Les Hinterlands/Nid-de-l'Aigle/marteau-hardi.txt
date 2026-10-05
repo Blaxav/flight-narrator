@@ -1,0 +1,9 @@
+Le clan Marteau-Hardi
+=====================
+
+Les Marteau-Hardi sont un clan nain à part. Après la guerre des Trois Marteaux, ils refusèrent de rester sous la coupe de Ironforge et partirent chercher la liberté dans les hautes terres. Ils y apprirent à vivre du vent, de la chasse et de l'élevage des griffons, et y fondèrent leur propre nation. Fiers, rudes et indépendants, ils se méfient des grandes alliances, mais restent fidèles à leurs serments. Leur amour du ciel a fait d'eux les meilleurs cavaliers de griffons du monde. Les Marteau-Hardi incarnent l'esprit des Hinterlands : sauvages, libres et indomptables. Ils ont troqué les galeries pour le grand air, et n'en sont jamais redescendus, préférant la lumière crue des sommets à l'ombre des mines.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : marteau-hardi

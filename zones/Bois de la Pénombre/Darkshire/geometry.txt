@@ -1,0 +1,7 @@
+# Bois de la Pénombre / Darkshire — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+46.88;74.83
+50.88;74.83
+50.88;78.83
+46.88;78.83

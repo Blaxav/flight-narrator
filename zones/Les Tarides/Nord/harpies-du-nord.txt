@@ -1,9 +1,0 @@
-Les harpies des hauteurs
-========================
-
-Le nord des Tarides appartient en partie aux harpies. Elles ont élu domicile sur les mesas et les corniches, où leurs nids d'os et de branchages défient la gravité. De là, elles dominent les pistes et fondent sur les voyageurs isolés, leurs cris déchirant le silence de la savane. Elles ne font pas de prisonniers et ne laissent que des os blanchis au soleil. Les caravanes traversent ces parages en rangs serrés, l'œil au ciel, car les harpies frappent par surprise et disparaissent avant la riposte. On dit qu'elles obéissent à des reines cruelles qui se disputent les pitons rocheux. Dans le nord des Tarides, le danger vient d'en haut, et le ciel n'y est jamais vide.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : harpies-du-nord

@@ -1,0 +1,6 @@
+0;57;Dun Morogh;Ironforge;
+0;98;Dun Morogh;Général;
+10;95;Dun Morogh;Kharanos;
+19;53;Dun Morogh;Gnomeregan;
+72;128;Les Paluns;Port de Menethil;
+96;128;Les Paluns;Général;

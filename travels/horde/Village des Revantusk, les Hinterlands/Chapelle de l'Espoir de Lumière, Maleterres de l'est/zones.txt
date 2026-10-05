@@ -1,0 +1,5 @@
+0;23;Les Hinterlands;Village des Revantusk;
+0;92;Les Hinterlands;Général;
+1;35;Les Hinterlands;Jintha'Alor;
+93;139;Maleterres de l'est;Général;
+117;139;Maleterres de l'est;Chapelle de l'Espoir de Lumière;

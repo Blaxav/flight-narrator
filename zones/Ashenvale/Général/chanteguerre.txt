@@ -1,0 +1,9 @@
+Les orcs Chanteguerre
+=====================
+
+Les orcs du clan Chanteguerre ont planté leurs étendards dans Ashenvale, et leur nom fait trembler la forêt. Descendants des guerriers de Grom Hurlenfer, ils abattent les arbres pour nourrir les feux de la Horde, dressent des camps et harcèlent les patrouilles elfiques. Leur rage est ancienne, leur soif de bois insatiable, et ils voient dans la forêt une ressource à conquérir. Les elfes répondent flèche pour flèche, et le bois devient un champ de bataille. Les Chanteguerre sont la plaie ouverte d'Ashenvale, la preuve que la guerre des deux factions s'est invitée jusque dans les sanctuaires, et que la hache et l'arc y parlent désormais plus fort que les esprits.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : chanteguerre

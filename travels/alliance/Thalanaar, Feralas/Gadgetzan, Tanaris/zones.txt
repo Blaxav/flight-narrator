@@ -1,0 +1,8 @@
+0;31;Feralas;Thalanaar;
+0;99;Mille Pointes;Général;
+22;65;Mille Pointes;Souilles de Tranchebauge (Kraul);
+37;84;Mille Pointes;Souilles de Tranchebauge (Downs);
+51;91;Mille Pointes;Poste de Librevent;
+99;171;Tanaris;Général;
+117;171;Tanaris;Zul'Farrak;
+141;171;Tanaris;Gadgetzan;

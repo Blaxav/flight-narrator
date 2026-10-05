@@ -1,0 +1,9 @@
+0;14;Marécage d'Âprefange;Général;
+0;55;Marécage d'Âprefange;Mur-de-Fougères;
+1;150;Les Tarides;Sud;
+13;119;Les Tarides;Général;
+31;150;Les Tarides;Ouest;
+33;135;Les Tarides;Camp Taurajo;
+75;91;Les Tarides;Cavernes des lamentations;
+118;224;Mulgore;Général;
+170;224;Mulgore;Thunder Bluff;

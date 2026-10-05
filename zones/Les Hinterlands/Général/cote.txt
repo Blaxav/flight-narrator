@@ -1,9 +1,0 @@
-La côte des Hinterlands
-=======================
-
-À l'est, les Hinterlands s'achèvent sur une côte escarpée, battue par les vagues de la mer. Les falaises y plongent dans l'écume, et les criques abritent des villages de pêcheurs et des nids de créatures marines. C'est une côte sauvage, loin des grandes routes, où les tempêtes sculptent la roche et où les épaves racontent les naufrages. Les trolls Vengebroche y ont établi leur village, profitant des ressources de la mer. Mais cette côte est aussi une porte ouverte : par elle, des ennemis peuvent débarquer, des contrebandiers s'infiltrer. Les Hinterlands ne se défendent pas seulement sur leurs sommets, mais aussi face à l'océan. Les pêcheurs y attachent leurs barques en priant pour la mer.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : cote

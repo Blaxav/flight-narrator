@@ -1,0 +1,10 @@
+# Feralas / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+35.73;61.819
+45.377;62.132
+45.861;67.111
+49.105;68.136
+47.853;70.099
+48.722;75.997
+42.418;76.53
+37.779;81.596

@@ -1,0 +1,11 @@
+0;35;Tanaris;Gadgetzan;
+0;64;Tanaris;Zul'Farrak;
+0;81;Tanaris;Général;
+82;156;Mille Pointes;Général;
+91;107;Mille Pointes;Poste de Librevent;
+94;112;Cratère d'Un'Goro;Refuge des Marshal;
+100;133;Mille Pointes;Souilles de Tranchebauge (Downs);
+117;152;Mille Pointes;Souilles de Tranchebauge (Kraul);
+157;200;Feralas;Général;
+159;190;Feralas;Thalanaar;
+165;200;Feralas;Camp Mojache;

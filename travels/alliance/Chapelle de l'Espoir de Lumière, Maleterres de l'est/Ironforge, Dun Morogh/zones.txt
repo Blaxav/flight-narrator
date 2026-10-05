@@ -1,0 +1,12 @@
+0;25;Maleterres de l'est;Chapelle de l'Espoir de Lumière;
+0;55;Maleterres de l'est;Général;
+55;147;Les Hinterlands;Général;
+117;131;Les Hinterlands;Jintha'Alor;
+142;192;Arathi;Trépas-d'Orgrim;
+146;243;Arathi;Général;
+176;204;Arathi;Stromgarde;
+188;207;Arathi;Refuge de l'Ornière;
+243;338;Les Paluns;Général;
+328;365;Dun Morogh;Kharanos;
+337;369;Dun Morogh;Général;
+345;369;Dun Morogh;Ironforge;

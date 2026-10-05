@@ -1,9 +1,0 @@
-La guerre du bois
-=================
-
-Zoram'gar n'est pas qu'un camp : c'est une pièce sur l'échiquier de la guerre du bois. De là, la Horde peut menacer les routes elfiques, surveiller la côte et soutenir les bûcherons qui grignotent la forêt. Les chefs y préparent des raids, y entreposent des vivres et y soignent les blessés. Les elfes, eux, ne l'ignorent pas : chaque mouvement de l'avant-poste est épié depuis les frondaisons. La stratégie de Zoram'gar est une guerre d'usure, lente et cruelle. Zoram'gar est la preuve que dans Orneval, chaque clairière gagnée se paie en sang, et que la Horde entend bien ne plus jamais reculer.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : strategie

@@ -1,0 +1,10 @@
+0;1;Mulgore;Camp Narache;
+0;24;Mulgore;Thunder Bluff;
+0;102;Mulgore;Général;
+65;93;Les Tarides;Cavernes des lamentations;
+81;128;Les Tarides;Ouest;
+81;128;Les Tarides;Sud;
+100;173;Les Tarides;Général;
+174;204;Mille Pointes;Général;
+181;204;Mille Pointes;Poste de Librevent;
+187;193;Mille Pointes;Souilles de Tranchebauge (Downs);

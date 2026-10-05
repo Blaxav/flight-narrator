@@ -1,0 +1,8 @@
+0;28;Dun Morogh;Ironforge;
+0;40;Dun Morogh;Général;
+5;46;Dun Morogh;Kharanos;
+35;90;Les Paluns;Port de Menethil;
+39;142;Les Paluns;Général;
+142;261;Arathi;Général;
+261;298;Les Hinterlands;Général;
+271;298;Les Hinterlands;Nid-de-l'Aigle;

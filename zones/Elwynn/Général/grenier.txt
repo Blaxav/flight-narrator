@@ -1,9 +1,0 @@
-Le grenier du royaume
-=====================
-
-Elwynn est le grenier du royaume de Hurlevent. Ses champs de blé, ses vergers et ses élevages nourrissent la capitale et ses armées, et les moulins y tournent sans relâche. Les récoltes y sont l'objet de toutes les attentions, et les fêtes des moissons y rassemblent les communautés. Cette abondance fait la force du royaume, mais aussi sa vulnérabilité : qui affame Elwynn affame Hurlevent. Les bandits le savent, et s'en prennent aux granges et aux convois. Défendre les fermes, c'est donc défendre le pain de tout un peuple. Elwynn n'est pas seulement une belle campagne : c'est le ventre du royaume, et l'on ne laisse pas un ventre sans défense, quand tant de bouches en dépendent.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : grenier

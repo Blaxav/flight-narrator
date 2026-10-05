@@ -1,0 +1,7 @@
+0;32;Feralas;Camp Mojache;
+0;33;Feralas;Général;
+9;60;Feralas;Thalanaar;
+34;107;Mille Pointes;Général;
+44;86;Mille Pointes;Souilles de Tranchebauge (Kraul);
+70;102;Mille Pointes;Souilles de Tranchebauge (Downs);
+76;107;Mille Pointes;Poste de Librevent;

@@ -1,9 +1,0 @@
-Le comptoir de Long-guet
-========================
-
-À Long-guet, le commerce ne s'arrête jamais. On y vend des fourrures, des armes, des potions contre le gel et des vivres pour les expéditions, et l'on y achète tout ce que la région produit : peaux de frostsaber, cornes de yéti et reliques des anciennes guerres. Les caravanes y convergent, malgré le froid, car Long-guet est le seul vrai marché à des lieues à la ronde. Les gobelins y pratiquent leur loi : tout a un prix, et personne ne pose de questions. Les prix y sont élevés, mais l'offre y est abondante, et les voyageurs paient sans discuter. Long-guet est la preuve que le commerce s'épanouit même sous la neige, pourvu qu'il y ait des clients et des marchands assez obstinés pour braver l'hiver.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : commerce

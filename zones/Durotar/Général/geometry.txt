@@ -1,0 +1,6 @@
+# Durotar / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+56.137;44.151
+60.69;43.07
+61.288;55.562
+57.076;55.847

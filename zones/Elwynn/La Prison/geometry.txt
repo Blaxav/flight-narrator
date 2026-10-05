@@ -1,0 +1,6 @@
+# Elwynn / La Prison — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+42.5;68.0
+45.5;68.0
+45.5;71.0
+42.5;71.0

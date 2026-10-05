@@ -1,0 +1,993 @@
+Horde (493 routes) :
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens
+  Bloodvenom Post, Felwood -> Everlook, Winterspring
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Bloodvenom Post, Felwood -> Moonglade
+  Bloodvenom Post, Felwood -> Orgrimmar, Durotar
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace
+  Bloodvenom Post, Felwood -> Valormok, Azshara -> Splintertree Post, Ashenvale
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Thunder Bluff, Mulgore
+  Bloodvenom Post, Felwood -> Valormok, Azshara
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Booty Bay, Stranglethorn -> Stonard, Swamp of Sorrows -> Flame Crest, Burning Steppes
+  Booty Bay, Stranglethorn -> Grom'gol, Stranglethorn
+  Booty Bay, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi
+  Booty Bay, Stranglethorn -> Kargath, Badlands
+  Booty Bay, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Booty Bay, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands
+  Booty Bay, Stranglethorn -> Stonard, Swamp of Sorrows
+  Booty Bay, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad
+  Booty Bay, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Booty Bay, Stranglethorn -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  Booty Bay, Stranglethorn -> Kargath, Badlands -> Undercity, Tirisfal
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Brackenwall Village, Dustwallow Marsh -> Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens
+  Brackenwall Village, Dustwallow Marsh -> Orgrimmar, Durotar -> Valormok, Azshara -> Everlook, Winterspring
+  Brackenwall Village, Dustwallow Marsh -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles
+  Brackenwall Village, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Brackenwall Village, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Brackenwall Village, Dustwallow Marsh -> Orgrimmar, Durotar -> Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Brackenwall Village, Dustwallow Marsh -> Orgrimmar, Durotar
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Brackenwall Village, Dustwallow Marsh -> Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Brackenwall Village, Dustwallow Marsh -> Orgrimmar, Durotar -> Splintertree Post, Ashenvale
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Brackenwall Village, Dustwallow Marsh -> Thunder Bluff, Mulgore
+  Brackenwall Village, Dustwallow Marsh -> Orgrimmar, Durotar -> Valormok, Azshara
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Camp Mojache, Feralas -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Brackenwall Village, Dustwallow Marsh
+  Camp Mojache, Feralas -> Freewind Post, Thousand Needles -> Camp Taurajo, The Barrens
+  Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Camp Mojache, Feralas -> Crossroads, The Barrens
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Camp Mojache, Feralas -> Freewind Post, Thousand Needles
+  Camp Mojache, Feralas -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Camp Mojache, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Orgrimmar, Durotar
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Camp Mojache, Feralas -> Shadowprey Village, Desolace
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Camp Mojache, Feralas -> Shadowprey Village, Desolace -> Sun Rock Retreat, Stonetalon Mountains
+  Camp Mojache, Feralas -> Thunder Bluff, Mulgore
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Valormok, Azshara
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Camp Taurajo, The Barrens -> Freewind Post, Thousand Needles -> Camp Mojache, Feralas
+  Camp Taurajo, The Barrens -> Freewind Post, Thousand Needles -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Camp Taurajo, The Barrens -> Freewind Post, Thousand Needles
+  Camp Taurajo, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Camp Taurajo, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Orgrimmar, Durotar
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Camp Taurajo, The Barrens -> Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Camp Taurajo, The Barrens -> Thunder Bluff, Mulgore
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Valormok, Azshara
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris -> Brackenwall Village, Dustwallow Marsh
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Freewind Post, Thousand Needles -> Camp Taurajo, The Barrens
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Freewind Post, Thousand Needles
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris
+  Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Orgrimmar, Durotar
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Shadowprey Village, Desolace
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Shadowprey Village, Desolace -> Sun Rock Retreat, Stonetalon Mountains
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Thunder Bluff, Mulgore
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Valormok, Azshara
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Crossroads, The Barrens -> Camp Mojache, Feralas
+  Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Crossroads, The Barrens -> Orgrimmar, Durotar
+  Crossroads, The Barrens -> Ratchet, The Barrens
+  Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace
+  Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Crossroads, The Barrens -> Thunder Bluff, Mulgore
+  Crossroads, The Barrens -> Valormok, Azshara
+  Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Everlook, Winterspring -> Bloodvenom Post, Felwood
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Everlook, Winterspring -> Moonglade
+  Everlook, Winterspring -> Valormok, Azshara -> Orgrimmar, Durotar
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Everlook, Winterspring -> Valormok, Azshara -> Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Everlook, Winterspring -> Valormok, Azshara -> Splintertree Post, Ashenvale
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Everlook, Winterspring -> Valormok, Azshara -> Thunder Bluff, Mulgore
+  Everlook, Winterspring -> Valormok, Azshara
+  Everlook, Winterspring -> Valormok, Azshara -> Splintertree Post, Ashenvale -> Zoram'gar Outpost, Ashenvale
+  Flame Crest, Burning Steppes -> Stonard, Swamp of Sorrows -> Booty Bay, Stranglethorn
+  Flame Crest, Burning Steppes -> Stonard, Swamp of Sorrows -> Grom'gol, Stranglethorn
+  Flame Crest, Burning Steppes -> Kargath, Badlands -> Hammerfall, Arathi
+  Flame Crest, Burning Steppes -> Kargath, Badlands
+  Flame Crest, Burning Steppes -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Flame Crest, Burning Steppes -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands
+  Flame Crest, Burning Steppes -> Stonard, Swamp of Sorrows
+  Flame Crest, Burning Steppes -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad
+  Flame Crest, Burning Steppes -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Flame Crest, Burning Steppes -> Thorium Point, Searing Gorge
+  Flame Crest, Burning Steppes -> Kargath, Badlands -> Undercity, Tirisfal
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Brackenwall Village, Dustwallow Marsh
+  Freewind Post, Thousand Needles -> Camp Mojache, Feralas
+  Freewind Post, Thousand Needles -> Camp Taurajo, The Barrens
+  Freewind Post, Thousand Needles -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Orgrimmar, Durotar
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Freewind Post, Thousand Needles -> Camp Mojache, Feralas -> Shadowprey Village, Desolace
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Freewind Post, Thousand Needles -> Thunder Bluff, Mulgore
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Valormok, Azshara
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Gadgetzan, Tanaris -> Brackenwall Village, Dustwallow Marsh
+  Gadgetzan, Tanaris -> Camp Mojache, Feralas
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Camp Taurajo, The Barrens
+  Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens
+  Gadgetzan, Tanaris -> Orgrimmar, Durotar -> Valormok, Azshara -> Everlook, Winterspring
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles
+  Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Gadgetzan, Tanaris -> Orgrimmar, Durotar
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Gadgetzan, Tanaris -> Camp Mojache, Feralas -> Shadowprey Village, Desolace
+  Gadgetzan, Tanaris -> Orgrimmar, Durotar -> Splintertree Post, Ashenvale
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Gadgetzan, Tanaris -> Thunder Bluff, Mulgore
+  Gadgetzan, Tanaris -> Orgrimmar, Durotar -> Valormok, Azshara
+  Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Grom'gol, Stranglethorn -> Stonard, Swamp of Sorrows -> Flame Crest, Burning Steppes
+  Grom'gol, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi
+  Grom'gol, Stranglethorn -> Kargath, Badlands
+  Grom'gol, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Grom'gol, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands
+  Grom'gol, Stranglethorn -> Stonard, Swamp of Sorrows
+  Grom'gol, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad
+  Grom'gol, Stranglethorn -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Grom'gol, Stranglethorn -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  Grom'gol, Stranglethorn -> Kargath, Badlands -> Undercity, Tirisfal
+  Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Hammerfall, Arathi -> Kargath, Badlands -> Flame Crest, Burning Steppes
+  Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn
+  Hammerfall, Arathi -> Kargath, Badlands
+  Hammerfall, Arathi -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Hammerfall, Arathi -> Revantusk Village, The Hinterlands
+  Hammerfall, Arathi -> Kargath, Badlands -> Stonard, Swamp of Sorrows
+  Hammerfall, Arathi -> Tarren Mill, Hillsbrad
+  Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Hammerfall, Arathi -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> Undercity, Tirisfal
+  Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Kargath, Badlands -> Flame Crest, Burning Steppes
+  Kargath, Badlands -> Grom'gol, Stranglethorn
+  Kargath, Badlands -> Hammerfall, Arathi
+  Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands
+  Kargath, Badlands -> Stonard, Swamp of Sorrows
+  Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad
+  Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Kargath, Badlands -> Thorium Point, Searing Gorge
+  Kargath, Badlands -> Undercity, Tirisfal
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Flame Crest, Burning Steppes
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Hammerfall, Arathi
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Stonard, Swamp of Sorrows
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Tarren Mill, Hillsbrad
+  Light's Hope Chapel, Eastern Plaguelands -> Undercity, Tirisfal -> The Sepulcher, Silverpine Forest
+  Light's Hope Chapel, Eastern Plaguelands -> Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  Light's Hope Chapel, Eastern Plaguelands -> Undercity, Tirisfal
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Brackenwall Village, Dustwallow Marsh
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Camp Mojache, Feralas
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Camp Taurajo, The Barrens
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Orgrimmar, Durotar -> Valormok, Azshara -> Everlook, Winterspring
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Orgrimmar, Durotar
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Shadowprey Village, Desolace
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Orgrimmar, Durotar -> Splintertree Post, Ashenvale
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Thunder Bluff, Mulgore
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Orgrimmar, Durotar -> Valormok, Azshara
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Moonglade -> Bloodvenom Post, Felwood
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens
+  Moonglade -> Everlook, Winterspring
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Moonglade -> Everlook, Winterspring -> Valormok, Azshara -> Orgrimmar, Durotar
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Moonglade -> Everlook, Winterspring -> Valormok, Azshara -> Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Moonglade -> Everlook, Winterspring -> Valormok, Azshara -> Splintertree Post, Ashenvale
+  Moonglade -> Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Moonglade -> Everlook, Winterspring -> Valormok, Azshara -> Thunder Bluff, Mulgore
+  Moonglade -> Everlook, Winterspring -> Valormok, Azshara
+  Moonglade -> Everlook, Winterspring -> Valormok, Azshara -> Splintertree Post, Ashenvale -> Zoram'gar Outpost, Ashenvale
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Brackenwall Village, Dustwallow Marsh
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Camp Mojache, Feralas
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Camp Taurajo, The Barrens
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Crossroads, The Barrens
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Valormok, Azshara -> Everlook, Winterspring
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Freewind Post, Thousand Needles
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Gadgetzan, Tanaris
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Orgrimmar, Durotar
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Orgrimmar, Durotar -> Splintertree Post, Ashenvale
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Sun Rock Retreat, Stonetalon Mountains
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Valormok, Azshara
+  Nighthaven, Moonglade -> Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Orgrimmar, Durotar -> Bloodvenom Post, Felwood
+  Orgrimmar, Durotar -> Brackenwall Village, Dustwallow Marsh
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Orgrimmar, Durotar -> Crossroads, The Barrens
+  Orgrimmar, Durotar -> Valormok, Azshara -> Everlook, Winterspring
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Orgrimmar, Durotar -> Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Orgrimmar, Durotar -> Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Orgrimmar, Durotar -> Splintertree Post, Ashenvale
+  Orgrimmar, Durotar -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Orgrimmar, Durotar -> Thunder Bluff, Mulgore
+  Orgrimmar, Durotar -> Valormok, Azshara
+  Orgrimmar, Durotar -> Splintertree Post, Ashenvale -> Zoram'gar Outpost, Ashenvale
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Ratchet, The Barrens -> Crossroads, The Barrens
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Orgrimmar, Durotar
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Thunder Bluff, Mulgore
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Valormok, Azshara
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Flame Crest, Burning Steppes
+  Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn
+  Revantusk Village, The Hinterlands -> Hammerfall, Arathi
+  Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands
+  Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Stonard, Swamp of Sorrows
+  Revantusk Village, The Hinterlands -> Tarren Mill, Hillsbrad
+  Revantusk Village, The Hinterlands -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Revantusk Village, The Hinterlands -> Hammerfall, Arathi -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  Revantusk Village, The Hinterlands -> Undercity, Tirisfal
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Brackenwall Village, Dustwallow Marsh
+  Shadowprey Village, Desolace -> Camp Mojache, Feralas
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Camp Taurajo, The Barrens
+  Shadowprey Village, Desolace -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Crossroads, The Barrens
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Valormok, Azshara -> Everlook, Winterspring
+  Shadowprey Village, Desolace -> Camp Mojache, Feralas -> Freewind Post, Thousand Needles
+  Shadowprey Village, Desolace -> Camp Mojache, Feralas -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Shadowprey Village, Desolace -> Camp Mojache, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Orgrimmar, Durotar
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Orgrimmar, Durotar -> Splintertree Post, Ashenvale
+  Shadowprey Village, Desolace -> Sun Rock Retreat, Stonetalon Mountains
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Valormok, Azshara
+  Shadowprey Village, Desolace -> Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Splintertree Post, Ashenvale -> Valormok, Azshara -> Bloodvenom Post, Felwood
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens
+  Splintertree Post, Ashenvale -> Valormok, Azshara -> Everlook, Winterspring
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Splintertree Post, Ashenvale -> Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Splintertree Post, Ashenvale -> Orgrimmar, Durotar
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace
+  Splintertree Post, Ashenvale -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Splintertree Post, Ashenvale -> Orgrimmar, Durotar -> Thunder Bluff, Mulgore
+  Splintertree Post, Ashenvale -> Valormok, Azshara
+  Splintertree Post, Ashenvale -> Zoram'gar Outpost, Ashenvale
+  Stonard, Swamp of Sorrows -> Booty Bay, Stranglethorn
+  Stonard, Swamp of Sorrows -> Flame Crest, Burning Steppes
+  Stonard, Swamp of Sorrows -> Grom'gol, Stranglethorn
+  Stonard, Swamp of Sorrows -> Kargath, Badlands -> Hammerfall, Arathi
+  Stonard, Swamp of Sorrows -> Kargath, Badlands
+  Stonard, Swamp of Sorrows -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Stonard, Swamp of Sorrows -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands
+  Stonard, Swamp of Sorrows -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad
+  Stonard, Swamp of Sorrows -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Stonard, Swamp of Sorrows -> Flame Crest, Burning Steppes -> Thorium Point, Searing Gorge
+  Stonard, Swamp of Sorrows -> Kargath, Badlands -> Undercity, Tirisfal
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace -> Camp Mojache, Feralas
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Bloodvenom Post, Felwood -> Moonglade
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Orgrimmar, Durotar
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Sun Rock Retreat, Stonetalon Mountains -> Thunder Bluff, Mulgore
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Valormok, Azshara
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Flame Crest, Burning Steppes
+  Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn
+  Tarren Mill, Hillsbrad -> Hammerfall, Arathi
+  Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands
+  Tarren Mill, Hillsbrad -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Tarren Mill, Hillsbrad -> Revantusk Village, The Hinterlands
+  Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Stonard, Swamp of Sorrows
+  Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  Tarren Mill, Hillsbrad -> Undercity, Tirisfal
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Flame Crest, Burning Steppes
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Grom'gol, Stranglethorn
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands
+  The Sepulcher, Silverpine Forest -> Undercity, Tirisfal -> Light's Hope Chapel, Eastern Plaguelands
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Revantusk Village, The Hinterlands
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Stonard, Swamp of Sorrows
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad
+  The Sepulcher, Silverpine Forest -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  The Sepulcher, Silverpine Forest -> Undercity, Tirisfal
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Thorium Point, Searing Gorge -> Flame Crest, Burning Steppes
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Grom'gol, Stranglethorn
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Hammerfall, Arathi
+  Thorium Point, Searing Gorge -> Kargath, Badlands
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Hammerfall, Arathi -> Revantusk Village, The Hinterlands
+  Thorium Point, Searing Gorge -> Flame Crest, Burning Steppes -> Stonard, Swamp of Sorrows
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Hammerfall, Arathi -> Tarren Mill, Hillsbrad -> The Sepulcher, Silverpine Forest
+  Thorium Point, Searing Gorge -> Kargath, Badlands -> Undercity, Tirisfal
+  Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Thunder Bluff, Mulgore -> Brackenwall Village, Dustwallow Marsh
+  Thunder Bluff, Mulgore -> Camp Mojache, Feralas
+  Thunder Bluff, Mulgore -> Camp Taurajo, The Barrens
+  Thunder Bluff, Mulgore -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Thunder Bluff, Mulgore -> Crossroads, The Barrens
+  Thunder Bluff, Mulgore -> Valormok, Azshara -> Everlook, Winterspring
+  Thunder Bluff, Mulgore -> Freewind Post, Thousand Needles
+  Thunder Bluff, Mulgore -> Gadgetzan, Tanaris
+  Thunder Bluff, Mulgore -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Thunder Bluff, Mulgore -> Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Thunder Bluff, Mulgore -> Orgrimmar, Durotar
+  Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Thunder Bluff, Mulgore -> Orgrimmar, Durotar -> Splintertree Post, Ashenvale
+  Thunder Bluff, Mulgore -> Sun Rock Retreat, Stonetalon Mountains
+  Thunder Bluff, Mulgore -> Valormok, Azshara
+  Thunder Bluff, Mulgore -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Undercity, Tirisfal -> Kargath, Badlands -> Grom'gol, Stranglethorn -> Booty Bay, Stranglethorn
+  Undercity, Tirisfal -> Kargath, Badlands -> Flame Crest, Burning Steppes
+  Undercity, Tirisfal -> Kargath, Badlands -> Grom'gol, Stranglethorn
+  Undercity, Tirisfal -> Tarren Mill, Hillsbrad -> Hammerfall, Arathi
+  Undercity, Tirisfal -> Kargath, Badlands
+  Undercity, Tirisfal -> Light's Hope Chapel, Eastern Plaguelands
+  Undercity, Tirisfal -> Revantusk Village, The Hinterlands
+  Undercity, Tirisfal -> Kargath, Badlands -> Stonard, Swamp of Sorrows
+  Undercity, Tirisfal -> Tarren Mill, Hillsbrad
+  Undercity, Tirisfal -> The Sepulcher, Silverpine Forest
+  Undercity, Tirisfal -> Kargath, Badlands -> Thorium Point, Searing Gorge
+  Valormok, Azshara -> Bloodvenom Post, Felwood
+  Valormok, Azshara -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Valormok, Azshara -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Valormok, Azshara -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Valormok, Azshara -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Valormok, Azshara -> Crossroads, The Barrens
+  Valormok, Azshara -> Everlook, Winterspring
+  Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Valormok, Azshara -> Orgrimmar, Durotar
+  Valormok, Azshara -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Valormok, Azshara -> Thunder Bluff, Mulgore -> Shadowprey Village, Desolace
+  Valormok, Azshara -> Splintertree Post, Ashenvale
+  Valormok, Azshara -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Valormok, Azshara -> Thunder Bluff, Mulgore
+  Valormok, Azshara -> Splintertree Post, Ashenvale -> Zoram'gar Outpost, Ashenvale
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Brackenwall Village, Dustwallow Marsh
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Camp Taurajo, The Barrens
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens
+  Zoram'gar Outpost, Ashenvale -> Splintertree Post, Ashenvale -> Valormok, Azshara -> Everlook, Winterspring
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Zoram'gar Outpost, Ashenvale -> Splintertree Post, Ashenvale -> Valormok, Azshara -> Everlook, Winterspring -> Moonglade
+  Zoram'gar Outpost, Ashenvale -> Splintertree Post, Ashenvale -> Orgrimmar, Durotar
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Ratchet, The Barrens
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace
+  Zoram'gar Outpost, Ashenvale -> Splintertree Post, Ashenvale
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Thunder Bluff, Mulgore
+  Zoram'gar Outpost, Ashenvale -> Splintertree Post, Ashenvale -> Valormok, Azshara
+
+Alliance (496 routes) :
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Aerie Peak, The Hinterlands -> Chillwind Camp, Western Plaguelands
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Aerie Peak, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Aerie Peak, The Hinterlands -> Southshore, Hillsbrad -> Menethil Harbor, Wetlands
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Aerie Peak, The Hinterlands -> Southshore, Hillsbrad
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi -> Thelsamar, Loch Modan
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Astranaar, Ashenvale -> Auberdine, Darkshore
+  Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Astranaar, Ashenvale -> Auberdine, Darkshore -> Moonglade
+  Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Astranaar, Ashenvale -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains
+  Astranaar, Ashenvale -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Astranaar, Ashenvale -> Talrendis Point, Azshara
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Auberdine, Darkshore -> Astranaar, Ashenvale
+  Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Auberdine, Darkshore -> Moonglade -> Everlook, Winterspring
+  Auberdine, Darkshore -> Feathermoon, Feralas
+  Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Auberdine, Darkshore -> Moonglade
+  Auberdine, Darkshore -> Nijel's Point, Desolace
+  Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Auberdine, Darkshore -> Talrendis Point, Azshara
+  Auberdine, Darkshore -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Booty Bay, Stranglethorn -> Darkshire, Duskwood
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh
+  Booty Bay, Stranglethorn -> Darkshire, Duskwood -> Lakeshire, Redridge
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Booty Bay, Stranglethorn -> Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes
+  Booty Bay, Stranglethorn -> Darkshire, Duskwood -> Nethergarde Keep, Blasted Lands
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Booty Bay, Stranglethorn -> Sentinel Hill, Westfall
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Booty Bay, Stranglethorn -> Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Cenarion Hold, Silithus -> Feathermoon, Feralas
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris
+  Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore -> Moonglade
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh
+  Chillwind Camp, Western Plaguelands -> Aerie Peak, The Hinterlands
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Chillwind Camp, Western Plaguelands -> Light's Hope Chapel, Eastern Plaguelands
+  Chillwind Camp, Western Plaguelands -> Southshore, Hillsbrad -> Menethil Harbor, Wetlands
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Chillwind Camp, Western Plaguelands -> Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Chillwind Camp, Western Plaguelands -> Southshore, Hillsbrad
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Chillwind Camp, Western Plaguelands -> Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi -> Thelsamar, Loch Modan
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Darkshire, Duskwood -> Booty Bay, Stranglethorn
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh
+  Darkshire, Duskwood -> Lakeshire, Redridge
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes
+  Darkshire, Duskwood -> Nethergarde Keep, Blasted Lands
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Darkshire, Duskwood -> Sentinel Hill, Westfall
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Darkshire, Duskwood -> Stormwind, Elwynn
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Everlook, Winterspring -> Moonglade -> Auberdine, Darkshore
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Everlook, Winterspring -> Moonglade -> Auberdine, Darkshore -> Feathermoon, Feralas
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Everlook, Winterspring -> Moonglade
+  Everlook, Winterspring -> Moonglade -> Auberdine, Darkshore -> Nijel's Point, Desolace
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Everlook, Winterspring -> Moonglade -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Everlook, Winterspring -> Moonglade -> Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Everlook, Winterspring -> Talonbranch Glade, Felwood
+  Everlook, Winterspring -> Talrendis Point, Azshara
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale
+  Feathermoon, Feralas -> Auberdine, Darkshore
+  Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Feathermoon, Feralas -> Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Feathermoon, Feralas -> Thalanaar, Feralas -> Gadgetzan, Tanaris
+  Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Feathermoon, Feralas -> Auberdine, Darkshore -> Moonglade
+  Feathermoon, Feralas -> Nijel's Point, Desolace
+  Feathermoon, Feralas -> Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Feathermoon, Feralas -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Feathermoon, Feralas -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Feathermoon, Feralas -> Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Feathermoon, Feralas -> Thalanaar, Feralas
+  Feathermoon, Feralas -> Thalanaar, Feralas -> Theramore, Dustwallow Marsh
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore
+  Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Gadgetzan, Tanaris -> Thalanaar, Feralas -> Feathermoon, Feralas
+  Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring -> Moonglade
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Nijel's Point, Desolace
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Talonbranch Glade, Felwood
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Gadgetzan, Tanaris -> Thalanaar, Feralas
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh
+  Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Lakeshire, Redridge -> Darkshire, Duskwood -> Booty Bay, Stranglethorn
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Lakeshire, Redridge -> Darkshire, Duskwood
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes
+  Lakeshire, Redridge -> Darkshire, Duskwood -> Nethergarde Keep, Blasted Lands
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Lakeshire, Redridge -> Sentinel Hill, Westfall
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Lakeshire, Redridge -> Stormwind, Elwynn
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Light's Hope Chapel, Eastern Plaguelands -> Aerie Peak, The Hinterlands
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Light's Hope Chapel, Eastern Plaguelands -> Chillwind Camp, Western Plaguelands
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Light's Hope Chapel, Eastern Plaguelands -> Aerie Peak, The Hinterlands -> Southshore, Hillsbrad -> Menethil Harbor, Wetlands
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Light's Hope Chapel, Eastern Plaguelands -> Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Light's Hope Chapel, Eastern Plaguelands -> Aerie Peak, The Hinterlands -> Southshore, Hillsbrad
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Light's Hope Chapel, Eastern Plaguelands -> Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi -> Thelsamar, Loch Modan
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring -> Moonglade
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Talonbranch Glade, Felwood
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Thalanaar, Feralas
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh
+  Menethil Harbor, Wetlands -> Southshore, Hillsbrad -> Aerie Peak, The Hinterlands
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Menethil Harbor, Wetlands -> Southshore, Hillsbrad -> Chillwind Camp, Western Plaguelands
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Menethil Harbor, Wetlands -> Southshore, Hillsbrad -> Chillwind Camp, Western Plaguelands -> Light's Hope Chapel, Eastern Plaguelands
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Menethil Harbor, Wetlands -> Thelsamar, Loch Modan
+  Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Moonglade -> Auberdine, Darkshore -> Astranaar, Ashenvale
+  Moonglade -> Auberdine, Darkshore
+  Moonglade -> Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Moonglade -> Everlook, Winterspring
+  Moonglade -> Auberdine, Darkshore -> Feathermoon, Feralas
+  Moonglade -> Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Moonglade -> Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Moonglade -> Auberdine, Darkshore -> Nijel's Point, Desolace
+  Moonglade -> Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Moonglade -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Moonglade -> Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Moonglade -> Talonbranch Glade, Felwood
+  Moonglade -> Everlook, Winterspring -> Talrendis Point, Azshara
+  Moonglade -> Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Moonglade -> Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood -> Booty Bay, Stranglethorn
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh
+  Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Morgan's Vigil, Burning Steppes -> Nethergarde Keep, Blasted Lands
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Sentinel Hill, Westfall
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Morgan's Vigil, Burning Steppes -> Stormwind, Elwynn
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Nethergarde Keep, Blasted Lands -> Darkshire, Duskwood -> Booty Bay, Stranglethorn
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Nethergarde Keep, Blasted Lands -> Darkshire, Duskwood
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh
+  Nethergarde Keep, Blasted Lands -> Darkshire, Duskwood -> Lakeshire, Redridge
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Nethergarde Keep, Blasted Lands -> Darkshire, Duskwood -> Sentinel Hill, Westfall
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Nethergarde Keep, Blasted Lands -> Darkshire, Duskwood -> Stormwind, Elwynn
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Astranaar, Ashenvale
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Moonglade -> Everlook, Winterspring
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Moonglade
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Nijel's Point, Desolace
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Nighthaven, Moonglade -> Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale
+  Nijel's Point, Desolace -> Auberdine, Darkshore
+  Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Nijel's Point, Desolace -> Auberdine, Darkshore -> Moonglade -> Everlook, Winterspring
+  Nijel's Point, Desolace -> Feathermoon, Feralas
+  Nijel's Point, Desolace -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Nijel's Point, Desolace -> Auberdine, Darkshore -> Moonglade
+  Nijel's Point, Desolace -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Nijel's Point, Desolace -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Nijel's Point, Desolace -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale -> Talrendis Point, Azshara
+  Nijel's Point, Desolace -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Nijel's Point, Desolace -> Theramore, Dustwallow Marsh
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore
+  Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas -> Feathermoon, Feralas
+  Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Everlook, Winterspring -> Moonglade
+  Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Nijel's Point, Desolace
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Talonbranch Glade, Felwood
+  Ratchet, The Barrens -> Talrendis Point, Azshara
+  Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands -> Chillwind Camp, Western Plaguelands
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Refuge Pointe, Arathi -> Southshore, Hillsbrad
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Refuge Pointe, Arathi -> Thelsamar, Loch Modan
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Astranaar, Ashenvale
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Moonglade -> Everlook, Winterspring
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Moonglade
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Nijel's Point, Desolace
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Rut'theran Village, Teldrassil -> Auberdine, Darkshore -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Sentinel Hill, Westfall -> Booty Bay, Stranglethorn
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Sentinel Hill, Westfall -> Darkshire, Duskwood
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh
+  Sentinel Hill, Westfall -> Lakeshire, Redridge
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Sentinel Hill, Westfall -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes
+  Sentinel Hill, Westfall -> Darkshire, Duskwood -> Nethergarde Keep, Blasted Lands
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Sentinel Hill, Westfall -> Stormwind, Elwynn
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Sentinel Hill, Westfall -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Southshore, Hillsbrad -> Aerie Peak, The Hinterlands
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Southshore, Hillsbrad -> Chillwind Camp, Western Plaguelands
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Southshore, Hillsbrad -> Chillwind Camp, Western Plaguelands -> Light's Hope Chapel, Eastern Plaguelands
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Southshore, Hillsbrad -> Refuge Pointe, Arathi
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Southshore, Hillsbrad -> Refuge Pointe, Arathi -> Thelsamar, Loch Modan
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale
+  Stonetalon Peak, Stonetalon Mountains -> Auberdine, Darkshore
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Stonetalon Peak, Stonetalon Mountains -> Auberdine, Darkshore -> Moonglade -> Everlook, Winterspring
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Stonetalon Peak, Stonetalon Mountains -> Auberdine, Darkshore -> Moonglade
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace
+  Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Stonetalon Peak, Stonetalon Mountains -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Stonetalon Peak, Stonetalon Mountains -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale -> Talrendis Point, Azshara
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Theramore, Dustwallow Marsh
+  Stormwind, Elwynn -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Stormwind, Elwynn -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Stormwind, Elwynn -> Darkshire, Duskwood
+  Stormwind, Elwynn -> Ironforge, Dun Morogh
+  Stormwind, Elwynn -> Lakeshire, Redridge
+  Stormwind, Elwynn -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Stormwind, Elwynn -> Morgan's Vigil, Burning Steppes
+  Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Stormwind, Elwynn -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Stormwind, Elwynn -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Astranaar, Ashenvale
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Talonbranch Glade, Felwood -> Everlook, Winterspring
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Feathermoon, Feralas
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Talonbranch Glade, Felwood -> Moonglade
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Nijel's Point, Desolace
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Talrendis Point, Azshara -> Everlook, Winterspring
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas -> Feathermoon, Feralas
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Talrendis Point, Azshara -> Everlook, Winterspring -> Moonglade
+  Talrendis Point, Azshara -> Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace
+  Talrendis Point, Azshara -> Ratchet, The Barrens
+  Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Talrendis Point, Azshara -> Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains
+  Talrendis Point, Azshara -> Talonbranch Glade, Felwood
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Auberdine, Darkshore
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Thalanaar, Feralas -> Feathermoon, Feralas
+  Thalanaar, Feralas -> Gadgetzan, Tanaris
+  Thalanaar, Feralas -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring -> Moonglade
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Nijel's Point, Desolace
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Talonbranch Glade, Felwood
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh
+  Thelsamar, Loch Modan -> Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Thelsamar, Loch Modan -> Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands -> Chillwind Camp, Western Plaguelands
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Thelsamar, Loch Modan -> Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Thelsamar, Loch Modan -> Menethil Harbor, Wetlands
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Thelsamar, Loch Modan -> Refuge Pointe, Arathi
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Thelsamar, Loch Modan -> Refuge Pointe, Arathi -> Southshore, Hillsbrad
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore
+  Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Theramore, Dustwallow Marsh -> Thalanaar, Feralas -> Feathermoon, Feralas
+  Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring -> Moonglade
+  Theramore, Dustwallow Marsh -> Nijel's Point, Desolace
+  Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Theramore, Dustwallow Marsh -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Talonbranch Glade, Felwood
+  Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood -> Booty Bay, Stranglethorn
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Nethergarde Keep, Blasted Lands
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Sentinel Hill, Westfall
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Stormwind, Elwynn
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+

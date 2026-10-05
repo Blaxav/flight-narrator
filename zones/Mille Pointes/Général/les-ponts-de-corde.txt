@@ -1,9 +1,0 @@
-Les ponts de corde
-==================
-
-Circuler dans les Mille Pointes est une épreuve de nerfs. Les sentiers taillés dans la roche serpentent au-dessus du vide, et des ponts de corde relient les mesas, oscillant au moindre souffle de vent. Les planches y manquent parfois, et l'on traverse en serrant les fibres, le regard fixé droit devant soi pour oublier le gouffre. Les kodos y passent avec une prudence étonnante, guidés par leurs maîtres taurens. En bas, dans le canyon, les défilés sont étroits et propices aux embuscades ; en haut, les vents violents menacent d'emporter les imprudents. Les habitants ont appris à lire le ciel, à tâter les cordes avant de s'y engager, à ne jamais traverser en pleine tempête. Ici, un faux pas ne pardonne pas, et le vertige est le premier ennemi du voyageur.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : les-ponts-de-corde

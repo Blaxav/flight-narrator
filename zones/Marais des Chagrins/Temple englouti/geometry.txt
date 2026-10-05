@@ -1,0 +1,6 @@
+# Marais des Chagrins / Temple englouti — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+54.0;75.0
+57.0;75.0
+57.0;78.0
+54.0;78.0

@@ -1,0 +1,7 @@
+# Bois de la Pénombre / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+42.992;75.484
+47.18;73.9
+49.857;73.681
+49.985;79.564
+44.467;80.62

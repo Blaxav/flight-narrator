@@ -1,9 +1,0 @@
-Les ruches des insectes
-=======================
-
-Les ruches des silithides percent le sable de Silithus comme des plaies ouvertes. Ces monticules de terre durcie et de résine cachent des labyrinthes où les insectes élèvent leurs larves, gardent leurs proies et servent leurs reines. L'air y est étouffant, saturé d'une odeur acide, et l'on y marche sur des carapaces vides. Les aventuriers s'y risquent pour détruire les essaims, mais les ruches se reconstruisent, inlassablement. Les ruches de Silithus sont les forteresses des silithides, la preuve que la guerre contre les insectes ne se gagne jamais tout à fait, et que le sable avale les morts.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : ruches

@@ -1,0 +1,7 @@
+# Terres ingrates / Kargath — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+49.59;58.33
+53.59;58.33
+53.59;62.33
+49.59;62.33

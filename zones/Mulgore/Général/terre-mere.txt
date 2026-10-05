@@ -1,9 +1,0 @@
-La Terre-Mère
-=============
-
-Les taurens vouent leur vie à la Terre-Mère, l'esprit qui anime les plaines, les rochers et les bêtes de Mulgore. Pour eux, chaque source, chaque vent et chaque troupeau est un don de cette puissance bienveillante, et ils la remercient par des chants, des offrandes et des rites. Les chamans, leurs guides spirituels, parlent aux éléments et veillent à l'équilibre du monde. Les pitons sont leurs autels, les totems leurs prières dressées vers le ciel. Cette foi n'est pas une doctrine, mais une manière d'habiter la terre, humble et attentive. La Terre-Mère est le lien qui unit les taurens à Mulgore, la preuve que certaines croyances font partie du paysage, aussi profondément que les racines de l'herbe.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : terre-mere

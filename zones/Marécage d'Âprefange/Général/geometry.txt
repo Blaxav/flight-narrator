@@ -1,0 +1,10 @@
+# Marécage d'Âprefange / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+58.98;59.587
+63.619;60.041
+64.7;64.48
+62.65;70.526
+59.747;72.12
+54.881;72.945
+53.145;69.843
+53.771;62.132

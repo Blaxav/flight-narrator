@@ -1,0 +1,9 @@
+Les apothicaires
+================
+
+Les profondeurs de Undercity abritent les apothicaires des Réprouvés, ces savants sinistres qui étudient la peste, les poisons et les secrets de la mort. Leurs laboratoires sentent l'herbe amère et la chimie, et l'on y distille des breuvages capables de guérir comme de tuer, selon la dose et l'intention. Ils cherchent à parfaire la peste qui a ravagé Lordaeron, mais aussi à la retourner contre les ennemis de la Dame noire, et leurs recherches ne s'arrêtent jamais. Leur science ne connaît ni morale ni limite, seulement l'efficacité, et leurs notes s'accumulent dans des armoires poussiéreuses. Les autres habitants de Undercity les regardent avec un mélange de respect et de méfiance, sans jamais trop s'approcher. Les apothicaires sont l'arme la plus patiente des Réprouvés, une menace distillée goutte à goutte, au fond des salles vertes de la cité.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : apothicaires

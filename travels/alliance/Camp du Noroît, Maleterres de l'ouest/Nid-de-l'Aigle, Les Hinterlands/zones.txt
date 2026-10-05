@@ -1,0 +1,5 @@
+0;19;Maleterres de l'ouest;Scholomance;
+0;46;Maleterres de l'ouest;Camp du Noroît;
+0;46;Montagnes d'Alterac;Général;
+21;66;Les Hinterlands;Nid-de-l'Aigle;
+47;66;Les Hinterlands;Général;

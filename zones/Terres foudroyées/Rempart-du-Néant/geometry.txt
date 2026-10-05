@@ -1,0 +1,7 @@
+# Terres foudroyées / Rempart-du-Néant — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+53.17;77.84
+57.17;77.84
+57.17;81.84
+53.17;81.84

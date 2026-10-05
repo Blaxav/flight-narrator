@@ -1,9 +1,0 @@
-Le camp des jeunes taurens
-==========================
-
-Camp Narache est un village de naissance, un foyer modeste où les jeunes taurens apprennent les gestes de leur peuple. Les anciens y veillent, les mères y tissent, et les chamans y bénissent les nouveau-nés. Chaque enfant y reçoit son premier bâton, sa première leçon de piste, son premier nom d'épreuve. Le camp n'a ni remparts ni tours, car la prairie est encore amie, mais les feux y brûlent toute la nuit. C'est un lieu d'initiation, de transmission et de tendresse, où la tribu prépare ceux qui partiront. Camp Narache est la racine du peuple tauren, la preuve que la force d'un géant se nourrit d'abord d'un foyer.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : village

@@ -1,9 +1,0 @@
-Un marais de chagrin
-====================
-
-Le Marais des Chagrins s'étend au sud-est des royaumes de l'Est, nappe d'eau sombre et de brumes où les arbres tordus trempent leurs racines comme des noyés. Vus du ciel, ses canaux paresseux dessinent un labyrinthe d'îlots boueux, de roseaux jaunis et de mares où pourrissent des troncs entiers. L'air y est lourd, chargé d'humidité et d'une tristesse qui colle à la peau. Les voyageurs y avancent lentement, le pied s'enfonçant dans la vase, l'œil aux aguets. On dit que le marais porte ce nom à cause des larmes versées par les peuples qui s'y sont perdus, trolls, humains et dragons mêlés. Rien n'y pousse qui ne soit vénéneux ou carnassier, et chaque nuit y tombe comme un couvercle. C'est un pays où l'on n'entre pas sans raison, et où l'on reste rarement sans cicatrice.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : un-marais-de-chagrin

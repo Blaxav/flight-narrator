@@ -1,9 +1,0 @@
-Le grenier de Hurlevent
-=======================
-
-La Marche de l'Ouest s'étend à l'ouest de Hurlevent comme une mer de blé ondulant sous le ciel. Ses champs, découpés en parcelles régulières, nourrissent la capitale et ses armées, et ses moulins à vent tournent au-dessus des meules dorées. Pourtant, vue de plus près, la campagne montre ses blessures : des fermes aux toits crevés, des charrues abandonnées dans les sillons, des haies envahies par les ronces. La misère a creusé les visages des paysans, qui travaillent une terre de plus en plus dure pour des récoltes de plus en plus maigres. Les routes ne sont plus sûres, les champs de l'ouest sont laissés en friche, et la mer gronde au bout des falaises. La Marche de l'Ouest est un grenier qui se fissure, et Hurlevent tarde à entendre le bruit.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : le-grenier-de-hurlevent

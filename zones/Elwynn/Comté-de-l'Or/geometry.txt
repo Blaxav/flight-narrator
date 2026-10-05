@@ -1,0 +1,6 @@
+# Elwynn / Comté-de-l'Or — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+42.5;66.0
+45.5;66.0
+45.5;69.0
+42.5;69.0

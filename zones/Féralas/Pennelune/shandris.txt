@@ -1,9 +1,0 @@
-Shandris Plumelune
-==================
-
-C'est Shandris Plumelune qui commande la forteresse de Pennelune. Générale des Sentinelles, elle a grandi dans l'ombre de Tyrande Murmevent et a appris la guerre aux côtés des plus grands. On la dit calme, précise, impitoyable avec les ennemis de son peuple. Sous son commandement, les elfes de la nuit ont étendu leur vigilance jusqu'aux côtes sauvages de Féralas, face aux nagas et aux ombres du passé. Shandris n'est pas qu'une guerrière : c'est une gardienne de la mémoire kaldorei, qui transmet aux jeunes le prix de la liberté. À Pennelune, son nom suffit à redresser les épaules. Elle incarne ce que les elfes de la nuit ont de plus résolu : ne jamais abandonner une terre qu'ils ont juré de protéger.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : shandris

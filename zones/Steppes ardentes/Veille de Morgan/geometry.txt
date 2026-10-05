@@ -1,0 +1,7 @@
+# Steppes ardentes / Veille de Morgan — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+51.19;65.89
+55.19;65.89
+55.19;69.89
+51.19;69.89

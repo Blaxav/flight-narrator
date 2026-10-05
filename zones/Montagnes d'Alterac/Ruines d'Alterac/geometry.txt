@@ -1,0 +1,6 @@
+# Montagnes d'Alterac / Ruines d'Alterac — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+43.5;27.5
+46.5;27.5
+46.5;30.5
+43.5;30.5

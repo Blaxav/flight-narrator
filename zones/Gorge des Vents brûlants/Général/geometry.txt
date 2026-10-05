@@ -1,0 +1,10 @@
+# Gorge des Vents brûlants / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+46.002;60.046
+48.666;58.657
+51.443;58.27
+51.079;59.955
+50.965;63.005
+48.894;63.711
+46.936;63.597
+45.798;61.685

@@ -1,0 +1,9 @@
+La forêt d'Ashenvale
+==================
+
+Vous planez au-dessus d'Ashenvale, la forêt ancestrale des elfes de la nuit, un océan de frondaisons que ce peuple défend depuis dix mille ans. Mais la Troisième Guerre a laissé des cicatrices : le clan Chanteguerre, conduit jadis par Grom Hurlenfer, y a planté ses chantiers et abat les grands arbres pour nourrir la Horde, pendant que les Sentinelles de la nuit montent la garde et rendent coup pour coup. Cette guerre du bois empoisonne les clairières et les sources, et les démons de Gangrebois rôdent à la lisière. Ashenvale est un sanctuaire assiégé, la preuve que même les plus vieilles forêts finissent par connaître le fer, et que leur silence n'est plus qu'un souvenir.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : foret

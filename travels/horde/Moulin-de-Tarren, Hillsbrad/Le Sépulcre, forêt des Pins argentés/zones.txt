@@ -1,0 +1,5 @@
+0;29;Hillsbrad;Moulin-de-Tarren;
+0;59;Montagnes d'Alterac;Général;
+41;63;Montagnes d'Alterac;Ruines d'Alterac;
+59;99;Forêt des Pins argentés;Général;
+71;99;Forêt des Pins argentés;Le Sépulcre;

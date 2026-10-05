@@ -1,9 +1,0 @@
-Les contreforts d'Hautebrande
-=============================
-
-Vous planez au-dessus d'Hautebrande, un pays de collines douces et de fermes éparses, adossé aux montagnes d'Alterac et ouvert sur la mer. Les champs y ondulent sous le vent, les rivières y dessinent des rubans clairs, et les villages s'y accrochent aux routes comme des grappes. C'est une terre de travail et de patience, où l'on moissonne, où l'on pêche et où l'on élève des bêtes. Mais la guerre a laissé ses traces : des tours de guet, des palissades et des cimetières trop frais. Hautebrande est un contrefort de Lordaeron, un pays frontière où la beauté des collines n'efface pas la tension qui pèse sur chaque vallée. Sous la paix apparente des champs, la guerre veille d'un œil.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : paysage

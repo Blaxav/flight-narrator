@@ -1,0 +1,9 @@
+Les sentinelles
+===============
+
+Les sentinelles de la Combe de Nijel sont des guerrières elfes de la nuit, formées à l'art de l'arc et de la lame depuis des millénaires. Elles montent la garde sans relâche, les yeux fixés sur l'horizon, et rien ne bouge dans les plaines sans qu'elles le voient. Leur discipline est légendaire, héritée des longues guerres contre la Légion ardente. Pourtant, elles ne sont pas venues ici pour conquérir : elles protègent, soignent et observent, fidèles à un devoir ancien. On les voit patrouiller seules ou par deux, silencieuses comme des ombres. Les centaures ont appris à les redouter, car une sentinelle ne manque jamais sa cible. À la Combe de Nijel, la patience est une arme, et les elfes la manient depuis des siècles.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sentinelles

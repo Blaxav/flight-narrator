@@ -1,0 +1,9 @@
+0;12;Steppes ardentes;Général;
+0;36;Steppes ardentes;Veille de Morgan;
+11;108;Les Carmines;Général;
+44;55;Les Carmines;Lakeshire;
+109;183;Marais des Chagrins;Général;
+125;178;Marais des Chagrins;Temple englouti;
+125;196;Marais des Chagrins;Stonard;
+175;210;Terres foudroyées;Rempart-du-Néant;
+183;210;Terres foudroyées;Général;

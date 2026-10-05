@@ -1,0 +1,17 @@
+0;27;Strangleronce;Grom'gol;
+0;59;Strangleronce;Général;
+59;146;Bois de la Pénombre;Général;
+101;133;Bois de la Pénombre;Darkshire;
+147;217;Elwynn;Général;
+217;289;Steppes ardentes;Général;
+250;304;Steppes ardentes;Corniches des flammes;
+265;305;Steppes ardentes;Profondeurs de Rochenoire;
+272;299;Steppes ardentes;Cœur du Magma;
+272;312;Steppes ardentes;Pic Rochenoire;
+278;299;Steppes ardentes;Repaire de l'Aile noire;
+278;319;Steppes ardentes;Bas du Pic Rochenoire;
+285;323;Steppes ardentes;Sommet du Pic Rochenoire;
+291;298;Gorge des Vents brûlants;Général;
+298;327;Terres ingrates;Général;
+301;327;Terres ingrates;Kargath;
+319;327;Terres ingrates;Uldaman;

@@ -1,0 +1,5 @@
+0;25;Serres-Rocheuses;Pic des Serres-Rocheuses;
+0;114;Serres-Rocheuses;Général;
+62;110;Serres-Rocheuses;Retraite de Roche-Soleil;
+102;126;Désolace;Combe de Nijel;
+112;126;Désolace;Général;

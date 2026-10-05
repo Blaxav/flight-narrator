@@ -1,0 +1,9 @@
+0;19;Azshara;Halte de Talrendis;
+0;24;Azshara;Général;
+22;58;Durotar;Orgrimmar;
+24;51;Durotar;Gouffre de Ragefeu;
+24;82;Durotar;Général;
+42;69;Durotar;Colline de Lame-Rasoir;
+65;92;Durotar;Sen'jin;
+92;135;Les Tarides;Général;
+117;135;Les Tarides;Ratchet;

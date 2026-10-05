@@ -1,0 +1,7 @@
+# Les Tarides / La Croisée — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+51.41;52.27
+55.41;52.27
+55.41;56.27
+51.41;56.27

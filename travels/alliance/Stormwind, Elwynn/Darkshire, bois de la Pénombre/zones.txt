@@ -1,0 +1,5 @@
+0;27;Elwynn;La Prison;
+0;31;Elwynn;Stormwind;
+0;73;Elwynn;Général;
+73;116;Bois de la Pénombre;Général;
+86;116;Bois de la Pénombre;Darkshire;

@@ -1,9 +1,0 @@
-La défense d'Orneval
-====================
-
-Depuis Astranaar, les elfes organisent la défense d'Orneval contre les incursions de la Horde. Les tours de guet se dressent aux carrefours, les patrouilles remontent la rivière, et les messagères courent de clairière en clairière. Chaque bois abattu est une alerte, chaque camp orc une plaie à refermer. Les habitants vivent entre l'espoir et la crainte, accrochés à leur ville comme à une digue. La défense d'Orneval est l'affaire de tous, car la forêt ne pardonne pas l'abandon. Astranaar est le poste de commandement de cette résistance, la preuve que les elfes, poussés dans leurs derniers bois, n'ont pas dit leur dernier mot.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : defense

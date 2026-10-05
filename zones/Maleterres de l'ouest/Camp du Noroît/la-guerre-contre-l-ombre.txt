@@ -1,0 +1,9 @@
+La guerre contre l'ombre
+========================
+
+Depuis le Camp du Noroît, l'Alliance mène une guerre d'usure contre deux foyers de corruption : Andorhal, où la peste a pris racine, et Scholomance, l'école de nécromancie tapie sur l'île de Caer Darrow. Les éclaireurs du camp tracent des cartes sans cesse corrigées, signalant les patrouilles de goules, les nécropoles en vol et les gués praticables. Les colonnes armées partent à l'aube pour frapper les avant-postes du Fléau et reviennent à la nuit, amaigries mais victorieuses. Le camp sert aussi de refuge aux paysans fuyant les fermes, qu'on interroge puis qu'on évacue vers le sud. C'est une guerre sans bataille décisive, faite d'embuscades, de torches et de prières, et le Noroît en est la sentinelle avancée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : la-guerre-contre-l-ombre

@@ -1,0 +1,7 @@
+# Tanaris / Gadgetzan — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+54.37;79.67
+58.37;79.67
+58.37;83.67
+54.37;83.67

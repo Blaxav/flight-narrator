@@ -1,9 +1,0 @@
-Un canyon de flèches de pierre
-==============================
-
-Les Mille Pointes s'ouvrent comme une blessure dans la terre de Kalimdor, un canyon vertigineux hérissé de flèches de pierre qui s'élancent vers le ciel. Vues d'en haut, ces aiguilles rocheuses ressemblent à une forêt pétrifiée, creusée par le vent et le temps. Le fond du défilé, sec et poussiéreux, est traversé de sentiers étroits et de ravins où l'écho porte loin. La chaleur y écrase la journée, tandis que les nuits y sont froides et pleines de cris. C'est un pays de vertige, où les villages se perchent sur les mesas et où l'on circule par des ponts de corde balancés au-dessus du vide. Les voyageurs y apprennent vite à ne jamais lever les yeux trop longtemps : le danger vient autant du ciel que des ombres d'en bas.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : un-canyon-de-fleches-de-pierre

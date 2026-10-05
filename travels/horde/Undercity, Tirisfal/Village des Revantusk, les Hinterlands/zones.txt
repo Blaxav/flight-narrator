@@ -1,0 +1,11 @@
+0;33;Tirisfal;Général;
+0;38;Tirisfal;Brill;
+0;40;Tirisfal;Undercity;
+34;124;Montagnes d'Alterac;Général;
+52;97;Maleterres de l'ouest;Andorhal;
+57;107;Maleterres de l'ouest;Scholomance;
+58;137;Maleterres de l'ouest;Camp du Noroît;
+108;169;Les Hinterlands;Nid-de-l'Aigle;
+124;284;Les Hinterlands;Général;
+235;282;Les Hinterlands;Jintha'Alor;
+245;284;Les Hinterlands;Village des Revantusk;

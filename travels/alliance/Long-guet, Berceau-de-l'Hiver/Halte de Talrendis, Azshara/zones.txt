@@ -1,0 +1,5 @@
+0;22;Berceau-de-l'Hiver;Long-guet;
+0;123;Berceau-de-l'Hiver;Général;
+115;157;Azshara;Valormok;
+123;176;Azshara;Général;
+155;176;Azshara;Halte de Talrendis;

@@ -1,0 +1,9 @@
+0;34;Les Tarides;La Croisée;
+0;81;Les Tarides;Est;
+0;81;Les Tarides;Nord;
+0;92;Les Tarides;Général;
+50;97;Durotar;Sen'jin;
+89;112;Durotar;Colline de Lame-Rasoir;
+96;142;Durotar;Général;
+109;142;Durotar;Orgrimmar;
+122;142;Durotar;Gouffre de Ragefeu;

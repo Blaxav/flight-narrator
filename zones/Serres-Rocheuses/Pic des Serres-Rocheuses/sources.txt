@@ -1,9 +1,0 @@
-Les sources du pic
-==================
-
-Des sources claires naissent sur les flancs du Pic des Serres-Rocheuses, alimentant des lacs d'altitude d'une pureté de cristal. Leur eau est froide, vivifiante, et les chamans la tiennent pour sacrée. Les bêtes y boivent, les voyageurs s'y reposent, et l'on raconte qu'elle guérit les petites blessures du corps et de l'âme. Mais la guerre s'est approchée de ces sources, et les factions s'en disputent l'accès. Les sources du Pic sont le trésor liquide de la montagne, la preuve que l'eau vaut ici plus que l'or, et qu'elle attise les convoitises.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : sources

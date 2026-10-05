@@ -1,0 +1,151 @@
+Connexions presentes dans le graphe DBC (TaxiPath) mais ABSENTES de travels/
+A verifier une par une : reelles ou a ignorer ?
+
+== Horde (22) ==
+  Bloodvenom Post, Felwood -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Brackenwall Village, Dustwallow Marsh -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Camp Mojache, Feralas -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Valormok, Azshara
+  Camp Taurajo, The Barrens -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Splintertree Post, Ashenvale
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Shadowprey Village, Desolace -> Sun Rock Retreat, Stonetalon Mountains
+  Cenarion Hold, Silithus -> Camp Mojache, Feralas -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Everlook, Winterspring -> Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Valormok, Azshara -> Everlook, Winterspring
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Freewind Post, Thousand Needles -> Crossroads, The Barrens -> Zoram'gar Outpost, Ashenvale
+  Ratchet, The Barrens -> Crossroads, The Barrens -> Bloodvenom Post, Felwood
+  Sun Rock Retreat, Stonetalon Mountains -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Valormok, Azshara -> Crossroads, The Barrens -> Freewind Post, Thousand Needles -> Gadgetzan, Tanaris
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Camp Mojache, Feralas
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Camp Mojache, Feralas -> Cenarion Hold, Silithus
+  Zoram'gar Outpost, Ashenvale -> Crossroads, The Barrens -> Sun Rock Retreat, Stonetalon Mountains -> Shadowprey Village, Desolace
+
+== Alliance (123) ==
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Aerie Peak, The Hinterlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Auberdine, Darkshore -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh
+  Booty Bay, Stranglethorn -> Darkshire, Duskwood -> Lakeshire, Redridge
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands
+  Booty Bay, Stranglethorn -> Sentinel Hill, Westfall
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn
+  Booty Bay, Stranglethorn -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Booty Bay, Stranglethorn -> Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace
+  Cenarion Hold, Silithus -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Chillwind Camp, Western Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Chillwind Camp, Western Plaguelands -> Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi -> Thelsamar, Loch Modan
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Darkshire, Duskwood -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Cenarion Hold, Silithus
+  Everlook, Winterspring -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris -> Marshal's Refuge, Un'Goro Crater
+  Everlook, Winterspring -> Moonglade -> Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Feathermoon, Feralas -> Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Ratchet, The Barrens
+  Feathermoon, Feralas -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Feathermoon, Feralas -> Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Lakeshire, Redridge -> Darkshire, Duskwood -> Nethergarde Keep, Blasted Lands
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Booty Bay, Stranglethorn
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Light's Hope Chapel, Eastern Plaguelands -> Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Light's Hope Chapel, Eastern Plaguelands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Light's Hope Chapel, Eastern Plaguelands -> Aerie Peak, The Hinterlands -> Refuge Pointe, Arathi -> Thelsamar, Loch Modan
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas -> Auberdine, Darkshore
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace
+  Marshal's Refuge, Un'Goro Crater -> Cenarion Hold, Silithus -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Marshal's Refuge, Un'Goro Crater -> Gadgetzan, Tanaris -> Thalanaar, Feralas
+  Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Nethergarde Keep, Blasted Lands -> Darkshire, Duskwood -> Sentinel Hill, Westfall
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Nethergarde Keep, Blasted Lands -> Morgan's Vigil, Burning Steppes -> Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Thelsamar, Loch Modan
+  Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Nijel's Point, Desolace -> Auberdine, Darkshore -> Moonglade -> Everlook, Winterspring
+  Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Nijel's Point, Desolace -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale -> Talrendis Point, Azshara
+  Ratchet, The Barrens -> Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Sentinel Hill, Westfall
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn
+  Refuge Pointe, Arathi -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Chillwind Camp, Western Plaguelands
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Light's Hope Chapel, Eastern Plaguelands
+  Sentinel Hill, Westfall -> Lakeshire, Redridge -> Morgan's Vigil, Burning Steppes
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Sentinel Hill, Westfall -> Stormwind, Elwynn -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Stormwind, Elwynn -> Nethergarde Keep, Blasted Lands
+  Southshore, Hillsbrad -> Menethil Harbor, Wetlands -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Stonetalon Peak, Stonetalon Mountains -> Auberdine, Darkshore -> Moonglade -> Everlook, Winterspring
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Theramore, Dustwallow Marsh -> Gadgetzan, Tanaris
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Cenarion Hold, Silithus -> Marshal's Refuge, Un'Goro Crater
+  Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Stonetalon Peak, Stonetalon Mountains -> Auberdine, Darkshore -> Talonbranch Glade, Felwood
+  Stonetalon Peak, Stonetalon Mountains -> Astranaar, Ashenvale -> Talrendis Point, Azshara
+  Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace -> Feathermoon, Feralas -> Thalanaar, Feralas
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens
+  Talonbranch Glade, Felwood -> Auberdine, Darkshore -> Stonetalon Peak, Stonetalon Mountains
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Talonbranch Glade, Felwood -> Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas -> Feathermoon, Feralas
+  Talrendis Point, Azshara -> Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains -> Nijel's Point, Desolace
+  Talrendis Point, Azshara -> Astranaar, Ashenvale -> Auberdine, Darkshore -> Rut'theran Village, Teldrassil
+  Talrendis Point, Azshara -> Astranaar, Ashenvale -> Stonetalon Peak, Stonetalon Mountains
+  Talrendis Point, Azshara -> Ratchet, The Barrens -> Theramore, Dustwallow Marsh -> Thalanaar, Feralas
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Astranaar, Ashenvale
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Auberdine, Darkshore
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Cenarion Hold, Silithus
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Everlook, Winterspring
+  Thalanaar, Feralas -> Feathermoon, Feralas -> Nijel's Point, Desolace -> Stonetalon Peak, Stonetalon Mountains
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara -> Talonbranch Glade, Felwood
+  Thalanaar, Feralas -> Theramore, Dustwallow Marsh -> Talrendis Point, Azshara
+  Thelsamar, Loch Modan -> Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands
+  Thelsamar, Loch Modan -> Refuge Pointe, Arathi -> Aerie Peak, The Hinterlands -> Light's Hope Chapel, Eastern Plaguelands
+  Thelsamar, Loch Modan -> Ironforge, Dun Morogh -> Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Aerie Peak, The Hinterlands
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood -> Booty Bay, Stranglethorn
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Darkshire, Duskwood
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Refuge Pointe, Arathi
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Lakeshire, Redridge -> Sentinel Hill, Westfall
+  Thorium Point, Searing Gorge -> Ironforge, Dun Morogh -> Menethil Harbor, Wetlands -> Southshore, Hillsbrad
+  Thorium Point, Searing Gorge -> Morgan's Vigil, Burning Steppes -> Stormwind, Elwynn

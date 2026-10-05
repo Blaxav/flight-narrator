@@ -1,0 +1,9 @@
+Les sentinelles de l'est
+========================
+
+Les Sentinelles de Thalanaar montent la garde sur la frontière orientale de Feralas. De là, elles surveillent les routes qui montent vers Mille Pointes et les plaines où rôdent les centaures. Leur tâche est ingrate : les assauts y sont rares, mais le danger jamais loin, et l'ennui se mêle à la vigilance. Elles arpentent les collines, l'arc à l'épaule, et connaissent chaque rocher, chaque source, chaque trace suspecte. Pour elles, la vigilance est une seconde nature, héritée de leurs aînées. Thalanaar est leur poste, leur foyer et leur fierté. Elles rappellent que la défense d'un peuple ne se joue pas seulement dans les grandes batailles, mais aussi dans l'attente silencieuse des avant-postes, là où personne ne regarde.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sentinelles

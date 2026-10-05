@@ -1,0 +1,4 @@
+0;20;Strangleronce;Grom'gol;
+0;81;Strangleronce;Général;
+8;37;Strangleronce;Zul'Gurub;
+62;81;Strangleronce;Baie-du-Butin;

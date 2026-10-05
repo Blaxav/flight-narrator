@@ -1,0 +1,7 @@
+# Dun Morogh / Ironforge — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+46.65;50.34
+50.65;50.34
+50.65;54.34
+46.65;54.34

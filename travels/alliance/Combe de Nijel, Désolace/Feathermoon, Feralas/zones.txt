@@ -1,0 +1,5 @@
+0;26;Désolace;Combe de Nijel;
+0;133;Désolace;Général;
+112;127;Désolace;Maraudon;
+133;232;Feralas;Général;
+207;232;Feralas;Feathermoon;

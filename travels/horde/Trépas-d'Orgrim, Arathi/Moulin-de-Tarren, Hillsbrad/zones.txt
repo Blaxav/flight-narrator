@@ -1,0 +1,9 @@
+0;30;Arathi;Général;
+0;31;Arathi;Trépas-d'Orgrim;
+14;22;Arathi;Refuge de l'Ornière;
+38;73;Arathi;Général;
+52;72;Les Hinterlands;Général;
+73;114;Hillsbrad;Général;
+87;117;Hillsbrad;Moulin-de-Tarren;
+91;97;Les Hinterlands;Nid-de-l'Aigle;
+112;117;Montagnes d'Alterac;Général;

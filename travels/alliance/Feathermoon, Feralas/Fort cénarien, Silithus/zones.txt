@@ -1,0 +1,6 @@
+0;35;Feralas;Feathermoon;
+0;121;Feralas;Général;
+121;175;Silithus;Général;
+134;175;Silithus;Ruines d'Ahn'Qiraj;
+141;175;Silithus;Fort cénarien;
+152;175;Silithus;Temple d'Ahn'Qiraj;

@@ -1,0 +1,8 @@
+0;4;Sombrivage;Bashal'Aran;
+0;40;Sombrivage;Auberdine;
+0;54;Sombrivage;Général;
+54;163;Gangrebois;Général;
+65;113;Gangrebois;Poste de la Vénéneuse;
+211;286;Ashenvale;Général;
+262;301;Azshara;Halte de Talrendis;
+288;301;Azshara;Général;

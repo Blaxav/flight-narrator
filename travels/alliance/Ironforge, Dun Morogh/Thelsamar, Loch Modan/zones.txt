@@ -1,0 +1,4 @@
+0;40;Dun Morogh;Ironforge;
+0;81;Dun Morogh;Général;
+62;101;Loch Modan;Thelsamar;
+82;101;Loch Modan;Général;

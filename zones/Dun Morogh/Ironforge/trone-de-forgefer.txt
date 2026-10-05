@@ -1,0 +1,9 @@
+Le trône de Ironforge
+====================
+
+La salle du trône de Ironforge est le cœur politique du royaume nain, une vaste salle où siège le roi Magni, entouré de ses conseillers et de ses gardes. C'est là que se prennent les décisions, que se reçoivent les ambassadeurs et que se règlent les affaires du peuple. Les murs y racontent l'histoire des nains, et les statues y montent la garde. On y vient demander justice, offrir ses services ou rapporter des nouvelles des frontières. L'atmosphère y est solennelle, mais jamais froide : les nains y parlent franc, et le roi écoute ceux qui ont quelque chose de vrai à dire. Cette salle est la colonne vertébrale de Ironforge, le lieu où la volonté d'un peuple prend forme, se change en loi et engage l'avenir de tout un royaume.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : trone-de-forgefer

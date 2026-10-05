@@ -1,9 +1,0 @@
-Le trône souillé
-================
-
-Au-dessus de Fossoyeuse, dans les ruines du palais de Lordaeron, s'élève encore le trône où le roi Terenas Menethil fut assassiné. C'est là qu'Arthas, son propre fils, le frappa à mort après son retour du Norfendre, brisant le royaume et ouvrant la voie au Fléau. Le trône est resté, fendu et silencieux, comme une plaie au-dessus de la cité des morts, et nul n'ose y toucher. Les Réprouvés passent devant sans un mot, car ce lieu leur rappelle d'où ils viennent et ce qu'ils ont perdu. La chute de Lordaeron est née de ce meurtre, un fils tuant son père au cœur même du palais. Fossoyeuse en est l'héritière, bâtie sous les cendres de cette tragédie. Le trône souillé est le premier tombeau de la cité, le point où un royaume est mort pour qu'un autre naisse.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : le-trone-souille

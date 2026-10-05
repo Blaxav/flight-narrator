@@ -1,0 +1,10 @@
+0;21;Strangleronce;Baie-du-Butin;
+0;128;Strangleronce;Général;
+48;79;Strangleronce;Zul'Gurub;
+67;108;Strangleronce;Grom'gol;
+128;150;Marche de l'Ouest;Général;
+147;188;Marche de l'Ouest;Colline des sentinelles;
+150;185;Bois de la Pénombre;Général;
+185;245;Elwynn;Général;
+225;245;Elwynn;Stormwind;
+228;245;Elwynn;La Prison;

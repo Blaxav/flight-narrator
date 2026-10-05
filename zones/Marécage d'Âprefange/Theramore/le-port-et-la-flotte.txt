@@ -1,7 +1,7 @@
 Le port et la flotte
 ====================
 
-Le port de Theramore est le poumon de la cité. Ses quais accueillent les navires de guerre de Kul Tiras, les cargos de Hurlevent et les barques des pêcheurs, dans un ballet de cordages et de voiles. Les chantiers navals y réparent les coques, les forges y fabriquent des canons, et les entrepôts débordent de vivres, de bois et de poudre. La flotte de Theramore patrouille au large, dissuadant les raids de la Horde et escortant les convois qui longent la côte. Les marins racontent que les eaux du marais sont traîtresses, peuplées de murlocs et de créatures des profondeurs, et que la brume y cache parfois des voiles ennemies. Le port est donc plus qu'un havre : c'est une armée mouillée, prête à appareiller au premier signal.
+Le port de Theramore est le poumon de la cité. Ses quais accueillent les navires de guerre de Kul Tiras, les cargos de Stormwind et les barques des pêcheurs, dans un ballet de cordages et de voiles. Les chantiers navals y réparent les coques, les forges y fabriquent des canons, et les entrepôts débordent de vivres, de bois et de poudre. La flotte de Theramore patrouille au large, dissuadant les raids de la Horde et escortant les convois qui longent la côte. Les marins racontent que les eaux du marais sont traîtresses, peuplées de murlocs et de créatures des profondeurs, et que la brume y cache parfois des voiles ennemies. Le port est donc plus qu'un havre : c'est une armée mouillée, prête à appareiller au premier signal.
 
 ---
 

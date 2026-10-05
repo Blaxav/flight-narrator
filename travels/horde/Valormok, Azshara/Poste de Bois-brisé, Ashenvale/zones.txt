@@ -1,0 +1,5 @@
+0;34;Azshara;Général;
+0;35;Azshara;Valormok;
+32;64;Azshara;Halte de Talrendis;
+37;94;Ashenvale;Général;
+60;94;Ashenvale;Poste de Bois-brisé;

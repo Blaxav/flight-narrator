@@ -1,9 +1,0 @@
-Démons et bêtes affamées
-========================
-
-Les Terres foudroyées grouillent de créatures que la corruption a déformées. Des démons mineurs y rôdent, surveillant les ruines et les failles, tandis que des charognards, des scorpions géants et des hyènes hantent les ravins à la recherche de chair. Certaines de ces bêtes ne sont plus que fureur, poussées par la faim et par la magie qui suinte du sol comme une sève noire. Les voyageurs y avancent l'arme au poing, car la route est une succession d'embuscades et de courses. Les démons, eux, semblent attendre quelque chose, comme si la terre maudite les appelait et leur promettait un festin. Dans ce pays, la vie a pris un goût de cendre et de sang, et rien n'y est innocent. Les Terres foudroyées ne nourrissent que des créatures prêtes à mordre, et elles ne manquent jamais de proies imprudentes.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : demons-et-betes

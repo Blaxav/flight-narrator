@@ -1,0 +1,9 @@
+# Strangleronce / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+38.308;82.785
+42.399;81.006
+50.118;79.619
+51.825;80.864
+51.327;87.836
+46.916;95.768
+42.292;95.697

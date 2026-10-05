@@ -1,9 +1,0 @@
-Les naufrages et les tempêtes
-=============================
-
-Les naufrages jalonnent la côte de Sombrivage, où les tempêtes ont jeté les navires contre les récifs depuis des siècles. Des coques éventrées pourrissent dans le sable, des mâts brisés pointent vers le ciel, et l'on y trouve parfois des coffres que la mer n'a pas repris. Les pêcheurs racontent que la côte a faim, et que les brouillards égarent les timoniers. Chaque épave est une histoire, un voyage interrompu, une cargaison perdue. Les naufrages de Sombrivage sont les tombes de la mer, la preuve que la côte ne rend pas toujours ce qu'elle prend, et qu'elle garde ses morts.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : naufrages

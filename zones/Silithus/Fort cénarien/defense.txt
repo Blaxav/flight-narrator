@@ -1,9 +1,0 @@
-La défense du désert
-====================
-
-Le Fort cénarien est la première ligne de défense contre les silithides. Ses remparts montent la garde face aux dunes, ses sentinelles surveillent les ruches, et ses guerriers repoussent les essaims qui viennent se briser contre ses portes. Les blessés y affluent, les éclaireurs y rapportent les mouvements des insectes, et l'on y prépare les contre-attaques. La défense du Fort cénarien ne dort jamais, car le désert, lui, ne dort pas. Le Fort cénarien est le bouclier de Silithus, la preuve que la résistance au mal ancien a besoin d'un rempart et d'un foyer.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : defense

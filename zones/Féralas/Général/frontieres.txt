@@ -1,9 +1,0 @@
-Une frontière disputée
-======================
-
-Féralas est une terre de frontière, où les deux grandes factions du monde se mesurent sans relâche. Au nord-ouest, les Taurens ont dressé le Camp Mojache, leur avant-poste dans les bois. À l'ouest, sur une île battue par les flots, les elfes de la nuit tiennent Pennelune. Entre les deux, la forêt devient un échiquier : les patrouilles se croisent, les convois sont attaqués, et chaque colline peut cacher une embuscade. Pourtant, la vraie guerre n'oppose pas seulement la Horde et l'Alliance. Ogres, nagas et créatures sauvages menacent les deux camps, sans distinguer les bannières. Ici, la victoire se mesure moins en territoires qu'en survie. Féralas est une frontière où l'on n'avance qu'à pas prudents.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : frontieres

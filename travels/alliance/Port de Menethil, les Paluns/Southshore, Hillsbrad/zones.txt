@@ -1,0 +1,4 @@
+0;17;Les Paluns;Port de Menethil;
+0;21;Les Paluns;Général;
+78;107;Hillsbrad;Général;
+91;107;Hillsbrad;Southshore;

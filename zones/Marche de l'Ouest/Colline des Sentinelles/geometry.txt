@@ -1,0 +1,7 @@
+# Marche de l'Ouest / Colline des sentinelles — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+40.23;74.84
+44.23;74.84
+44.23;78.84
+40.23;78.84

@@ -1,9 +1,0 @@
-Les veilleurs du poste
-======================
-
-Ceux qui tiennent la Croisée sont des veilleurs avant d'être des guerriers. Du haut des tours de guet, ils scrutent l'horizon jaune, cherchant la poussière d'une colonne ennemie ou le vol bas d'une harpie. Leurs lames sont toujours à portée, leurs yeux rougis par le soleil et le vent. Ils ne dorment jamais tous en même temps, et chaque retour de patrouille est salué comme une petite victoire. On raconte qu'un bon veilleur reconnaît à la poussière si c'est un kodo, un cavalier ou un centaure qui approche. Cette vigilance est la vraie muraille de la Croisée, plus solide que le bois de ses palissades. Car un poste ne tient que par ceux qui ne détournent jamais le regard.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : veilleurs

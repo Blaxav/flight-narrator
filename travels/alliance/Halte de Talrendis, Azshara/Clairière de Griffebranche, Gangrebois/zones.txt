@@ -1,0 +1,7 @@
+0;27;Azshara;Général;
+0;40;Azshara;Halte de Talrendis;
+31;101;Ashenvale;Général;
+36;37;Azshara;Valormok;
+244;283;Gangrebois;Clairière de Griffebranche;
+267;278;Berceau-de-l'Hiver;Général;
+271;283;Gangrebois;Général;

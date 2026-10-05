@@ -1,9 +1,0 @@
-La cité des elfes
-=================
-
-Astranaar se dresse au bord d'une rivière d'Orneval, ses maisons de bois clair et ses passerelles se mêlant aux branches comme si la ville avait poussé avec les arbres. C'est un havre de calme, baigné de lumière verte, où les elfes de la nuit vivent au rythme de la forêt. On y trouve des marchands, des archers et des prêtresses d'Elune, et l'on y entend le murmure de l'eau sous les ponts. Mais la guerre rôde alentour, et la quiétude d'Astranaar n'est plus qu'un répit. La cité d'Astranaar est la sentinelle des bois, la preuve que la beauté elfique peut être un refuge, mais qu'un refuge se défend.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : cite-elfique

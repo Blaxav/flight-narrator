@@ -1,0 +1,7 @@
+# Marécage d'Âprefange / Mur-de-Fougères — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+52.02;63.32
+56.02;63.32
+56.02;67.32
+52.02;67.32

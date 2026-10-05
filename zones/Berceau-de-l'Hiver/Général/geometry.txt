@@ -1,0 +1,14 @@
+# Berceau-de-l'Hiver / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+58.613;15.667
+64.219;19.48
+60.064;32.997
+58.841;35.643
+56.678;36.924
+56.422;33.537
+56.678;28.131
+54.942;26.993
+51.897;28.045
+51.954;22.667
+55.341;22.44
+55.255;18.513

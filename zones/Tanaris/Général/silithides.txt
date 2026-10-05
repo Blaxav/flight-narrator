@@ -1,9 +1,0 @@
-Les silithides
-==============
-
-Sous les dunes de Tanaris grouille une menace qui ne dort jamais : les silithides, ces insectes géants à la carapace luisante qui creusent leurs galeries dans le sable. Ils sortent par essaims, guidés par un instinct ancien et impérieux, et dévorent ce qui passe à leur portée sans distinction. Leurs ruches s'enfoncent loin sous le désert, reliées par des tunnels où résonne un bourdonnement continu qui ne cesse jamais. Les gobelins de Gadgetzan les redoutent et paient cher quiconque brûle leurs nids, car nul commerce ne survit à une invasion de ces créatures. Les silithides ne sont pas des bêtes ordinaires : elles obéissent à une volonté plus vaste, et leur nombre ne cesse de croître. Le désert, lui, les nourrit en silence, comme il nourrit tous les fléaux.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : silithides

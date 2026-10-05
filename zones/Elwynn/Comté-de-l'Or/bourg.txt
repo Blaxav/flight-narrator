@@ -1,9 +1,0 @@
-Le bourg de Comté-de-l'Or
-=========================
-
-Comté-de-l'Or est le premier bourg que l'on croise en quittant Hurlevent, un village paisible posé au bord de la route, au milieu des fermes et des bois d'Elwynn. Ses maisons à colombages, son auberge accueillante et sa forge en font un lieu de halte apprécié des voyageurs. On y entend chanter les coqs, grincer les chariots et résonner les marteaux. La vie y est simple, réglée par les saisons et les moissons. Mais derrière cette douceur se cache une réalité plus dure : les bandits rôdent, et les fermiers veillent. Comté-de-l'Or est le visage paisible du royaume de Hurlevent, une carte postale de la campagne humaine, où chaque pierre semble promise à un avenir heureux.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : bourg

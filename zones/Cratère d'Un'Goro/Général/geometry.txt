@@ -1,0 +1,9 @@
+# Cratère d'Un'Goro / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+48.777;75.942
+52.182;77.071
+53.512;83.136
+51.181;86.742
+50.653;90.584
+46.773;93.007
+46.792;80.532

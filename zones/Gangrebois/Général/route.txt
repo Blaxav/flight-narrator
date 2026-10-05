@@ -1,9 +1,0 @@
-La route des cendres
-====================
-
-Gangrebois est traversé par une route qui relie les forêts du sud aux neiges de Berceau-de-l'Hiver. Mais ce chemin est devenu l'un des plus dangereux de Kalimdor. Les voyageurs y sont attaqués par les démons, les bêtes enragées et les bandits qui profitent du chaos. Les convois ne s'y risquent qu'en force, et les messagers pressent le pas en priant. Pourtant, la route reste vitale : elle porte le commerce, les renforts et les nouvelles. Chaque pas y est un pari. La route de Gangrebois est une artère au milieu d'un corps malade, et ceux qui l'empruntent savent qu'ils traversent une terre qui ne demande qu'à les dévorer. Les os blanchis au bord du chemin servent de bornes aux voyageurs.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : route

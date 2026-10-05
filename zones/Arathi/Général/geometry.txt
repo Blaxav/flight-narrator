@@ -1,0 +1,12 @@
+# Arathi / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+50.781;33.254
+53.535;34.894
+55.789;34.074
+57.77;36.237
+60.274;37.238
+59.386;40.107
+57.565;41.951
+53.171;42.178
+49.711;41.973
+49.688;35.85

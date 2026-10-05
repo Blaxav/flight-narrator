@@ -1,0 +1,9 @@
+Les elfes de la nuit
+====================
+
+Les elfes de la nuit, les kaldorei, ont bâti leur civilisation au bord du Puits d'éternité, et leur chute fut à la mesure de leur orgueil. Après la Fracture, guidés par la prêtresse Tyrande Murmevent et l'archidruide Malfurion Hurlorage, ils renoncèrent à la magie pour embrasser la nature, et veillent sur Ashenvale depuis dix mille ans. Leurs Sentinelles patrouillent sous les frondaisons, leurs druides dorment dans les tertres du Rêve d'émeraude, et Elune éclaire leurs nuits. Mais l'immortalité que leur donna l'Arbre-monde Nordrassil ne les protège pas de la guerre : la Horde abat leurs arbres, et ils découvrent que leur patience a des limites. Les kaldorei sont un peuple ancien qui se bat pour un monde plus ancien encore. Ici, chaque flèche tirée l'est au nom de dix millénaires.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : elfes

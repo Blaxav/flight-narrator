@@ -1,9 +1,0 @@
-Fermes et moulins
-=================
-
-Autour de Brill s'étendent les fermes et les moulins de Tirisfal, terres jadis grasses et aujourd'hui gorgées de brume et de malédiction. Les champs y sont en friche, les clôtures brisées, et les moulins tournent parfois encore, poussés par un vent qui semble venu de nulle part. Les Réprouvés y travaillent pourtant, cultivant ce qui peut l'être et surveillant les routes, car la terre ne se laisse pas mourir sans résister. Les morts ne dorment pas, et les terres de Lordaeron ne sont pas toutes stériles : certaines produisent encore, à leur manière, des récoltes pâles et des herbes amères. Mais la brume y colle aux sillons, et l'on n'y chante jamais. Les fermes de Brill sont le reflet de Tirisfal, un pays qui travaille sans espérer, parce qu'il faut bien continuer.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : fermes-et-moulins

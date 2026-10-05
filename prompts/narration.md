@@ -51,6 +51,10 @@ Clé (lore library) : <clé-en-minuscules-sans-accents>
 
 ## Contenu obligatoire (lore, fun facts, personnages)
 
+- **Jamais banal** : un texte qui décrit un lieu doit toujours le relier à un
+  événement, un personnage, une quête ou une guerre importante de WoW, avec des
+  noms précis. Ne jamais se contenter de décrire le paysage (« une savane »,
+  « l'eau est rare », « la vue est belle ») : cela n'apprend rien au joueur.
 - **Lore de WoW exact et fidèle à Classic (vanilla)**, en français : noms propres
   corrects, dates et événements canoniques (Puits d'éternité, Troisième Guerre,
   exode de Lordaeron…).

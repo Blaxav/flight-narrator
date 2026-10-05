@@ -1,0 +1,6 @@
+# Tirisfal / Monastère Écarlate — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+44.0;21.5
+47.0;21.5
+47.0;24.5
+44.0;24.5

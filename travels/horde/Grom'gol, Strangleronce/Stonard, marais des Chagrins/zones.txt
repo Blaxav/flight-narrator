@@ -1,0 +1,8 @@
+0;42;Strangleronce;Grom'gol;
+0;123;Strangleronce;Général;
+123;153;Défilé de Deuillevent;Général;
+155;178;Terres foudroyées;Général;
+164;205;Marais des Chagrins;Stonard;
+173;183;Terres foudroyées;Rempart-du-Néant;
+175;205;Marais des Chagrins;Général;
+191;205;Marais des Chagrins;Temple englouti;

@@ -1,9 +1,0 @@
-Les chasseurs de la forêt
-=========================
-
-La vie au Camp Mojache suit le rythme de la chasse. Dans les bois de Féralas, les chasseurs taurens traquent les loups et les ours, non par cruauté, mais par nécessité : chaque peau, chaque os, chaque morceau de viande nourrit le camp et honore les esprits. Les jeunes y apprennent la patience, la piste et le respect de la proie, sous le regard des anciens. Les chamans bénissent les arcs et les lances, et l'on raconte que les esprits de la forêt guident les plus méritants. Cette chasse n'est pas un sport, mais un pacte ancien entre les Taurens et la nature. Féralas donne beaucoup à ceux qui la respectent, et le Camp Mojache le sait mieux que personne.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : chasse

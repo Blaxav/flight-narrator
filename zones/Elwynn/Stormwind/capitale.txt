@@ -1,0 +1,9 @@
+La capitale de l'Alliance
+=========================
+
+Stormwind est la capitale du royaume humain et l'un des plus grands bastions de l'Alliance, une cité de pierre blanche dressée au bord de la forêt d'Elwynn. Ses remparts, ses tours et ses canaux en font une merveille d'architecture, et ses quartiers grouillent de marchands, d'artisans et de soldats. La ville respire l'ordre et la puissance, mais aussi l'histoire : reconstruite après les destructions de la Première Guerre, elle porte les cicatrices de la chute et de la renaissance. Stormwind est le cœur politique et spirituel des terres humaines, un phare pour tous ceux qui croient en l'Alliance. Quiconque franchit ses portes sent le poids d'un royaume qui a juré de ne plus jamais tomber.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : capitale

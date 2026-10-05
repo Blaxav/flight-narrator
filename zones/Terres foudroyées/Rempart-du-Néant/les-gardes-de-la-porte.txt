@@ -1,0 +1,9 @@
+Les gardes de la Porte
+======================
+
+Les soldats du Rempart-du-Néant ont une tâche unique, qui occupe toutes leurs pensées : surveiller la Porte des Ténèbres. Ils vivent à l'ombre de ce monument maudit, dans l'attente d'un ennemi qui pourrait ne jamais revenir, ou revenir demain. Leurs officiers relèvent les tours, leurs éclaireurs sillonnent les ravins, et leurs mages étudient les ondes de magie noire qui émanent de la faille, sans jamais baisser la garde. C'est une existence d'austérité et de patience, loin des capitales, des honneurs et des fêtes. Pourtant, ils tiennent, car ils savent ce que la Porte a déjà déversé sur Azeroth, et ce qu'elle pourrait encore déverser. Le fort est leur monde, étroit et grave, rythmé par les rondes et les rapports. Ces gardes-là ne dorment que d'un œil, et l'autre fixe l'horizon.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : les-gardes-de-la-porte

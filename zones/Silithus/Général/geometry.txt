@@ -1,0 +1,8 @@
+# Silithus / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+37.935;81.462
+42.475;76.507
+48.759;75.997
+46.81;80.459
+46.956;96.54
+39.002;96.535

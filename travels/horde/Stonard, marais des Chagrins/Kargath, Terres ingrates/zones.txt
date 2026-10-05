@@ -1,0 +1,13 @@
+0;35;Marais des Chagrins;Stonard;
+0;35;Marais des Chagrins;Temple englouti;
+0;51;Marais des Chagrins;Général;
+51;146;Les Carmines;Général;
+94;114;Les Carmines;Lakeshire;
+122;190;Steppes ardentes;Veille de Morgan;
+145;237;Steppes ardentes;Général;
+187;256;Steppes ardentes;Corniches des flammes;
+236;285;Terres ingrates;Général;
+248;257;Steppes ardentes;Profondeurs de Rochenoire;
+248;274;Steppes ardentes;Bas du Pic Rochenoire;
+251;285;Terres ingrates;Kargath;
+274;285;Terres ingrates;Uldaman;

@@ -1,9 +1,0 @@
-La Croisée
-===========
-
-Vous planez au-dessus des Tarides, ce plateau d'herbes jaunes qui fut une forêt il y a dix mille ans, avant la chute du Puits d'éternité. Là, au croisement de la Route de l'Or et du chemin qui monte vers Orgrimmar, la Horde a dressé son poste le plus précieux de tout Kalimdor : La Croisée. Thrall l'a fait bâtir après l'exode de Lordaeron, quand la jeune Orgrimmar a dû être reliée aux pâturages de Mulgore. Ce n'est pas une ville, c'est une tour de guet posée sur un carrefour : des grunts, des peaux qui sèchent au soleil, et une seule piste de terre qui file vers le sud. Mais tout ce que la Horde possède passe par ici : chaque convoi d'armes, chaque colonne de troupes, chaque message. Alors l'ennemi rôde autour. Les sangliers Razormane tapis dans les épines, les harpies qui fondent des falaises, et les centaures, l'ennemi héréditaire des Taurens, qui harcèlent les caravanes. Tant que La Croisée tient, la Horde tient les routes. Si elle tombe, Kalimdor est coupé en deux. Voilà pourquoi tous les regards se tournent vers elle : elle est le cœur battant des Tarides, et le premier rempart d'Orgrimmar.
-
----
-
-Durée estimée : ~1 min 30 en narration.
-Clé (lore library) : croisee

@@ -1,9 +1,0 @@
-La cité de Jintha'Alor
-======================
-
-Jintha'Alor est une cité troll accrochée aux falaises des Hinterlands, un labyrinthe de plateformes, d'escaliers et de temples suspendus au-dessus du vide. Les Vilebranche l'ont bâtie pour défier le ciel et les ennemis, et elle est restée imprenable pendant des siècles. On y accède par des sentiers étroits et des ponts de corde, sous le regard de sentinelles armées. L'air y sent l'encens, la sueur et le sang des sacrifices. Chaque pierre y porte la marque d'un culte ancien. Jintha'Alor n'est pas une ruine : c'est une capitale vivante, fière et cruelle, où les étrangers ne sont admis que pour mourir. Ses murailles semblent pousser de la roche, comme si la montagne l'avait enfantée pour veiller sur les siens.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : cite

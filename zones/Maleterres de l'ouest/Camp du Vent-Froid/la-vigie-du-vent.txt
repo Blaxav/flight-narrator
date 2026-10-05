@@ -1,9 +1,0 @@
-La vigie du vent
-================
-
-Au sommet du Camp du Vent-Froid se dresse une tour de guet dont les planches gémissent sous les bourrasques. Les sentinelles s'y relaient, enveloppées dans des manteaux alourdis par l'humidité, scrutant la brume à la recherche de silhouettes traînantes. Le vent charrie des bruits trompeurs : un cri d'oiseau peut être une banshee, un craquement de branche, une goule. Les guetteurs ont appris à lire ces signes, et une corne retentit dès qu'une menace approche. En contrebas, les feux de camp dessinent des halos orangés dans la grisaille, seul réconfort d'une garnison qui vit au bord du gouffre. On raconte que les nuits de tempête, le vent prononce des noms de morts. Les soldats, eux, ne répondent jamais.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : la-vigie-du-vent

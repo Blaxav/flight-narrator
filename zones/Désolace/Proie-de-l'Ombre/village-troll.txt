@@ -1,9 +1,0 @@
-Le village des trolls
-=====================
-
-Sur la côte ouest de Désolace, à l'abri d'une crique battue par les vagues, se niche Proie-de-l'Ombre, un village de trolls fidèles à la Horde. Les huttes de bois et de peaux s'accrochent à la roche, et les pirogues reposent sur le sable. L'air y sent le sel, la fumée et le poisson séché. C'est un lieu rude, loin des routes et des armées, où l'on vit de la mer et de la chasse. Les trolls y accueillent les voyageurs de la Horde avec une hospitalité méfiante, offrant le gîte et quelques quêtes à qui sait gagner leur confiance. Proie-de-l'Ombre n'est pas une forteresse, mais un port d'échouage, un refuge discret sur une côte hostile, où l'ombre des montagnes tombe tôt.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : village-troll

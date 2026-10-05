@@ -1,9 +1,0 @@
-Le refuge des druides
-=====================
-
-Au cœur de Reflet-de-Lune se niche un bourg paisible où les druides et les voyageurs trouvent repos et conseils. Ses maisons de bois clair s'ouvrent sur les prairies, et l'on y croise des sages, des marchands et des éclaireurs de tous horizons. Les feux y brûlent pour les hôtes, et nul n'y porte d'arme par nécessité. C'est un lieu d'échange et de passage, où l'on apprend les nouvelles du monde sans y être mêlé. Le refuge des druides est le foyer de Reflet-de-Lune, la preuve que même les sanctuaires ont besoin d'un toit, et que la paix s'accueille autour d'une table.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : refuge-druides

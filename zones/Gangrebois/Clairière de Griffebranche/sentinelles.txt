@@ -1,0 +1,9 @@
+Les gardiennes de la clairière
+==============================
+
+À la Clairière de Griffebranche, les Sentinelles veillent sans relâche. Leur camp est simple : quelques tentes, des feux de garde et des archers postés aux lisières. Elles savent que la corruption rôde, prête à dévorer ce havre. Leur mission est double : protéger la clairière et frapper les démons avant qu'ils ne s'approchent. Chaque nuit, des patrouilles s'enfoncent dans les bois noirs, et chaque matin, on compte les absents. Les Sentinelles de Griffebranche ne sont pas nombreuses, mais leur détermination est immense. Elles incarnent la promesse des elfes de la nuit : ne jamais abandonner une forêt, même quand elle semble perdue. Leur patience est une arme, leur silence un avertissement, et leur veille n'a pas de fin.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : sentinelles

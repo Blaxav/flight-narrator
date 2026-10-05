@@ -1,7 +1,7 @@
 La menace des troggs
 ====================
 
-Les troggs sont une plaie pour Dun Morogh. Ces créatures primitives, sorties des profondeurs, infestent les grottes et les vallées, tuant ce qu'elles trouvent et souillant ce qu'elles touchent. On dit qu'ils sont liés aux nains par un lointain passé, mais ils n'en ont gardé que la force et aucune sagesse. Ils attaquent par bandes, armés de massues de pierre, et s'en prennent aux fermes comme aux caravanes. Les gardes de Forgefer les traquent sans relâche, mais ils pullulent, remontant des galeries abandonnées. La menace des troggs rappelle que les profondeurs de la montagne ne sont pas toutes apprivoisées. Tant qu'il restera une grotte obscure, les troggs en sortiront, et les nains devront rester sur leurs gardes.
+Les troggs qui infestent Dun Morogh ne sont pas de simples bêtes : ce sont les parents dégénérés des nains. Les deux peuples descendent des Earthen, ces créatures de pierre forgées par les Titans pour façonner les profondeurs d'Azeroth ; mais là où les nains gardèrent la raison et l'art, les troggs sombrèrent dans la brutalité. Sortis des galeries par les fouilles, ils attaquent en bandes, armés de massues de pierre, et s'en prennent aux fermes comme aux caravanes. Les gardes de Ironforge les traquent sans relâche, mais ils pullulent, remontant des tunnels abandonnés. La menace des troggs rappelle que les Titans ont laissé des ébauches ratées dans les entrailles du monde, et que les nains paient encore le prix de cette parenté maudite.
 
 ---
 

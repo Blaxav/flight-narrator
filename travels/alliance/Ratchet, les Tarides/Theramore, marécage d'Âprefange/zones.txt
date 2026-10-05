@@ -1,0 +1,4 @@
+0;18;Les Tarides;Ratchet;
+0;38;Les Tarides;Général;
+38;106;Marécage d'Âprefange;Général;
+89;106;Marécage d'Âprefange;Theramore;

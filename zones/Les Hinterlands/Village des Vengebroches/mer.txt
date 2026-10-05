@@ -1,9 +1,0 @@
-La vie au bord de la mer
-========================
-
-La mer rythme la vie du village des Vengebroches. Les pêcheurs partent à l'aube dans leurs barques, les femmes réparent les filets, et les enfants ramassent les coquillages sur la grève. Le poisson se fume, se sale ou s'échange contre des outils. Mais la mer est aussi une menace : les tempêtes y sont brutales, et les créatures des profondeurs rôdent sous les vagues. Les Vengebroche ont appris à la respecter, à lire ses humeurs et à ne jamais la défier. Cette vie rude les a endurcis, et leur village semble faire corps avec le rivage, comme s'il avait toujours été là, entre le sel et la roche. Le sel, le vent et la patience ont façonné ce peuple du rivage.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : mer

@@ -1,0 +1,6 @@
+# Feralas / Hache-Tripes — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+41.5;66.0
+44.5;66.0
+44.5;69.0
+41.5;69.0

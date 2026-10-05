@@ -1,0 +1,14 @@
+# Mille Pointes / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+49.019;68.193
+50.072;70.668
+53.715;73.116
+57.015;72.603
+59.804;72.234
+59.121;79.091
+56.043;80.113
+55.052;79.006
+54.441;76.894
+51.78;77.014
+48.74;75.924
+47.91;70.156

@@ -1,0 +1,6 @@
+# Tanaris / Zul'Farrak — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+52.5;78
+55.905;78.398
+56.531;82.097
+53.174;81.442

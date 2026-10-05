@@ -1,0 +1,7 @@
+0;34;Les Tarides;Général;
+0;46;Les Tarides;Camp Taurajo;
+0;57;Les Tarides;Ouest;
+0;57;Les Tarides;Sud;
+1;3;Les Tarides;Cavernes des lamentations;
+33;114;Mulgore;Général;
+69;114;Mulgore;Thunder Bluff;

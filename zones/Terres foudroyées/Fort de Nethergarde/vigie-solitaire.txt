@@ -1,9 +1,0 @@
-Une vigie solitaire
-===================
-
-Le Fort de Nethergarde est une île de pierre dans un océan de roche maudite. Autour, les Terres foudroyées s'étendent, rouges et stériles, peuplées de démons et de bêtes affamées qui ne connaissent que la faim. Le ravitaillement y parvient par de longues routes périlleuses, et les messages mettent des jours à rejoindre les royaumes de l'Alliance. La solitude y pèse, immense, coupée seulement par le vent et les cris lointains qui montent de la plaine. Pourtant, les soldats tiennent, parce qu'ils savent que leur isolement est une protection pour tous les autres, pour ceux qui dorment loin d'ici. Nethergarde est une vigie oubliée du monde, mais fidèle à sa mission. Sa silhouette sur la falaise est un serment : tant qu'elle tiendra, la Porte aura un gardien. Et Azeroth, derrière elle, pourra dormir un peu.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : vigie-solitaire

@@ -1,0 +1,8 @@
+0;29;Les Hinterlands;Village des Revantusk;
+0;118;Les Hinterlands;Général;
+4;36;Les Hinterlands;Jintha'Alor;
+22;48;Arathi;Trépas-d'Orgrim;
+114;141;Les Hinterlands;Nid-de-l'Aigle;
+119;153;Hillsbrad;Général;
+131;159;Hillsbrad;Moulin-de-Tarren;
+152;159;Montagnes d'Alterac;Général;

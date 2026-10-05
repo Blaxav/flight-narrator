@@ -1,9 +1,0 @@
-La côte et les murlocs
-======================
-
-Le long de la côte d'Hautebrande, les murlocs ont établi leurs villages de boue et de coquillages. Ces créatures amphibies, à la fois ridicules et féroces, surgissent des vagues pour piller les fermes et attaquer les pêcheurs. Leurs cris aigus résonnent dans les criques, et leurs huttes défigurent les plages. On raconte qu'elles vénèrent les profondeurs et qu'elles sont plus organisées qu'elles n'en ont l'air. Les habitants d'Austrivage doivent sans cesse repousser leurs incursions. La côte d'Hautebrande est ainsi une frontière liquide, où la terre et la mer se disputent chaque mètre de sable, et où l'ennemi peut sortir de l'eau à tout moment. Les murlocs y sont le signe que la mer n'a pas dit son dernier mot.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : cote

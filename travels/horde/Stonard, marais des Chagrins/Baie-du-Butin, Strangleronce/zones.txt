@@ -1,0 +1,7 @@
+0;17;Marais des Chagrins;Temple englouti;
+0;20;Marais des Chagrins;Général;
+0;33;Marais des Chagrins;Stonard;
+14;38;Terres foudroyées;Rempart-du-Néant;
+19;74;Terres foudroyées;Général;
+71;260;Strangleronce;Général;
+228;260;Strangleronce;Baie-du-Butin;

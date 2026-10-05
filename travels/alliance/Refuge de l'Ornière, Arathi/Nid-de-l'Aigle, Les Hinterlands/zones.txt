@@ -1,0 +1,5 @@
+0;14;Arathi;Stromgarde;
+0;22;Arathi;Refuge de l'Ornière;
+0;36;Arathi;Général;
+36;72;Les Hinterlands;Général;
+51;72;Les Hinterlands;Nid-de-l'Aigle;

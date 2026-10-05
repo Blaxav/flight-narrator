@@ -1,0 +1,6 @@
+# Marécage d'Âprefange / Repaire d'Onyxia — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+54.5;68.5
+57.5;68.5
+57.5;71.5
+54.5;71.5

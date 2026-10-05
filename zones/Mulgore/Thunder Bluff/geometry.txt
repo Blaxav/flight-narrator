@@ -1,0 +1,7 @@
+# Mulgore / Thunder Bluff — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+44.48;55.13
+48.48;55.13
+48.48;59.13
+44.48;59.13

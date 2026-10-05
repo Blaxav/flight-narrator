@@ -1,0 +1,8 @@
+0;33;Tanaris;Gadgetzan;
+0;54;Tanaris;Général;
+0;54;Tanaris;Zul'Farrak;
+54;155;Cratère d'Un'Goro;Général;
+156;197;Silithus;Général;
+159;197;Silithus;Ruines d'Ahn'Qiraj;
+165;197;Silithus;Fort cénarien;
+187;197;Silithus;Temple d'Ahn'Qiraj;

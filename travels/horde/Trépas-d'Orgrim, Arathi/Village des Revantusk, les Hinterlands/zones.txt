@@ -1,0 +1,4 @@
+0;44;Arathi;Général;
+0;52;Arathi;Trépas-d'Orgrim;
+40;91;Les Hinterlands;Village des Revantusk;
+42;91;Les Hinterlands;Général;

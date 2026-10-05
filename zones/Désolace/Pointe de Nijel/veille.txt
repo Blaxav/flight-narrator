@@ -1,9 +1,0 @@
-La veille sur Désolace
-======================
-
-La Pointe de Nijel n'est pas un simple camp : c'est un œil ouvert sur Désolace. De ses hauteurs, les elfes surveillent les déplacements des clans centaures, les rassemblements de démons au sud et les routes qui traversent la région. Chaque information y est précieuse, chaque messager y est attendu, et chaque signal y a un sens. La veille est constante, de jour comme de nuit, et les feux d'alarme y répondent à ceux des autres avant-postes. Cette vigilance n'a rien de passif : elle permet à l'Alliance d'anticiper les raids et de protéger ses caravanes. La Pointe de Nijel est ainsi le poste d'observation d'un territoire en guerre, la preuve que voir venir l'ennemi est parfois plus important que de savoir le frapper.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : veille

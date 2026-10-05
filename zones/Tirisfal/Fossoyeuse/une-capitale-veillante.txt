@@ -1,9 +1,0 @@
-Une capitale veillante
-======================
-
-Fossoyeuse ne dort jamais, et c'est peut-être cela qui la rend si inquiétante. Ses canaux charrient des eaux pâles, ses gardes abominables montent la garde aux carrefours, et ses chauves-souris s'accrochent aux voûtes comme des fruits noirs. Les Réprouvés y travaillent, y complotent et y prient, si l'on peut appeler prière ce que les morts adressent à la nuit. La cité est un nid d'intrigues, de recherches et de préparatifs, tendu vers un seul but : durer, malgré tout. Car les vivants méprisent les Réprouvés, et le Fléau les hait ; entre les deux, Fossoyeuse doit rester debout, jour après jour. Cette capitale est un défi permanent à la mort, une preuve que même les trahis peuvent bâtir. Ici, la volonté d'exister brûle, froide et tenace, sous la terre de Lordaeron.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : une-capitale-veillante

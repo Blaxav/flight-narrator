@@ -1,0 +1,9 @@
+0;32;Durotar;Gouffre de Ragefeu;
+0;32;Durotar;Général;
+0;36;Durotar;Orgrimmar;
+32;47;Azshara;Général;
+41;76;Azshara;Halte de Talrendis;
+48;150;Ashenvale;Général;
+66;84;Ashenvale;Poste de Bois-brisé;
+156;252;Gangrebois;Général;
+217;252;Gangrebois;Poste de la Vénéneuse;

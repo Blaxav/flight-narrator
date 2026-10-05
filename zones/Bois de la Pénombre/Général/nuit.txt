@@ -1,9 +1,0 @@
-La forêt des ombres
-===================
-
-Le Bois de la Pénombre est une forêt de nuit perpétuelle, où la canopée est si épaisse que le soleil n'y pénètre presque jamais. Les arbres y sont tordus, les sentiers boueux, et une brume grise s'accroche aux troncs comme un linceul. Les bruits y sont trompeurs : un craquement peut être une branche ou une goule. Les voyageurs y pressent le pas, évitant les cimetières et les fermes abandonnées. C'est une forêt qui semble respirer, observer, attendre. Pourtant, elle abrite encore des âmes courageuses, qui refusent de la laisser sombrer. Le Bois de la Pénombre est un monde d'ombres, la preuve que la lumière, quand elle se retire, laisse la place à des choses qui n'auraient jamais dû exister.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : nuit

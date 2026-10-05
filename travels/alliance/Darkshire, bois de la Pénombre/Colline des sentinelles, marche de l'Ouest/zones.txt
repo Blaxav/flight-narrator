@@ -1,0 +1,5 @@
+0;29;Bois de la Pénombre;Darkshire;
+0;77;Bois de la Pénombre;Général;
+66;93;Marche de l'Ouest;Colline des sentinelles;
+78;93;Marche de l'Ouest;Général;
+90;93;Marche de l'Ouest;Les Mortemines;

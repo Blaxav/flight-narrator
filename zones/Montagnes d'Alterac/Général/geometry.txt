@@ -1,0 +1,10 @@
+# Montagnes d'Alterac / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+45.044;25.879
+47.366;25.788
+51.691;27.882
+50.667;29.476
+50.622;31.411
+48.172;31.751
+44.134;32.981
+43.656;30.386

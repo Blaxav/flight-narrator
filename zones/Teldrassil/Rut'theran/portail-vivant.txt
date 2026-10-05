@@ -1,0 +1,9 @@
+Le portail vivant
+=================
+
+Au centre du Rut'theran brille un arbre étrange, baigné d'une lumière rose et mouvante : c'est le portail vivant qui mène à Darnassus. Nul escalier ni grue, nul long voyage : on entre dans la lueur, et l'on se retrouve dans les branches, au cœur de la cité, comme porté par une sève invisible. Cette magie ancienne relie le port à la capitale en un instant, et les voyageurs s'y pressent, émerveillés ou méfiants, sous le regard des Sentinelles qui en gardent l'accès. Ce prodige est l'œuvre des elfes de la nuit, la preuve que leur magie épouse la nature au lieu de la forcer. Le portail vivant ne s'use pas, ne se brise pas : il grandit avec l'Arbre. Il est le cœur battant de Rut'theran, et chacun le traverse comme on traverse un rêve éveillé.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : portail-vivant

@@ -1,0 +1,9 @@
+Les nagas de Brassenoire
+========================
+
+Les nagas de Brassenoire sont les gardiens du temple noyé, des êtres à queue de serpent issus d'anciens elfes corrompus. Ils y ont fait leur repaire, entre les colonnes effondrées et les salles inondées, et ils défendent leur domaine avec l'acharnement de ceux qui n'ont plus rien à perdre. Leurs sorcières commandent à la mer, leurs guerriers glissent dans l'eau comme des ombres, et leurs prêtres invoquent Aku'mai. Ils haïssent les elfes de la nuit, qu'ils tiennent pour responsables de leur chute. Les nagas de Brassenoire sont la mémoire empoisonnée d'Ashenvale, la preuve qu'un peuple peut sombrer et revenir transformé en ennemi.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : nagas-elfes

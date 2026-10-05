@@ -1,0 +1,6 @@
+# Sombrivage / Ameth'Aran — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+42.0;26.5
+45.0;26.5
+45.0;29.5
+42.0;29.5

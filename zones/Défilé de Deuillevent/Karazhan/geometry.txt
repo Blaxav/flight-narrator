@@ -1,0 +1,6 @@
+# Défilé de Deuillevent / Karazhan — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+51.0;74.0
+54.0;74.0
+54.0;77.0
+51.0;77.0

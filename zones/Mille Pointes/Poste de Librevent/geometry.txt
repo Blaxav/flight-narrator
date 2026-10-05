@@ -1,0 +1,7 @@
+# Mille Pointes / Poste de Librevent — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+50.86;72.50
+54.86;72.50
+54.86;76.50
+50.86;76.50

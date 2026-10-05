@@ -1,9 +1,0 @@
-Les elfes de la nuit
-====================
-
-Orneval appartient aux elfes de la nuit, qui y veillent depuis des millénaires. Leurs sentinelles patrouillent sous les frondaisons, leurs archers se fondent dans les feuillages, et leurs villes se nichent au creux des branches. Ce peuple ancien, né sous les étoiles, considère la forêt comme un héritage sacré, et la défend avec une patience de prédateur. Mais les temps ont changé : la Horde a pénétré dans les bois, et les elfes découvrent que la guerre est revenue dans leur jardin. Les elfes d'Orneval sont les gardiens d'un monde menacé, la preuve que l'immortalité ne protège pas de la perte, et que même les plus anciens doivent combattre pour ce qu'ils aiment.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : elfes

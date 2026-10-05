@@ -1,9 +1,0 @@
-La corruption de la forêt
-=========================
-
-Orneval n'est pas seulement menacé par la guerre : une corruption plus sourde ronge la forêt. Des satyres hantent les sous-bois, des démons se cachent dans les ravins, et certaines clairières ont pris une teinte maladive. Cette souillure remonte aux temps anciens, quand la Légion ardente tenta de corrompre la nature elle-même. Les elfes la traquent sans relâche, purifient les sources et brûlent les foyers d'infection, mais le mal repousse, patient comme la mousse. La corruption d'Orneval est la blessure cachée sous les feuilles, la preuve que même les forêts les plus anciennes peuvent être empoisonnées, et que la vigilance est le prix de leur beauté.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : corruption

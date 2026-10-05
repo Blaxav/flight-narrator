@@ -1,0 +1,11 @@
+0;21;Les Tarides;La Croisée;
+0;80;Les Tarides;Est;
+0;80;Les Tarides;Nord;
+0;92;Les Tarides;Général;
+54;84;Durotar;Colline de Lame-Rasoir;
+56;59;Durotar;Sen'jin;
+91;107;Durotar;Orgrimmar;
+98;104;Durotar;Général;
+104;168;Azshara;Général;
+110;150;Azshara;Halte de Talrendis;
+148;168;Azshara;Valormok;

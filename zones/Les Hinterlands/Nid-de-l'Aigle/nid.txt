@@ -1,0 +1,9 @@
+Nid-de-l'Aigle
+=================
+
+Nid-de-l'Aigle est la capitale des nains Marteau-Hardi, bâtie à flanc de montagne au cœur des Hinterlands. Ses maisons de pierre s'étagent sur la pente, reliées par des escaliers vertigineux et des passerelles de bois. Les griffons y nichent sur les corniches, et leurs cris se mêlent au vent. C'est une cité ouverte sur le ciel, où l'on vit au grand air, loin des galeries souterraines de Ironforge. Les forges y résonnent, les tavernes y chantent, et les cavaliers y préparent leurs montures. Nid-de-l'Aigle n'a pas la puissance d'une capitale, mais il a la fierté d'un peuple libre, perché sur son rocher. On y monte par des sentiers que seuls les habitants connaissent sans trembler.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : nid

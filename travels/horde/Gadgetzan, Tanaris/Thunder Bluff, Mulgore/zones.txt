@@ -1,0 +1,12 @@
+0;25;Tanaris;Gadgetzan;
+0;25;Tanaris;Général;
+0;42;Tanaris;Zul'Farrak;
+27;115;Mille Pointes;Général;
+56;60;Tanaris;Général;
+65;114;Mille Pointes;Poste de Librevent;
+116;205;Les Tarides;Général;
+170;227;Les Tarides;Ouest;
+170;227;Les Tarides;Sud;
+204;304;Mulgore;Général;
+207;242;Les Tarides;Cavernes des lamentations;
+280;304;Mulgore;Thunder Bluff;

@@ -1,0 +1,9 @@
+La corruption de la forêt
+=========================
+
+La corruption d'Ashenvale a un visage : celui de Xavius, le premier satyre. Ce conseiller de la reine Azshara fut maudit par la Légion ardente il y a dix mille ans, et transformé en démon cornu dont la race entière des satyres est issue. Depuis, ses enfants rôdent dans les sous-bois, souillent les sources et détournent les esprits de la forêt, tandis que des démons se cachent dans les ravins. Les Sentinelles traquent cette corruption sans relâche, purifient les clairières et brûlent les foyers d'infection, mais le mal repousse comme la mousse. Ashenvale porte ainsi la marque d'une trahison très ancienne, celle d'un elfe qui préféra la puissance des démons à la lumière d'Elune. Et cette marque, nul feu ne l'a jamais effacée.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : corruption

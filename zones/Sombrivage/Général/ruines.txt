@@ -1,9 +1,0 @@
-Les ruines des elfes
-====================
-
-Sombrivage est jonché de ruines elfiques, les restes d'une civilisation qui a sombré il y a bien longtemps. Des arches brisées, des tours effondrées et des dalles couvertes de mousse s'éparpillent le long de la côte, comme si la terre avait oublié de les ensevelir. Ces pierres sont plus anciennes que la mémoire des vivants, et pourtant elles parlent encore de grandeur. Les elfes y passent avec respect, car ce sont les os de leurs ancêtres. Les ruines de Sombrivage sont la mémoire du rivage, la preuve que les empires des elfes se sont brisés là, et que la mer a gardé leurs débris.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : ruines

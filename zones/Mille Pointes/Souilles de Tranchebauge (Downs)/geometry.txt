@@ -1,0 +1,6 @@
+# Mille Pointes / Souilles de Tranchebauge (Downs) — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+49.5;73.0
+52.5;73.0
+52.5;76.0
+49.5;76.0

@@ -1,0 +1,6 @@
+0;13;Désolace;Maraudon;
+0;37;Désolace;Proie-de-l'Ombre;
+0;161;Désolace;Général;
+106;175;Désolace;Combe de Nijel;
+159;199;Serres-Rocheuses;Général;
+163;199;Serres-Rocheuses;Retraite de Roche-Soleil;

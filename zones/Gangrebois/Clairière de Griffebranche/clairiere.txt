@@ -1,0 +1,9 @@
+La clairière de Griffebranche
+============================
+
+La Clairière de Griffebranche est un îlot de verdure préservé au cœur de Gangrebois. Là, les arbres n'ont pas noirci, l'eau des sources est claire, et la lumière filtre à travers les branches comme aux temps anciens. C'est un campement de l'Alliance, tenu par les elfes de la nuit et leurs alliés, posé comme un défi à la corruption environnante. On y respire un air plus pur, on y panse ses blessures, et l'on y prépare les expéditions vers les terres gangrenées. La clairière n'est pas grande, mais elle est précieuse : c'est la preuve que Gangrebois peut encore abriter la vie. Tant qu'elle tiendra, l'espoir aura un toit. Ses défenseurs savent que la perdre serait perdre un peu plus qu'un camp.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : clairiere

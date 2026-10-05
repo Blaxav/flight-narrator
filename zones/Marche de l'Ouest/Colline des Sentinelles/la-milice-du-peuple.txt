@@ -1,9 +1,0 @@
-La milice du peuple
-===================
-
-Faute de troupes royales en nombre, la Marche de l'Ouest se défend grâce à la milice du peuple, une armée improvisée de fermiers, de commis et d'apprentis forgerons. Le jour, ils moissonnent ; la nuit, ils montent la garde, la faux à l'épaule et la peur au ventre. Leur campement, au pied de la Colline des Sentinelles, est un bric-à-brac de tentes rapiécées et d'armes de fortune. Ils s'entraînent sur des mannequins de paille, apprennent à marcher en rang et à reconnaître les signaux de la tour. Certains ont déjà perdu une ferme, un frère ou une récolte, et leur courage tient davantage du désespoir que de la vocation. Pourtant, c'est cette milice hétéroclite qui tient encore debout la promesse d'une terre paisible.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : la-milice-du-peuple

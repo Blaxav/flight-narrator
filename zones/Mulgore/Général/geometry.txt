@@ -1,0 +1,11 @@
+# Mulgore / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+45.747;53.168
+48.479;53.481
+49.645;55.501
+50.072;58.859
+50.072;63.498
+49.759;65.262
+49.247;68.164
+45.804;67.111
+45.036;56.526

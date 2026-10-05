@@ -1,0 +1,5 @@
+0;28;Elwynn;La Prison;
+0;34;Elwynn;Stormwind;
+0;88;Elwynn;Général;
+89;157;Steppes ardentes;Général;
+124;157;Steppes ardentes;Veille de Morgan;

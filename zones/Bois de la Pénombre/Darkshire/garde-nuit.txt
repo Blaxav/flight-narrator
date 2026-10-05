@@ -1,0 +1,9 @@
+La Garde de la Nuit
+===================
+
+La Garde de la Nuit est la milice de Darkshire, la dernière ligne de défense du Bois de la Pénombre. Ces veilleurs patrouillent les routes dès le crépuscule, la torche à la main, et ne regagnent la ville qu'à l'aube. Leur mission est simple : tenir les ténèbres à distance. Ils traquent les worgens, repoussent les morts-vivants et barricadent les portes quand Stitches approche. Beaucoup sont des fermiers devenus soldats, des gens ordinaires qui ont choisi de se battre plutôt que de fuir. Leur courage est d'autant plus admirable qu'ils savent la partie presque perdue. La Garde de la Nuit est le cœur vaillant de Darkshire, la preuve qu'on peut tenir une bougie face à la nuit, et refuser de la laisser s'éteindre.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : garde-nuit

@@ -1,0 +1,10 @@
+0;1;Mulgore;Camp Narache;
+0;46;Mulgore;Thunder Bluff;
+0;74;Mulgore;Général;
+8;35;Mulgore;Village des Sabot-Sanglant;
+58;63;Les Tarides;Sud;
+58;150;Les Tarides;Ouest;
+63;159;Les Tarides;Nord;
+74;159;Les Tarides;Général;
+114;159;Les Tarides;La Croisée;
+150;159;Les Tarides;Est;

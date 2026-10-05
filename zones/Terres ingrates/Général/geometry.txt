@@ -1,0 +1,8 @@
+# Terres ingrates / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+51.375;58.224
+55.04;57.337
+59.798;58.885
+61.096;63.392
+50.942;63.187
+51.079;60.046

@@ -1,0 +1,10 @@
+0;25;Dun Morogh;Ironforge;
+0;93;Dun Morogh;Général;
+7;15;Dun Morogh;Gnomeregan;
+68;91;Gorge des Vents brûlants;Halte du Thorium;
+93;119;Gorge des Vents brûlants;Général;
+119;129;Dun Morogh;Général;
+159;210;Elwynn;Général;
+170;207;Elwynn;Comté-de-l'Or;
+186;210;Elwynn;Stormwind;
+195;210;Elwynn;La Prison;

@@ -1,0 +1,5 @@
+0;27;Les Carmines;Lakeshire;
+0;28;Les Carmines;Général;
+28;40;Défilé de Deuillevent;Général;
+34;60;Bois de la Pénombre;Darkshire;
+39;60;Bois de la Pénombre;Général;

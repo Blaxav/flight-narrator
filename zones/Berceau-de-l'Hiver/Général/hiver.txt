@@ -1,9 +1,0 @@
-L'hiver éternel
-===============
-
-Le Berceau-de-l'Hiver est une forêt de sapins gelés au nord de Kalimdor, où la neige ne fond jamais et où l'air est si froid qu'il brûle les poumons. L'hiver y règne en maître depuis des millénaires, et les lacs y sont pris par la glace en toute saison. C'est une terre de silence, où le moindre bruit porte loin et où les traces ne s'effacent pas. Les voyageurs s'y déplacent avec prudence, car le froid y tue aussi sûrement qu'une lame. Pourtant, la région n'est pas morte : sous la neige, des sources chaudes fument, et des créatures adaptées au gel y prospèrent. Le Berceau-de-l'Hiver est une épreuve autant qu'un paysage, la preuve que la nature sait être belle et impitoyable à la fois.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : hiver

@@ -1,0 +1,6 @@
+0;28;Feralas;Camp Mojache;
+0;83;Feralas;Général;
+82;130;Silithus;Général;
+98;130;Silithus;Ruines d'Ahn'Qiraj;
+103;130;Silithus;Fort cénarien;
+112;130;Silithus;Temple d'Ahn'Qiraj;

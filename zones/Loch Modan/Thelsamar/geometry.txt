@@ -1,0 +1,7 @@
+# Loch Modan / Thelsamar — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+
+51.78;53.28
+55.78;53.28
+55.78;57.28
+51.78;57.28

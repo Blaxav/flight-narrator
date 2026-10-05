@@ -1,0 +1,7 @@
+0;26;Les Tarides;Nord;
+0;30;Les Tarides;La Croisée;
+0;99;Les Tarides;Est;
+0;117;Les Tarides;Général;
+26;158;Les Tarides;Sud;
+115;162;Marécage d'Âprefange;Général;
+133;162;Marécage d'Âprefange;Mur-de-Fougères;

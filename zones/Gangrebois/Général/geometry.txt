@@ -1,0 +1,11 @@
+# Gangrebois / Général — polygone (coordonnées carte continent 0-100)
+# X = est, Y = sud. Sommets en SENS HORAIRE, un par ligne : X;Y
+49.109;23.493
+51.983;22.753
+52.036;28.479
+51.442;31.176
+51.528;36.155
+51.528;37.891
+49.223;38.261
+47.088;34.818
+47.316;27.989

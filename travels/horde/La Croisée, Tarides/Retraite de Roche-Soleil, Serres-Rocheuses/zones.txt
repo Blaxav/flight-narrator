@@ -1,0 +1,7 @@
+0;7;Les Tarides;Est;
+0;32;Les Tarides;La Croisée;
+0;70;Les Tarides;Nord;
+0;73;Les Tarides;Général;
+7;70;Les Tarides;Ouest;
+73;150;Serres-Rocheuses;Général;
+119;150;Serres-Rocheuses;Retraite de Roche-Soleil;

@@ -1,9 +1,0 @@
-Les fermes d'Elwynn
-===================
-
-Autour de Comté-de-l'Or s'étendent les fermes d'Elwynn, des champs cultivés et des vergers qui nourrissent tout le royaume. Les fermiers y travaillent de l'aube au crépuscule, guidant leurs charrues et veillant sur leurs bêtes. La terre y est généreuse, et les récoltes y sont abondantes, mais la menace n'est jamais loin : les gnolls et les bandits s'en prennent aux granges et aux troupeaux. Les fermiers comptent sur la milice et sur les aventuriers pour protéger leurs biens. Ces fermes sont le grenier de Hurlevent, la preuve qu'un royaume se bâtit d'abord sur le pain. Tant que les champs d'Elwynn produiront, la capitale tiendra, et ses armées ne manqueront jamais de rien.
-
----
-
-Durée estimée : ~50 s en narration.
-Clé (lore library) : fermes

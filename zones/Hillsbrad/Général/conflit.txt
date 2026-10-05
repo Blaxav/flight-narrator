@@ -1,0 +1,9 @@
+La frontière des factions
+=========================
+
+Hillsbrad est l'une des frontières les plus disputées entre l'Alliance et la Horde. D'un côté, Southshore, port des humains de l'Alliance ; de l'autre, Moulin-de-Tarren, bastion des Réprouvés. Entre les deux, les patrouilles se croisent, les raids se répondent, et les fermiers paient le prix fort. Chaque colline peut cacher une embuscade, chaque route un convoi attaqué. Cette guerre de voisinage est d'autant plus cruelle qu'elle oppose des peuples qui partageaient autrefois les mêmes terres. Hillsbrad est devenue un échiquier où chaque camp avance ses pions, et où les civils, eux, ne savent plus sous quelle bannière s'abriter. Les habitants, eux, apprennent à reconnaître les bannières avant de saluer, et à se taire quand la nuit tombe.
+
+---
+
+Durée estimée : ~50 s en narration.
+Clé (lore library) : conflit

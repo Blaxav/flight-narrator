@@ -1,0 +1,7 @@
+0;27;Loch Modan;Général;
+0;42;Loch Modan;Thelsamar;
+28;122;Dun Morogh;Général;
+78;102;Dun Morogh;Ironforge;
+82;130;Dun Morogh;Kharanos;
+112;153;Les Paluns;Port de Menethil;
+119;153;Les Paluns;Général;
