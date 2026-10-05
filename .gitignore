@@ -14,3 +14,6 @@ voice/audition/
 # Python bytecode and generator logs.
 __pycache__/
 *.log
+
+# Built release archives (produced by tools/build_release.py).
+dist/
