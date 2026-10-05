@@ -132,15 +132,27 @@ local function CandidatesFor(slot, zones, audio)
 	return candidates
 end
 
+-- Picks one clip per slot, never twice the same file in a single flight: a slot
+-- draws at random among the candidates it can reach that have not been played
+-- yet, and stays empty once every reachable clip has already been used.
 local function BuildSchedule(duration, zones, audio)
 	local slots = ComputeSlots(duration)
 	local schedule = {}
+	local played = {}
 	for _, slot in ipairs(slots) do
 		local candidates = CandidatesFor(slot, zones, audio)
-		if #candidates > 0 then
+		local fresh = {}
+		for _, file in ipairs(candidates) do
+			if not played[file] then
+				fresh[#fresh + 1] = file
+			end
+		end
+		if #fresh > 0 then
+			local file = fresh[random(#fresh)]
+			played[file] = true
 			schedule[#schedule + 1] = {
 				start = slot.start,
-				file = candidates[random(#candidates)],
+				file = file,
 			}
 		end
 	end

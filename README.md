@@ -4,7 +4,7 @@
 
 > ⚠️ **Pour WoW Classic uniquement** (Classic Era) — et **pour l'instant en français seulement**. Toutes les narrations sont écrites et jouées en français.
 
-Tu cliques le maître de vol, tu décolles… et la voix s'installe. La durée du vol est découpée en tranches d'environ 55 secondes ; à chaque tranche, un clip tiré au hasard parmi les zones que tu survoles pendant cet intervalle se lance. Deux vols sur la même route ne racontent jamais la même chose.
+Tu cliques le maître de vol, tu décolles… et la voix s'installe. La durée du vol est découpée en tranches d'environ 55 secondes ; à chaque tranche, un clip tiré au hasard parmi les zones que tu survoles pendant cet intervalle se lance — sans jamais rejouer le même clip deux fois durant le vol. Deux vols sur la même route ne racontent jamais la même chose.
 
 - 🎙️ **580+ clips** narrés par une voix de conteur française
 - 🗺️ **40 régions** de Kalimdor et des Royaumes de l'Est
@@ -136,7 +136,7 @@ Comme WoW ne peut ni lister de fichiers ni lire des `.txt` à l'exécution, **to
 
 Détails d'exécution notables :
 
-- La durée est découpée en `floor(durée / 55)` tranches égales ; chaque tranche tire un clip au hasard parmi toutes les zones qui la chevauchent.
+- La durée est découpée en `floor(durée / 55)` tranches égales ; chaque tranche tire un clip au hasard parmi toutes les zones qui la chevauchent, **sans jamais rejouer deux fois le même clip** au cours d'un vol (une tranche reste vide si tous les clips qu'elle peut atteindre ont déjà été joués).
 - La détection du vol **interroge `UnitOnTaxi`** en boucle (aucun événement Classic Era ne se déclenche au décollage) ; `TakeTaxiNode` est hooké pour capter la destination, et les noms de nœuds sont mis en cache à l'ouverture de la carte de taxi.
 - Un jeton invalide les timers en attente dès que le vol se termine ou qu'un nouveau planning remplace l'ancien.
 
