@@ -7,8 +7,8 @@ against the one shipped example route:
     travels/horde/Thunder Bluff, Mulgore/Orgrimmar, Durotar/
 
 Expected, from the spec:
-- slot maths: 224 s -> 4 slots of 56 s (standalone check of the spec example).
-- duration 207 -> 3 equal slots of 69 s: [0,69), [69,138), [138,207).
+- slot maths: 224 s -> 2 slots of 112 s (standalone check of the spec example).
+- duration 207 -> 2 equal slots of 103.5 s: [0,103.5), [103.5,207).
 - the generated timeline covers Mulgore -> Les Tarides -> Durotar.
 - every slot of that route has at least one shipped clip to choose from.
 """
@@ -21,7 +21,7 @@ sys.path.insert(0, HERE)
 
 import generate_travel_data as gend
 
-CLIP_SECONDS = 55
+CLIP_SECONDS = 75
 
 
 def compute_slots(duration):
@@ -65,8 +65,8 @@ def main():
     audio = gend.collect_audio()
     travels, _ = gend.collect_travels()
 
-    # Standalone spec check: 224 s -> 4 slots of 56 s.
-    assert compute_slots(224) == [(0, 56), (56, 112), (112, 168), (168, 224)]
+    # Standalone spec check: 224 s -> 2 slots of 112 s.
+    assert compute_slots(224) == [(0, 112), (112, 224)]
 
     route = travels["horde"]["Thunder Bluff, Mulgore"]["Orgrimmar, Durotar"]
     duration = route["duration"]
@@ -74,7 +74,7 @@ def main():
     assert duration == 207, duration
 
     slots = compute_slots(duration)
-    assert slots == [(0, 69), (69, 138), (138, 207)], slots
+    assert slots == [(0, 103.5), (103.5, 207)], slots
 
     regions = [z["region"] for z in zones]
     assert regions[0] == "Mulgore", regions

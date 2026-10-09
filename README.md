@@ -4,7 +4,7 @@
 
 > ⚠️ **Pour WoW Classic uniquement** (Classic Era) — et **pour l'instant en français seulement**. Toutes les narrations sont écrites et jouées en français.
 
-Tu cliques le maître de vol, tu décolles… et la voix s'installe. La durée du vol est découpée en tranches d'environ 55 secondes ; à chaque tranche, un clip tiré au hasard parmi les zones que tu survoles pendant cet intervalle se lance — sans jamais rejouer le même clip deux fois durant le vol. Deux vols sur la même route ne racontent jamais la même chose.
+Tu cliques le maître de vol, tu décolles… et, quelques secondes plus tard, la voix s'installe. La durée du vol est découpée en tranches d'environ 75 secondes ; à chaque tranche, un clip tiré au hasard parmi les zones que tu survoles pendant cet intervalle se lance — sans jamais rejouer le même clip deux fois durant le vol, ni un clip entendu dans les cinq dernières minutes. Deux vols sur la même route ne racontent jamais la même chose, et un aller-retour non plus.
 
 - 🎙️ **580+ clips** narrés par une voix de conteur française
 - 🗺️ **40 régions** de Kalimdor et des Royaumes de l'Est
@@ -136,7 +136,8 @@ Comme WoW ne peut ni lister de fichiers ni lire des `.txt` à l'exécution, **to
 
 Détails d'exécution notables :
 
-- La durée est découpée en `floor(durée / 55)` tranches égales ; chaque tranche tire un clip au hasard parmi toutes les zones qui la chevauchent, **sans jamais rejouer deux fois le même clip** au cours d'un vol (une tranche reste vide si tous les clips qu'elle peut atteindre ont déjà été joués).
+- La voix démarre **3 secondes après le décollage**, le temps que le griffon s'arrache, puis la durée est découpée en `floor(durée / 75)` tranches égales ; chaque tranche tire un clip au hasard parmi toutes les zones qui la chevauchent, **sans jamais rejouer deux fois le même clip** au cours d'un vol (une tranche reste vide si tous les clips qu'elle peut atteindre ont déjà été joués).
+- Un clip déjà entendu **moins de 5 minutes** plus tôt n'est pas reproposé, même sur un autre vol : enchaîner un aller-retour ne rejoue pas les mêmes narrations. Cette mémoire ne dure que le temps de la session (elle se réinitialise au `/reload`).
 - La détection du vol **interroge `UnitOnTaxi`** en boucle (aucun événement Classic Era ne se déclenche au décollage) ; `TakeTaxiNode` est hooké pour capter la destination, et les noms de nœuds sont mis en cache à l'ouverture de la carte de taxi.
 - Un jeton invalide les timers en attente dès que le vol se termine ou qu'un nouveau planning remplace l'ancien.
 

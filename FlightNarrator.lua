@@ -2,7 +2,7 @@
 --
 -- WoW Classic addon: when a flight (taxi) launches, narrates the journey by
 -- playing the zone clips that match the route. The route duration is cut into
--- ~55 s slots; each slot draws one random clip from the zones overflown during
+-- ~75 s slots; each slot draws one random clip from the zones overflown during
 -- that slot, and every clip starts at the beginning of its own slot.
 --
 -- The clips travel with the addon as ordinary sound files and are played with
@@ -30,15 +30,28 @@ local DEBUG = true
 
 -- Nominal length of one narration clip. The route duration is cut into
 -- floor(duration / CLIP_SECONDS) equal slots (at least one), so a 224 s flight
--- becomes four 56 s slots, each with its own clip and a little silence before
+-- becomes two 112 s slots, each with its own clip and a little silence before
 -- the next one starts.
-local CLIP_SECONDS = 55
+local CLIP_SECONDS = 75
+
+-- Silence before the narration of a flight: the griffon is still lifting and the
+-- loading screen may still be fading, so the voice waits a few seconds after
+-- take-off. Every clip of the schedule is pushed back by this much.
+local START_DELAY_SECONDS = 3
+
+-- A clip heard less than this long ago is not offered again, even on another
+-- flight: flying somewhere and straight back does not repeat the same narration.
+-- The memory lasts for the session only (it resets on /reload).
+local REPLAY_COOLDOWN_SECONDS = 5 * 60
 
 local TAKEOFF_WATCH_SECONDS = 20
 local TAKEOFF_POLL_SECONDS = 0.5
 
 local flightAnnounced = false
 local watchUntil = 0
+
+-- When each clip last started, for the replay cooldown above (file -> GetTime).
+local lastPlayed = {}
 
 -- A flat list of every shipped clip, for the fallback when a route has no zone
 -- timeline yet.
@@ -57,6 +70,13 @@ local function Print(message)
 	DEFAULT_CHAT_FRAME:AddMessage("|cff33ff99Flight Narrator:|r " .. message)
 end
 
+-- True while a clip is still on cooldown, i.e. played less than
+-- REPLAY_COOLDOWN_SECONDS ago on a previous flight.
+local function RecentlyPlayed(file)
+	local at = lastPlayed[file]
+	return at ~= nil and (GetTime() - at) < REPLAY_COOLDOWN_SECONDS
+end
+
 local function OnFlightNow()
 	if UnitOnTaxi then
 		local ok, onTaxi = pcall(UnitOnTaxi, "player")
@@ -71,18 +91,40 @@ local function PlayFile(file)
 	local path = CLIP_BASE .. file
 	local ok, willPlay = pcall(PlaySoundFile, path, CLIP_CHANNEL)
 	if ok and willPlay then
+		lastPlayed[file] = GetTime()
 		Print("playing " .. file)
 	else
 		Print("could not play " .. path)
 	end
 end
 
+-- Fallback when a route has no zone timeline: one clip drawn from the whole
+-- library, skipping the ones still on cooldown, a few seconds after take-off.
 local function PlayRandomClip()
 	if #ALL_AUDIO == 0 then
 		Print("no clips shipped")
 		return
 	end
-	PlayFile(ALL_AUDIO[random(#ALL_AUDIO)])
+	local fresh = {}
+	for _, file in ipairs(ALL_AUDIO) do
+		if not RecentlyPlayed(file) then
+			fresh[#fresh + 1] = file
+		end
+	end
+	if #fresh == 0 then
+		Print("every clip is on cooldown")
+		return
+	end
+	local file = fresh[random(#fresh)]
+	if C_Timer and C_Timer.After then
+		C_Timer.After(START_DELAY_SECONDS, function()
+			if OnFlightNow() then
+				PlayFile(file)
+			end
+		end)
+	else
+		PlayFile(file)
+	end
 end
 
 -- ---------------------------------------------------------------------------
@@ -90,7 +132,7 @@ end
 --
 -- A travel is a duration (seconds) plus a list of zone intervals
 -- { start, stop, region, subzone }. The duration is cut into equal slots of
--- ~55 s; a slot that overlaps a zone interval becomes a candidate clip, drawn
+-- ~75 s; a slot that overlaps a zone interval becomes a candidate clip, drawn
 -- at random from the audio folders of every zone overlapping that slot.
 -- ---------------------------------------------------------------------------
 
@@ -132,9 +174,10 @@ local function CandidatesFor(slot, zones, audio)
 	return candidates
 end
 
--- Picks one clip per slot, never twice the same file in a single flight: a slot
--- draws at random among the candidates it can reach that have not been played
--- yet, and stays empty once every reachable clip has already been used.
+-- Picks one clip per slot, never twice the same file in a single flight and
+-- never a clip still on cooldown from an earlier flight: a slot draws at random
+-- among the candidates it can reach that are neither already played on this
+-- flight nor recently played anywhere, and stays empty once none are left.
 local function BuildSchedule(duration, zones, audio)
 	local slots = ComputeSlots(duration)
 	local schedule = {}
@@ -143,7 +186,7 @@ local function BuildSchedule(duration, zones, audio)
 		local candidates = CandidatesFor(slot, zones, audio)
 		local fresh = {}
 		for _, file in ipairs(candidates) do
-			if not played[file] then
+			if not played[file] and not RecentlyPlayed(file) then
 				fresh[#fresh + 1] = file
 			end
 		end
@@ -160,9 +203,11 @@ local function BuildSchedule(duration, zones, audio)
 end
 
 -- ---------------------------------------------------------------------------
--- Playback. Slots are scheduled relative to the flight start: each clip starts
--- at the beginning of its slot. A token invalidates pending timers the moment
--- the flight ends or a new schedule replaces the current one.
+-- Playback. Slots are scheduled relative to the flight start, plus a short
+-- START_DELAY_SECONDS so the narration does not step on the take-off: each clip
+-- starts at the beginning of its slot, pushed back by that delay. A token
+-- invalidates pending timers the moment the flight ends or a new schedule
+-- replaces the current one.
 -- ---------------------------------------------------------------------------
 
 local scheduleToken = 0
@@ -175,7 +220,7 @@ local function PlaySchedule(schedule)
 	StopSchedule()
 	local token = scheduleToken
 	for _, entry in ipairs(schedule) do
-		local delay = entry.start
+		local delay = START_DELAY_SECONDS + entry.start
 		local file = entry.file
 		if C_Timer and C_Timer.After then
 			C_Timer.After(delay, function()

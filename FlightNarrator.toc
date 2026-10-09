@@ -2,7 +2,7 @@
 ## Title: Flight Narrator
 ## Notes: Plays zone narration clips for the flight route.
 ## Author: xavbl
-## Version: 0.4.1
+## Version: 0.5.0
 ## DefaultState: enabled
 
 TravelData.lua
